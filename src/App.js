@@ -1,5 +1,6 @@
 import React from "react"
 import './App.css';
+import Footer from "./Footer";
 
 function App(){
   return(<div><div id="js-preloader" className="js-preloader">
@@ -633,16 +634,8 @@ function App(){
   </div>
 </div>
 
-<footer>
-  <div className="container">
-    <div className="row">
-      <div className="col-lg-12">
-        <p>Copyright © 2022 DigiMedia Co., Ltd. All Rights Reserved. 
-        <br />Design: <a href="https://templatemo.com" target="_parent" title="free css templates">TemplateMo</a></p>
-      </div>
-    </div>
-  </div>
-</footer></div>)
+<Footer/>
+</div>)
 }
 
 export default App;
