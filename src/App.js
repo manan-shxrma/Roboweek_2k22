@@ -45,7 +45,7 @@ function App(){
           </a>
           
           <ul className="nav">
-            <li className="scroll-to-section"><a href="/top" className="active">Home</a></li>
+            <li className="scroll-to-section"><a href="/top" className="active">Robots</a></li>
             <li className="scroll-to-section"><a href="/about">About</a></li>
             <li className="scroll-to-section"><a href="/services">Services</a></li>
             <li className="scroll-to-section"><a href="/portfolio">Projects</a></li>
