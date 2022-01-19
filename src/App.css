@@ -15,9 +15,13 @@
     font-weight: 100; 
 }
 .con-site{
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     font-weight: 100; 
-    line-height: 0.4em;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
 }
 .add-field{
     font-size: 1.4rem;
