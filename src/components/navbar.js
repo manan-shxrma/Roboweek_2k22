@@ -1,7 +1,8 @@
 import React from "react"
 
 function navbar(){
-    return(<><div className="pre-header">
+    return(<>
+    {/* <div className="pre-header">
     <div className="container">
       <div className="row">
         <div className="col-lg-8 col-sm-8 col-7">
@@ -20,9 +21,9 @@ function navbar(){
         </div>
       </div>
     </div>
-  </div>
+  </div> */}
   
-  <header className="header-area header-sticky wow slideInDown" data-wow-duration="0.75s" data-wow-delay="0s">
+  {/* <header className="header-area header-sticky wow slideInDown" data-wow-duration="0.75s" data-wow-delay="0s">
     <div className="container">
       <div className="row">
         <div className="col-12">
@@ -49,7 +50,8 @@ function navbar(){
         </div>
       </div>
     </div>
-  </header></>)
+  </header> */}
+  </>)
 }
 
 export default navbar
