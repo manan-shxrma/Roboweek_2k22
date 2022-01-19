@@ -9,7 +9,7 @@ import Contact from "./Components/contactus"
 import Footer from "./Components/footer1"
 import Navbar from "./Components/navbar"
 import './App.css';
-
+import 'FontAwesomeIcon';
 
 
 
