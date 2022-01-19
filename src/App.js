@@ -6,13 +6,12 @@ import Freequote from "./components/Freequote";
 import Portfolio from "./components/portfolio";
 import Blog from "./components/blog"
 import Contact from "./components/contactus"
-import Footer from "./Components/footer1"
 import Navbar from "./components/navbar"
 import './App.css';
 
 function App(){
   return(<div>
-{/* ======= */}
+
           <Navbar />
           <Topsection />
           <Aboutsection />
@@ -21,7 +20,7 @@ function App(){
           <Portfolio />
           <Blog />  
           <Contact />
-          <Footer />
+         
 
 </div>)
 }
