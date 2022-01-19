@@ -1,3 +1,4 @@
+
 .main-banner {
     color: white;
     background-image: url('../public/assets/images/slider-left-dec.jpg');
@@ -24,6 +25,7 @@
     color: white;
 }
 
+
 .main-nav {
    margin: 0;
    padding: 0;
@@ -42,4 +44,39 @@
 
 .navLink {
   font-weight: 500;
+}
+
+.bg-style{
+    background-color: black;
+    color: white;
+}
+.size-rob{
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+.size-foot-txt{
+    font-size: 2.5rem;
+    font-weight: 500; 
+}
+.con-info{
+    font-size: 1.5rem;
+    font-weight: 100; 
+}
+.con-site{
+    font-size: 1.2rem;
+    font-weight: 100; 
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.add-field{
+    font-size: 1.4rem;
+    font-weight: 100; 
+      
+}
+.add{
+    font-size: 1.4rem;
+    font-weight: 100;
 }
