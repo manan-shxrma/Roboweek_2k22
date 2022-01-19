@@ -1,17 +1,14 @@
 import React from "react"
-import Topsection from "./Components/topsection"
-import Aboutsection from "./Components/aboutsection";
-import Services from "./Components/services"
-import Freequote from "./Components/Freequote";
-import Portfolio from "./Components/portfolio";
-import Blog from "./Components/blog"
-import Contact from "./Components/contactus"
+import Topsection from "./components/topsection"
+import Aboutsection from "./components/aboutsection";
+import Services from "./components/services"
+import Freequote from "./components/Freequote";
+import Portfolio from "./components/portfolio";
+import Blog from "./components/blog"
+import Contact from "./components/contactus"
 import Footer from "./Components/footer1"
-import Navbar from "./Components/navbar"
+import Navbar from "./components/navbar"
 import './App.css';
-import 'FontAwesomeIcon';
-
-
 
 function App(){
   return(<div>
