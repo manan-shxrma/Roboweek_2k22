@@ -6,8 +6,8 @@ function Services(){
       <div className="row">
         <div className="col-lg-12">
           <div className="section-heading  wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.5s">
-            <h6>Our Services</h6>
-            <h4>What Our Agency <em>Provides</em></h4>
+            <h6>Fun Events</h6>
+            <h4>Enjoy with <em>Roboweek</em></h4>
             <div className="line-dec"></div>
           </div>
         </div>
@@ -20,31 +20,19 @@ function Services(){
                     <div className="first-thumb active">
                       <div className="thumb">
                         <span className="icon"><img src="assets/images/service-icon-01.png" alt="" /></span>
-                        Apartments
-                      </div>
-                    </div>
-                    <div>
-                      <div className="thumb">                 
-                        <span className="icon"><img src="assets/images/service-icon-02.png" alt="" /></span>
-                        Food &amp; Life
+                        Blitzar
                       </div>
                     </div>
                     <div>
                       <div className="thumb">                 
                         <span className="icon"><img src="assets/images/service-icon-03.png" alt="" /></span>
-                        Cars
-                      </div>
-                    </div>
-                    <div>
-                      <div className="thumb">                 
-                        <span className="icon"><img src="assets/images/service-icon-04.png" alt="" /></span>
-                        Shopping
+                        Hamemempur
                       </div>
                     </div>
                     <div className="last-thumb">
                       <div className="thumb">                 
                         <span className="icon"><img src="assets/images/service-icon-01.png" alt="" /></span>
-                        Traveling
+                        Techy Chiro
                       </div>
                     </div>
                   </div>
