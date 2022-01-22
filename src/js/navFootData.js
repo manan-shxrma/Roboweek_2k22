@@ -23,23 +23,23 @@ export const navItems = [
 
 export const socialMedia = [
     {
-        socialLink: "https://www.linkedin.com/company/script-winter-of-code",
+        socialLink: "https://www.linkedin.com/company/robosocnith/",
         socialIcon: "fa fa-linkedin",
     },
     {
-        socialLink: "https://twitter.com/SWOC12",
+        socialLink: "https://twitter.com/",
         socialIcon: "fa fa-twitter",
     },
     {
-        socialLink: "https://instagram.com/swoc_2021?igshid=161caask7073c",
+        socialLink: "https://www.instagram.com/robosocnith/",
         socialIcon: "fa fa-instagram",
     },
     {
-        socialLink: "https://www.youtube.com/channel/UC4OVJeHogUQDHws7AKG7dMA",
+        socialLink: "https://www.youtube.com/channel/UCcNk3wOBYsFvdoYoHiyhtng",
         socialIcon: "fa fa-youtube",
     },
     {
-        socialLink: "https://www.facebook.com/scriptfoundationindia",
+        socialLink: "https://www.facebook.com/robo.soc.nith/",
         socialIcon: "fa fa-facebook",
     },
 

@@ -1,88 +1,65 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:400|Raleway:400);
- /* * {
-	 margin: 0;
-	 padding: 0;
-	 box-sizing: border-box;
-} */
- /* body, html {
-	 color: #2C2C2C;
-	 min-width: 600px;
-	 height: 100%;
-	 background: white;
-	 font: 400 1em 'Lato';
-	 -webkit-font-smoothing: antialiased;
-} */
+@import url('https://fonts.googleapis.com/css?family=Oswald|Roboto:400,700');
+
+
+
 .mainbodyoftimeline{
-	padding-top: 5%;
+	padding-top: 10%;
 }
 
- #timeline {
-	 padding-top: 5%;
+#timeline{
+	padding-top: 5%;
+	padding-bottom: 10%;
+	
 }
- .timeline {
-	 height: 100%;
+.timelineh1 {
+	 font-size: 2rem;
+	 margin-bottom: 0.5em;
+	 color: black;
+	 font-family: 'Oswald', sans-serif;
+}
+.timelinepara {
+	 font-family: 'Roboto', sans-serif;
+	 font-size: 0.8rem;
+}
+ .container2 {
+	 max-width: 1024px;
+	 width: 90%;
+	 margin: 0 auto;
+}
+ .timeline-item1 {
+	 padding: 3em 2em 2em;
 	 position: relative;
+	 color: rgba(0, 0, 0, .7);
+	 border-left: 2px solid rgba(0, 0, 0, .3);
+	 background: rgb(255, 255, 255);
 }
- .timeline canvas {
+ .timeline-item .timelinepara {
+	 font-size: 1rem;
+}
+ /* .timeline-item::before {
+	 content: attr(date-is);
 	 position: absolute;
-	 width: 100%;
-	 height: 100%;
-	 left: 0;
-	 top: 0;
-}
- .timeline figcaption {
-	 font: 900 190% 'Lato';
-	 text-transform: uppercase;
-	 -webkit-text-stroke: .25px;
-}
- .timeline .timelineh2 {
-	 font: 400 400% 'Raleway';
-	 padding-bottom: 100px;
-	 color: #b2cde9;
-}
- .timeline .timelineh6 {
-	 color: #0090F5;
-	 font: 400 80% Tahoma;
-}
- .timeline .timelinepara, .timeline ol {
-	 font: 400 95% 'Raleway';
-	 padding: 3px 0 20px 0;
-	 color: #575757;
-	 text-align: justify;
-	 width: 70%;
-}
- .timeline ol {
-	 list-style: disc;
-	 margin-top: -20px;
-	 padding-left: 40px;
-}
- .timeline figure {
-	 float: right;
-	 width: 100%;
-}
- .timeline article {
-	 position: relative;
-	 width: 38%;
-	 overflow: hidden;
-	 margin-bottom: 100px;
-}
- .timeline article:first-of-type {
-	 float: left;
-	 text-align: right;
-}
- .timeline article:first-of-type .timelinepara, .timeline article:first-of-type figure {
-	 float: right;
-}
- .timeline article:last-of-type {
-	 float: right;
-}
- .timeline article:last-of-type .timelineh2 {
-	 color: #c6e0aa;
-}
- .timeline article:last-of-type .timelineh6, .timeline article:last-of-type a {
-	 color: #40aa00;
-}
- .timeline article:last-of-type a:hover {
-	 color: #95D40D;
+	 left: 2em;
+	 font-weight: bold;
+	 top: 1em;
+	 display: block;
+	 font-family: 'Roboto', sans-serif;
+	 font-weight: 700;
+	 font-size: 0.785rem;
+} */
+ /* .timeline-item::after {
+	 width: 10px;
+	 height: 10px;
+	 display: block;
+	 top: 1em;
+	 position: absolute;
+	 left: -7px;
+	 border-radius: 10px;
+	 content: '';
+	 border: 2px solid rgba(0, 0, 0, .3);
+	 background: white;
+} */
+ .timeline-item:last-child {
+	 border-image: linear-gradient(to bottom, rgba(0, 0, 0, .3) 60%, rgba(0, 0, 0, 0)) 1 100%;
 }
  
