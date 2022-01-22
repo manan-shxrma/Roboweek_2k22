@@ -20,7 +20,7 @@
   position: fixed;
   background: unset;
   width: 100%;
-  padding: 30px 8% 0;
+  padding: 20px 8% 0;
   z-index: 1000;
   transition: 0.4s;
   top: 0;
@@ -28,7 +28,7 @@
 
 .win-resize {
   background: var(--winter-w2);
-  position: relative;
+  position: fixed;
 }
 
 .nav-scrolled {
@@ -170,6 +170,7 @@ nav {
 .hamburger-icon {
   color: #fff;
   font-size: 1.8rem;
+  
 }
 
 /* footer */

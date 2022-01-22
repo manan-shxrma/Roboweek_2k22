@@ -50,14 +50,16 @@ class Outline extends React.Component {
                     {/* <div className="nav-logo">
                         <a href="./index.html" className="scrollto"><img src="./img/logo-2.png"></a>
                     </div> */}
-                    <nav id="nav__nav" style={{ "padding-right": "1.8rem" }}>
+                    <nav id="nav__nav" >
                         {this.state.width <= 1100 ?
-                        <>
-                        <button className="navbar-toggler toggler-example" type="button" data-toggle="collapse"
+                        <><div className="navbar-brand" style={{float:"left", width:"28%",position:"fixed",top:"1.5%"}}>
+                        <a href="./index.html" className="scrollto"><img alt="" src="assets/images/logo-2.png" /></a>
+                    </div>
+                        <button style={{float:"right",marginTop:"3%"}} className="navbar-toggler toggler-example" type="button" data-toggle="collapse"
                          data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation">
                             <span className="hamburger-icon"><i className="fa fa-bars" aria-hidden="true"></i></span>
                         </button>
-                        <div className="collapse navbar-collapse" id="navbarSupportedContent1">
+                        <div style={{paddingTop:"20%"}} className="collapse navbar-collapse" id="navbarSupportedContent1">
                             <ul className="navbar-nav mr-auto">
                                 {navItems.map((item, index) => {
                                 return (
