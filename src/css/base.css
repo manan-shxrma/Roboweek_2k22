@@ -69,5 +69,30 @@
 
  
 
-  /* faq */
-  
+ .MainSecFont{
+  color:white !important;
+  font-size:600% !important;
+ }
+.headingTextTop{
+  margin-right:0px;
+  font-size:150%;
+  font-family:"poppins";
+  color: white !important;
+}
+
+ @media (max-width: 768px) {
+  .MainSecFont{
+    color:white !important;
+    font-size:300% !important;
+   }
+   .headingTextTop{
+    margin-right:0px !important;
+    font-size:100% !important;
+    font-family:"poppins";
+    color: white !important;
+  }
+  .headingText{
+    width: -webkit-fill-available;
+    font-family: poppins;
+  }
+}

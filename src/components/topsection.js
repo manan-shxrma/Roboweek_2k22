@@ -30,13 +30,13 @@ return(<>
         <div data-aos="zoom-out-right" className="left-content show-up header-text">
           <div data-aos="zoom-out-right" className="" style={{textAlign:"center"}}>
             <div className="" style={{ color: '#fff', zIndex:'500' }}>
-              <h2 className="headingText" style={{color:"white"}}>Roboweek 2k22</h2>
-              <p className="headingText" style={{marginRight:"0px"}}>Why restrict yourself only to projects,<br /> when there is so much more to learn <br /> and enjoy simultaneously!</p>
+              <h2 className="MainSecFont" >Roboweek 2.0</h2>
+              <p className="headingTextTop">Why restrict yourself only to projects,<br /> when there is so much more to learn <br /> and enjoy simultaneously!</p>
             </div>
             <div >
               <div className="border-first-button scroll-to-section">
-                <a className="headingText" style={{color:"white" , zIndex:'500'}} href="/contact">Register</a>
-                <a  className="headingText" style={{marginLeft:"2%", color: 'white' , zIndex:'500'}} href="/contact">Discord</a>
+                <a className="headingText" style={{color:"white" , zIndex:'500',fontSize:"x-large"}} href="https://dare2compete.com/festival/roboweek-national-institute-of-technology-nit-hamirpur-10200"><i class="fas fa-award"></i> REGISTER</a>
+                <a  className="headingText" style={{marginLeft:"2%", color: 'white' , zIndex:'500',fontSize:"x-large"}} href="https://discord.gg/vHz3tyjyke"><i className="fab fa-discord"></i> DISCORD</a>
               </div>
             </div>
           </div>

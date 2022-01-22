@@ -53,7 +53,7 @@ class Outline extends React.Component {
                     <nav id="nav__nav" >
                         {this.state.width <= 1100 ?
                         <><div className="navbar-brand" style={{float:"left", width:"28%",position:"fixed",top:"1.5%"}}>
-                        <a href="./index.html" className="scrollto"><img alt="" src="assets/images/logo-2.png" /></a>
+                        <a href="./index.html" ><img alt="" src="assets/images/logo-2.png" /></a>
                     </div>
                         <button style={{float:"right",marginTop:"3%"}} className="navbar-toggler toggler-example" type="button" data-toggle="collapse"
                          data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation">
@@ -127,8 +127,7 @@ class Outline extends React.Component {
                                         </div>
                                         <div className="footer-copyright-info">
                                             <div className="footer-copyright-right">
-                                            Copyright © 2022 Robotics Society, NIT Hamirpur. All
-                                            rights reserved.
+                                            Copyright © 2022 Robotics Society, NIT Hamirpur.
                                             </div>
                                         </div>
                                     </div>

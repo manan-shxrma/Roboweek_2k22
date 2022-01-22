@@ -140,10 +140,11 @@ img {
 global styles
 --------------------------------------------- 
 */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&family=Roboto:wght@400;900&display=swap');
 html,
 body {
   background: #fff;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'poppins';
 }
 
 ::selection {
@@ -215,9 +216,11 @@ body {
   border: 1px solid  white !important;
   border-bottom-left-radius: 25px;
   border-top-right-radius: 25px;
+  
   font-weight: 500 !important;
   letter-spacing: 0.3px !important;
   transition: all .5s;
+  margin-top: 3%;
 }
 
 .border-first-button a:hover {
