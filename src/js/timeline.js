@@ -1,6 +1,6 @@
 import $ from "jquery"
 
-function Timeline(cvs) {
+export function Timeline(cvs) {
 
     var self = this,
         paused = true,
@@ -40,7 +40,7 @@ function Timeline(cvs) {
 
             self.lines[0].dots.push([$(this).outerWidth() + 20, y + 20]);
 
-            y += $(this).outerHeight();
+            y += $(this).outerHeight(); 
         });
 
         self.lines[1].dots = [];
@@ -141,7 +141,7 @@ function Timeline(cvs) {
                 this.y += Math.cos(alpha) * d + (this.base.y - this.y) * options.speed;
                 this.x += Math.sin(alpha) * d + (this.base.x - this.x) * options.speed;
             }
-        }
+        } 
     }
 
     function drawCircle(p, r, color) {
@@ -183,8 +183,7 @@ function Timeline(cvs) {
             ctx.stroke();
             ctx.closePath();
 
-            var dot2
-            // Dots
+            let dot2   
             ctx.lineWidth = 1.2;
             ctx.strokeStyle = self.dotColors[i][2];
             for ( j = 0; j < self.lines[i].dots.length; j++) {
@@ -221,7 +220,7 @@ function Timeline(cvs) {
         if (!self.isOK) return false;
 
         if (run === undefined)
-            self.toggle(!paused);
+            self.toggle(!paused); 
 
         else if (!!run && paused) {
             paused = false;
@@ -236,5 +235,6 @@ function Timeline(cvs) {
 
 
     self.isOK = init();
+    
 }
 new Timeline($('#cvs3').get(0)).toggle(true);
