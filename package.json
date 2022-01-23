@@ -59,5 +59,6 @@
     "url": "https://github.com/manan-shxrma/Roboweek_2k22/issues"
   },
   "homepage": "http://.",
-  "keywords": []
+  "keywords": [],
+  "devDependencies": {}
 }
