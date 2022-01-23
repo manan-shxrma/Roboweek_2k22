@@ -76,7 +76,7 @@
 .headingTextTop{
   margin-right:0px;
   font-size:150%;
-  font-family:"poppins";
+  font-family: "'Ubuntu Mono', monospace";
   color: white !important;
 }
 
@@ -88,7 +88,7 @@
    .headingTextTop{
     margin-right:0px !important;
     font-size:100% !important;
-    font-family:"poppins";
+    font-family:"'Ubuntu Mono', monospace";
     color: white !important;
   }
   .headingText{
