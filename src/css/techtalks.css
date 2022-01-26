@@ -269,4 +269,16 @@
 		 background-image: linear-gradient(80deg, rgba(189, 187, 73, 0.1), transparent 50%);
 	}
 }
- 
+@media (max-width:1300px) {
+    .container{
+      padding: 3vh 7vw;
+    }
+  }
+@media (max-width:1300px) {
+    .container .light{
+      padding: 0;
+	  margin-left: 0;
+	  margin-right: 0;
+	  
+    }
+  }
