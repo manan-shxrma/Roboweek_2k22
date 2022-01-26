@@ -16,7 +16,7 @@ function Services() {
           </h4>
           <div className="line-dec"></div>
         </div>
-        <div style={{ paddingTop: "10%" }} className="container">
+        <div style={{ paddingTop: "20%" }} className="container">
           <section className="light">
             <div className="container py-2">
               <article className="postcard light blue">

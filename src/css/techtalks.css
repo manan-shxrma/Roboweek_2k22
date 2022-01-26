@@ -3,9 +3,10 @@
  .dark {
 	 background: #110f16;
 }
- .light {
+ /* .light {
 	 background: #f3f5f7;
-}
+	
+} */
  a, a:hover {
 	 text-decoration: none;
 	 transition: color 0.3s ease-in-out;

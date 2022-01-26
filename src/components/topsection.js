@@ -16,6 +16,16 @@ function Topsection(){
 
 
 return(<>
+  <div class="loader">
+  <div class="loader__bar"></div>
+  <div class="loader__bar"></div>
+  <div class="loader__bar"></div>
+  <div class="loader__bar"></div>
+  <div class="loader__bar"></div>
+  <div class="loader__ball"></div>
+</div>
+
+
   <div id="home" className="main-banner">
 
     <Sparkle style={{ color: '#fff', zIndex:'300' }} color={'#FFF'} count={50} minSize={5}  maxSize={8}
@@ -70,3 +80,7 @@ return(<>
 }
 
 export default Topsection
+var loader =document.getElementById("loader");
+window.addEventListener("load",function(){
+    loader.style.display="none";
+})
