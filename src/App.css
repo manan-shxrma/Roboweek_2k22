@@ -27,10 +27,20 @@
 
 
 .main-nav {
-   margin: 0;
-   padding: 0;
+   margin-top: 0 ;
+   margin-left: 10vw;
+  margin-right: 10vw;
+   padding-left: 0;
+  
 }
-
+@media (max-width:1100px){
+    .main-nav {
+        margin: 0 ;
+      
+        padding-left: 0;
+       
+     }  
+  }
 .navBar-top {
     color: white;
     position: fixed;

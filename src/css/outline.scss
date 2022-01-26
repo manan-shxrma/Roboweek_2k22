@@ -19,11 +19,23 @@
   display: flex;
   position: fixed;
   background: unset;
-  width: 100%;
-  padding: 3% 6% 10% 12%;
+  width: 80%;
+  padding: 3% 0% 10% 5%;
   z-index: 1000;
   transition: 0.4s;
   top: 0;
+}
+@media (max-width:1100px){
+  .main-nav {
+    display: flex;
+    position: fixed;
+    background: unset;
+    width: 100%;
+    padding: 3% 5% 10% 10%;
+    z-index: 1000;
+    transition: 0.4s;
+    top: 0;
+  }
 }
 
 .win-resize {
@@ -37,8 +49,18 @@
   padding-bottom: 10px;
   transition: 0.4s;
   box-shadow: 0px 2px 15px 0px rgba(118, 103, 103, 0.25);
+  border-radius: 80px;
 }
-
+@media (max-width:1100px){
+  .nav-scrolled {
+    background: var(--winter-w2) !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    transition: 0.4s;
+    box-shadow: 0px 2px 15px 0px rgba(118, 103, 103, 0.25);
+    border-radius: 0px;
+  }
+}
 .nav-logo {
   float: left;
   padding:  0;
@@ -243,7 +265,7 @@ nav {
     }
     .f-logo {
       display: flex;
-      width: 40%;
+      width: 20%;
       a {
         width: 100%;
         margin-top: auto;
@@ -251,7 +273,36 @@ nav {
     }
   }
 }
-
+@media (max-width:850px){
+  .footer-mid {
+    margin: 0 auto;
+    max-width: 960px;
+    padding: 10px 15px 90px;
+    width: 100%;
+  
+    .f-content {
+      // font-family: "Poppins", sans-serif;
+      background: var(--winter-w2);
+      color: #fff;
+      display: flex;
+      justify-content: space-between;
+  
+      .f-contact {
+        width: 50%;
+        flex-direction: column;
+        display: flex;
+      }
+      .f-logo {
+        display: flex;
+        width: 35%;
+        a {
+          width: 100%;
+          margin-top: auto;
+        }
+      }
+    }
+  }
+}
 .f-nav {
   display: flex;
   ul {
@@ -278,7 +329,35 @@ nav {
     margin-left: 100px;
   }
 }
-
+@media (max-width:430px){
+  .f-nav {
+    display: flex;
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: block;
+  
+      li {
+        text-decoration: none;
+        text-transform: uppercase;
+        font-weight: 400;
+        letter-spacing: .010em;
+        line-height: 1.6em;
+        margin-top: 15px;
+  
+        a {
+          font-size: 16px;
+          color: var(--winter-w4);
+        }
+      }
+    }
+    ul.f-nav-ul {
+      margin-left: 160px;
+     
+    }
+  }
+}
 .footer-copyright-info {
   padding: 10px 75px 0 0;
   margin-top: auto;
