@@ -18,8 +18,8 @@ function Services() {
         </div>
         <div style={{ paddingTop: "20%" }} className="container">
           <section className="light">
-            <div className="container py-2">
-              <article className="postcard light blue">
+            <div className="container py-2" >
+              <article className="postcard light blue" style={{ paddingTop: "5%"}}>
                 <a className="postcard__img_link" href="#empty">
                   <img
                     className="postcard__img"
