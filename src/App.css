@@ -1,12 +1,4 @@
-.App{
-    text-align: center;
-    background-color: #081b24;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    height: 100vh;
-}
+
 .main-banner {
     color: white;
     background-image: url('../public/assets/images/slider-left-dec.jpg');
