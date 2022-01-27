@@ -1,6 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Rubik+Beastly&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
+
 .header {
     position:relative;
     text-align:center;
@@ -67,100 +65,51 @@
 
  
 
- /* .MainSecFont{
+ .MainSecFont{
   color:white !important;
   font-size:600% !important;
- } */
+ }
  
- h1 {
-  background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/209981/6963bbf342d87b3a2150bd8f59682b89.jpg);
-  -webkit-background-clip: text;
-  background-clip: text;
-  background-size: contain;
-  width: 100%;
-  /* text-align: center; */
-  color: transparent;
-  font-weight: 900;
-  font-size:600% !important;
-}
-h1::before {
-  content: attr(data-heading);
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  background: linear-gradient(45deg, rgba(255, 255, 255, 0) 45%, rgba(255, 255, 255, 0.8) 50%, rgba(255, 255, 255, 0) 55%, rgba(255, 255, 255, 0) 100%);
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;
-  mix-blend-mode: screen;
-  animation: shine 1s infinite;
-  background-size: 200%;
-  text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2), -2px 2px 10px rgba(0, 0, 0, 0.815), -2px -2px 10px rgba(0, 0, 0, 0.61);
-}
-@keyframes shine {
-  /* Not needed for demo */
-  0% {
-    background-position: -100%;
-  }
-  100% {
-    background-position: 100%;
-  }
-}
-@font-face {
-  font-family: 'frozen';
-  src: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/209981/Ice%20kingdom%20-%20Bold%20-%20Por%20Kustren.woff');
-}
-h1 {
-  top: -30%;
-  left: 49%;
-  transform: translate(-50%, -50%);
-  position: absolute;
-  font-size: 19vw;
-  margin: 0;
-  font-family: 'Mochiy Pop P One', sans-serif;
-  font-weight: 700;
-  padding-bottom:3vh ;
-}
+
 
 .headingTextTop{
   margin-right:0px;
   font-size:150%;
   font-family: "'Ubuntu Mono', monospace";
   color: white !important;
-  padding-top:4vh ;
 }
 @media (max-width:1300px) {
   .section{
     padding: 0 7vw;
   }
 }
-@media (max-width: 830px) {
-  h1{
-    top: -20%;
-    font-size:470% !important;
-  
-   
-   }}
+
  @media (max-width: 768px) {
-  h1{
-    top: -20%;
+  .MainSecFont{
+    color:white !important;
     font-size:300% !important;
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> parent of c321906 (Merge pull request #20 from manan-shxrma/mridul)
   
    
+>>>>>>> parent of c321906 (Merge pull request #20 from manan-shxrma/mridul)
    }
    .headingTextTop{
     margin-right:0px !important;
     font-size:100% !important;
     font-family:"'Ubuntu Mono', monospace";
     color: white !important;
-    
   }
   .headingText{
     /* width: -webkit-fill-available; */
     font-family: poppins;
   }
 }
+<<<<<<< HEAD
+=======
  @media (max-width: 380px) {
   h1{
     top: -15%;
@@ -174,3 +123,4 @@ h1 {
     color: white !important;
   }
 }
+>>>>>>> parent of c321906 (Merge pull request #20 from manan-shxrma/mridul)
