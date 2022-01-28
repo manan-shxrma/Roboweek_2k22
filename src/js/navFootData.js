@@ -27,7 +27,7 @@ export const socialMedia = [
         socialIcon: "fa fa-linkedin",
     },
     {
-        socialLink: "https://twitter.com/NithSociety",
+        socialLink: "https://twitter.com/",
         socialIcon: "fa fa-twitter",
     },
     {
