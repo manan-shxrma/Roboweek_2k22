@@ -45,16 +45,7 @@ return(<>
                 <a className="headingText" style={{color:"white" , zIndex:'500',fontSize:"x-large"}} href="https://dare2compete.com/festival/roboweek-national-institute-of-technology-nit-hamirpur-10200"><i class="fas fa-award"></i> REGISTER</a>
                 <a  className="headingText" style={{marginLeft:"2%", color: 'white' , zIndex:'500',fontSize:"x-large"}} href="https://discord.gg/vHz3tyjyke"><i className="fab fa-discord"></i> DISCORD</a>
               </div> */}
-              <a href="/#about">
-              <div className="scrolldownbut1">
-              <div class='scrolldownbut' style={{"--color": "#fff"}}>
-                          <div class="chevrons">
-                            <div class='chevrondown'></div>
-                            <div class='chevrondown'></div>
-                          </div>
-                        </div>
-                            </div>
-                  </a>
+              
 
             
           </div>
