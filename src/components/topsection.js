@@ -4,7 +4,7 @@ import Sparkle from 'react-sparkle'
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import "../css/base.css"
-
+import "../js/topsection.js"
 
 
 function Topsection(){
@@ -21,7 +21,7 @@ return(<>
     <Sparkle style={{ color: '#fff', zIndex:'300' }} color={'#FFF'} count={50} minSize={5}  maxSize={8}
              overflowPx={20} fadeOutSpeed={50} newSparkleOnFadeOut={true}
              flicker={true}  flickerSpeed={'normal'}/>
-    <Snowfall color="white" style={{ color: '#fff', zIndex:'200' }} snowflakeCount={150} />
+    {/* <Snowfall color="white" style={{ color: '#fff', zIndex:'200' }} snowflakeCount={150} /> */}
 
   <div className="backshadow"></div>
   <div>
@@ -31,16 +31,32 @@ return(<>
           <div data-aos="zoom-out-right" className="" style={{textAlign:"center"}}>
             <div className="" style={{ color: '#fff', zIndex:'500' }}>
 
-              <h2 className="MainSecFont" >Roboweek 2.0</h2>
-
-              <p className="headingTextTop">Why restrict yourself only to projects,<br /> when there is so much more to learn <br /> and enjoy simultaneously!</p>
+              {/* <h2 className="MainSecFont" >Roboweek 2.0</h2> */}
+              
+                            <x-sign>
+                            Roboweek 2.0
+                          </x-sign>
+                
+              {/* <p className="headingTextTop">Why restrict yourself only to projects,<br /> when there is so much more to learn <br /> and enjoy simultaneously!</p> */}
+              
             </div>
-            <div >
-              <div className="border-first-button scroll-to-section">
+            
+              {/* <div className="border-first-button scroll-to-section">
                 <a className="headingText" style={{color:"white" , zIndex:'500',fontSize:"x-large"}} href="https://dare2compete.com/festival/roboweek-national-institute-of-technology-nit-hamirpur-10200"><i class="fas fa-award"></i> REGISTER</a>
                 <a  className="headingText" style={{marginLeft:"2%", color: 'white' , zIndex:'500',fontSize:"x-large"}} href="https://discord.gg/vHz3tyjyke"><i className="fab fa-discord"></i> DISCORD</a>
-              </div>
-            </div>
+              </div> */}
+              <a href="/#about">
+              <div className="scrolldownbut1">
+              <div class='scrolldownbut' style={{"--color": "#fff"}}>
+                          <div class="chevrons">
+                            <div class='chevrondown'></div>
+                            <div class='chevrondown'></div>
+                          </div>
+                        </div>
+                            </div>
+                  </a>
+
+            
           </div>
         </div>
       </div>

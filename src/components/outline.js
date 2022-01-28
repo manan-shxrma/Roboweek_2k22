@@ -46,32 +46,43 @@ class Outline extends React.Component {
     render(){
        
         return(<> 
-                    <div className = "main-nav">
-                    <nav id="nav__nav" >
+                   
                     
-                        {this.state.width <= 1100 ?
+                        {this.state.width <= 990 ?
                         <>
+                         <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark" style={{"backgroundColor": "#011B2C"}}>
                         
-                        
-                        
-                        <div id="addNavLogo"></div>
-                                          
-                        <button style={{float:"right",marginTop:"3%"}}  className="navbar-toggler nav-scrolled toggler-example" type="button" data-toggle="collapse"
-                         data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation">
-                            <span className="hamburger-icon"><i className="fa fa-bars" aria-hidden="true"></i></span>
-                        </button>
-                        <div style={{paddingTop:"20%"}} className="collapse navbar-collapse" id="navbarSupportedContent1">
-                            <ul className="navbar-nav mr-auto">
-                                {navItems.map((item, index) => {
-                                return (
-                                    <li key={index} className="nav-item"><a className="nav-link" href={item.url}>{item.title}</a></li>
-                                )
-                                })}  
-                            </ul>
-                        </div>
+                                                    <a class="navbar-brand" href="/#home">
+                                                    <img src="assets/images/logo-2.png" width="30" height="30" alt="" />
+                                                    </a>
+                                                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                                                        <span class="navbar-toggler-icon"></span>
+                                                    </button>
+                                                    <div class="collapse navbar-collapse" id="navbarNav">
+                                                        <ul class="navbar-nav">
+                                                        <li class="nav-item active">
+                                                            <a class="nav-link" href="/#home">Home <span class="sr-only">(current)</span></a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link" href="/#about">About</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link" href="/#services">Services</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link" href="/#timeline">Timeline</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link" href="/#contact">Contact</a>
+                                                        </li>
+                                                        </ul>
+                                                    </div>
+                                                    </nav>
+
                         </>
                         :
-                        <>
+                        <> <div className = "main-nav">
+                    <nav id="nav__nav" >
                         <div id="addNavLogo"></div>
                         <div className="nav-comps">
                             <ul>
@@ -82,10 +93,10 @@ class Outline extends React.Component {
                                 })}
                             </ul>
                         </div>
-                        </>
-                        }
-                    </nav>
-                </div>
+                       </nav>
+                </div>  </>
+                     
+                      }
                     
                     <Topsection />
                     <Aboutsection />
