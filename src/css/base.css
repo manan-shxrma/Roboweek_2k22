@@ -73,12 +73,12 @@
   color:white !important;
   font-size:600% !important;
  }
-.headingTextTop{
+/* .headingTextTop{
   margin-right:0px;
   font-size:150%;
-  font-family: "'Ubuntu Mono', monospace";
+  font-family: "Ubuntu Mono, monospace";
   color: white !important;
-}
+} */
 
  @media (max-width: 768px) {
   .MainSecFont{
