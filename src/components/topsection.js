@@ -30,7 +30,9 @@ return(<>
         <div data-aos="zoom-out-right" className="left-content show-up header-text">
           <div data-aos="zoom-out-right" className="" style={{textAlign:"center"}}>
             <div className="" style={{ color: '#fff', zIndex:'500' }}>
+
               <h2 className="MainSecFont" >Roboweek 2.0</h2>
+
               <p className="headingTextTop">Why restrict yourself only to projects,<br /> when there is so much more to learn <br /> and enjoy simultaneously!</p>
             </div>
             <div >
