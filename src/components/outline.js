@@ -13,6 +13,7 @@ import Funevents from "./funevents"
 import Techtalks from "./techtalks"
 import Faq from "./Faq";
 import '../../src/App.css'
+import $ from "jquery"
 import '../css/outline.scss'
 
 class Outline extends React.Component { 
@@ -46,12 +47,16 @@ class Outline extends React.Component {
        
         return(<> 
                     <div className = "main-nav">
-                    
                     <nav id="nav__nav" >
+                    
                         {this.state.width <= 1100 ?
                         <>
+                        
+                        
+                        
                         <div id="addNavLogo"></div>
-                        <button style={{float:"right",marginTop:"3%"}} className="navbar-toggler toggler-example" type="button" data-toggle="collapse"
+                                          
+                        <button style={{float:"right",marginTop:"3%"}}  className="navbar-toggler nav-scrolled toggler-example" type="button" data-toggle="collapse"
                          data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation">
                             <span className="hamburger-icon"><i className="fa fa-bars" aria-hidden="true"></i></span>
                         </button>
