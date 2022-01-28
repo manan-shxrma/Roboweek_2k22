@@ -16,9 +16,6 @@ function Topsection(){
 
 
 return(<>
-
-
-
   <div id="home" className="main-banner">
 
     <Sparkle style={{ color: '#fff', zIndex:'300' }} color={'#FFF'} count={50} minSize={5}  maxSize={8}
@@ -33,7 +30,9 @@ return(<>
         <div data-aos="zoom-out-right" className="left-content show-up header-text">
           <div data-aos="zoom-out-right" className="" style={{textAlign:"center"}}>
             <div className="" style={{ color: '#fff', zIndex:'500' }}>
-              <h2 className="MainSecFont">Roboweek 2.0</h2>
+
+              <h2 className="MainSecFont" >Roboweek 2.0</h2>
+
               <p className="headingTextTop">Why restrict yourself only to projects,<br /> when there is so much more to learn <br /> and enjoy simultaneously!</p>
             </div>
             <div >
@@ -71,4 +70,5 @@ return(<>
 </>
 )
 }
+
 export default Topsection
