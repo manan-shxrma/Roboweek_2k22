@@ -26,10 +26,11 @@
   top: 0;
 }
 
-.win-resize {
-  background: var(--winter-w2);
-  position: fixed;
-}
+// .win-resize {
+//   background: var(--winter-w2);
+//   position: fixed;
+
+// }
 
 .nav-scrolled {
   background: var(--winter-w2) !important;
@@ -41,14 +42,18 @@
 
 .nav-logo {
   float: left;
-  padding:  0;
+  padding-top:  0.6%;
   transition: 0.4s;
   img {
     width: 100px;
     transition: 0.4s;
   }
 }
-
+@media (max-width: 1100px) {
+  .nav-logo{
+    padding-top:  3%;
+  }
+}
 nav {
   width: 100%;
 }

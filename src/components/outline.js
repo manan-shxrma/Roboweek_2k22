@@ -45,15 +45,12 @@ class Outline extends React.Component {
     render(){
        
         return(<> 
-                    <div className = { this.state.width <= 1100 ? "main-nav win-resize" : "main-nav" }>
-                    {/* <div className="nav-logo">
-                        <a href="./index.html" className="scrollto"><img src="./img/logo-2.png"></a>
-                    </div> */}
+                    <div className = "main-nav">
+                    
                     <nav id="nav__nav" >
                         {this.state.width <= 1100 ?
-                        <><div className="navbar-brand" style={{float:"left", width:"28%",position:"fixed",top:"1.5%"}}>
-                        <a href="./index.html" ><img alt="" src="assets/images/logo-2.png" /></a>
-                    </div>
+                        <>
+                        <div id="addNavLogo"></div>
                         <button style={{float:"right",marginTop:"3%"}} className="navbar-toggler toggler-example" type="button" data-toggle="collapse"
                          data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation">
                             <span className="hamburger-icon"><i className="fa fa-bars" aria-hidden="true"></i></span>
@@ -74,9 +71,9 @@ class Outline extends React.Component {
                         <div className="nav-comps">
                             <ul>
                                 {navItems.map((item, index) => {
-                                    return (
-                                        <li key={index} className={ item.title.toLowerCase() == this.state.page && "nav-active" }><a href={item.url}>{item.title}</a></li>
-                                )
+                                    return (<>
+                                        <li key={index} className={ item.title.toLowerCase() === this.state.page && "nav-active" }><a href={item.url}>{item.title}</a></li>
+                               </> )
                                 })}
                             </ul>
                         </div>
@@ -144,11 +141,11 @@ class Outline extends React.Component {
                                 <div className="col-lg-6 col-md-6 col-sm-12 f-bottom">
                                     <div className="f-bottom-left">
                                         
-                                        <img alt=""  src={"assets/images/robo black.png"} style={{ "width": "162px",paddingRight:"5%"}}></img>
+                                        <img  alt=""  src={"assets/images/logo-2.png"} style={{ "width": "162px",paddingRight:"5%",paddingTop:"7%"}}></img>
                                         {/* <p>Robotics Society</p> */}
                                     </div>
-                                    <div className="f-bottom-right">
-                                        <p >
+                                    <div className="f-bottom-right downpara">
+                                        <p>
                                             Made with ❤️ by humans
                                             {/* <a className="yellow-text underline" href="https://scriptindia.org" rel="noreferrer"  target="_blank"> Robosocnith</a> */}
                                         </p>
