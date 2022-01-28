@@ -2,7 +2,6 @@ import React from "react"
 import Topsection from "./topsection"
 import Aboutsection from "./aboutsection";
 import Freequote from "./Timeline";
-import {BrowserRouter as Router} from "react-router-dom";
 import {navItems,socialMedia,} from '../js/navFootData';
 import Sponsors from "./sponsors";
 import Aos from 'aos';
