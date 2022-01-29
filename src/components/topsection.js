@@ -17,7 +17,7 @@ function Topsection(){
 
 return(<>
   <div id="home" className="main-banner">
-  <video autoplay muted loop id="myVideo">
+  <video  autoplay muted loop id="myVideo">
   <source src={"assets/robo.mp4"} type="video/mp4" />
     </video>
 
