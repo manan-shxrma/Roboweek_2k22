@@ -13,6 +13,13 @@
     width: 100%;
     height: 100vh;
 }
+
+.mainVideoBanner {
+  position: fixed;
+  top:0;
+  object-fit: cover;
+}
+
 .main-elements {
   color: white;
   position: absolute;
