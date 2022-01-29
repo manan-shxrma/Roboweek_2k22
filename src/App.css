@@ -1,11 +1,3 @@
-#myVideo {
-    position: absolute;
-    
-
-    width: 100%; 
-    height: 100vh;
-  }
-
 
 .main-banner {
     color: white;
@@ -15,7 +7,9 @@
 }
 
 .mainVideoBanner {
-  position: fixed;
+  position: absolute;
+  width: 100%; 
+  height: 100vh;
   top:0;
   object-fit: cover;
 }

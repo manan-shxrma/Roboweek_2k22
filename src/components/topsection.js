@@ -17,16 +17,16 @@ function Topsection(){
 
 return(<>
   <div id="home" className="main-banner">
-  <video class="mainVideoBanner" autoplay muted loop id="myVideo">
-  <source src={"assets/robo.mp4"} type="video/mp4" />
+  <video class="mainVideoBanner" autoPlay loop muted>
+  <source src="assets/robo.mp4" type='video/mp4' />
   </video>
 
-    <Sparkle style={{ color: '#fff', zIndex:'300' }} color={'#FFF'} count={50} minSize={5}  maxSize={8}
+    {/* <Sparkle style={{ color: '#fff', zIndex:'300' }} color={'#FFF'} count={50} minSize={5}  maxSize={8}
              overflowPx={20} fadeOutSpeed={50} newSparkleOnFadeOut={true}
-             flicker={true}  flickerSpeed={'normal'}/>
+             flicker={true}  flickerSpeed={'normal'}/> */}
     {/* <Snowfall color="white" style={{ color: '#fff', zIndex:'200' }} snowflakeCount={150} /> */}
 
-  <div className="backshadow"></div>
+  {/* <div className="backshadow"></div> */}
   <div>
     <div className="container main-elements">
       <div className="align-self-center">
