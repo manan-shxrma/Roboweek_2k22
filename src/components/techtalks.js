@@ -10,7 +10,7 @@ function Services() {
           data-wow-duration="1s"
           data-wow-delay="0.3s"
         >
-          <h6>Techtalks</h6>
+          <h6>Workshops</h6>
           <h4>
             Learn with <em>Roboweek</em>{" "}
           </h4>
@@ -18,7 +18,7 @@ function Services() {
         </div>
         <div style={{ paddingTop: "10%" }} className="container">
           <section className="light">
-            <div className="container py-2">
+            
               <article className="postcard light blue">
                 <a className="postcard__img_link" href="#empty">
                   <img
@@ -48,11 +48,10 @@ function Services() {
                     quidem excepturi, illum quos!
                   </div>
                   <ul className="postcard__tagbox">
-                    <li className="tag__item">
-                      <i className="fas fa-tag mr-2"></i>Podcast
-                    </li>
-                    <li className="tag__item">
-                      <i className="fas fa-clock mr-2"></i>55 mins.
+                  <li className="tag__item play blue">
+                      <a href="#empty">
+                        <i className="fas fa-tag mr-2"></i>Register
+                      </a>
                     </li>
                     <li className="tag__item play blue">
                       <a href="#empty">
@@ -91,11 +90,10 @@ function Services() {
                     quidem excepturi, illum quos!
                   </div>
                   <ul className="postcard__tagbox">
-                    <li className="tag__item">
-                      <i className="fas fa-tag mr-2"></i>Podcast
-                    </li>
-                    <li className="tag__item">
-                      <i className="fas fa-clock mr-2"></i>55 mins.
+                  <li className="tag__item play red">
+                      <a href="#empty">
+                        <i className="fas fa-tag mr-2"></i>Register
+                      </a>
                     </li>
                     <li className="tag__item play red">
                       <a href="#empty">
@@ -134,11 +132,10 @@ function Services() {
                     quidem excepturi, illum quos!
                   </div>
                   <ul className="postcard__tagbox">
-                    <li className="tag__item">
-                      <i className="fas fa-tag mr-2"></i>Podcast
-                    </li>
-                    <li className="tag__item">
-                      <i className="fas fa-clock mr-2"></i>55 mins.
+                  <li className="tag__item play green">
+                      <a href="#empty">
+                        <i className="fas fa-tag mr-2"></i>Register
+                      </a>
                     </li>
                     <li className="tag__item play green">
                       <a href="#empty">
@@ -148,50 +145,7 @@ function Services() {
                   </ul>
                 </div>
               </article>
-              <article className="postcard light yellow">
-                <a className="postcard__img_link" href="#empty">
-                  <img
-                    className="postcard__img"
-                    src="https://picsum.photos/501/501"
-                    alt="pic Title"
-                  />
-                </a>
-                <div className="postcard__text t-dark">
-                  <h1 className="postcard__title yellow">
-                    <a href="#empty">Podcast Title</a>
-                  </h1>
-                  {/* <div className="postcard__subtitle small">
-                    <time datetime="2020-05-25 12:00:00">
-                      <i className="fas fa-calendar-alt mr-2"></i>Mon, May 25th
-                      2020
-                    </time>
-                  </div> */}
-                  <div className="postcard__bar"></div>
-                  <div className="postcard__preview-txt">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Eligendi, fugiat asperiores inventore beatae accusamus odit
-                    minima enim, commodi quia, doloribus eius! Ducimus nemo
-                    accusantium maiores velit corrupti tempora reiciendis
-                    molestiae repellat vero. Eveniet ipsam adipisci illo iusto
-                    quibusdam, sunt neque nulla unde ipsum dolores nobis enim
-                    quidem excepturi, illum quos!
-                  </div>
-                  <ul className="postcard__tagbox">
-                    <li className="tag__item">
-                      <i className="fas fa-tag mr-2"></i>Podcast
-                    </li>
-                    <li className="tag__item">
-                      <i className="fas fa-clock mr-2"></i>55 mins.
-                    </li>
-                    <li className="tag__item play yellow">
-                      <a href="#empty">
-                        <i className="fas fa-play mr-2"></i>Play Episode
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-              </article>
-            </div>
+             
           </section>
         </div>
       </div>
