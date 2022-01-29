@@ -1,17 +1,18 @@
 #myVideo {
-    position: relative;
+    position: absolute;
     
+
     width: 100%; 
     height: 100vh;
   }
 
 
-/* .main-banner {
+.main-banner {
     color: white;
     position: relative;
     width: 100%;
     height: 100vh;
-} */
+}
 .main-elements {
   color: white;
   position: absolute;
