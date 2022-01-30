@@ -1,6 +1,6 @@
 import React from "react"
 import "../css/funevents.css"
-
+import {Link} from "react-router-dom"
 
 function Services(){
     return(<><div className="container mainbodyoffuneve">
@@ -30,7 +30,7 @@ function Services(){
                 <p>@johndoedesigner</p>
             </div>
             <div class="profile-description">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.</div>
-            <a href="/" class="bn5">Register</a><a href="/" class="bn5">Details</a>
+            <a href="/" class="bn5">Register</a><Link to={`/post/event1`} class="bn5">Details</Link>
         </div>
     </div>
 </div>
@@ -42,7 +42,7 @@ function Services(){
                 <p>@johndoedesigner</p>
             </div>
             <div class="profile-description">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.</div>
-            <a href="/" class="bn5">Register</a><a href="/" class="bn5">Details</a>
+            <a href="/" class="bn5">Register</a><Link to={`/post/event2`} class="bn5">Details</Link>
         </div>
     </div>
 </div>
@@ -54,7 +54,7 @@ function Services(){
                 <p>@johndoedesigner</p>
             </div>
             <div class="profile-description">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.</div>
-            <a href="/" class="bn5">Register</a><a href="/" class="bn5">Details</a>
+            <a href="/" class="bn5">Register</a><Link to={`/post/event3`} class="bn5">Details</Link>
         </div>
     </div></div>
     <div style={{paddingBottom:"5%"}} class="col-md-4">
@@ -65,7 +65,7 @@ function Services(){
                 <p>@johndoedesigner</p>
             </div>
             <div class="profile-description">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.</div>
-            <a href="/" class="bn5">Register</a><a href="/" class="bn5">Details</a>
+            <a href="/" class="bn5">Register</a><Link to={`/post/event4`} class="bn5">Details</Link>
         </div>
     </div></div>
     <div class="col-md-4">
@@ -76,7 +76,7 @@ function Services(){
                 <p>@johndoedesigner</p>
             </div>
             <div class="profile-description">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.</div>
-            <a href="/" class="bn5">Register</a><a href="/" class="bn5">Details</a>
+            <a href="/" class="bn5">Register</a><Link to={`/post/event5`} class="bn5">Details</Link>
         </div>
     </div></div>
     <div class="col-md-4">
@@ -87,7 +87,7 @@ function Services(){
                 <p>@johndoedesigner</p>
             </div>
             <div class="profile-description">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.</div>
-            <a href="/" class="bn5">Register</a><a href="/" class="bn5">Details</a>
+            <a href="/" class="bn5">Register</a><Link to={`/post/event6`} class="bn5">Details</Link>
         </div>
     </div></div>
     <div class="col-md-4">
@@ -98,7 +98,7 @@ function Services(){
                 <p>@johndoedesigner</p>
             </div>
             <div class="profile-description">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.</div>
-            <a href="/" class="bn5">Register</a><a href="/" class="bn5">Details</a>
+            <a href="/" class="bn5">Register</a><Link to={`/post/event7`} class="bn5">Details</Link>
         </div>
     </div></div>
     <div class="col-md-4">
@@ -109,7 +109,7 @@ function Services(){
                 <p>@johndoedesigner</p>
             </div>
             <div class="profile-description">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.</div>
-            <a href="/" class="bn5">Register</a><a href="/" class="bn5">Details</a>
+            <a href="/" class="bn5">Register</a><Link to={`/post/event8`} class="bn5">Details</Link>
         </div>
     </div></div>
     <div style={{paddingBottom:"5%"}} class="col-md-4">
@@ -120,7 +120,7 @@ function Services(){
                 <p>@johndoedesigner</p>
             </div>
             <div class="profile-description">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.</div>
-            <a href="/" class="bn5">Register</a><a href="/" class="bn5">Details</a>
+            <a href="/" class="bn5">Register</a><Link to={`/post/event9`} class="bn5">Details</Link>
         </div>
     </div></div>
 

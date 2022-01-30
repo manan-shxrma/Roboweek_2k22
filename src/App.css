@@ -12,6 +12,7 @@
   height: 100vh;
   top:0;
   object-fit: cover;
+  left: 0;
 }
 
 .main-elements {

@@ -1,0 +1,29 @@
+.blogpagemob{
+    background-color: #2a2728;
+    color: aliceblue;
+   
+}
+
+.compsection{
+      padding-top: 10%;
+      padding-left: 30%;
+      padding-right: 30%;
+}
+@media only screen and (max-width: 600px) {
+    .compsection{
+        padding:0;
+  }
+  .posts-nav{
+    padding-left: 0% !important;
+}
+  }
+
+
+
+.compet-name{
+    text-decoration: underline;
+    
+}
+.posts-nav{
+    padding-left:40%;
+}
