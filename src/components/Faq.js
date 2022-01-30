@@ -2,7 +2,9 @@ import React from "react"
 import "../css/faq.css"
 
 function Faq(){
-    return(<> <div className="container">
+    return(<>
+    <section id="faq">
+     <div className="container">
                            <div className="row">
                       <div className="col-lg-5">
                         <div className="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
@@ -112,7 +114,7 @@ function Faq(){
 </div>
 
                         
-                </div>
+                </div></section>
     </>)
 }
 

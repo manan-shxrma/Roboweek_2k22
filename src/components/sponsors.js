@@ -4,9 +4,9 @@ import "../css/sponsers.scss"
 
 
 function portfolio(){
-    return(<>
+    return(<><section id="sponsors">
                         {/* <div id="portfolio" className="our-portfolio section"> */}
-                  <div id="sponsors" className="container">
+                  <div  className="container">
                     <div className="row">
                       <div className="col-lg-5">
                         <div className="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
@@ -99,7 +99,7 @@ function portfolio(){
                        
                     
                 </section>
-    </div>
+    </div></section>
 {/*  </div> */}
     </>)
 }

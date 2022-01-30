@@ -1351,6 +1351,32 @@ Services Style
   height: 413px;
   z-index: 0;
 }
+#about{
+  background-image: url(../images/sliderpic.png);
+  background-repeat: no-repeat;
+}
+
+
+#techtalks{
+  background-image: url(../images/sliderpic.png);
+  background-repeat:repeat;
+}
+.competitionsecback{
+  background-image: url(../images/sliderpic.png);
+  background-repeat:repeat;
+}
+#timeline{
+  background-image: url(../images/sliderpic.png);
+  background-repeat:repeat;
+}
+#sponsors{
+  background-image: url(../images/sliderpic.png);
+  background-repeat:repeat;
+}
+#faq{
+  background-image: url(../images/sliderpic.png);
+  background-repeat:repeat;
+}
 
 .services .section-heading {
   text-align: center;

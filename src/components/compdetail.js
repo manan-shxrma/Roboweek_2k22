@@ -31,6 +31,7 @@ import "../css/compdetail.css"
           judging=postcontent[i].judging;
           image=postcontent[i].image;
           submission=postcontent[i].submission;
+          
         }
     
     else{
@@ -76,7 +77,7 @@ import "../css/compdetail.css"
 
 
 
-
+{/* start */}
 
 
                 <div class="compsection">
@@ -108,6 +109,13 @@ import "../css/compdetail.css"
             
         </div>
         </div>
+
+
+
+{/* end */}
+
+
+
         <footer>
                     <section id="contact">
                         <a href="/" name="contact"></a>

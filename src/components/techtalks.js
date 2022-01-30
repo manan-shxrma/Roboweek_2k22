@@ -3,7 +3,7 @@ import "../css/techtalks.css";
 
 function Services() {
   return (
-    <>
+    <> <div id="techtalks">
       <div className="container mainbodyoftimeline">
         <div
           className="section-heading wow fadeInLeft"
@@ -148,6 +148,7 @@ function Services() {
              
           </section>
         </div>
+      </div>
       </div>
     </>
   );
