@@ -1330,7 +1330,7 @@ Services Style
 
 .services:after {
   content: '';
-  background-image: url(../images/services-left-dec.jpg);
+  background-image: url(../images/sliderpic.png);
   background-repeat: no-repeat;
   position: absolute;
   left: 0;
@@ -1342,7 +1342,7 @@ Services Style
 
 .services:before {
   content: '';
-  background-image: url(../images/services-right-dec.jpg);
+  background-image: url(../images/sliderpic.png);
   background-repeat: no-repeat;
   position: absolute;
   right: 0;
@@ -1353,7 +1353,7 @@ Services Style
 }
 #about{
   background-image: url(../images/sliderpic.png);
-  background-repeat: no-repeat;
+  background-repeat: repeat;
 }
 
 

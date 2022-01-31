@@ -132,7 +132,7 @@ class Outline extends React.Component {
                                                 <li><a href="/#sponsors">Sponsors</a></li>
                                             </ul>
                                             <ul className="f-nav-ul">
-                                                <li><a href="https://robosocnith.com/projects.html">Projects</a></li>
+                                                {/* <li><a href="https://robosocnith.com/projects.html">Projects</a></li> */}
                                                 <li><a href="/#timeline">Timeline</a></li>
                                                 <li><a href="mailto:robonith@gmail.com ">Help</a></li>
                                             </ul>
