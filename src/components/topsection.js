@@ -44,11 +44,15 @@ return(<>
               
             </div>
             
-              {/* <div className="border-first-button scroll-to-section">
+              <div className="border-first-button scroll-to-section">
                 <a className="headingText" style={{color:"white" , zIndex:'500',fontSize:"x-large"}} href="https://dare2compete.com/festival/roboweek-national-institute-of-technology-nit-hamirpur-10200"><i class="fas fa-award"></i> REGISTER</a>
                 <a  className="headingText" style={{marginLeft:"2%", color: 'white' , zIndex:'500',fontSize:"x-large"}} href="https://discord.gg/vHz3tyjyke"><i className="fab fa-discord"></i> DISCORD</a>
-              </div> */}
+              </div>
               
+              
+
+                       
+  
 
             
           </div>

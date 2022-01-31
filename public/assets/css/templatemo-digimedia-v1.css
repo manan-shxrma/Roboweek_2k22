@@ -1353,29 +1353,29 @@ Services Style
 }
 #about{
   background-image: url(../images/sliderpic.png);
-  background-repeat: repeat;
+  background-repeat:round;
 }
 
 
 #techtalks{
   background-image: url(../images/sliderpic.png);
-  background-repeat:repeat;
+  background-repeat:round;
 }
 .competitionsecback{
   background-image: url(../images/sliderpic.png);
-  background-repeat:repeat;
+  background-repeat:round;
 }
 #timeline{
   background-image: url(../images/sliderpic.png);
-  background-repeat:repeat;
+  background-repeat:round;
 }
 #sponsors{
   background-image: url(../images/sliderpic.png);
-  background-repeat:repeat;
+  background-repeat:round;
 }
 #faq{
   background-image: url(../images/sliderpic.png);
-  background-repeat:repeat;
+  background-repeat:round;
 }
 
 .services .section-heading {
