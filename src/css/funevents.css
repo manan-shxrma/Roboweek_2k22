@@ -95,13 +95,10 @@ a:focus {
 }
 
 .profile-card-4 .profile-name {
-    font-weight: bold;
-    position: absolute;
-    left: 0px;
-    right: 0px;
-    top: -70px;
-    color: #FFF;
-    font-size: 17px;
+    font-weight: bold;    
+    color: #000;
+    font-size: 2em;
+    padding-bottom: 1em;
 }
 
 .profile-card-4 .profile-name p {
@@ -112,9 +109,10 @@ a:focus {
 
 .profile-card-4 .profile-description {
     color: #777;
-    font-size: 12px;
-    padding: 10px;
-    padding-bottom: 20px;
+    font-size: 0.9em;
+    /* padding: 1em;
+    padding-bottom: 2em; */
+    height: 25vh;
 }
 
 .profile-card-4 .profile-overview {
