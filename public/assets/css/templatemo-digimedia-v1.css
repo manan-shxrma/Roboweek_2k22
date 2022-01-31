@@ -126,7 +126,7 @@ ul {
 p {
   font-size: 15px;
   line-height: 30px;
-  font-weight: 300;
+  font-weight: 400;
   color:  #282C35;
 }
 
@@ -1328,7 +1328,7 @@ Services Style
   position: relative;
 }
 
-.services:after {
+/* .services:after {
   content: '';
   background-image: url(../images/sliderpic.png);
   background-repeat: no-repeat;
@@ -1338,9 +1338,9 @@ Services Style
   width: 786px;
   height: 1217px;
   z-index: 0;
-}
+} */
 
-.services:before {
+/* .services:before {
   content: '';
   background-image: url(../images/sliderpic.png);
   background-repeat: no-repeat;
@@ -1376,7 +1376,7 @@ Services Style
 #faq{
   background-image: url(../images/sliderpic.png);
   background-repeat:round;
-}
+} */
 
 .services .section-heading {
   text-align: center;
