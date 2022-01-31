@@ -52,11 +52,7 @@ function Services(){
                                   dover lipsum lorem and the others.</p>
                                 <div className="ticks-list"><span><i className="fa fa-check"></i> Optimized Template</span> <span><i className="fa fa-check"></i> Data Info</span> <span><i className="fa fa-check"></i> SEO Analysis</span>
                                   <span><i className="fa fa-check"></i> Data Info</span> <span><i className="fa fa-check"></i> SEO Analysis</span> </div>
-                                  <button class="cybr-btn">
-                                            Register_<span aria-hidden></span>
-                                            <span aria-hidden class="cybr-btn__glitch">Register_</span>
-                                          
-                                          </button> 
+                                  <button id="bottone5"> <i style={{paddingRight:"2px",paddingTop:"3px"}} class="fa fa-award" aria-hidden="true"></i> Register</button>
                                           {/* <button style={{marginLeft:"10%"}} class="cybr-btn">
                                             Buttons<span aria-hidden>_</span>
                                             <span aria-hidden class="cybr-btn__glitch">Buttons_</span>
@@ -84,11 +80,7 @@ function Services(){
                                   dover lipsum lorem and the others.</p>
                                 <div className="ticks-list"><span><i className="fa fa-check"></i> Optimized Template</span> <span><i className="fa fa-check"></i> Data Info</span> <span><i className="fa fa-check"></i> SEO Analysis</span>
                                   <span><i className="fa fa-check"></i> Data Info</span> <span><i className="fa fa-check"></i> SEO Analysis</span> </div>
-                                  <button class="cybr-btn">
-                                            Register_<span aria-hidden></span>
-                                            <span aria-hidden class="cybr-btn__glitch">Register_</span>
-                                          
-                                          </button> 
+                                  <button id="bottone5"><i style={{paddingRight:"2px",paddingTop:"3px"}}  class="fa fa-award" aria-hidden="true"></i> Register</button>
                                           {/* <button style={{marginLeft:"10%"}} class="cybr-btn">
                                             Buttons<span aria-hidden>_</span>
                                             <span aria-hidden class="cybr-btn__glitch">Buttons_</span>
@@ -116,11 +108,7 @@ function Services(){
                                   dover lipsum lorem and the others.</p>
                                 <div className="ticks-list"><span><i className="fa fa-check"></i> Optimized Template</span> <span><i className="fa fa-check"></i> Data Info</span> <span><i className="fa fa-check"></i> SEO Analysis</span>
                                   <span><i className="fa fa-check"></i> Data Info</span> <span><i className="fa fa-check"></i> SEO Analysis</span> </div>
-                                  <button class="cybr-btn">
-                                            Register_<span aria-hidden></span>
-                                            <span aria-hidden class="cybr-btn__glitch">Register_</span>
-                                          
-                                          </button> 
+                                  <button id="bottone5"><i style={{paddingRight:"2px",paddingTop:"3px"}}  class="fa fa-award" aria-hidden="true"></i> Register</button>
                                           {/* <button style={{marginLeft:"10%"}} class="cybr-btn">
                                             Buttons<span aria-hidden>_</span>
                                             <span aria-hidden class="cybr-btn__glitch">Buttons_</span>

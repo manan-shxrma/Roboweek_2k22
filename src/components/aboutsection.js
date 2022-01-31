@@ -23,9 +23,9 @@ function Aboutsection(){
                   <h6>About Us</h6>
                   <h4>What is  <em>Roboweek?</em></h4>
                   <div className="line-dec"></div>
-                </div><p> It is a blend of affairs encompassing week long enticing activities
+                </div><p><strong> It is a blend of affairs encompassing week long enticing activities
                                ranging from guest talks, robotic workshops, coding manias, fun events, cryptic hunt,
-                               quizzes and much more.</p>
+                               quizzes and much more.</strong></p>
                 <div className="row">
                   <div className="col-lg-4 col-sm-4">
                     <div className="skill-item first-skill-item wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
@@ -97,9 +97,9 @@ function Aboutsection(){
                   <h6>About Us</h6>
                   <h4>How do we Promote  <em>Diversity</em></h4>
                   <div className="line-dec"></div>
-                </div><p> It is a blend of affairs encompassing week long enticing activities
+                </div><p><strong> It is a blend of affairs encompassing week long enticing activities
                                ranging from guest talks, robotic workshops, coding manias, fun events, cryptic hunt,
-                               quizzes and much more.</p>
+                               quizzes and much more.</strong></p>
                 <div className="row">
                   <div className="col-lg-4 col-sm-4">
                     <div className="skill-item first-skill-item wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">

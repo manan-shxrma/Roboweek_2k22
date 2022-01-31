@@ -12,6 +12,7 @@
 @media only screen and (max-width: 600px) {
     .compsection{
         padding:0;
+        padding-top: 20%;
   }
   .posts-nav{
     padding-left: 0% !important;
