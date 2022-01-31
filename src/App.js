@@ -25,13 +25,15 @@ function App() {
   useEffect(()=>{
     const getItems =  async () =>{
       const result = await axios (
-        `https://lucid-pasteur-40c28b.netlify.app/` //Endpoint and parameter or base Url
+        `https://lucid-pasteur-40c28b.netlify.app/`
+       
+        //  'http://localhost:3000/'
         //change this url when using localhost to http://localhost:3000/
         )
       console.log(result.data)
 
-      setItems(result.data)//sets the data to appear 
-      setLoading(false) //stop loading when data is fetched
+      setItems(result.data)
+      setLoading(false) 
     }
     getItems()
 
