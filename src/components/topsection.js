@@ -43,7 +43,9 @@ return(<>
               {/* <p className="headingTextTop">Why restrict yourself only to projects,<br /> when there is so much more to learn <br /> and enjoy simultaneously!</p> */}
               
             </div>
-            
+            <div className="buttuns my-4">
+            <button className="btn draw-border mx-4"><a className="headingText" href="https://dare2compete.com/festival/roboweek-national-institute-of-technology-nit-hamirpur-10200"><i class="fas fa-award"></i> REGISTER</a></button>
+            <button className="btn draw-border mx-4"><a  className="headingText" href="https://discord.gg/vHz3tyjyke"><i className="fab fa-discord"></i> DISCORD</a></button></div>
               {/* <div className="border-first-button scroll-to-section">
                 <a className="headingText" style={{color:"white" , zIndex:'500',fontSize:"x-large"}} href="https://dare2compete.com/festival/roboweek-national-institute-of-technology-nit-hamirpur-10200"><i class="fas fa-award"></i> REGISTER</a>
                 <a  className="headingText" style={{marginLeft:"2%", color: 'white' , zIndex:'500',fontSize:"x-large"}} href="https://discord.gg/vHz3tyjyke"><i className="fab fa-discord"></i> DISCORD</a>

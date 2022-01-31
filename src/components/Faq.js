@@ -4,7 +4,7 @@ import "../css/faq.css"
 function Faq(){
     return(<>
     <section id="faq">
-     <div className="container">
+     <div className="container pb-4">
                            <div className="row">
                       <div className="col-lg-5">
                         <div className="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
