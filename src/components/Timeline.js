@@ -24,7 +24,7 @@ function Freequote(){
 <div class="container2 py-3 my-3" >
 	
 	<div class="timeline-item1" >
-		<h1 className="timelineh1">Day- 1</h1><h5>18th March</h5> 
+		<h1 className="timelineh1">Day- 1</h1><h5>21st March</h5> 
 		<p className="timelinepara">
 		<div class="row">
                                 <div class="col-12 col-md-6 grey">
@@ -34,18 +34,37 @@ function Freequote(){
 								<span className='dati'>11:00 AM</span>   
                                 </div>
                                 <div class="col-12 col-md-6 grey">
-								Coding Mania
+								Code Play 
                                 </div>
                                 <div class="col-12 col-md-6 grey">
-								<span className='dati'> 05:00 - 08:00 PM</span> 
+								<span className='dati'> 05:00 PM</span> 
+                                </div>
+                               
+                                <div class="col-12 col-md-6 grey">
+								Regatta | Statement Release
+                                </div>
+                                <div class="col-12 col-md-6 grey">
+								<span className='dati'>05:00 PM</span> 
+                                </div>
+                                <div class="col-12 col-md-6 grey">
+								Hunt Nova | Statement Release
+                                </div>
+                                <div class="col-12 col-md-6 grey">
+								<span className='dati'>05:00 PM</span> 
                                 </div>
                             </div>
+                            <div class="col-12 col-md-6 grey">
+								#Clipped | Topics Release
+                                </div>
+                                <div class="col-12 col-md-6 grey">
+								<span className='dati'> 05:00 PM</span> 
+                                </div>
 		
 		</p>
 	</div>
 	
 	<div class="timeline-item1" >
-		<h1 className="timelineh1">Day-2</h1><h5>19th March</h5>
+		<h1 className="timelineh1">Day-2</h1><h5>22nd March</h5>
 		<p className="timelinepara">
 		<div class="row">
                                 <div class="col-12 col-md-6 grey">
@@ -60,13 +79,19 @@ function Freequote(){
                                 <div class="col-12 col-md-6 grey">
 								<span className='dati'> 05:00 - 08:00 PM</span> 
                                 </div>
+                                <div class="col-12 col-md-6 grey">
+								Callisto | Statement Release 
+                                </div>
+                                <div class="col-12 col-md-6 grey">
+								<span className='dati'> 05:00 PM</span> 
+                                </div>
                             </div>
 	
 		</p>
 	</div>
 	
 	<div class="timeline-item1" >
-		<h1 className="timelineh1">Day-3</h1><h5>20th March</h5>
+		<h1 className="timelineh1">Day-3</h1><h5>23rd March</h5>
 		<p className="timelinepara">
 		<div class="row">
                                 <div class="col-12 col-md-6 grey">
@@ -88,17 +113,23 @@ function Freequote(){
 								<span className='dati'> 05:00 - 08:00 PM</span> 
                                 </div>
                                 <div class="col-12 col-md-6 grey">
-								Design War
+								Design War 2.0
                                 </div>
                                 <div class="col-12 col-md-6 grey">
 								<span className='dati'> 05:00 - 08:00 PM</span> 
+                                </div>
+                                <div class="col-12 col-md-6 grey">
+								Hunt Nova | Submission Ends
+                                </div>
+                                <div class="col-12 col-md-6 grey">
+								<span className='dati'>11:59 PM</span> 
                                 </div>
                             </div>
 		
 		</p>
 	</div>
 	<div class="timeline-item1" >
-		<h1 className="timelineh1">Day-4</h1><h5>21st March</h5>
+		<h1 className="timelineh1">Day-4</h1><h5>24th March</h5>
 		<p className="timelinepara">
 		<div class="row">
                                 <div class="col-12 col-md-6 grey">
@@ -119,28 +150,29 @@ function Freequote(){
                                 <div class="col-12 col-md-6 grey">
 								<span className='dati'> 05:00 - 08:00 PM</span> 
                                 </div>
+                                <div class="col-12 col-md-6 grey">
+								Callisto | Submission Starts
+                                </div>
+                                <div class="col-12 col-md-6 grey">
+								<span className='dati'> 12:00 AM</span> 
+                                </div>
                             </div>
 		
 		</p>
 	</div>
 	<div class="timeline-item1" >
-		<h1 className="timelineh1">Day-5</h1><h5>22nd March</h5>
+		<h1 className="timelineh1">Day-5</h1><h5>25th March</h5>
 		<p className="timelinepara">
 		<div class="row">
                                 <div class="col-12 col-md-6 grey">
-								Coding comp. (Girls)
+								Code-Naari
                                 </div>
                                 <div class="col-12 col-md-6 grey">
 								<span className='dati'>11:00 AM</span>   
                                 </div>
+                                
                                 <div class="col-12 col-md-6 grey">
-								Callisto tech writing
-                                </div>
-                                <div class="col-12 col-md-6 grey">
-								<span className='dati'> 05:00 - 08:00 PM</span> 
-                                </div>
-                                <div class="col-12 col-md-6 grey">
-								Robot out of waste
+								Trash Bot
                                 </div>
                                 <div class="col-12 col-md-6 grey">
 								<span className='dati'> 05:00 - 08:00 PM</span> 
@@ -158,24 +190,19 @@ function Freequote(){
 								<span className='dati'> 05:00 - 08:00 PM</span> 
                                 </div>
                                 <div class="col-12 col-md-6 grey">
-								Robotics video | Statement Release
+								Callisto | Submission Ends
                                 </div>
                                 <div class="col-12 col-md-6 grey">
-								<span className='dati'> 05:00 PM</span> 
+								<span className='dati'> 11:59 PM</span> 
                                 </div>
-                                <div class="col-12 col-md-6 grey">
-								Robotics video | Submission
-                                </div>
-                                <div class="col-12 col-md-6 grey">
-								<span className='dati'> 24/03/2022(12:00 AM)  - 25/03/2022(11:59 PM)</span> 
-                                </div>
+                                
                                 
                             </div>
 		
 		</p>
 	</div>
 	<div class="timeline-item1" >
-		<h1 className="timelineh1">Day-6</h1><h5>23rd March</h5>
+		<h1 className="timelineh1">Day-6</h1><h5>26th March</h5>
 		<p className="timelinepara">
 		<div class="row">
                                 <div class="col-12 col-md-6 grey">
@@ -190,14 +217,25 @@ function Freequote(){
                                 <div class="col-12 col-md-6 grey">
 								<span className='dati'> 05:00 - 08:00 PM</span> 
                                 </div>
-                                
+                                <div class="col-12 col-md-6 grey">
+								Regatta | Submission Starts
+                                </div>
+                                <div class="col-12 col-md-6 grey">
+								<span className='dati'>12:00 AM</span> 
+                                </div>
+                                <div class="col-12 col-md-6 grey">
+								#Clipped | Submission Starts
+                                </div>
+                                <div class="col-12 col-md-6 grey">
+								<span className='dati'> 12:00 AM </span> 
+                                </div>
                             </div>
 		
 		
 		</p>
 	</div>
 	<div class="timeline-item1" >
-		<h1 className="timelineh1">Day-7</h1><h5>24th March</h5>
+		<h1 className="timelineh1">Day-7</h1><h5>27th March</h5>
 		<p className="timelinepara">
 		<div class="row">
                                 <div class="col-12 col-md-6 grey">
@@ -212,7 +250,18 @@ function Freequote(){
                                 <div class="col-12 col-md-6 grey">
 								<span className='dati'> 05:00 - 08:00 PM</span> 
                                 </div>
-                                
+                                <div class="col-12 col-md-6 grey">
+								Regatta | Submission Ends
+                                </div>
+                                <div class="col-12 col-md-6 grey">
+								<span className='dati'>11:59 PM</span> 
+                                </div>
+                                <div class="col-12 col-md-6 grey">
+								#Clipped | Submission Ends
+                                </div>
+                                <div class="col-12 col-md-6 grey">
+								<span className='dati'> 11:59 PM</span> 
+                                </div>
                             </div>
 		
 		</p>
