@@ -24,7 +24,7 @@ function Services(){
   <div className="row">
 		<div class="col-md-4">
     
-    <div class="profile-card-4 text-center"><img alt="" src="assets/images/trash-bot.jpeg" class="img img-responsive" />
+    <div class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/trash-bot.jpeg" class="img img-responsive" />
         <div class="profile-content">
             <div class="profile-name">Trash Bot</div>
             <div class="profile-description">
@@ -35,7 +35,7 @@ function Services(){
 </div>
 <div class="col-md-4">
     
-    <div class="profile-card-4 text-center"><img alt="" src="assets/images/code-nari.jpeg" class="img img-responsive" />
+    <div class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/code-nari.jpeg" class="img img-responsive" />
         <div class="profile-content">
                 
            
@@ -47,7 +47,7 @@ function Services(){
 </div>
 <div class="col-md-4">
     
-    <div class="profile-card-4 text-center"><img alt="" src="assets/images/callisto.jpg" class="img img-responsive" />
+    <div class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/callisto.jpg" class="img img-responsive" />
         <div class="profile-content">
             <div class="profile-name">Callisto
                 
@@ -60,7 +60,7 @@ function Services(){
     </div></div>
     <div style={{paddingBottom:"5%"}} class="col-md-4">
     
-    <div class="profile-card-4 text-center"><img alt="" src="assets/images/hunt-nova.jpg" class="img img-responsive" />
+    <div class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/hunt-nova.jpg" class="img img-responsive" />
         <div class="profile-content">
             <div class="profile-name">Hunt Nova
                 
@@ -71,7 +71,7 @@ function Services(){
     </div></div>
     <div class="col-md-4">
     
-    <div class="profile-card-4 text-center"><img alt="" src="assets/images/clipped.jpg" class="img img-responsive" />
+    <div class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/clipped.jpg" class="img img-responsive" />
         <div class="profile-content">
             <div class="profile-name">#Clipped
               
@@ -83,7 +83,7 @@ function Services(){
     </div></div>
     <div class="col-md-4">
     
-    <div class="profile-card-4 text-center"><img alt="" src="assets/images/Arcanum.png" class="img img-responsive" />
+    <div class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/Arcanum.png" class="img img-responsive" />
         <div class="profile-content">
             <div class="profile-name">
                Arcanum
@@ -94,7 +94,7 @@ function Services(){
     </div></div>
     <div class="col-md-4">
     
-    <div class="profile-card-4 text-center"><img alt="" src="assets/images/code-play.png" class="img img-responsive" />
+    <div class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/code-play.png" class="img img-responsive" />
         <div class="profile-content">
             <div class="profile-name">Code Play
                 
@@ -105,7 +105,7 @@ function Services(){
     </div></div>
     <div class="col-md-4">
     
-    <div class="profile-card-4 text-center"><img alt="" src="assets/images/design-wars.png" class="img img-responsive" />
+    <div class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/design-wars.png" class="img img-responsive" />
         <div class="profile-content">
             <div class="profile-name">Design Wars
                 
@@ -116,7 +116,7 @@ function Services(){
     </div></div>
     <div style={{paddingBottom:"5%"}} class="col-md-4">
     
-    <div class="profile-card-4 text-center"><img alt="" src="http://envato.jayasankarkr.in/code/profile/assets/img/profile-4.jpg" class="img img-responsive" />
+    <div class="profile-card-4 text-center"><img alt="" style={{height:"27vh"}} src="http://envato.jayasankarkr.in/code/profile/assets/img/profile-4.jpg" class="img img-responsive" />
         <div class="profile-content">
             <div class="profile-name">John Doe
                
