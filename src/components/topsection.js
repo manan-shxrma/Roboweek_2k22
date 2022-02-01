@@ -5,6 +5,8 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 import "../css/base.css"
 import "../js/topsection.js"
+import "../css/topsec.css"
+import Illustration from "./illustration";
 
 
 function Topsection(){
@@ -16,17 +18,17 @@ function Topsection(){
 
 
 return(<>
-  <div id="home" className="main-banner">
+  {/* <div id="home" className="main-banner">
   <video class="mainVideoBanner" autoPlay loop muted>
   <source src="assets/robo1.mp4" type='video/mp4' />
   </video>
 
-    {/* <Sparkle style={{ color: '#fff', zIndex:'300' }} color={'#FFF'} count={50} minSize={5}  maxSize={8}
+    <Sparkle style={{ color: '#fff', zIndex:'300' }} color={'#FFF'} count={50} minSize={5}  maxSize={8}
              overflowPx={20} fadeOutSpeed={50} newSparkleOnFadeOut={true}
-             flicker={true}  flickerSpeed={'normal'}/> */}
-    {/* <Snowfall color="white" style={{ color: '#fff', zIndex:'200' }} snowflakeCount={150} /> */}
+             flicker={true}  flickerSpeed={'normal'}/>
+    <Snowfall color="white" style={{ color: '#fff', zIndex:'200' }} snowflakeCount={150} />
 
-  {/* <div className="backshadow"></div> */}
+  <div className="backshadow"></div>
   <div>
     <div className="container main-elements">
       <div className="align-self-center">
@@ -34,13 +36,13 @@ return(<>
           <div data-aos="zoom-out-right" className="" style={{textAlign:"center"}}>
             <div className="" style={{ color: '#fff', zIndex:'500' }}>
 
-              {/* <h2 className="MainSecFont" >Roboweek 2.0</h2> */}
+              <h2 className="MainSecFont" >Roboweek 2.0</h2>
               
                             <x-sign>
                             Roboweek 2.0
                           </x-sign>
                 
-              {/* <p className="headingTextTop">Why restrict yourself only to projects,<br /> when there is so much more to learn <br /> and enjoy simultaneously!</p> */}
+              <p className="headingTextTop">Why restrict yourself only to projects,<br /> when there is so much more to learn <br /> and enjoy simultaneously!</p>
               
             </div>
             
@@ -61,26 +63,17 @@ return(<>
     </div>
   </div>
   
-  </div>
+  </div> */}
+  <section class="background">
+	<div class="hover">
+		<Illustration />
+    
+	</div>
+</section>
+  
 
 
-  {/* waves animation */}
-  {/* <div class="header">
-             <div>
-                <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink"
-                viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
-                <defs>
-                <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
-                </defs>
-                <g class="parallax">
-                <use xlinkHref="#gentle-wave" x="48" y="0" fill="rgba(255,255,255,0.7" />
-                <use xlinkHref="#gentle-wave" x="48" y="3" fill="rgba(255,255,255,0.5)" />
-                <use xlinkHref="#gentle-wave" x="48" y="5" fill="rgba(255,255,255,0.3)" />
-                <use xlinkHref="#gentle-wave" x="48" y="7" fill="#fff" />
-                </g>
-                </svg>
-                </div>
-             </div> */}
+ 
 </>
 )
 }
