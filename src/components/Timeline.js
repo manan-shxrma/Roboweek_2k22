@@ -52,8 +52,8 @@ function Freequote(){
                                 <div class="col-12 col-md-6 grey">
 								<span className='dati'>05:00 PM</span> 
                                 </div>
-                            </div>
-                            <div class="col-12 col-md-6 grey">
+                           
+                               <div class="col-12 col-md-6 grey">
 								#Clipped | Topics Release
                                 </div>
                                 <div class="col-12 col-md-6 grey">
@@ -65,7 +65,7 @@ function Freequote(){
                                 <div class="col-12 col-md-6 grey">
 								<span className='dati'> 12:00 AM</span> 
                                 </div>
-		
+                                </div>
 		</p>
 	</div>
 	
