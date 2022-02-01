@@ -73,7 +73,7 @@ function Services(){
     
     <div class="profile-card-4 text-center"><img alt="" src="assets/images/clipped.jpg" class="img img-responsive" />
         <div class="profile-content">
-            <div class="profile-name">Clipped
+            <div class="profile-name">#Clipped
               
             </div>
             <div class="profile-description">We will ask participants to create videos using stock videos, music, voice-over, Text, and their creativity on topics related to robotics which will be released before and submit before midnight.
@@ -83,10 +83,10 @@ function Services(){
     </div></div>
     <div class="col-md-4">
     
-    <div class="profile-card-4 text-center"><img alt="" src="http://envato.jayasankarkr.in/code/profile/assets/img/profile-4.jpg" class="img img-responsive" />
+    <div class="profile-card-4 text-center"><img alt="" src="assets/images/Arcanum.png" class="img img-responsive" />
         <div class="profile-content">
-            <div class="profile-name">John Doe
-               
+            <div class="profile-name">
+               Arcanum
             </div>
             <div class="profile-description">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.</div>
             <a href="/" class="bn5">Register</a><Link to={`/post/event6`} class="bn5">Details</Link>
@@ -94,9 +94,9 @@ function Services(){
     </div></div>
     <div class="col-md-4">
     
-    <div class="profile-card-4 text-center"><img alt="" src="http://envato.jayasankarkr.in/code/profile/assets/img/profile-4.jpg" class="img img-responsive" />
+    <div class="profile-card-4 text-center"><img alt="" src="assets/images/code-play.png" class="img img-responsive" />
         <div class="profile-content">
-            <div class="profile-name">John Doe
+            <div class="profile-name">Code Play
                 
             </div>
             <div class="profile-description">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.</div>
@@ -105,9 +105,9 @@ function Services(){
     </div></div>
     <div class="col-md-4">
     
-    <div class="profile-card-4 text-center"><img alt="" src="http://envato.jayasankarkr.in/code/profile/assets/img/profile-4.jpg" class="img img-responsive" />
+    <div class="profile-card-4 text-center"><img alt="" src="assets/images/design-wars.png" class="img img-responsive" />
         <div class="profile-content">
-            <div class="profile-name">John Doe
+            <div class="profile-name">Design Wars
                 
             </div>
             <div class="profile-description">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.</div>
