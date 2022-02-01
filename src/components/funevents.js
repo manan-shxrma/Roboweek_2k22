@@ -28,7 +28,7 @@ function Services(){
         <div class="profile-content">
             <div class="profile-name">TRASH BOT</div>
             <div class="profile-description">
-            Use trash material, old motors, batteries, and anything to make a bot. Submission before midnight.</div>
+            Design and build a robot out of trash materials. </div>
             <a href="/" class="bn5">Register</a><Link to={`/post/event1`} class="bn5">Details</Link>
         </div>
     </div>
@@ -91,7 +91,7 @@ function Services(){
             <div class="profile-name">
                ARCANUM
             </div>
-            <div class="profile-description">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.</div>
+            <div class="profile-description">A virtual treasure hunt- let the mystery saga unfold.</div>
             <a href="/" class="bn5">Register</a><Link to={`/post/event6`} class="bn5">Details</Link>
         </div>
     </div></div>

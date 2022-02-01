@@ -59,6 +59,12 @@ function Freequote(){
                                 <div class="col-12 col-md-6 grey">
 								<span className='dati'> 05:00 PM</span> 
                                 </div>
+                                <div class="col-12 col-md-6 grey">
+								Trash Bot | Submission Starts
+                                </div>
+                                <div class="col-12 col-md-6 grey">
+								<span className='dati'> 12:00 AM</span> 
+                                </div>
 		
 		</p>
 	</div>
@@ -124,6 +130,17 @@ function Freequote(){
                                 <div class="col-12 col-md-6 grey">
 								<span className='dati'>11:59 PM</span> 
                                 </div>
+                                <div class="col-12 col-md-6 grey">
+								Arcanum | Event Starts
+                                </div>
+                                <div class="col-12 col-md-6 grey">
+								<span className='dati'>12:00 PM</span> </div>
+                                <div class="col-12 col-md-6 grey">
+								Arcanum | Event Ends
+                                </div>
+                                <div class="col-12 col-md-6 grey">
+								<span className='dati'>11:59 PM</span> 
+                                </div>
                             </div>
 		
 		</p>
@@ -171,12 +188,7 @@ function Freequote(){
 								<span className='dati'>11:00 AM</span>   
                                 </div>
                                 
-                                <div class="col-12 col-md-6 grey">
-								Trash Bot
-                                </div>
-                                <div class="col-12 col-md-6 grey">
-								<span className='dati'> 05:00 - 08:00 PM</span> 
-                                </div>
+                               
                                 <div class="col-12 col-md-6 grey">
 								IOT challenge
                                 </div>
@@ -228,6 +240,12 @@ function Freequote(){
                                 </div>
                                 <div class="col-12 col-md-6 grey">
 								<span className='dati'> 12:00 AM </span> 
+                                </div>
+                                <div class="col-12 col-md-6 grey">
+								Trash Bot | Submission Ends
+                                </div>
+                                <div class="col-12 col-md-6 grey">
+								<span className='dati'> 11:59 PM</span> 
                                 </div>
                             </div>
 		
