@@ -76,7 +76,13 @@ function Freequote(){
 								<span className='dati'>11:00 AM</span>   
                                 </div>
                                 <div class="col-12 col-md-6 grey">
-								Hunt and Build
+								Hunt and Build | Statement Release
+                                </div>
+                                <div class="col-12 col-md-6 grey">
+								<span className='dati'> 05:00 - 08:00 PM</span> 
+                                </div>
+                                <div class="col-12 col-md-6 grey">
+								Hunt and Build | Submission
                                 </div>
                                 <div class="col-12 col-md-6 grey">
 								<span className='dati'> 05:00 - 08:00 PM</span> 
@@ -152,11 +158,18 @@ function Freequote(){
 								<span className='dati'> 05:00 - 08:00 PM</span> 
                                 </div>
                                 <div class="col-12 col-md-6 grey">
-								Robotics video
+								Robotics video | Statement Release
                                 </div>
                                 <div class="col-12 col-md-6 grey">
-								<span className='dati'> 05:00 - 08:00 PM</span> 
+								<span className='dati'> 05:00 PM</span> 
                                 </div>
+                                <div class="col-12 col-md-6 grey">
+								Robotics video | Submission
+                                </div>
+                                <div class="col-12 col-md-6 grey">
+								<span className='dati'> 24/03/2022(12:00 AM)  - 25/03/2022(11:59 PM)</span> 
+                                </div>
+                                
                             </div>
 		
 		</p>
