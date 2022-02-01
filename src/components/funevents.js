@@ -26,7 +26,7 @@ function Services(){
     
     <div class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/trash-bot.jpeg" class="img img-responsive" />
         <div class="profile-content">
-            <div class="profile-name">Trash Bot</div>
+            <div class="profile-name">TRASH BOT</div>
             <div class="profile-description">
             Use trash material, old motors, batteries, and anything to make a bot. Submission before midnight.</div>
             <a href="/" class="bn5">Register</a><Link to={`/post/event1`} class="bn5">Details</Link>
@@ -39,8 +39,9 @@ function Services(){
         <div class="profile-content">
                 
            
-            <div class="profile-name">Code Naari </div>
-            <div class="profile-description">Short coding competition(3hr long) only for female participants.</div>
+            <div class="profile-name">CODE NAARI </div>
+            <div class="profile-description">Code-Naari is an online Competitive Programming contest only for female participants  where you compete against different people across the country to solve problems.
+</div>
             <a href="/" class="bn5">Register</a><Link to={`/post/event2`} class="bn5">Details</Link>
         </div>
     </div>
@@ -49,10 +50,11 @@ function Services(){
     
     <div class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/callisto.jpg" class="img img-responsive" />
         <div class="profile-content">
-            <div class="profile-name">Callisto
+            <div class="profile-name">CALLISTO
                 
             </div>
-            <div class="profile-description">The participants will have to write a technical article in an interesting way. This article needs to be submitted before midnight.
+            <div class="profile-description">Callisto, the technical writing competition where your words play on your behalf.
+
 
 </div>
             <a href="/" class="bn5">Register</a><Link to={`/post/event3`} class="bn5">Details</Link>
@@ -62,10 +64,11 @@ function Services(){
     
     <div class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/hunt-nova.jpg" class="img img-responsive" />
         <div class="profile-content">
-            <div class="profile-name">Hunt Nova
+            <div class="profile-name">HUNT NOVA
                 
             </div>
-            <div class="profile-description">A word puzzle will be given to participants in which they have to find the hidden components and then use these components in tinker cad to create a working project and submit a video of their project. Submission needs to be done before midnight.</div>
+            <div class="profile-description">Hunt-Nova is a mind boggling contest where you can play with your logic to crack the components and build a working prototype on TinkerCad.
+</div>
             <a href="/" class="bn5">Register</a><Link to={`/post/event4`} class="bn5">Details</Link>
         </div>
     </div></div>
@@ -73,10 +76,10 @@ function Services(){
     
     <div class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/clipped.jpg" class="img img-responsive" />
         <div class="profile-content">
-            <div class="profile-name">#Clipped
+            <div class="profile-name">#CLIPPED
               
             </div>
-            <div class="profile-description">We will ask participants to create videos using stock videos, music, voice-over, Text, and their creativity on topics related to robotics which will be released before and submit before midnight.
+            <div class="profile-description">#Clipped is a video making competition which enable you to put your creative and editing skills at one place
 </div>
             <a href="/" class="bn5">Register</a><Link to={`/post/event5`} class="bn5">Details</Link>
         </div>
@@ -86,7 +89,7 @@ function Services(){
     <div class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/Arcanum.png" class="img img-responsive" />
         <div class="profile-content">
             <div class="profile-name">
-               Arcanum
+               ARCANUM
             </div>
             <div class="profile-description">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.</div>
             <a href="/" class="bn5">Register</a><Link to={`/post/event6`} class="bn5">Details</Link>
@@ -96,10 +99,10 @@ function Services(){
     
     <div class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/code-play.png" class="img img-responsive" />
         <div class="profile-content">
-            <div class="profile-name">Code Play
+            <div class="profile-name">CODE PLAY
                 
             </div>
-            <div class="profile-description">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.</div>
+            <div class="profile-description">Code-Play is an online coding competition wherein you compete with many coders from around the country.</div>
             <a href="/" class="bn5">Register</a><Link to={`/post/event7`} class="bn5">Details</Link>
         </div>
     </div></div>
@@ -107,21 +110,21 @@ function Services(){
     
     <div class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/design-wars.png" class="img img-responsive" />
         <div class="profile-content">
-            <div class="profile-name">Design Wars
+            <div class="profile-name">DESIGN WARS
                 
             </div>
-            <div class="profile-description">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.</div>
+            <div class="profile-description">-Design Wars 2.0  aims to inspire learning through a real-world scenario. </div>
             <a href="/" class="bn5">Register</a><Link to={`/post/event8`} class="bn5">Details</Link>
         </div>
     </div></div>
     <div style={{paddingBottom:"5%"}} class="col-md-4">
     
-    <div class="profile-card-4 text-center"><img alt="" style={{height:"27vh"}} src="http://envato.jayasankarkr.in/code/profile/assets/img/profile-4.jpg" class="img img-responsive" />
+    <div class="profile-card-4 text-center"><img alt="" style={{height:"27vh"}} src="assets/images/REGATTA.png" class="img img-responsive" />
         <div class="profile-content">
-            <div class="profile-name">John Doe
+            <div class="profile-name">REGATTA 2.0
                
             </div>
-            <div class="profile-description">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.</div>
+            <div class="profile-description">In this version of Regatta 2.0, participants have to solve the problem statements  using ROS NOETIC, ROS MELODIC or constructsim(online).</div>
             <a href="/" class="bn5">Register</a><Link to={`/post/event9`} class="bn5">Details</Link>
         </div>
     </div></div>

@@ -2,7 +2,7 @@ const homedata = [
     {
       id: 1,
       emoji: "💪",
-      name: "event1",
+      name: "TRASH_BOT",
       instructions:
         "hello",
         title:"Build a simple bot out of waste material",
@@ -44,12 +44,12 @@ const homedata = [
       name: "event4",
       instructions:
         "Hunt-Nova is a mind boggling contest where you can play with your logic to crack the components and build a working prototype on TinkerCad.",
-        title:"Hunt-Nova is a tech event where participants first find hidden components and then use these components in tinkerCad to create a working project.",
-        submission:"Problem Statement Release  on 21/03/2022  at 5 PM IST. Submission Window Close  on 23/03/2022 at 11:59 PM IST.",
-        judging:"1.Working on the  project. Neatness of circuit. Components used if any extra component is used then marks will be deducted.",
-        prerequisites:"now we have our prerequisities for this event",
+        title:"HUNT NOVA",
+        submission:"Problem Statement Release  on 21/03/2022  at 5 PM IST.Submission Window Close  on 23/03/2022 at 11:59 PM IST.",
+        judging:"1.Working on the  project.2.Neatness of circuit.3.Components used if any extra component is used then marks will be deducted.",
+        prerequisites:"TinkerCad and Circuit designing.",
         prizes:"and finally we have some prizes!!!",
-        image:"https://eandt.theiet.org/media/8174/view-from-india-generic-2.jpg?anchor=center&mode=crop&width=640&height=480&rnd=131983301100000000"
+        image:"assets/images/hunt-nova.jpg"
     }
     ,
     {
