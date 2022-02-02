@@ -25,7 +25,9 @@ function App() {
   useEffect(()=>{
     const getItems =  async () =>{
       const result = await axios (
-        `http://localhost:3000/`
+
+        `https://lucid-pasteur-40c28b.netlify.app/` 
+
         //  'http://localhost:3000/'
         //change this url when using localhost to http://localhost:3000/
         )
