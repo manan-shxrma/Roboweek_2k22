@@ -1,3 +1,4 @@
+
 const homedata = [
     {
       id: 1,
@@ -38,7 +39,9 @@ const homedata = [
         judging3:"",
         prerequisites:"now we have our prerequisities for this event",
         prizes:"and finally we have some prizes!!!",
+
         image:"../../assets/images/code-nari.jpeg",
+
         srcDoc:"https://docs.google.com/document/d/1JGfo0aMb4-PgUhfJbD9WTiXHpmcqb_b6OomciORBkUg/edit?usp=sharing"
     },
     {
