@@ -101,9 +101,13 @@ import "../css/compdetail.css"
                     <h1>{title}</h1><br />
                 </div>
                 <div className="comp-sec-det">
-            <div className="poster1">
-            <img className="poster-style" src={image}></img>
-            </div>
+            
+            <div class="card" style={{"width": "18rem"}}>
+                        <img src={image} class="card-img-top" alt="..." />
+                        <div class="card-body">
+                            <p class="card-text"><button class="cta"> <span class="shadow"></span> <span class="edge"></span><span class="front text"><a href={srcDoc}> Documentation</a></span></button></p>
+                        </div>
+                        </div>
                 <div class="content">
                     <ul>
                <li> <h5 className="compet-name"><i style={{paddingRight:"8px",paddingTop:"3px"}} class="fa fa-book-reader" aria-hidden="true"></i> Instructions</h5>
@@ -122,7 +126,6 @@ import "../css/compdetail.css"
                         <p>{prizes}</p>
                </li><br />
                
-               <li><button class="cta"> <span class="shadow"></span> <span class="edge"></span><span class="front text"><a href={srcDoc}> Documentation</a></span></button></li>
                 </ul>  
                     
                 </div>

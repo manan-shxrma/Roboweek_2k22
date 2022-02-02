@@ -5,16 +5,13 @@ function Faq(){
     return(<>
     <section id="faq">
      <div className="container">
-                           <div className="row">
-                      <div className="col-lg-5">
-                        <div className="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
-                          <h6>Faq's</h6>
-                          <h4>Clear your doubts about <em>Roboweek</em></h4>  
-                        </div>
-                      </div>
-                    </div>        
+          <div style={{paddingBottom:"4%"}} data-aos="fade-right" className="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
+                <h6>Timeline</h6>
+                <h4>How <em>Roboweek</em> works</h4>
+                <div className="line-dec"></div>
+              </div>      
                     <div class="accordion" id="accordionExample">
-  <div class="accordion-item">
+  <div data-aos="zoom-in" class="accordion-item">
     <h2 style={{focusOutline:"0 !important"}} class="accordion-header" id="headingOne">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
       WHAT IS ROBOWEEK ?
@@ -26,7 +23,7 @@ function Faq(){
       </div>
     </div>
   </div>
-  <div class="accordion-item">
+  <div data-aos="zoom-in" class="accordion-item">
     <h2 class="accordion-header" id="headingTwo">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
       WHAT ALL WOULD BE THERE?
@@ -38,7 +35,7 @@ function Faq(){
       </div>
     </div>
   </div>
-  <div class="accordion-item">
+  <div data-aos="zoom-in" class="accordion-item">
     <h2 class="accordion-header" id="headingThree">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
       DO I NEED ANY PREREQUISITES TO PARTICIPATE?
@@ -50,7 +47,7 @@ function Faq(){
       </div>
     </div>
   </div>
-  <div class="accordion-item">
+  <div data-aos="zoom-in" class="accordion-item">
     <h2 class="accordion-header" id="headingFour">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
       WHERE CAN I RAISE MY OTHER QUERIES ?
@@ -62,7 +59,7 @@ function Faq(){
       </div>
     </div>
   </div>
-  <div class="accordion-item">
+  <div data-aos="zoom-in" class="accordion-item">
     <h2 class="accordion-header" id="headingFive">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
       WHAT ALL CAN I WIN FROM HERE ?  
@@ -74,7 +71,7 @@ function Faq(){
       </div>
     </div>
   </div>
-  <div class="accordion-item">
+  <div data-aos="zoom-in" class="accordion-item">
     <h2 class="accordion-header" id="headingSix">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
       IS THE PARTICIPATION INDIVISUAL OR IN TEAMS?
@@ -86,7 +83,7 @@ function Faq(){
       </div>
     </div>
   </div>
-  <div class="accordion-item">
+  <div data-aos="zoom-in" class="accordion-item">
     <h2 class="accordion-header" id="headingSeven">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
       WHAT IS THE JUDGING AND SELECTION CRITERIA?
@@ -98,7 +95,7 @@ function Faq(){
       </div>
     </div>
   </div>
-  <div class="accordion-item">
+  <div data-aos="zoom-in" class="accordion-item">
     <h2 class="accordion-header" id="headingEight">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
       HOW DO WE PROMOTE DIVERSITY ?
@@ -110,7 +107,7 @@ function Faq(){
       </div>
     </div>
   </div>
-  <div class="accordion-item">
+  <div data-aos="zoom-in" class="accordion-item">
     <h2 class="accordion-header" id="headingNine">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
       HOW DO WE JOIN ANY EVENT?
@@ -122,7 +119,7 @@ function Faq(){
       </div>
     </div>
   </div>
-  <div class="accordion-item">
+  <div data-aos="zoom-in" class="accordion-item">
     <h2 class="accordion-header" id="headingTen">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
       IS THERE ANY PARTICIPATION FEE?
