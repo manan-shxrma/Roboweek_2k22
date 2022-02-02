@@ -26,7 +26,7 @@ function Freequote(){
 <div class="container2 py-3 my-3" >
 	
 	<div data-aos="zoom-in" class="timeline-item1" >
-		<h1 className="timelineh1">Day- 1</h1><h5>21st March</h5> 
+		<h1 className="timelineh1">Day- 1</h1><h5 className="timelineh5">21st March</h5> 
 		<p className="timelinepara">
 		<div class="row">
                                 <div class="col-12 col-md-6 grey">
@@ -72,7 +72,7 @@ function Freequote(){
 	</div>
 	
 	<div data-aos="zoom-in" class="timeline-item1" >
-		<h1 className="timelineh1">Day-2</h1><h5>22nd March</h5>
+		<h1 className="timelineh1">Day-2</h1><h5 className="timelineh5">22nd March</h5>
 		<p className="timelinepara">
 		<div class="row">
                                 <div class="col-12 col-md-6 grey">
@@ -99,7 +99,7 @@ function Freequote(){
 	</div>
 	
 	<div data-aos="zoom-in" class="timeline-item1" >
-		<h1 className="timelineh1">Day-3</h1><h5>23rd March</h5>
+		<h1 className="timelineh1">Day-3</h1><h5 className="timelineh5">23rd March</h5>
 		<p className="timelinepara">
 		<div class="row">
                                 <div class="col-12 col-md-6 grey">
@@ -148,7 +148,7 @@ function Freequote(){
 		</p>
 	</div>
 	<div data-aos="zoom-in" class="timeline-item1" >
-		<h1 className="timelineh1">Day-4</h1><h5>24th March</h5>
+		<h1 className="timelineh1">Day-4</h1><h5 className="timelineh5">24th March</h5>
 		<p className="timelinepara">
 		<div class="row">
                                 <div class="col-12 col-md-6 grey">
@@ -180,7 +180,7 @@ function Freequote(){
 		</p>
 	</div>
 	<div data-aos="zoom-in" class="timeline-item1" >
-		<h1 className="timelineh1">Day-5</h1><h5>25th March</h5>
+		<h1 className="timelineh1">Day-5</h1><h5 className="timelineh5">25th March</h5>
 		<p className="timelinepara">
 		<div class="row">
                                 <div class="col-12 col-md-6 grey">
@@ -216,7 +216,7 @@ function Freequote(){
 		</p>
 	</div>
 	<div data-aos="zoom-in" class="timeline-item1" >
-		<h1 className="timelineh1">Day-6</h1><h5>26th March</h5>
+		<h1 className="timelineh1">Day-6</h1><h5 className="timelineh5">26th March</h5>
 		<p className="timelinepara">
 		<div class="row">
                                 <div class="col-12 col-md-6 grey">
@@ -255,7 +255,7 @@ function Freequote(){
 		</p>
 	</div>
 	<div data-aos="zoom-in" class="timeline-item1" >
-		<h1 className="timelineh1">Day-7</h1><h5>27th March</h5>
+		<h1 className="timelineh1">Day-7</h1><h5 className="timelineh5">27th March</h5>
 		<p className="timelinepara">
 		<div class="row">
                                 <div class="col-12 col-md-6 grey">

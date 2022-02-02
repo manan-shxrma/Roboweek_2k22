@@ -27,11 +27,13 @@ function Aboutsection(){
                     <img src="assets/images/robosoc-team2.JPG"  className="img img-responsive" alt="visit"/>
                     
                 </div>
+
                 <div class="back">
                     <h1><a style={{fontSize:"1.1em", fontWeight:"700"}}href="https://robosocnith.com/">More Details</a></h1>
                     <h4 style={{fontSize:"1.5em", fontWeight:"700"}}>Roboweek2.0</h4>
                     <p style={{fontSize:"1em", fontWeight:"700"}}>It is a blend of affairs encompassing week long enticing activities ranging from guest talks, robotic workshops, coding manias, fun events, cryptic hunt, quizzes and much more.</p>
                 </div>
+
             </div>
         </div>
     </div>
@@ -120,11 +122,7 @@ function Aboutsection(){
                     <img src="assets/images/diversity.jpg" className="img img-responsive" alt="visit"/>
                     
                 </div>
-                <div class="back">
-                    <h1><a href="https://robosocnith.com/">More Details</a></h1>
-                    <h4 style={{fontSize:"1.3em", fontWeight:"700"}}>RoboWeek 2021</h4>
-                    <p>RoboWeek 2021 was conducted last year which was a huge success. It was a first of its kind event conducted all over the country. We received huge support across the country which filled us with the zeal and entusiasm to conduct RoboWeek 2.0</p>
-                </div>
+                
             </div>
         </div>
     </div>
@@ -135,7 +133,7 @@ function Aboutsection(){
               <div className="about-right-content">
                 <div data-aos="fade-up" className="section-heading">
                   <h6>About Us</h6>
-                  <h4>RoboWeek  <em>2021</em></h4>
+                  <h4>Unity in  <em>Diversity</em></h4>
                   <div className="line-dec"></div>
                 </div><p style={{fontSize:"larger"}}><strong> RoboWeek 2021 was conducted last year which was a huge success. It was a first of its kind event conducted all over the country. We received huge support across the country which filled us with the zeal and entusiasm to conduct RoboWeek 2.0</strong></p>
                 <div data-aos="fade-left" className="row">
@@ -150,8 +148,8 @@ function Aboutsection(){
                         </span>
                         <div className="progress-value">
                           <div>
-                            25+<br />
-                            <span>Sponsors</span>
+                            700+<br />
+                            <span>Girl Participants</span>
                           </div>
                         </div>
                       </div>

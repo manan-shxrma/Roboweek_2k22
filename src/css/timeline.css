@@ -27,7 +27,7 @@
 	 padding: 3em 2em 2em;
 	 position: relative;
 	 color: rgba(0, 0, 0, .7);
-	 border-left: 2px solid rgba(0, 0, 0, .3);
+	 border-left: 2px solid rgb(0, 0, 0);
 	 background: rgb(255, 255, 255);
 }
  .timeline-item .timelinepara {
@@ -79,4 +79,6 @@
  .timeline-item:last-child {
 	 border-image: linear-gradient(to bottom, rgba(0, 0, 0, .3) 60%, rgba(0, 0, 0, 0)) 1 100%;
 }
- 
+ .timelineh5{
+	font-weight: bolder;
+ }

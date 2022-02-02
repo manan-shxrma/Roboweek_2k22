@@ -29,6 +29,7 @@ function Services(){
     
     <div  data-aos="fade-right" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/trash-bot.jpeg" class="img img-responsive" />
         <div style={{backgroundColor:"rgb(255,182,193)"}} class="profile-content">
+        <span class="tag12 ">Technical Creativity</span>
             <div class="profile-name">TRASH BOT</div>
             <div><b>TECH EVENT</b></div>
             <div class="profile-description">
@@ -41,7 +42,7 @@ function Services(){
     
     <div data-aos="fade-up" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/code-nari.jpeg" class="img img-responsive" />
         <div style={{backgroundColor:"rgb(255,182,193)"}}  class="profile-content">
-                
+        <span class="tag12 ">Coding contest</span>  
            
             <div class="profile-name">CODE NAARI </div>
             <div><b>TECH EVENT</b></div>
@@ -55,6 +56,7 @@ function Services(){
     
     <div data-aos="fade-left" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/callisto.jpg" class="img img-responsive" />
         <div style={{backgroundColor:"rgb(255,182,193)"}} class="profile-content">
+        <span class="tag12 ">Technical Writing</span>
             <div class="profile-name">CALLISTO
                 
             </div>
@@ -70,6 +72,7 @@ function Services(){
     
     <div data-aos="fade-right" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/hunt-nova.jpg" class="img img-responsive" />
         <div style={{backgroundColor:"rgb(255,182,193)"}} class="profile-content">
+        <span class="tag12 ">Deduction</span>
             <div class="profile-name">HUNT NOVA
                 
             </div>
@@ -83,6 +86,7 @@ function Services(){
     
     <div data-aos="fade-up" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/code-play.png" class="img img-responsive" />
         <div style={{backgroundColor:"rgb(255,182,193)"}} class="profile-content">
+        <span class="tag12 ">Coding</span>
             <div class="profile-name">CODE PLAY
                 
             </div>
@@ -95,6 +99,7 @@ function Services(){
     
     <div data-aos="fade-left" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/design-wars.png" class="img img-responsive" />
         <div style={{backgroundColor:"rgb(255,182,193)"}} class="profile-content">
+        <span class="tag12 ">Mech. Design</span>
             <div class="profile-name">DESIGN WARS
                 
             </div>
@@ -107,6 +112,7 @@ function Services(){
     
     <div data-aos="fade-right" class="profile-card-4 text-center"><img alt="" style={{height:"27vh"}} src="assets/images/REGATTA.png" class="img img-responsive" />
         <div style={{backgroundColor:"rgb(255,182,193)"}} class="profile-content">
+        <span class="tag12 ">ROS</span>
             <div class="profile-name">REGATTA 2.0
                
             </div>
@@ -119,6 +125,7 @@ function Services(){
     
     <div data-aos="fade-up" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/clipped.jpg" class="img img-responsive" />
         <div style={{backgroundColor:"rgb(230, 255, 110)"}} class="profile-content">
+        <span class="tag12 ">Graphical Designing</span>
             <div class="profile-name">#CLIPPED
               
             </div>
@@ -132,6 +139,7 @@ function Services(){
     
     <div data-aos="fade-left" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/Arcanum.png" class="img img-responsive" />
         <div style={{backgroundColor:"rgb(230, 255, 110)"}} class="profile-content">
+        <span class="tag12 ">Deduction</span>
             <div class="profile-name">
                ARCANUM
             </div>
