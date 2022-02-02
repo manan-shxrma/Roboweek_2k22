@@ -27,7 +27,13 @@ function Aboutsection(){
                     <img src="assets/images/robosoc-team2.JPG"  className="img img-responsive" alt="visit"/>
                     
                 </div>
-                
+
+                <div class="back">
+                    <h1><a style={{fontSize:"1.1em", fontWeight:"700"}}href="https://robosocnith.com/">More Details</a></h1>
+                    <h4 style={{fontSize:"1.5em", fontWeight:"700"}}>Roboweek2.0</h4>
+                    <p style={{fontSize:"1em", fontWeight:"700"}}>It is a blend of affairs encompassing week long enticing activities ranging from guest talks, robotic workshops, coding manias, fun events, cryptic hunt, quizzes and much more.</p>
+                </div>
+
             </div>
         </div>
     </div>
