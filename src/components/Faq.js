@@ -6,7 +6,7 @@ function Faq(){
     <section id="faq">
      <div className="container">
           <div style={{paddingBottom:"4%"}} data-aos="fade-right" className="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
-                <h6>Timeline</h6>
+                <h6>FAQ's</h6>
                 <h4>How <em>Roboweek</em> works</h4>
                 <div className="line-dec"></div>
               </div>      
