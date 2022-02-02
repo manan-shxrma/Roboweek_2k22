@@ -172,3 +172,37 @@ main buttons */
 .huhcard .front p{
     font-size: 14px;
 }
+@media (max-width: 990px) {
+  .huhcard{
+          margin:10vh 0 ;
+    }
+    .huhcard .front,.huhcard .back{
+      width: 20vw; height: 20vh;
+     
+     
+     
+     
+  }
+  }
+@media (max-width: 760px) {
+  
+  .huhcard .front,.huhcard .back{
+    width: 68vw; height: 34vh;
+    /* padding: 0; */
+    
+    
+    
+  }
+  .huhcard img{
+    width: 64vw; height: 34vh;
+  }
+  .huhcard .card{
+    
+    width: 70vw; height: 36vh;
+    margin-bottom: 1em ;
+    /* padding:0; */
+    
+   
+}
+  }
+  
