@@ -110,48 +110,54 @@ x-sign:nth-of-type(1) {
 
 /* 
 main buttons */
+
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
-/* *{
-    padding: 0; margin: 0;
-    user-select: none; box-sizing: border-box;
-} */
-/* {
-    width: 100%; min-height: 100vh;
-    display: flex; align-items: center;
-    justify-content: center;
-    background-color: crimson;
-    color: white;
-} */
-.container{
+
+
+.huhcard{
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-evenly;
+    box-sizing: border-box;
+    color:#000203;
 }
-
-
-.met img{
-    width: 420px; height: 720px;
+.huhcard .head h1{
+    font-size: 0.5em;
+    /* text-shadow: 5px 5px 10px rgba(0,0,0,0.7); */
 }
-.card1{
+.huhcard .head{
+    font-family: 'Bebas Neue', cursive;
+}
+.huhcard img{
+    width: 425px; height: 290px;
+}
+.huhcard .card{
     font-family: 'EB Garamond', serif;
-    width: 400px; height: 270px;
+    width: 400px; height: 300px;
     perspective: 2000px;
     cursor: pointer;
-    box-shadow: 0 0 10px 10px rgba(0,0,0,0.2);
-    background-color: black;
+    box-shadow: 0 0 10px 10px rgba(243, 242, 242, 0.938);
+    background-color: rgb(255, 255, 255);
 }
-.front1, .back{
-    width: 420px; height: 350px;
+.huhcard .front,.huhcard .back{
+    width: 400px; height: 300px;
     flex-direction: column;
     display: flex; align-items: center;
     position: absolute;
     backface-visibility: hidden;
     padding: 10px;
+    background-color: #00020383;
 }
-
-.back{
+.huhcard .content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: transform 0.5s linear;
+    transform-style: preserve-3d;
+}
+.huhcard .back{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -160,9 +166,9 @@ main buttons */
     background-color: transparent;
     transform: rotateY(180deg);
 }
-.card1:hover .content{
+.huhcard .card:hover .content{
     transform: rotateY(180deg);
 }
-.front1 p{
-    font-size: 20px;
+.huhcard .front p{
+    font-size: 14px;
 }
