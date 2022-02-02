@@ -126,6 +126,7 @@ const homedata = [
       name: "event7",
       instructions:
         "Similar to the golf game, code golf is a competition where the winner achieves the specifications in the fewest keystrokes. It is basically a kind of recreational computer programming competition where the participants compete to achieve the shortest possible source code that implements a certain algorithm.Code Golfing can be said as a classic playground for programmers where the main attempt is to solve a problem with the least number of characters.",
+
         instructions2:"",
         instructions3:"",
         instructions4:"",
@@ -136,6 +137,7 @@ const homedata = [
         judging1:"here we have our judging criteria",
         judging2:"",
         judging3:"",
+
         prerequisites:"now we have our prerequisities for this event",
         prizes:"and finally we have some prizes!!!",
         image:"https://eandt.theiet.org/media/8174/view-from-india-generic-2.jpg?anchor=center&mode=crop&width=640&height=480&rnd=131983301100000000"
