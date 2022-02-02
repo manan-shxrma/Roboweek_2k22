@@ -6,6 +6,7 @@ import Compdetail from "./components/compdetail"
 import axios from 'axios';
 import { css } from "@emotion/react";
 import ScaleLoader from "react-spinners/ScaleLoader";
+import ScrollToTop from './components/ScrollToTop';
 
 const override = css`
 text-align:center;
@@ -30,7 +31,7 @@ function App() {
 
         'http://localhost:3000/'
         //change this url when using localhost to http://localhost:3000/
-        // https://lucid-pasteur-40c28b.netlify.app/
+ 
         )
        
         
@@ -51,6 +52,7 @@ function App() {
         <ScaleLoader color={'#eceef1'} loading={loading} css={override} size={150} />
         :
         <BrowserRouter>
+         <ScrollToTop/>
         <Routes>
         <Route  exact path="/" element={<Outline />} />
         <Route  path="/post/:id" element={<Compdetail />} />
