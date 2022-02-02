@@ -18,54 +18,23 @@ function Topsection(){
 
 
 return(<>
-  {/* <div id="home" className="main-banner">
-  <video class="mainVideoBanner" autoPlay loop muted>
-  <source src="assets/robo1.mp4" type='video/mp4' />
-  </video>
-
-    <Sparkle style={{ color: '#fff', zIndex:'300' }} color={'#FFF'} count={50} minSize={5}  maxSize={8}
-             overflowPx={20} fadeOutSpeed={50} newSparkleOnFadeOut={true}
-             flicker={true}  flickerSpeed={'normal'}/>
-    <Snowfall color="white" style={{ color: '#fff', zIndex:'200' }} snowflakeCount={150} />
-
-  <div className="backshadow"></div>
-  <div>
-    <div className="container main-elements">
-      <div className="align-self-center">
-        <div data-aos="zoom-out-right" className="left-content show-up header-text">
-          <div data-aos="zoom-out-right" className="" style={{textAlign:"center"}}>
-            <div className="" style={{ color: '#fff', zIndex:'500' }}>
-
-              <h2 className="MainSecFont" >Roboweek 2.0</h2>
-              
-                            <x-sign>
-                            Roboweek 2.0
-                          </x-sign>
-                
-              <p className="headingTextTop">Why restrict yourself only to projects,<br /> when there is so much more to learn <br /> and enjoy simultaneously!</p>
-              
-            </div>
-            
-              <div className="border-first-button scroll-to-section">
-                <a className="headingText" style={{color:"white" , zIndex:'500',fontSize:"x-large"}} href="https://dare2compete.com/festival/roboweek-national-institute-of-technology-nit-hamirpur-10200"><i class="fas fa-award"></i> REGISTER</a>
-                <a  className="headingText" style={{marginLeft:"2%", color: 'white' , zIndex:'500',fontSize:"x-large"}} href="https://discord.gg/vHz3tyjyke"><i className="fab fa-discord"></i> DISCORD</a>
-              </div>
-              
-              
-
-                       
   
-
-            
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  
-  </div> */}
   <section class="background">
 	<div class="hover">
+  <div className="headingdiv"> 
+  <h1 class="hero-title">RoboWeek 2.0</h1>
+  <h5 className="underhero">Let's build the future</h5>
+ <a href="https://dare2compete.com/festival/roboweek-national-institute-of-technology-nit-hamirpur-10200"> <button id="bottone15"><i style={{paddingTop:"1%",paddingRight:"3%"}} class="fas fa-award" /> Register</button></a>
+ <a href="https://discord.gg/vHz3tyjyke"> <button id="bottone15"><i style={{paddingTop:"1%",paddingRight:"3%"}} className="fab fa-discord" /> Discord</button> </a>
+ <div id="timer">
+  <span id="days"></span>days
+  <span id="hours"></span>hours
+  <span id="minutes"></span>minutes
+  <span id="seconds"></span>seconds
+</div>
+
+
+  </div>
 		<Illustration />
     
 	</div>

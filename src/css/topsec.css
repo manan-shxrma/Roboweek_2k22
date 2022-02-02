@@ -7,12 +7,20 @@
 .illustration {
 	display: block;
 	position: relative;
-	width: auto;
+	width: 100%;
 	height: 100%;
 	margin: 0 auto;
-	top: 20%;
-	
+	top: 15%;
+	left:25%;
 }
+
+@media only screen and (max-width: 600px) {
+	.illustration {
+		left:0%;
+		top: 20%;
+		
+	}
+  }
 .hover {
 	width: 100%;
 	height: 100%;
@@ -332,4 +340,124 @@
    }
 }
   
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@700&display=swap');
+.hero-title {
+	max-width: 16em;
+	margin: 0;
+	font-size: 12vh;
+	font-weight: bold;
+	line-height: .9;
+    color: aliceblue;
+	font-family: 'Rowdies', cursive;
+}
+	
+.headingdiv{
+	position: absolute;
+	vertical-align: middle;
+	top: 35%;
+	left: 10%;
+}
+@media only screen and (max-width: 1278px) {
+	.headingdiv{
+        top:15%;
+		left: 10%;
+		width:80%;
+		font-size: 7vh;
+		text-align: center;
+	}
+	.hero-title{
+		font-size: 7vh;
+		text-align: center;
+	}
+	#timer {
+		visibility: hidden;
+	  }
+	  .illustration {
+		left:0%;
+		top: 35%;
+		width: 80%;
+		height: 80vh;
+	}
+  }
 
+.underhero{
+	color: aliceblue;
+	font-weight: bold;
+	font-family: 'Rowdies', cursive;
+	padding-left: 1%;
+}
+
+
+
+/* button */
+
+/* From cssbuttons.io by @Custyyyy */
+#bottone15 {
+	align-items: center;
+	background-color: #FFFFFF;
+	border: 1px solid rgba(0, 0, 0, 0.1);
+	border-radius: .25rem;
+	box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+	box-sizing: border-box;
+	color: rgba(0, 0, 0, 0.85);
+	cursor: pointer;
+	display: inline-flex;
+	font-family: 'Rowdies', cursive;
+	font-size: 16px;
+	font-weight: 600;
+	justify-content: center;
+	line-height: 1.25;
+	min-height: 3rem;
+	padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+	text-decoration: none;
+	transition: all 250ms;
+	user-select: none;
+	-webkit-user-select: none;
+	touch-action: manipulation;
+	vertical-align: baseline;
+	width: auto;
+	margin-top: 5%;
+	margin-left: 1%;
+   }
+   
+   #bottone5:hover,
+   #bottone5:focus {
+	border-color: rgba(0, 0, 0, 0.15);
+	box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+	color: rgba(0, 0, 0, 0.65);
+   }
+   
+   #bottone5:hover {
+	transform: translateY(-1px);
+   }
+   
+   #bottone5:active {
+	background-color: #F0F0F1;
+	border-color: rgba(0, 0, 0, 0.15);
+	box-shadow: rgba(0, 0, 0, 0.06) 0 2px 4px;
+	color: rgba(0, 0, 0, 0.65);
+	transform: translateY(0);
+   }
+
+   /* countdown timer */
+
+  
+  #timer {
+	font-family: 'Rowdies', cursive;
+	font-size: 20px;
+	color: #999;
+	letter-spacing: -1px;
+	padding-top: 10%;
+  }
+  #timer span {
+	font-size: 60px;
+	color: rgb(255, 255, 255);
+	margin: 0 3px 0 15px;
+  }
+  #timer span:first-child {
+	margin-left: 0;
+  }
+	
+  .timertext{
+	  color: aliceblue;
+  }
