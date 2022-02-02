@@ -28,9 +28,9 @@ function Services(){
 		<div class="col-md-4">
     
     <div  data-aos="fade-right" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/trash-bot.jpeg" class="img img-responsive" />
-        <div style={{backgroundColor:"rgb(230, 255, 110)"}} class="profile-content">
+        <div style={{backgroundColor:"rgb(255,182,193)"}} class="profile-content">
             <div class="profile-name">TRASH BOT</div>
-            <div><b>FUN EVENT</b></div>
+            <div><b>TECH EVENT</b></div>
             <div class="profile-description">
             Design and build a robot out of trash materials. </div>
             <a href="/" class="bn5">Register</a><Link to={`/post/event1`} class="bn5">Details</Link>
@@ -54,7 +54,7 @@ function Services(){
 <div class="col-md-4">
     
     <div data-aos="fade-left" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/callisto.jpg" class="img img-responsive" />
-        <div class="profile-content">
+        <div style={{backgroundColor:"rgb(255,182,193)"}} class="profile-content">
             <div class="profile-name">CALLISTO
                 
             </div>
@@ -69,7 +69,7 @@ function Services(){
     <div style={{paddingBottom:"5%"}} class="col-md-4">
     
     <div data-aos="fade-right" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/hunt-nova.jpg" class="img img-responsive" />
-        <div class="profile-content">
+        <div style={{backgroundColor:"rgb(255,182,193)"}} class="profile-content">
             <div class="profile-name">HUNT NOVA
                 
             </div>
@@ -82,7 +82,7 @@ function Services(){
     <div class="col-md-4">
     
     <div data-aos="fade-up" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/code-play.png" class="img img-responsive" />
-        <div class="profile-content">
+        <div style={{backgroundColor:"rgb(255,182,193)"}} class="profile-content">
             <div class="profile-name">CODE PLAY
                 
             </div>
@@ -94,7 +94,7 @@ function Services(){
     <div class="col-md-4">
     
     <div data-aos="fade-left" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/design-wars.png" class="img img-responsive" />
-        <div class="profile-content">
+        <div style={{backgroundColor:"rgb(255,182,193)"}} class="profile-content">
             <div class="profile-name">DESIGN WARS
                 
             </div>
@@ -106,12 +106,12 @@ function Services(){
     <div style={{paddingBottom:"5%"}} class="col-md-4">
     
     <div data-aos="fade-right" class="profile-card-4 text-center"><img alt="" style={{height:"27vh"}} src="assets/images/REGATTA.png" class="img img-responsive" />
-        <div  class="profile-content">
+        <div style={{backgroundColor:"rgb(255,182,193)"}} class="profile-content">
             <div class="profile-name">REGATTA 2.0
                
             </div>
             <div><b>TECH EVENT</b></div>
-            <div class="profile-description">Solve the problem statements  using ROS NOETIC, ROS MELODIC or constructsim(online).</div>
+            <div class="profile-description">Solve the problem statements using ROS NOETIC, ROS MELODIC or constructsim(online).</div>
             <a href="/" class="bn5">Register</a><Link to={`/post/event9`} class="bn5">Details</Link>
         </div>
     </div></div>
