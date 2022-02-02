@@ -96,7 +96,7 @@ a:focus {
     font-weight: bold;    
     color: #000;
     font-size: 2em;
-    padding-bottom: 1em;
+    padding-bottom: 0.5em;
 }
 
 .profile-card-4 .profile-name p {
@@ -106,11 +106,11 @@ a:focus {
 }
 
 .profile-card-4 .profile-description {
-    color: #777;
+    color: rgb(39, 38, 38);
     font-size: 0.9em;
     /* padding: 1em;
     padding-bottom: 2em; */
-    height: 20vh;
+    height: 12vh;
 }
 
 .profile-card-4 .profile-overview {
@@ -120,7 +120,7 @@ a:focus {
 .profile-card-4 .profile-overview p {
     font-size: 10px;
     font-weight: 600;
-    color: #777;
+    color: #191919;
 }
 
 .profile-card-4 .profile-overview h4 {
@@ -135,7 +135,7 @@ a:focus {
     top: -10px;
     left: 0px;
     right: 0px;
-    background-color: #FFF;
+    background-color: rgb(0, 0, 0);
     z-index: 0;
     transform: skewY(3deg);
 }

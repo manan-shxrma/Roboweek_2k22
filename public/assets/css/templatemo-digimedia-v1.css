@@ -144,7 +144,7 @@ global styles
 html,
 body {
   background: #fff;
-  font-family: 'poppins';
+  font-family: 'montserrat';
 }
 
 ::selection {
@@ -185,7 +185,7 @@ body {
 .section-heading h6 {
   font-size: 15px;
   font-weight: 700;
-  color: #726ae3;
+  color: #f58b56;
   text-transform: uppercase;
   margin-bottom: 15px;
 }
@@ -200,13 +200,13 @@ body {
 
 .section-heading h4 em {
   font-style: normal;
-  color: #726ae3;
+  color: #f58b56;
 }
 
 .section-heading .line-dec {
   width: 50px;
   height: 2px;
-  background-color: #726ae3;
+  background-color: #f58b56;
 }
 
 .border-first-button a {
@@ -1140,11 +1140,11 @@ About Style
 }
 
 .second-skill-item .progress .progress-bar {
-  border-color: #726ae3;
+  border-color: #f58b56;
 }
 
 .third-skill-item .progress .progress-bar {
-  border-color: #f58b56;
+  border-color: #282C35;
 }
 
 .progress .progress-left .progress-bar {

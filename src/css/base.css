@@ -131,13 +131,12 @@ main buttons */
     font-family: 'Bebas Neue', cursive;
 }
 .huhcard img{
-    width: 425px; height: 290px;
+    width: 420px; height: 290px;
 }
 .huhcard .card{
     font-family: 'EB Garamond', serif;
     width: 400px; height: 300px;
     perspective: 2000px;
-    cursor: pointer;
     box-shadow: 0 0 10px 10px rgba(243, 242, 242, 0.938);
     background-color: rgb(255, 255, 255);
 }
@@ -148,7 +147,7 @@ main buttons */
     position: absolute;
     backface-visibility: hidden;
     padding: 10px;
-    background-color: #00020383;
+    background-color: #000203;
 }
 .huhcard .content{
     display: flex;
@@ -157,18 +156,8 @@ main buttons */
     transition: transform 0.5s linear;
     transform-style: preserve-3d;
 }
-.huhcard .back{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 10px;
-    text-align: center;
-    background-color: transparent;
-    transform: rotateY(180deg);
-}
-.huhcard .card:hover .content{
-    transform: rotateY(180deg);
-}
+
+
 .huhcard .front p{
     font-size: 14px;
 }
