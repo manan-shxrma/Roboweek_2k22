@@ -87,19 +87,19 @@ import "../css/compdetail.css"
                     <h1>{title}</h1><br />
                 </div>
                 <div class="content"><ul>
-               <li><i class="fa fa-book-reader" aria-hidden="true"></i>  <h5 className="compet-name">Instructions</h5>
+               <li> <h5 className="compet-name"><i style={{paddingRight:"8px",paddingTop:"3px"}} class="fa fa-book-reader" aria-hidden="true"></i> Instructions</h5>
                         <p>{instructions}</p>
                </li><br />
-               <li><i class="fa fa-file-import" aria-hidden="true"></i> <h5 className="compet-name">Submission</h5>
+               <li> <h5 className="compet-name"><i style={{paddingRight:"12px",paddingTop:"3px"}} class="fa fa-file-import" aria-hidden="true"></i>Submission</h5>
                         <p>{submission}</p>
                </li><br />
-               <li><i class="fa fa-gavel" aria-hidden="true"></i> <h5 className="compet-name">Judging criteria</h5>
+               <li> <h5 className="compet-name"><i style={{paddingRight:"8px",paddingTop:"3px"}} class="fa fa-gavel" aria-hidden="true"></i>Judging criteria</h5>
                         <p>{judging}</p>
                </li><br />
-               <li><i class="fa fa-desktop" aria-hidden="true"></i> <h5 className="compet-name">Prerequisites</h5>
+               <li> <h5 className="compet-name"><i style={{paddingRight:"8px",paddingTop:"3px"}} class="fa fa-desktop" aria-hidden="true"></i>Prerequisites</h5>
                         <p>{prerequisites}</p>
                </li><br />
-               <li><i class="fa fa-award" aria-hidden="true"></i> <h5 className="compet-name">Prizes</h5>
+               <li> <h5 className="compet-name"><i style={{paddingRight:"16px",paddingTop:"3px"}} class="fa fa-award" aria-hidden="true"></i>Prizes</h5>
                         <p>{prizes}</p>
                </li><br />
                 </ul>  
