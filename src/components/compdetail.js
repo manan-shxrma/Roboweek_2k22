@@ -8,13 +8,19 @@ import "../css/compdetail.css"
 
 
  let instructions="";
+ let instructions2="";
+ let instructions3="";
+ let instructions4="";
+ let instructions5="";
  let title="";
  let prerequisites="";
  let prizes="";
- let judging="";
+ let judging1="";
+ let judging2="";
+ let judging3="";
  let image="";
- let submission="";
- 
+ let submission1="";
+ let submission2="";
  function Outline()  {
  
     let params = useParams();
@@ -25,13 +31,19 @@ import "../css/compdetail.css"
     for(let i = 0 ; i < arraylen; i++) {
        if(postcontent[i].name===params.id)
        { instructions=postcontent[i].instructions;
+        instructions2=postcontent[i].instructions2;
+        instructions3=postcontent[i].instructions3;
+        instructions4=postcontent[i].instructions4;
+        instructions5=postcontent[i].instructions5;
           title=postcontent[i].title;
           prerequisites=postcontent[i].prerequisites;
           prizes=postcontent[i].prizes;
-          judging=postcontent[i].judging;
+          judging1=postcontent[i].judging1;
+          judging2=postcontent[i].judging2;
+          judging3=postcontent[i].judging3;
           image=postcontent[i].image;
-          submission=postcontent[i].submission;
-          
+          submission1=postcontent[i].submission1;
+          submission2=postcontent[i].submission2;
         }
     
     else{
@@ -88,13 +100,13 @@ import "../css/compdetail.css"
                 </div>
                 <div class="content"><ul>
                <li> <h5 className="compet-name"><i style={{paddingRight:"8px",paddingTop:"3px"}} class="fa fa-book-reader" aria-hidden="true"></i> Instructions</h5>
-                        <p>{instructions}</p>
+                        <p>{instructions}<br />{instructions2}<br />{instructions3}<br />{instructions4}<br />{instructions5}<br /></p>
                </li><br />
                <li> <h5 className="compet-name"><i style={{paddingRight:"12px",paddingTop:"3px"}} class="fa fa-file-import" aria-hidden="true"></i>Submission</h5>
-                        <p>{submission}</p>
+                        <p>{submission1}<br />{submission2}</p>
                </li><br />
                <li> <h5 className="compet-name"><i style={{paddingRight:"8px",paddingTop:"3px"}} class="fa fa-gavel" aria-hidden="true"></i>Judging criteria</h5>
-                        <p>{judging}</p>
+                        <p>{judging1}<br />{judging2}<br />{judging3}</p>
                </li><br />
                <li> <h5 className="compet-name"><i style={{paddingRight:"8px",paddingTop:"3px"}} class="fa fa-desktop" aria-hidden="true"></i>Prerequisites</h5>
                         <p>{prerequisites}</p>
@@ -102,6 +114,7 @@ import "../css/compdetail.css"
                <li> <h5 className="compet-name"><i style={{paddingRight:"16px",paddingTop:"3px"}} class="fa fa-award" aria-hidden="true"></i>Prizes</h5>
                         <p>{prizes}</p>
                </li><br />
+               <li><img src={image}></img></li>
                 </ul>  
                     
                 </div>
