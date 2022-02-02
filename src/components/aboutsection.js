@@ -158,7 +158,7 @@ function Aboutsection(){
                 </div> 
               </div>
             </div>
-            <div style={{paddingLeft:"5%"}} className="col-lg-6">
+            <div style={{left:"5%"}} className="col-lg-6">
               <div className="about-left-image  wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s">
                 <img src="assets/images/about-dec-v3.png" alt="" />
               </div>
