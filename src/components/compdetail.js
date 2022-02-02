@@ -102,7 +102,7 @@ import "../css/compdetail.css"
                 </div>
                 <div className="comp-sec-det">
             <div className="poster1">
-            <img src={image}></img>
+            <img className="poster-style" src={image}></img>
             </div>
                 <div class="content">
                     <ul>
