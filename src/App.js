@@ -28,7 +28,7 @@ function App() {
 
         `https://lucid-pasteur-40c28b.netlify.app/` 
 
-        //  'http://localhost:3000/'
+        // 'http://localhost:3000/'
         //change this url when using localhost to http://localhost:3000/
         )
        
