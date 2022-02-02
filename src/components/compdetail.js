@@ -21,6 +21,7 @@ import "../css/compdetail.css"
  let image="";
  let submission1="";
  let submission2="";
+ let srcDoc="";
  function Outline()  {
  
     let params = useParams();
@@ -44,6 +45,7 @@ import "../css/compdetail.css"
           image=postcontent[i].image;
           submission1=postcontent[i].submission1;
           submission2=postcontent[i].submission2;
+          srcDoc=postcontent[i].srcDoc;
         }
     
     else{
@@ -98,7 +100,12 @@ import "../css/compdetail.css"
                 <div class="title">
                     <h1>{title}</h1><br />
                 </div>
-                <div class="content"><ul>
+                <div className="comp-sec-det">
+            <div className="poster1">
+            <img src={image}></img>
+            </div>
+                <div class="content">
+                    <ul>
                <li> <h5 className="compet-name"><i style={{paddingRight:"8px",paddingTop:"3px"}} class="fa fa-book-reader" aria-hidden="true"></i> Instructions</h5>
                         <p>{instructions}<br />{instructions2}<br />{instructions3}<br />{instructions4}<br />{instructions5}<br /></p>
                </li><br />
@@ -114,9 +121,11 @@ import "../css/compdetail.css"
                <li> <h5 className="compet-name"><i style={{paddingRight:"16px",paddingTop:"3px"}} class="fa fa-award" aria-hidden="true"></i>Prizes</h5>
                         <p>{prizes}</p>
                </li><br />
-               <li><img src={image}></img></li>
+               
+               <li><button class="cta"> <span class="shadow"></span> <span class="edge"></span><span class="front text"><a href={srcDoc}> Documentation</a></span></button></li>
                 </ul>  
                     
+                </div>
                 </div>
             </div>
             

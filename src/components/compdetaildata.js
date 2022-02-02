@@ -17,8 +17,8 @@ const homedata = [
         judging3:"",
         prerequisites:"now we have our prerequisities for this event",
         prizes:"and finally we have some prizes!!!",
-        image:"https://eandt.theiet.org/media/8174/view-from-india-generic-2.jpg?anchor=center&mode=crop&width=640&height=480&rnd=131983301100000000"
-       
+        image:"public/assets/images/trash-bot.jpeg",
+        srcDoc:"https://docs.google.com/document/d/1bcbX724b5yt1HKjAwL8YXA_LZjDtLBItEwg_GpsE0QY/edit"
     },
     {
       id: 2,
@@ -38,7 +38,8 @@ const homedata = [
         judging3:"",
         prerequisites:"now we have our prerequisities for this event",
         prizes:"and finally we have some prizes!!!",
-        image:"https://eandt.theiet.org/media/8174/view-from-india-generic-2.jpg?anchor=center&mode=crop&width=640&height=480&rnd=131983301100000000"
+        image:"public/assets/images/code-nari.jpeg",
+        srcDoc:"https://docs.google.com/document/d/1JGfo0aMb4-PgUhfJbD9WTiXHpmcqb_b6OomciORBkUg/edit?usp=sharing"
     },
     {
       id: 3,
@@ -57,7 +58,8 @@ const homedata = [
         judging3:"",
         prerequisites:"now we have our prerequisities for this event",
         prizes:"and finally we have some prizes!!!",
-        image:"https://eandt.theiet.org/media/8174/view-from-india-generic-2.jpg?anchor=center&mode=crop&width=640&height=480&rnd=131983301100000000"
+        image:"public/assets/images/callisto.jpg",
+        srcDoc:"https://docs.google.com/document/d/1bCZdxce2AydavlmnKfiYLxCHGY2Y6rJ29zaFXpD4htw/edit?usp=sharing"
     },
     {
       id: 4,
@@ -77,7 +79,8 @@ const homedata = [
         judging3:"",
         prerequisites:"TinkerCad and Circuit designing.",
         prizes:"and finally we have some prizes!!!",
-        image:"assets/images/hunt-nova.jpg"
+        image:"public/assets/images/hunt-nova.jpg",
+        srcDoc:"https://docs.google.com/document/d/1Rnd--W0dzLetZZ2oOkA5ik4wcBjy5c6JEbCTZE7xVVw/edit?usp=sharing"
     }
     ,
     {
@@ -98,7 +101,8 @@ const homedata = [
         judging3:"",
         prerequisites:"now we have our prerequisities for this event",
         prizes:"and finally we have some prizes!!!",
-        image:"https://eandt.theiet.org/media/8174/view-from-india-generic-2.jpg?anchor=center&mode=crop&width=640&height=480&rnd=131983301100000000"
+        image:"public/assets/images/code-play.png",
+        srcDoc:"https://docs.google.com/document/d/1aKmJqsTtZxFZKgHvRXXhNojta7za_YROfL3wtrmXbkM/edit?usp=sharing"
     } ,
     {
       id: 6,
@@ -118,7 +122,8 @@ const homedata = [
         judging3:"",
         prerequisites:"now we have our prerequisities for this event",
         prizes:"and finally we have some prizes!!!",
-        image:"https://eandt.theiet.org/media/8174/view-from-india-generic-2.jpg?anchor=center&mode=crop&width=640&height=480&rnd=131983301100000000"
+        image:"public/assets/images/design-wars.png",
+        srcDoc:"https://docs.google.com/document/d/1sQhRUUaS18pYQ_mnIwJ6eXvWiynF_Xk18S0TGSCupdU/edit"
     } ,
     {
       id: 7,
@@ -140,7 +145,8 @@ const homedata = [
 
         prerequisites:"now we have our prerequisities for this event",
         prizes:"and finally we have some prizes!!!",
-        image:"https://eandt.theiet.org/media/8174/view-from-india-generic-2.jpg?anchor=center&mode=crop&width=640&height=480&rnd=131983301100000000"
+        image:"public/assets/images/REGATTA.png",
+        srcDoc:"https://docs.google.com/document/d/1MFIrG2QMHhVTAYFjRv1T-4p5Hw6_vB3Lya75SxpYA5U/edit"
     } ,
     {
       id: 8,
@@ -160,7 +166,8 @@ const homedata = [
         judging3:"",
         prerequisites:"now we have our prerequisities for this event",
         prizes:"and finally we have some prizes!!!",
-        image:"https://eandt.theiet.org/media/8174/view-from-india-generic-2.jpg?anchor=center&mode=crop&width=640&height=480&rnd=131983301100000000"
+        image:"public/assets/images/clipped.jpg",
+        srcDoc:"https://docs.google.com/document/d/1nR2BA9EprOUfOUkP5l3lO6a7gnBiV9-kBqSxbpDf7xs/edit?usp=sharing"
     } ,
     {
       id: 9,
@@ -180,7 +187,8 @@ const homedata = [
         judging3:"",
         prerequisites:"now we have our prerequisities for this event",
         prizes:"and finally we have some prizes!!!",
-        image:"https://eandt.theiet.org/media/8174/view-from-india-generic-2.jpg?anchor=center&mode=crop&width=640&height=480&rnd=131983301100000000"
+        image:"public/assets/images/Arcanum.png",
+        srcDoc:"https://docs.google.com/document/d/1Yia0B1RrDKRsKUPnsl1lTE5s_DJae3MqvAXq_Anid2o/edit?usp=sharing"
     }
      
     
