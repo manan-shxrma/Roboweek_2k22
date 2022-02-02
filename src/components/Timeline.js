@@ -1,7 +1,9 @@
 import React from "react"
 import "../css/timeline.css"
 import "../js/timeline.js"
-
+import "../css/base.css"
+import AOS from 'aos';
+AOS.init();
 
 function Freequote(){
   
@@ -10,7 +12,7 @@ function Freequote(){
         return(<><section id="timeline">
        
     <div  className="container mainbodyoftimeline mb-4" >
-     <div className="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
+     <div data-aos="fade-right" className="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
           <h6>Timeline</h6>
           <h4>How <em>Roboweek</em> works</h4>
           <div className="line-dec"></div>
@@ -23,7 +25,7 @@ function Freequote(){
 
 <div class="container2 py-3 my-3" >
 	
-	<div class="timeline-item1" >
+	<div data-aos="zoom-in" class="timeline-item1" >
 		<h1 className="timelineh1">Day- 1</h1><h5>21st March</h5> 
 		<p className="timelinepara">
 		<div class="row">
@@ -69,7 +71,7 @@ function Freequote(){
 		</p>
 	</div>
 	
-	<div class="timeline-item1" >
+	<div data-aos="zoom-in" class="timeline-item1" >
 		<h1 className="timelineh1">Day-2</h1><h5>22nd March</h5>
 		<p className="timelinepara">
 		<div class="row">
@@ -96,7 +98,7 @@ function Freequote(){
 		</p>
 	</div>
 	
-	<div class="timeline-item1" >
+	<div data-aos="zoom-in" class="timeline-item1" >
 		<h1 className="timelineh1">Day-3</h1><h5>23rd March</h5>
 		<p className="timelinepara">
 		<div class="row">
@@ -145,7 +147,7 @@ function Freequote(){
 		
 		</p>
 	</div>
-	<div class="timeline-item1" >
+	<div data-aos="zoom-in" class="timeline-item1" >
 		<h1 className="timelineh1">Day-4</h1><h5>24th March</h5>
 		<p className="timelinepara">
 		<div class="row">
@@ -177,7 +179,7 @@ function Freequote(){
 		
 		</p>
 	</div>
-	<div class="timeline-item1" >
+	<div data-aos="zoom-in" class="timeline-item1" >
 		<h1 className="timelineh1">Day-5</h1><h5>25th March</h5>
 		<p className="timelinepara">
 		<div class="row">
@@ -213,7 +215,7 @@ function Freequote(){
 		
 		</p>
 	</div>
-	<div class="timeline-item1" >
+	<div data-aos="zoom-in" class="timeline-item1" >
 		<h1 className="timelineh1">Day-6</h1><h5>26th March</h5>
 		<p className="timelinepara">
 		<div class="row">
@@ -252,7 +254,7 @@ function Freequote(){
 		
 		</p>
 	</div>
-	<div class="timeline-item1" >
+	<div data-aos="zoom-in" class="timeline-item1" >
 		<h1 className="timelineh1">Day-7</h1><h5>27th March</h5>
 		<p className="timelinepara">
 		<div class="row">

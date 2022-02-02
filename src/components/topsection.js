@@ -1,6 +1,4 @@
-import React , { useEffect } from "react"
-import Snowfall from 'react-snowfall'
-import Sparkle from 'react-sparkle'
+import React  from "react"
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import "../css/base.css"
@@ -8,20 +6,14 @@ import "../js/topsection.js"
 import "../css/topsec.css"
 import Illustration from "./illustration";
 
-
+AOS.init();
 function Topsection(){
-  
-              useEffect(() => {
-              AOS.init();
-              AOS.refresh();
-            }, []);
-
 
 return(<>
   
   <section class="background">
 	<div class="hover">
-  <div className="headingdiv"> 
+  <div data-aos="fade-right" className="headingdiv"> 
   <h1 class="hero-title">RoboWeek 2.0</h1>
   <h5 className="underhero">Let's build the future</h5>
  <a href="https://dare2compete.com/festival/roboweek-national-institute-of-technology-nit-hamirpur-10200"> <button id="bottone15"><i style={{paddingTop:"1%",paddingRight:"3%"}} class="fas fa-award" /> Register</button></a>

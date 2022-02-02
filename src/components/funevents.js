@@ -1,12 +1,15 @@
 import React from "react"
 import "../css/funevents.css"
 import {Link} from "react-router-dom"
+import "../css/base.css"
+import AOS from 'aos';
+AOS.init();
 
 function Services(){
     return(<><div className="container mainbodyoffuneve">
     
-    <div
-      className="section-heading wow fadeInLeft"
+    <div data-aos="fade-right"
+      className="section-heading"
       data-wow-duration="1s"
       data-wow-delay="0.3s" style={{paddingTop:"10%"}}
     >
@@ -24,10 +27,10 @@ function Services(){
   <div className="row">
 		<div class="col-md-4">
     
-    <div class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/trash-bot.jpeg" class="img img-responsive" />
-        <div class="profile-content">
+    <div  data-aos="fade-right" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/trash-bot.jpeg" class="img img-responsive" />
+        <div style={{backgroundColor:"rgb(230, 255, 110)"}} class="profile-content">
             <div class="profile-name">TRASH BOT</div>
-            <div><b>TECH EVENT</b></div>
+            <div><b>FUN EVENT</b></div>
             <div class="profile-description">
             Design and build a robot out of trash materials. </div>
             <a href="/" class="bn5">Register</a><Link to={`/post/event1`} class="bn5">Details</Link>
@@ -36,8 +39,8 @@ function Services(){
 </div>
 <div class="col-md-4">
     
-    <div class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/code-nari.jpeg" class="img img-responsive" />
-        <div class="profile-content">
+    <div data-aos="fade-up" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/code-nari.jpeg" class="img img-responsive" />
+        <div style={{backgroundColor:"rgb(255,182,193)"}}  class="profile-content">
                 
            
             <div class="profile-name">CODE NAARI </div>
@@ -50,7 +53,7 @@ function Services(){
 </div>
 <div class="col-md-4">
     
-    <div class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/callisto.jpg" class="img img-responsive" />
+    <div data-aos="fade-left" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/callisto.jpg" class="img img-responsive" />
         <div class="profile-content">
             <div class="profile-name">CALLISTO
                 
@@ -65,7 +68,7 @@ function Services(){
     </div></div>
     <div style={{paddingBottom:"5%"}} class="col-md-4">
     
-    <div class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/hunt-nova.jpg" class="img img-responsive" />
+    <div data-aos="fade-right" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/hunt-nova.jpg" class="img img-responsive" />
         <div class="profile-content">
             <div class="profile-name">HUNT NOVA
                 
@@ -78,7 +81,7 @@ function Services(){
     </div></div>
     <div class="col-md-4">
     
-    <div class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/code-play.png" class="img img-responsive" />
+    <div data-aos="fade-up" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/code-play.png" class="img img-responsive" />
         <div class="profile-content">
             <div class="profile-name">CODE PLAY
                 
@@ -90,7 +93,7 @@ function Services(){
     </div></div>
     <div class="col-md-4">
     
-    <div class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/design-wars.png" class="img img-responsive" />
+    <div data-aos="fade-left" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/design-wars.png" class="img img-responsive" />
         <div class="profile-content">
             <div class="profile-name">DESIGN WARS
                 
@@ -102,8 +105,8 @@ function Services(){
     </div></div>
     <div style={{paddingBottom:"5%"}} class="col-md-4">
     
-    <div class="profile-card-4 text-center"><img alt="" style={{height:"27vh"}} src="assets/images/REGATTA.png" class="img img-responsive" />
-        <div class="profile-content">
+    <div data-aos="fade-right" class="profile-card-4 text-center"><img alt="" style={{height:"27vh"}} src="assets/images/REGATTA.png" class="img img-responsive" />
+        <div  class="profile-content">
             <div class="profile-name">REGATTA 2.0
                
             </div>
@@ -114,8 +117,8 @@ function Services(){
     </div></div>
     <div class="col-md-4">
     
-    <div class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/clipped.jpg" class="img img-responsive" />
-        <div class="profile-content">
+    <div data-aos="fade-up" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/clipped.jpg" class="img img-responsive" />
+        <div style={{backgroundColor:"rgb(230, 255, 110)"}} class="profile-content">
             <div class="profile-name">#CLIPPED
               
             </div>
@@ -127,8 +130,8 @@ function Services(){
     </div></div>
     <div class="col-md-4">
     
-    <div class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/Arcanum.png" class="img img-responsive" />
-        <div class="profile-content">
+    <div data-aos="fade-left" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/Arcanum.png" class="img img-responsive" />
+        <div style={{backgroundColor:"rgb(230, 255, 110)"}} class="profile-content">
             <div class="profile-name">
                ARCANUM
             </div>
