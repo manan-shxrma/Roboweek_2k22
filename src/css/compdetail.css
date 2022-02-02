@@ -37,7 +37,7 @@
 @media (max-width: 900px) {
     .comp-sec-det{
         flex-direction: column;
-       
+        padding-bottom:0 ;
   }
   .poster-style{
      
@@ -88,12 +88,14 @@
     position: relative;
     border: none;
     background: transparent;
-    padding: 0;
+    padding:0;
     cursor: pointer;
     outline-offset: 4px;
     transition: filter 250ms;
     user-select: none;
     touch-action: manipulation;
+    margin-top: 1.6em ;
+    
    }
    
    .shadow {
