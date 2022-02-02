@@ -17,7 +17,7 @@ const homedata = [
         judging3:"",
         prerequisites:"now we have our prerequisities for this event",
         prizes:"and finally we have some prizes!!!",
-        image:"public/assets/images/trash-bot.jpeg",
+        image:"../../assets/images/trash-bot.jpeg",
         srcDoc:"https://docs.google.com/document/d/1bcbX724b5yt1HKjAwL8YXA_LZjDtLBItEwg_GpsE0QY/edit"
     },
     {
@@ -38,7 +38,7 @@ const homedata = [
         judging3:"",
         prerequisites:"now we have our prerequisities for this event",
         prizes:"and finally we have some prizes!!!",
-        image:"public/assets/images/code-nari.jpeg",
+        image:"../../assets/images/code-nari.jpeg",
         srcDoc:"https://docs.google.com/document/d/1JGfo0aMb4-PgUhfJbD9WTiXHpmcqb_b6OomciORBkUg/edit?usp=sharing"
     },
     {
@@ -58,7 +58,7 @@ const homedata = [
         judging3:"",
         prerequisites:"now we have our prerequisities for this event",
         prizes:"and finally we have some prizes!!!",
-        image:"public/assets/images/callisto.jpg",
+        image:"../../assets/images/callisto.jpg",
         srcDoc:"https://docs.google.com/document/d/1bCZdxce2AydavlmnKfiYLxCHGY2Y6rJ29zaFXpD4htw/edit?usp=sharing"
     },
     {
@@ -79,7 +79,7 @@ const homedata = [
         judging3:"",
         prerequisites:"TinkerCad and Circuit designing.",
         prizes:"and finally we have some prizes!!!",
-        image:"public/assets/images/hunt-nova.jpg",
+        image:"../../assets/images/hunt-nova.jpg",
         srcDoc:"https://docs.google.com/document/d/1Rnd--W0dzLetZZ2oOkA5ik4wcBjy5c6JEbCTZE7xVVw/edit?usp=sharing"
     }
     ,
@@ -101,7 +101,7 @@ const homedata = [
         judging3:"",
         prerequisites:"now we have our prerequisities for this event",
         prizes:"and finally we have some prizes!!!",
-        image:"public/assets/images/code-play.png",
+        image:"../../assets/images/code-play.png",
         srcDoc:"https://docs.google.com/document/d/1aKmJqsTtZxFZKgHvRXXhNojta7za_YROfL3wtrmXbkM/edit?usp=sharing"
     } ,
     {
@@ -122,7 +122,7 @@ const homedata = [
         judging3:"",
         prerequisites:"now we have our prerequisities for this event",
         prizes:"and finally we have some prizes!!!",
-        image:"public/assets/images/design-wars.png",
+        image:"../../assets/images/design-wars.png",
         srcDoc:"https://docs.google.com/document/d/1sQhRUUaS18pYQ_mnIwJ6eXvWiynF_Xk18S0TGSCupdU/edit"
     } ,
     {
@@ -145,7 +145,7 @@ const homedata = [
 
         prerequisites:"now we have our prerequisities for this event",
         prizes:"and finally we have some prizes!!!",
-        image:"public/assets/images/REGATTA.png",
+        image:"../../assets/images/REGATTA.png",
         srcDoc:"https://docs.google.com/document/d/1MFIrG2QMHhVTAYFjRv1T-4p5Hw6_vB3Lya75SxpYA5U/edit"
     } ,
     {
@@ -166,7 +166,7 @@ const homedata = [
         judging3:"",
         prerequisites:"now we have our prerequisities for this event",
         prizes:"and finally we have some prizes!!!",
-        image:"public/assets/images/clipped.jpg",
+        image:"../../assets/images/clipped.jpg",
         srcDoc:"https://docs.google.com/document/d/1nR2BA9EprOUfOUkP5l3lO6a7gnBiV9-kBqSxbpDf7xs/edit?usp=sharing"
     } ,
     {
@@ -187,7 +187,7 @@ const homedata = [
         judging3:"",
         prerequisites:"now we have our prerequisities for this event",
         prizes:"and finally we have some prizes!!!",
-        image:"public/assets/images/Arcanum.png",
+        image:"../../assets/images/Arcanum.png",
         srcDoc:"https://docs.google.com/document/d/1Yia0B1RrDKRsKUPnsl1lTE5s_DJae3MqvAXq_Anid2o/edit?usp=sharing"
     }
      
