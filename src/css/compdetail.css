@@ -182,7 +182,7 @@
     border: none;
     background: transparent;
     padding:0;
-    cursor: pointer;
+    cursor: default;
     outline-offset: 4px;
     transition: filter 250ms;
     user-select: none;
