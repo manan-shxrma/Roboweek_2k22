@@ -122,12 +122,25 @@ main buttons */
   .imgabout{
     width:330px ;
     height: 240px;
-    
+  
   }
   
+}
+.paddingofaboutimage{
+  
+  padding-top: 15vh;
 }
 @media only screen and (max-width: 1000px) {
   .paddingofaboutimage{
     padding-bottom: 10%;
+    display: flex;
+    justify-content: center;
+    padding-top: 0;
   }
+}
+.quote{
+  text-align: center;
+}
+.down{
+padding-top: 15vh;
 }
