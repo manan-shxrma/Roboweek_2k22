@@ -5,9 +5,10 @@ import "../css/base.css"
 import AOS from 'aos';
 AOS.init();
 
+
 function Services(){
     
-    return(<><div className="container mainbodyoffuneve">
+    return(<><div id="services" className="container mainbodyoffuneve">
     
     <div data-aos="fade-right"
       className="section-heading"
@@ -35,7 +36,7 @@ function Services(){
             <div><b>TECH EVENT</b></div>
             <div class="profile-description">
             Design and build a robot out of trash materials. </div>
-            <a href="/" class="bn5">Register</a><Link to={`/post/event1`} class="bn5">Details</Link>
+            <a href="/" class="bn5">Register</a><Link to="/#home" className="bn5">Details</Link> 
         </div>
     </div>
 </div>
@@ -49,7 +50,7 @@ function Services(){
             <div><b>TECH EVENT</b></div>
             <div class="profile-description">Compete against different female across the country to solve problems.
 </div>
-            <a href="/" class="bn5">Register</a><Link to={`/post/event2`} class="bn5">Details</Link>
+            <a href="/" class="bn5">Register</a><Link to="/#home" class="bn5">Details</Link>
         </div>
     </div>
 </div>

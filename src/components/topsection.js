@@ -11,7 +11,7 @@ function Topsection(){
 
 return(<>
   
-  <section class="background">
+  <section id="home" class="background">
 	<div class="hover">
   <div data-aos="fade-right" className="headingdiv"> 
   <h1 class="hero-title">RoboWeek 2.0</h1>

@@ -146,7 +146,9 @@ a:focus {
     filter: brightness(110%);
 }
 
-
+.disabledCursor { 
+  cursor: default;
+}
 
 /* buttons */
 .bn5 {
