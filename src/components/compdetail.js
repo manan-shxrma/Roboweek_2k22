@@ -112,7 +112,7 @@ import "../css/compdetail.css"
                 <div class="content">
                     <ul>
                <li> <h5 className="compet-name"><i style={{paddingRight:"8px",paddingTop:"3px"}} class="fa fa-book-reader" aria-hidden="true"></i> Instructions</h5>
-                        <p>{instructions}<br />{instructions2}<br />{instructions3}<br />{instructions4}<br />{instructions5}<br /></p>
+                        <p>{instructions}<br />{instructions2}<br />{instructions3}</p>
                </li><br />
                <li> <h5 className="compet-name"><i style={{paddingRight:"12px",paddingTop:"3px"}} class="fa fa-file-import" aria-hidden="true"></i>Submission</h5>
                         <p>{submission1}<br />{submission2}</p>
