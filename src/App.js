@@ -8,6 +8,7 @@ import { css } from "@emotion/react";
 import ScaleLoader from "react-spinners/ScaleLoader";
 import ScrollToTop from './components/ScrollToTop';
 
+
 const override = css`
 text-align:center;
  background-color:#081b24;
@@ -27,9 +28,9 @@ function App() {
     const getItems =  async () =>{
       const result = await axios (
 
-        `https://lucid-pasteur-40c28b.netlify.app/` 
+         `http://localhost:3000/` 
+//"http://localhost:3000/"
 
-       // 'http://localhost:3000/'
         //change this url when using localhost to http://localhost:3000/
  
         )
@@ -54,20 +55,10 @@ function App() {
         <BrowserRouter>
          <ScrollToTop/>
         <Routes>
+        
         <Route  exact path="/" element={<Outline />} />
-<<<<<<< HEAD
-<<<<<<< HEAD
-        <Route exact path="/post/:id" element={<Compdetail />} />
+        <Route  exact path="/post/:id" element={<Compdetail />} />
         
-=======
-        <Route  path="/post/:id" element={<Compdetail />} />
->>>>>>> 8caed817b389d46da053fac704915c05632dfa5e
-=======
-
-        <Route exact path="/post/:id" element={<Compdetail />} />
-        
-
->>>>>>> 0f841e10a4e82b3f1965a851a7645476dd7e08e5
         </Routes>
       </BrowserRouter>
       }
