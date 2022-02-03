@@ -56,11 +56,18 @@ function App() {
         <Routes>
         <Route  exact path="/" element={<Outline />} />
 <<<<<<< HEAD
+<<<<<<< HEAD
         <Route exact path="/post/:id" element={<Compdetail />} />
         
 =======
         <Route  path="/post/:id" element={<Compdetail />} />
 >>>>>>> 8caed817b389d46da053fac704915c05632dfa5e
+=======
+
+        <Route exact path="/post/:id" element={<Compdetail />} />
+        
+
+>>>>>>> 0f841e10a4e82b3f1965a851a7645476dd7e08e5
         </Routes>
       </BrowserRouter>
       }
