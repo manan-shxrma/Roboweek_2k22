@@ -67,14 +67,14 @@ function Faq(){
     </h2>
     <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-      Well we have exclusive cash prizes ,coupons and musch more for the winners
+      Well we have exclusive cash prizes ,coupons and much more for the winners
       </div>
     </div>
   </div>
   <div data-aos="zoom-in" class="accordion-item">
     <h2 class="accordion-header" id="headingSix">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-      IS THE PARTICIPATION INDIVISUAL OR IN TEAMS?
+      IS THE PARTICIPATION INDIVIDUAL OR IN TEAMS?
       </button>
     </h2>
     <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
