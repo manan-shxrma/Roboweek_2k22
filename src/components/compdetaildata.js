@@ -3,7 +3,7 @@ const homedata = [
     {
       id: 1,
       emoji: "💪",
-      name: "event1",
+      name: "trashbot",
       instructions:
         "TrashBot is an event to exhibit one's creativity. The participants should design and prepare a model of a robot out of trash. Participants are expected to build robots for high utilities using as much trash as possible. ",
         instructions2:"",
@@ -24,7 +24,7 @@ const homedata = [
     {
       id: 2,
       emoji: "🙏",
-      name: "event2",
+      name: "codenaari",
       instructions:
         "So as to encourage women participation in the field of programming ,we Robotics Society is going to organise a coding competition for female participants in RoboWeek 2.0  in  which they will be given some amazing problem statements to solve so as to showcase their coding and problem solving skills .",
         instructions2:"",
@@ -47,7 +47,7 @@ const homedata = [
     {
       id: 3,
       emoji: "🤣",
-      name: "event3",
+      name: "callisto",
       instructions: " Bringing you the enigma of words and expressions, Roboweek presents you the technical writing competition “Callisto: words for thoughts “.  A battle of pens curated to spark the cells in your brain and force you to think about the odds. The goal is to bring out the best of your expressions in words.        Entrants will be given 3 different problem statements, from which they can opt for anyone. Mind nothing is wrong, nothing is right, provided any part of your submission is not plagiarised and doesn't exceed 400 words. Put the essence of your imagination into vocables and you are good to go.Get ready to reflect yourself into your writing and there’s a lot awaiting you on the other side.",
       instructions2:" 1 round only",
       instructions3:"",
@@ -67,7 +67,7 @@ const homedata = [
     {
       id: 4,
       emoji: "🤣",
-      name: "event4",
+      name: "huntnova",
       instructions:
         "Hunt-Nova is a mind boggling contest where you can play with your logic to crack the components and build a working prototype on TinkerCad.",
         instructions2:"",
@@ -89,7 +89,7 @@ const homedata = [
     {
       id: 5,
       emoji: "🤣",
-      name: "event7",
+      name: "codeplay",
       instructions:
         "Code-Play is a coding competition where participants have to solve a given set of problems in a fixed amount of time. ",
         instructions2:"The competition will consist of only one round. ",
@@ -110,7 +110,7 @@ const homedata = [
     {
       id: 6,
       emoji: "🤣",
-      name: "event8",
+      name: "designwars",
       instructions:
         "In this version of Design Wars 2.0, participants have to design any thing related to the problem statement.Student are required to create designs by using the designing softwares such as AutoCAD, OnShape, Solidworks and Fusion 360.  Problem statement will be out on 18th March.",
         instructions2:"Contest comprises of two rounds :",
@@ -131,7 +131,7 @@ const homedata = [
     {
       id: 7,
       emoji: "🤣",
-      name: "event9",
+      name: "regatta",
       instructions:
         "In this version of Regatta 2.0, participants have to solve the problem statements  using ROS or constructsim(online).  Problem statements will be released on 18th March",
 
@@ -142,7 +142,7 @@ const homedata = [
         title:"Regetta",
         submission1:"Statement release-18/03(17:00)",
         submission2:"Submission window-23/03(00:00) - 24/03(23:59)",
-        submission2:"All files are needed to be sumbitted via a private github repo. Further details would be revealed with the problem statement. ",
+        submission3:"All files are needed to be sumbitted via a private github repo. Further details would be revealed with the problem statement. ",
         judging1:"Based on performance in indvidual problems, Full score distribution would be in problem statement.",
         judging2:"In case of tie breaker star marked problems would be given preference. ",
         judging3:"If above not applies participants would be judged on cleanliness and readability of code full decision is in the hands of organising team.",
@@ -155,7 +155,7 @@ const homedata = [
     {
       id: 8,
       emoji: "🤣",
-      name: "event5",
+      name: "clipped",
       instructions:
         "In this event you will be given some topics, on which you have to make a 7- 10 minute video in one week. A library containing stock videos and images will be provided. You also have to submit a word file explaining the essence, transition and edits of your video that you made. Also the links of videos used if you are using something outside of the library we provided.",
         instructions2:"",
@@ -176,7 +176,7 @@ const homedata = [
     {
       id: 9,
       emoji: "🤣",
-      name: "event6",
+      name: "arcanum",
       instructions:
         "The players have to decode the hints and ciphers (further hints may be present on different pages across the internet) and enter the answers for each level. The first one to clear all the levels will be declared the winner.",
         instructions2:"The first one to clear all the levels will be declared as the winner. Players who finish after this, shall be ranked consecutively In case of any issue or dispute, decisions of the organizers will be final and binding. No claim will be entertained against the announced results.",
@@ -197,7 +197,7 @@ const homedata = [
     {
       id: 10,
       emoji: "🤣",
-      name: "event10",
+      name: "tinkerit",
       instructions:
         "Tinker It is an IOT challenge where the participants need to demonstrate their grasp and understanding of basic IOT by solving a variety of challenge statements.",
         instructions3:"",
