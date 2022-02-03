@@ -27,7 +27,7 @@ function Services(){
   <div style={{paddingTop:"8%"}}>
 
   <div className="row">
-		<div class="col-md-4">
+		<div style={{paddingBottom:"5%"}} class="col-md-4">
     
     <div  data-aos="fade-right" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/trash-bot.jpeg" class="img img-responsive" />
         <div style={{backgroundColor:"rgb(255,182,193)", paddingBottom:"4vh"}} class="profile-content">
