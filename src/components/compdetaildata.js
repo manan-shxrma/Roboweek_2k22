@@ -5,16 +5,16 @@ const homedata = [
       emoji: "💪",
       name: "trashbot",
       instructions:
-        "TrashBot is an event to exhibit one's creativity. The participants should design and prepare a model of a robot out of trash. Participants are expected to build robots for high utilities using as much trash as possible. ",
-        instructions2:"",
-        instructions3:"",
-        instructions4:"",
-        instructions5:"",
+        "TrashBot is an event to exhibit one's creativity. ",
+        instructions2:" The participants should design and prepare a model of a robot out of trash.",
+        instructions3:"Participants are expected to build robots for high utilities using as much trash as possible. ",
+        
+       
         title:"Trash Bot",
         submission1:"Submission platform- Google Forms ",
         submission2:"The submission window will be open from 12:01 am, 18/03/2022 to 11.59 p.m, 23/03/2022",
-        judging1:"The participants will be judged based on their creativity and innovation; amount of trash material used along with the utilities of the robot model built by them. ",
-        judging2:"",
+        judging1:"The participants will be judged based on their creativity and innovation; ",
+        judging2:" amount of trash material used along with the utilities of the robot model built by them.",
         judging3:"",
         prerequisites:"All you need is just creativity and basic knowledge of high school physics. ",
         prizes:"",
