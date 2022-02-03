@@ -235,14 +235,14 @@ a:focus {
     background: #cccccc;
     border-radius: 50px;
     font-size: 12px;
-    margin-left: 1%;
+    
     color: #fff;
-    padding: 2px 10px;
+    padding: 4px 10px;
     cursor: pointer;
     background-color: #1a3c67;
-    left: 30%;
+    margin-left: 0% !important;
     top: 30%;
-    position: absolute;
+    position: relative;
     
   }
   .hate{
