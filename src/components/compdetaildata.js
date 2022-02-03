@@ -213,9 +213,28 @@ const homedata = [
         prizes:"",
         image:"../../assets/images/Tinker_ It.png",
         srcDoc:"https://docs.google.com/document/d/1Yia0B1RrDKRsKUPnsl1lTE5s_DJae3MqvAXq_Anid2o/edit?usp=sharing"
+    },
+    {
+      id: 11,
+      emoji: "💪",
+      name: "squiz",
+      instructions:
+        "TrashBot is an event to exhibit one's creativity. The participants should design and prepare a model of a robot out of trash. Participants are expected to build robots for high utilities using as much trash as possible. ",
+        instructions2:"",
+        instructions3:"",
+        instructions4:"",
+        instructions5:"",
+        title:"Squiz game",
+        submission1:"Submission platform- Google Forms ",
+        submission2:"The submission window will be open from 12:01 am, 18/03/2022 to 11.59 p.m, 23/03/2022",
+        judging1:"The participants will be judged based on their creativity and innovation; amount of trash material used along with the utilities of the robot model built by them. ",
+        judging2:"",
+        judging3:"",
+        prerequisites:"All you need is just creativity and basic knowledge of high school physics. ",
+        prizes:"",
+        image:"../../assets/images/trash-bot.jpeg",
+        srcDoc:"https://docs.google.com/document/d/1bcbX724b5yt1HKjAwL8YXA_LZjDtLBItEwg_GpsE0QY/edit"
     }
-     
-    
   ];
   
   
