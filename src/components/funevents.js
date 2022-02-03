@@ -150,6 +150,19 @@ function Services(){
             <a href="/#home" class="bn5">Register</a><Link to="/#home" class="bn5">Details</Link>
         </div>
     </div></div>
+    <div class="col-md-4">
+    
+    <div data-aos="fade-left" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/squiz.png" class="img img-responsive" />
+        <div style={{backgroundColor:"rgb(230, 255, 110)", paddingBottom:"4vh"}} class="profile-content">
+            <div class="profile-name">
+               SQUIZ GAME
+            </div>
+        <span class="tag12 " style={{marginLeft:"1.4vw"}}>Deduction</span>
+            <div className="hate"><b>FUN EVENT</b></div>
+            <div class="profile-description mb-2">Quiz for 1st and 2nd year in the domain of robotics and technology</div>
+            <a href="/#home" class="bn5">Register</a><Link to="/#home" class="bn5">Details</Link>
+        </div>
+    </div></div>
 
 </div>
 </div>
