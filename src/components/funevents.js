@@ -27,7 +27,7 @@ function Services(){
   <div style={{paddingTop:"8%"}}>
 
   <div className="row">
-		<div class="col-md-4">
+		<div style={{paddingBottom:"5%"}} class="col-md-4">
     
     <div  data-aos="fade-right" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/trash-bot.jpeg" class="img img-responsive" />
         <div style={{backgroundColor:"rgb(255,182,193)", paddingBottom:"4vh"}} class="profile-content">
@@ -36,7 +36,7 @@ function Services(){
             <div className="hate"><b>TECH EVENT</b></div>
             <div class="profile-description">
             Design and build a robot out of trash materials. </div>
-            <a href="/#home" class="bn5">Register</a><Link to="/#home" className="bn5">Details</Link> 
+            <a href="/#services" class="bn6 disabled">Register</a><Link to={`/post/event1`} className="bn5">Details</Link> 
         </div>
     </div>
 </div>
@@ -50,7 +50,7 @@ function Services(){
             <div className="hate"><b>TECH EVENT</b></div>
             <div class="profile-description">Compete against different female across the country to solve problems.
 </div>
-            <a href="/#home" class="bn5">Register</a><Link to="/#home" class="bn5">Details</Link>
+            <a href="/#services" class="bn6 disabled">Register</a><Link to={`/post/event2`} class="bn5">Details</Link>
         </div>
     </div>
 </div>
@@ -67,7 +67,7 @@ function Services(){
 
 
 </div>
-            <a href="/#home" class="bn5">Register</a><Link to="/#home" class="bn5">Details</Link>
+            <a href="/#services" class="bn6 disabled">Register</a><Link to={`/post/event3`} class="bn5">Details</Link>
         </div>
     </div></div>
     <div style={{paddingBottom:"5%"}} class="col-md-4">
@@ -81,7 +81,7 @@ function Services(){
             <div className="hate"><b>TECH EVENT</b></div>
             <div class="profile-description mb-2">Play with your logic to crack the components and build a working prototype on TinkerCad.
 </div>
-            <a href="/#home" class="bn5">Register</a><Link to="/#home" class="bn5">Details</Link>
+            <a href="/#services" class="bn6 disabled">Register</a><Link to={`/post/event4`} class="bn5">Details</Link>
         </div>
     </div></div>
     <div class="col-md-4">
@@ -94,7 +94,7 @@ function Services(){
         <span class="tag12 " style={{marginLeft:"1.8vw"}}>Coding</span>
             <div className="hate"><b>TECH EVENT</b></div>
             <div class="profile-description mb-2">Compete with many coders from around the country.</div>
-            <a href="/#home" class="bn5">Register</a><Link to="/#home" class="bn5">Details</Link>
+            <a href="/#services" class="bn6 disabled">Register</a><Link to={`/post/event7`} class="bn5">Details</Link>
         </div>
     </div></div>
     <div class="col-md-4">
@@ -107,7 +107,7 @@ function Services(){
         <span class="tag12 " style={{marginLeft:"0.76vw"}}>Mech. Design</span>
             <div className="hate"><b>TECH EVENT</b></div>
             <div class="profile-description mb-2">-Design Wars 2.0  aims to inspire learning through a real-world scenario. </div>
-            <a href="/#home" class="bn5">Register</a><Link to="/#home" class="bn5">Details</Link>
+            <a href="/#services" class="bn6 disabled">Register</a><Link to={`/post/event8`} class="bn5">Details</Link>
         </div>
     </div></div>
     <div style={{paddingBottom:"5%"}} class="col-md-4">
@@ -120,7 +120,7 @@ function Services(){
         <span class="tag12 " style={{marginLeft:"2.8vw"}}>ROS</span>
             <div className="hate"><b>TECH EVENT</b></div>
             <div class="profile-description mb-2">Solve the problem statements using ROS NOETIC, ROS MELODIC or constructsim(online).</div>
-            <a href="/#home" class="bn5">Register</a><Link to="/#home" class="bn5">Details</Link>
+            <a href="/#services" class="bn6 disabled">Register</a><Link to={`/post/event9`} class="bn5">Details</Link>
         </div>
     </div></div>
     <div class="col-md-4">
@@ -134,7 +134,7 @@ function Services(){
             <div className="hate"><b>FUN EVENT</b></div>
             <div class="profile-description mb-2">Enable you to put your creative and editing skills at one place
 </div>
-            <a href="/#home" class="bn5">Register</a><Link to="/#home" class="bn5">Details</Link>
+            <a href="/#services" class="bn6 disabled">Register</a><Link to={`/post/event5`} class="bn5">Details</Link>
         </div>
     </div></div>
     <div class="col-md-4">
@@ -147,7 +147,7 @@ function Services(){
         <span class="tag12 " style={{marginLeft:"1.4vw"}}>Deduction</span>
             <div className="hate"><b>FUN EVENT</b></div>
             <div class="profile-description mb-2">A virtual treasure hunt- let the mystery saga unfold.</div>
-            <a href="/#home" class="bn5">Register</a><Link to="/#home" class="bn5">Details</Link>
+            <a href="/#services" class="bn6 disabled">Register</a><Link to={`/post/event6`} class="bn5">Details</Link>
         </div>
     </div></div>
     <div class="col-md-4">
