@@ -15,6 +15,8 @@ import Faq from "./Faq";
 import '../../src/App.css'
 import $ from "jquery"
 import '../css/outline.scss'
+import { Scrollbar } from "react-scrollbars-custom";
+
 
 class Outline extends React.Component { 
     

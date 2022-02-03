@@ -31,7 +31,7 @@ function Aboutsection(){
                 </div><p style={{fontSize:"larger"}}><strong> It is a blend of affairs encompassing week long enticing activities
                                ranging from guest talks, robotic workshops, coding manias, fun events, cryptic hunt,
                                quizzes and much more.</strong>
-                               <h2 className="py-4">Previous Year Records</h2></p>
+                               <h4 className="py-4">Previous Year Records</h4></p>
                 <div data-aos="fade-left" className="row">
                   <div className="col-lg-4 col-sm-4">
                     <div className="skill-item third-skill-item wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
@@ -108,15 +108,16 @@ function Aboutsection(){
                   <h6>About Us</h6>
                   <h4>Unity in  <em>Diversity</em></h4>
                   <div className="line-dec"></div>
-                </div><p style={{fontSize:"larger",fontWeight: "400"}}>
-                            <p>2020 MAY HAVE BEEN A HARSH AND ARDUOUS DURATION , BUT LET'S REDEFINE OUR APPROACH TO
-                                2021....</p>
-                                 <p><strong>ROBOWEEK</strong> IS TRYING TO PROMOTE DIVERSITY BY CONDUCTING EVENTS SPECIALLY <strong>ENDORSED</strong>FOR GIRLS, THUS PROMOTING FEMALE PARTICIPATION IN THE TECHNICAL FIELD AND THEREBY EMPOWERING WOMEN.
+                </div><p style={{fontSize:"larger"}}>
+                            
+                                 <strong>RoboWeek is trying to promote diversity by conducting events
+                                  specially endorsed for girls, thereby promoting women participation in technical 
+                                  field and hence empowering women.</strong>
                         </p>
                         <b>
-                            <p class="quote"><strong>"</strong><em>HIDDEN FIGURES ARE HIDDEN NO MORE</em>
-                                WOMEN ARE BOTH TALENTED AND INNOVATIVE THINKERS AND TEND TO USE SCIENCE TO LOOK FOR SOLUTIONS.<strong>"</strong> <br/><em>- Kimberly Bryant</em> </p>
-                        </b></p>
+                            <p class="quote"><strong>"</strong>
+                                 WOMEN ARE BOTH TALENTED AND INNOVATIVE THINKERS AND TEND TO USE SCIENCE TO LOOK FOR SOLUTIONS.<strong>"</strong> <br/> Kimberly Bryant </p>
+                        </b>
                 <div data-aos="fade-left" className="row">
                   <div className="col-lg-4 col-sm-4">
                     <div className="skill-item first-skill-item wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">

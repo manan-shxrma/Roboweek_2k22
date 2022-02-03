@@ -8,6 +8,7 @@ import { css } from "@emotion/react";
 import ScaleLoader from "react-spinners/ScaleLoader";
 import ScrollToTop from './components/ScrollToTop';
 
+
 const override = css`
 text-align:center;
  background-color:#081b24;
@@ -54,8 +55,10 @@ function App() {
         <BrowserRouter>
          <ScrollToTop/>
         <Routes>
+        
         <Route  exact path="/" element={<Outline />} />
         <Route  path="/post/:id" element={<Compdetail />} />
+        
         </Routes>
       </BrowserRouter>
       }
