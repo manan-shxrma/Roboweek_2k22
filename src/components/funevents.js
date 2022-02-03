@@ -42,7 +42,7 @@ function Services(){
 </div>
 <div class="col-md-4">
     
-    <div data-aos="fade-up" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/code-nari.jpeg" class="img img-responsive" />
+    <div data-aos="fade-up" class="profile-card-4 text-center"><img style={{height:"27vh",width:"100%"}} alt="" src="assets/images/code-nari.jpeg" class="img img-responsive" />
         <div style={{backgroundColor:"rgb(255,182,193)", paddingBottom:"4vh"}}  class="profile-content">
            
             <div class="profile-name">CODE NAARI </div>
