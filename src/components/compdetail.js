@@ -75,7 +75,7 @@ import "../css/compdetail.css"
                 <a class="nav-link" href="/#home">Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/#about">Events</a>
+                <a class="nav-link" href="/#services">Events</a>
             </li>
             
             <li class="nav-item">
