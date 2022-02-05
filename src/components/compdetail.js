@@ -72,15 +72,15 @@ import "../css/compdetail.css"
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
             <li class="nav-item active">
-                <a class="nav-link" href="/#home">Home <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="/#home"> &larr; Back to Home <span class="sr-only">(current)</span></a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/#about">Events</a>
+            {/* <li class="nav-item">
+                <a class="nav-link" href="/#services">Events</a>
             </li>
             
             <li class="nav-item">
                 <a class="nav-link" href="/#contact">Contact</a>
-            </li>
+            </li> */}
             </ul>
         </div>
         </nav>
