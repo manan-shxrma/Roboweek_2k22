@@ -27,9 +27,11 @@ function App() {
     const getItems =  async () =>{
       const result = await axios (
 
+
         `https://roboweek.netlify.app/` 
 
-       // 'http://localhost:3000/'
+
+      //  'http://localhost:3000/'
         //change this url when using localhost to http://localhost:3000/
  
         )
