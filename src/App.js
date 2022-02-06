@@ -29,7 +29,7 @@ function App() {
 
 
         // `https://roboweek.netlify.app/` 
-        `https://www.baibhav.tech` 
+        `https://baibhav.tech/` 
 
       //  'http://localhost:3000/'
         //change this url when using localhost to http://localhost:3000/
