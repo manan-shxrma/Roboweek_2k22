@@ -55,7 +55,7 @@ class Outline extends React.Component {
                          <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark" style={{"backgroundColor": "#011B2C"}}>
                         
                                                     <a class="navbar-brand" href="/#home">
-                                                    <img src="assets/images/logo-2.png" width="40" height="40" alt="" />
+                                                    <img src="assets/images/logo-2.png" width="30" height="30" alt="" />
                                                     </a>
                                                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                                                         <span class="navbar-toggler-icon"></span>
