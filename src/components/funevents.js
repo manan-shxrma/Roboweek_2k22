@@ -125,7 +125,7 @@ function Services(){
     </div></div>
     <div style={{paddingBottom:"5%"}} class="col-md-4">
     
-    <div data-aos="fade-right" class="profile-card-4 text-center"><img alt="" style={{height:"27vh"}} src="assets/images/Tinker_ It.png" class="img img-responsive" />
+    <div data-aos="fade-up" class="profile-card-4 text-center"><img alt="" style={{height:"27vh"}} src="assets/images/Tinker_ It.png" class="img img-responsive" />
         <div style={{backgroundColor:"rgb(255,182,193)", paddingBottom:"4vh"}} class="profile-content">
             <div class="profile-name">TINKER IT
                
@@ -138,7 +138,7 @@ function Services(){
     </div></div>
     <div class="col-md-4">
     
-    <div data-aos="fade-up" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/clipped.jpg" class="img img-responsive" />
+    <div data-aos="fade-left" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/clipped.jpg" class="img img-responsive" />
         <div style={{backgroundColor:"rgb(230, 255, 110)", paddingBottom:"4vh"}} class="profile-content">
             <div class="profile-name">#CLIPPED
               
@@ -150,9 +150,9 @@ function Services(){
             <a href="/#home" class="bn6 disabled" style={{backgroundColor: "gray"}}>Register</a><Link to="/post/clipped" class="bn5">Details</Link>
         </div>
     </div></div>
-    <div class="col-md-4">
+    <div class="col-md-6">
     
-    <div data-aos="fade-left" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/Arcanum.png" class="img img-responsive" />
+    <div data-aos="fade-right" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/Arcanum.png" class="img img-responsive" />
         <div style={{backgroundColor:"rgb(230, 255, 110)", paddingBottom:"4vh"}} class="profile-content">
             <div class="profile-name">
                ARCANUM
@@ -163,7 +163,7 @@ function Services(){
             <a href="/#home" class="bn6 disabled" style={{backgroundColor: "gray"}}>Register</a><Link to="/post/arcanum" class="bn5">Details</Link>
         </div>
     </div></div>
-    <div class="col-md-4">
+    <div class="col-md-6">
     
     <div data-aos="fade-left" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/squiz.png" class="img img-responsive" />
         <div style={{backgroundColor:"rgb(230, 255, 110)", paddingBottom:"4vh"}} class="profile-content">

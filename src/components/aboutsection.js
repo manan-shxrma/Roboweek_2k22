@@ -31,7 +31,9 @@ function Aboutsection(){
                 </div><p style={{fontSize:"larger"}}><strong> It is a blend of affairs encompassing week long enticing activities
                                ranging from guest talks, robotic workshops, coding manias, fun events, cryptic hunt,
                                quizzes and much more.</strong>
-                               <h4 className="py-4">Previous Year Records</h4></p>
+                               <h4 style={{color:"#f7931e"}}
+                               
+                                className="py-4">Previous Year Records</h4></p>
                 <div data-aos="fade-left" className="row">
                   <div className="col-lg-4 col-sm-4">
                     <div className="skill-item third-skill-item wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
