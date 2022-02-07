@@ -1,6 +1,6 @@
 import $ from "jquery"
 
-var countDownDate = new Date("Mar 18, 2022 00:00:00").getTime();
+var countDownDate = new Date("Mar 21, 2022 00:00:00").getTime();
 
 var myfunc = setInterval(function() {
   // code goes here 
