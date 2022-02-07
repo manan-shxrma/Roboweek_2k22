@@ -20,3 +20,13 @@ export const GoldSponsors = [
         sponsorImg: "/assets/images/logos/GitHub_Logo.png",
     }
 ]
+
+
+
+export const EduPartners = [
+    {
+        sponsorLink: "http://rosenfeldmedia.com/",
+        sponsorImg: "/assets/images/logos/RM-Logologotype.png",
+    }
+    
+]

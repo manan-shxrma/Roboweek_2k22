@@ -1,7 +1,9 @@
 import React from "react"
-import {registerItems,timelineItems,prizeItems,GoldSponsors,PlatformPartners,Sponsors, CommunityPartners,FAQs} from '../js/sponsersdata'
+import {registerItems,timelineItems,prizeItems,GoldSponsors,PlatformPartners,Sponsors, CommunityPartners,FAQs,EduPartners} from '../js/sponsersdata'
 import "../css/sponsers.scss"
-
+import "../css/base.css"
+import AOS from 'aos';
+AOS.init();
 
 function portfolio(){
     return(<><section id="sponsors">
@@ -9,7 +11,7 @@ function portfolio(){
                   <div  className="container">
                     <div className="row">
                       <div className="col-lg-5">
-                        <div className="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
+                        <div data-aos="fade-up" className="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
                           <h6>Sponsors</h6>
                           <h4>Check out the sponsors for <em>Roboweek</em></h4>  
                         </div>
@@ -17,8 +19,33 @@ function portfolio(){
                     </div>
                     <section className="sponsors-section">
                   <div className="body-content sponsors-conatiner">
+
+                  <div className="community">
+                           
+                           <div className="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
+                             
+                             <h4 style={{color:"#0277BD"}}>Education Partners</h4>  
+                           </div>
+                                       <br />
+                                      
+                                           <div className="row row-img grid" style={{"justify-content": "center"}}>
+                                               {EduPartners.map((item, index) => {
+                                               return (
+                                                   <div data-aos="fade-up" className="col-md-4 col-sm-6 img-div">
+                                                       <a href={item.sponsorLink} target="_blank">
+                                                           <img className="sponsor-img" src={item.sponsorImg} />
+                                                       </a>
+                                                   </div>                                                
+                                               )
+                                               })}
+                                           </div>
+                                       
+                                   </div>
+
+
+
                                         
-                      
+                      {/* 
                         <div className="community">
                            
                         <div className="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
@@ -40,7 +67,7 @@ function portfolio(){
                                         </div>
                                     
                                 </div>
-                    
+                     */}
                                 {/* <div className="col-md-6">
                                     <h3>Platform Partners</h3>
                                     <br />
@@ -59,7 +86,7 @@ function portfolio(){
                                     </div>
                                 </div> */}
 
-                            </div>
+                           
 
                             {/* <h3>Sponsors</h3>
                             <div className="row row-img grid mb-4">
@@ -97,7 +124,7 @@ function portfolio(){
                             </a>
                             </div> */}
                        
-                    
+                     </div>
                 </section>
     </div></section>
 {/*  </div> */}
