@@ -136,7 +136,7 @@ function Freequote(){
 								Arcanum | Event Starts
                                 </div>
                                 <div class="col-12 col-md-6 grey">
-								<span className='dati'>12:00 PM</span> </div>
+								<span className='dati'>12:00 AM</span> </div>
                                 <div class="col-12 col-md-6 grey">
 								Arcanum | Event Ends
                                 </div>
