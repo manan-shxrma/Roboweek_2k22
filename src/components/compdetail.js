@@ -105,7 +105,7 @@ import "../css/compdetail.css"
             <div class="card" style={{"width": "18rem"}}>
                         <img src={image} class="card-img-top" alt="..." />
                         <div class="card-body">
-                        <p class="card-text"><button  class="cta"> <span class="shadow"></span> <span class="edge"></span><span class="front text"><a href={srcDoc}> Documentation</a></span></button></p>
+                        <p class="card-text"><button  class="cta"> <span class="shadow"></span> <span class="edge"></span><span class="front text"><a target="_blank" href={srcDoc}> Documentation</a></span></button></p>
                             <p class="card-text"><button  class="cta2"> <span class="shadow2"></span> <span class="edge2"></span><span class="front2 text"><a href="#"> Register here! </a></span></button></p>
                         </div>
                         </div>
