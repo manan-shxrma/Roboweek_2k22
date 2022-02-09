@@ -229,7 +229,7 @@ const homedata = [
         prerequisites:"All you need is general knowledge in the field of robotics and technology.",
         prizes:"",
         image:"../../assets/images/squiz.png",
-        srcDoc:"https://docs.google.com/document/d/1bcbX724b5yt1HKjAwL8YXA_LZjDtLBItEwg_GpsE0QY/edit"
+        srcDoc:"https://docs.google.com/document/d/1VADtDVxVw2ZtXwP_3npkTg64_P5pjRo5g4IsgvDaHaA/edit?usp=sharing"
     }
   ];
   
