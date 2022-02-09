@@ -11,25 +11,25 @@ function Services(){
     return(<><div id="services" className="container mainbodyoffuneve">
     
     <div data-aos="fade-right"
-      className="section-heading"
-      data-wow-duration="1s"
-      data-wow-delay="0.3s" style={{paddingTop:"10%"}}
+        className="section-heading"
+        data-wow-duration="1s"
+        data-wow-delay="0.3s" style={{paddingTop:"10%"}}
     >
-      <h6>Competitions</h6>
-      <h4>
+        <h6>Competitions</h6>
+        <h4>
         What <em>Roboweek</em> provides{" "}
-      </h4>
-      <div className="line-dec"></div>
+        </h4>
+        <div className="line-dec"></div>
     </div>
 
                 
                 
-  <div style={{paddingTop:"8%"}}>
+    <div style={{paddingTop:"8%"}}>
 
-  <div className="row">
-		<div style={{paddingBottom:"5%"}} class="col-md-4">
+    <div className="row">
+		<div style={{paddingBottom:"5%"}} class="col-md-6 col-lg-4 left-card">
     
-    <div  data-aos="fade-right" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/trash-bot.jpeg" class="img img-responsive" />
+    <div  data-aos="fade-right" class="profile-card-4 profile-card-background text-center"><img style={{height:"27vh"}} alt="" src="assets/images/trash-bot.jpeg" class="img img-responsive" />
         <div style={{backgroundColor:"rgb(255,182,193)", paddingBottom:"4vh"}} class="profile-content">
             <div class="profile-name">TRASH BOT</div>
         <span class="tag12 ">Technical Creativity</span>
@@ -40,11 +40,11 @@ function Services(){
         </div>
     </div>
 </div>
-<div class="col-md-4">
+<div class="col-md-6 col-lg-4 right-card">
     
-    <div data-aos="fade-up" class="profile-card-4 text-center"><img style={{height:"27vh",width:"100%"}} alt="" src="assets/images/code-nari.jpeg" class="img img-responsive" />
+    <div data-aos="fade-up" class="profile-card-4 profile-card-background text-center"><img style={{height:"27vh",width:"100%"}} alt="" src="assets/images/code-nari.png" class="img img-responsive" />
         <div style={{backgroundColor:"rgb(255,182,193)", paddingBottom:"4vh"}}  class="profile-content">
-           
+        
             <div class="profile-name">CODE NAARI </div>
         <span class="tag12 " style={{marginLeft:"0.5vw"}}>Coding contest</span>  
             <div className="hate"><b>TECH EVENT</b></div>
@@ -54,9 +54,9 @@ function Services(){
         </div>
     </div>
 </div>
-<div class="col-md-4">
+<div class="col-md-6 col-lg-4 left-card">
     
-    <div data-aos="fade-left" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/callisto.jpg" class="img img-responsive" />
+    <div data-aos="fade-left" class="profile-card-4 profile-card-background text-center"><img style={{height:"27vh"}} alt="" src="assets/images/callisto.jpg" class="img img-responsive" />
         <div style={{backgroundColor:"rgb(255,182,193)", paddingBottom:"4vh"}} class="profile-content">
             <div class="profile-name">CALLISTO
                 
@@ -70,9 +70,9 @@ function Services(){
             <a href="/#home" class="bn6 disabled" style={{backgroundColor: "gray"}}>Register</a><Link to="/post/callisto" class="bn5">Details</Link>
         </div>
     </div></div>
-    <div style={{paddingBottom:"5%"}} class="col-md-4">
+    <div style={{paddingBottom:"5%"}} class="col-md-6 col-lg-4 right-card">
     
-    <div data-aos="fade-right" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/hunt-nova.jpg" class="img img-responsive" />
+    <div data-aos="fade-right" class="profile-card-4 profile-card-background text-center"><img style={{height:"27vh"}} alt="" src="assets/images/hunt-nova.jpg" class="img img-responsive" />
         <div style={{backgroundColor:"rgb(255,182,193)", paddingBottom:"4vh"}} class="profile-content">
             <div class="profile-name">HUNT NOVA
                 
@@ -84,9 +84,9 @@ function Services(){
             <a href="/#home" class="bn6 disabled" style={{backgroundColor: "gray"}}>Register</a><Link to="/post/huntnova" class="bn5">Details</Link>
         </div>
     </div></div>
-    <div class="col-md-4">
+    <div class="col-md-6 col-lg-4 left-card">
     
-    <div data-aos="fade-up" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/code-play.png" class="img img-responsive" />
+    <div data-aos="fade-up" class="profile-card-4 profile-card-background text-center"><img style={{height:"27vh"}} alt="" src="assets/images/code-play.png" class="img img-responsive" />
         <div style={{backgroundColor:"rgb(255,182,193)", paddingBottom:"4vh"}} class="profile-content">
             <div class="profile-name">CODE PLAY
                 
@@ -97,9 +97,9 @@ function Services(){
             <a href="/#home" class="bn6 disabled" style={{backgroundColor: "gray"}}>Register</a><Link to="/post/codeplay" class="bn5">Details</Link>
         </div>
     </div></div>
-    <div class="col-md-4">
+    <div class="col-md-6 col-lg-4 right-card">
     
-    <div data-aos="fade-left" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/design-wars.png" class="img img-responsive" />
+    <div data-aos="fade-left" class="profile-card-4 profile-card-background text-center"><img style={{height:"27vh"}} alt="" src="assets/images/design-wars.png" class="img img-responsive" />
         <div style={{backgroundColor:"rgb(255,182,193)", paddingBottom:"4vh"}} class="profile-content">
             <div class="profile-name">DESIGN WARS
                 
@@ -110,12 +110,12 @@ function Services(){
             <a href="/#home" class="bn6 disabled" style={{backgroundColor: "gray"}}>Register</a><Link to="/post/designwars" class="bn5">Details</Link>
         </div>
     </div></div>
-    <div style={{paddingBottom:"5%"}} class="col-md-4">
+    <div style={{paddingBottom:"5%"}} class="col-md-6 col-lg-6 left-card regatta">
     
-    <div data-aos="fade-right" class="profile-card-4 text-center"><img alt="" style={{height:"27vh"}} src="assets/images/REGATTA.png" class="img img-responsive" />
+    <div data-aos="fade-right" class="profile-card-4 profile-card-background text-center"><img alt="" style={{height:"27vh"}} src="assets/images/REGATTA.png" class="img img-responsive" />
         <div style={{backgroundColor:"rgb(255,182,193)", paddingBottom:"4vh"}} class="profile-content">
             <div class="profile-name">REGATTA 2.0
-               
+            
             </div>
         <span class="tag12 " style={{marginLeft:"2.8vw"}}>ROS</span>
             <div className="hate"><b>TECH EVENT</b></div>
@@ -123,12 +123,12 @@ function Services(){
             <a href="/#home" class="bn6 disabled" style={{backgroundColor: "gray"}}>Register</a><Link to="/post/regatta" class="bn5">Details</Link>
         </div>
     </div></div>
-    <div style={{paddingBottom:"5%"}} class="col-md-4">
+    <div style={{paddingBottom:"5%"}} class="col-md-6 col-lg-6 npm right-card tinkerit">
     
-    <div data-aos="fade-up" class="profile-card-4 text-center"><img alt="" style={{height:"27vh"}} src="assets/images/Tinker_ It.png" class="img img-responsive" />
+    <div data-aos="fade-left" class="profile-card-4 profile-card-background text-center"><img alt="" style={{height:"27vh"}} src="assets/images/Tinker_ It.png" class="img img-responsive" />
         <div style={{backgroundColor:"rgb(255,182,193)", paddingBottom:"4vh"}} class="profile-content">
             <div class="profile-name">TINKER IT
-               
+            
             </div>
         <span class="tag12 " style={{marginLeft:"2.8vw"}}>Technical</span>
             <div className="hate"><b>TECH EVENT</b></div>
@@ -136,12 +136,12 @@ function Services(){
             <a href="/#home" class="bn6 disabled" style={{backgroundColor: "gray"}}>Register</a><Link to="/post/tinkerit" class="bn5">Details</Link>
         </div>
     </div></div>
-    <div class="col-md-4">
+    <div class="col-md-6 col-lg-4 left-card">
     
-    <div data-aos="fade-left" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/clipped.jpg" class="img img-responsive" />
+    <div data-aos="fade-right" class="profile-card-4 profile-card-background text-center fun-event"><img style={{height:"27vh"}} alt="" src="assets/images/clipped.jpg" class="img img-responsive" />
         <div style={{backgroundColor:"rgb(230, 255, 110)", paddingBottom:"4vh"}} class="profile-content">
             <div class="profile-name">#CLIPPED
-              
+            
             </div>
         <span class="tag12 " style={{marginLeft:"-0.3vw"}}>Graphical Designing</span>
             <div className="hate"><b>FUN EVENT</b></div>
@@ -150,12 +150,12 @@ function Services(){
             <a href="/#home" class="bn6 disabled" style={{backgroundColor: "gray"}}>Register</a><Link to="/post/clipped" class="bn5">Details</Link>
         </div>
     </div></div>
-    <div class="col-md-6">
+    <div class="col-lg-4 col-md-6 right-card">
     
-    <div data-aos="fade-right" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/Arcanum.png" class="img img-responsive" />
+    <div data-aos="fade-up" class="profile-card-4 profile-card-background text-center fun-event"><img style={{height:"27vh"}} alt="" src="assets/images/Arcanum.png" class="img img-responsive" />
         <div style={{backgroundColor:"rgb(230, 255, 110)", paddingBottom:"4vh"}} class="profile-content">
             <div class="profile-name">
-               ARCANUM
+                ARCANUM
             </div>
         <span class="tag12 " style={{marginLeft:"1.4vw"}}>Deduction</span>
             <div className="hate"><b>FUN EVENT</b></div>
@@ -163,12 +163,12 @@ function Services(){
             <a href="/#home" class="bn6 disabled" style={{backgroundColor: "gray"}}>Register</a><Link to="/post/arcanum" class="bn5">Details</Link>
         </div>
     </div></div>
-    <div class="col-md-6">
+    <div class="col-lg-4 col-md-12">
     
-    <div data-aos="fade-left" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/squiz.png" class="img img-responsive" />
+    <div data-aos="fade-left" class="profile-card-4 profile-card-background text-center fun-event"><img style={{height:"27vh"}} alt="" src="assets/images/squiz.png" class="img img-responsive" />
         <div style={{backgroundColor:"rgb(230, 255, 110)", paddingBottom:"4vh"}} class="profile-content">
             <div class="profile-name">
-               SQUIZ GAME
+                SQUIZ GAME
             </div>
         <span class="tag12 " style={{marginLeft:"1.4vw"}}>Deduction</span>
             <div className="hate"><b>FUN EVENT</b></div>

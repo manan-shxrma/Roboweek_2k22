@@ -26,7 +26,7 @@ const homedata = [
       emoji: "🙏",
       name: "codenaari",
       instructions:
-        "So as to encourage women participation in the field of programming .",
+        "To encourage women participation in the field of programming .",
         instructions2:"We Robotics Society is going to organise a coding competition for female participants in RoboWeek 2.0 ",
         instructions3:" They will be given some amazing problem statements to showcase their coding and problem solving skills .",
         instructions4:"",
