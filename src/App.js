@@ -58,7 +58,7 @@ function App() {
         <Routes>
         <Route  exact path="/" element={<Outline />} />
         <Route path="/post/:id" element={<Compdetail />} />
-        <Route path="*" element={<Outline />} />
+        
         </Routes>
       </BrowserRouter>
       }
