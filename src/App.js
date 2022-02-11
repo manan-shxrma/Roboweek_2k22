@@ -29,9 +29,9 @@ function App() {
 
  //
         // `https://roboweek.netlify.app/` 
-        `https://roboweek-robosocnith.com/`  
+        // `https://roboweek-robosocnith.com/`  
 
-      // 'http://localhost:3000/'
+      'http://localhost:3000/'
         //change this url when using localhost to http://localhost:3000/
  
         )
@@ -57,7 +57,8 @@ function App() {
          <ScrollToTop/>
         <Routes>
         <Route  exact path="/" element={<Outline />} />
-        <Route  path="/post/:id" element={<Compdetail />} />
+        <Route path="/post/:id" element={<Compdetail />} />
+        <Route path="*" element={<Outline />} />
         </Routes>
       </BrowserRouter>
       }
