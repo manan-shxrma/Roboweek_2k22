@@ -19,7 +19,8 @@ const homedata = [
         prerequisites:"All you need is just creativity and basic knowledge of high school physics. ",
         prizes:"",
         image:"../../assets/images/trash-bot.jpeg",
-        srcDoc:"https://docs.google.com/document/d/1bcbX724b5yt1HKjAwL8YXA_LZjDtLBItEwg_GpsE0QY/edit"
+        srcDoc:"https://docs.google.com/document/d/1bcbX724b5yt1HKjAwL8YXA_LZjDtLBItEwg_GpsE0QY/edit",
+        srcReg:"https://dare2compete.com/competition/trash-bot-roboweek-20-national-institute-of-technology-nit-hamirpur-263560"
     },
     {
       id: 2,
@@ -42,7 +43,8 @@ const homedata = [
 
         image:"../../assets/images/code-nari.jpeg",
 
-        srcDoc:"https://docs.google.com/document/d/1JGfo0aMb4-PgUhfJbD9WTiXHpmcqb_b6OomciORBkUg/edit?usp=sharing"
+        srcDoc:"https://docs.google.com/document/d/1JGfo0aMb4-PgUhfJbD9WTiXHpmcqb_b6OomciORBkUg/edit?usp=sharing",
+        srcReg:"https://dare2compete.com/hackathon/code-naari-roboweek-20-national-institute-of-technology-nit-hamirpur-263649"
     },
     {
       id: 3,
@@ -60,7 +62,8 @@ const homedata = [
         prerequisites:" Anyone pursuing an undergraduate degree can participate.",
         prizes:"",
         image:"../../assets/images/callisto.jpg",
-        srcDoc:"https://docs.google.com/document/d/1bCZdxce2AydavlmnKfiYLxCHGY2Y6rJ29zaFXpD4htw/edit?usp=sharing"
+        srcDoc:"https://docs.google.com/document/d/1bCZdxce2AydavlmnKfiYLxCHGY2Y6rJ29zaFXpD4htw/edit?usp=sharing",
+        srcReg:"https://dare2compete.com/creative-cultural-event/callisto-roboweek-20-national-institute-of-technology-nit-hamirpur-263270"
     },
     {
       id: 4,
@@ -80,7 +83,8 @@ const homedata = [
         prerequisites:"TinkerCad and Circuit designing.",
         prizes:"",
         image:"../../assets/images/hunt-nova.jpg",
-        srcDoc:"https://docs.google.com/document/d/1Rnd--W0dzLetZZ2oOkA5ik4wcBjy5c6JEbCTZE7xVVw/edit?usp=sharing"
+        srcDoc:"https://docs.google.com/document/d/1Rnd--W0dzLetZZ2oOkA5ik4wcBjy5c6JEbCTZE7xVVw/edit?usp=sharing",
+        srcReg:"https://dare2compete.com/competition/hunt-nova-roboweek-20-national-institute-of-technology-nit-hamirpur-263565"
     }
     ,
     {
@@ -101,7 +105,8 @@ const homedata = [
         prerequisites:"This contest is open to anyone who likes programming. ",
         prizes:"",
         image:"../../assets/images/code-play.png",
-        srcDoc:"https://docs.google.com/document/d/1aKmJqsTtZxFZKgHvRXXhNojta7za_YROfL3wtrmXbkM/edit?usp=sharing"
+        srcDoc:"https://docs.google.com/document/d/1aKmJqsTtZxFZKgHvRXXhNojta7za_YROfL3wtrmXbkM/edit?usp=sharing",
+        srcReg:"https://dare2compete.com/festival/roboweek-20-national-institute-of-technology-nit-hamirpur-20715"
     } ,
     {
       id: 6,
@@ -122,7 +127,8 @@ const homedata = [
         prerequisites:"Students from all the degree programs and years are eligible to participate in this competition.",
         prizes:"Top 3 performers of round 2 will be awarded with prizes.",
         image:"../../assets/images/design-wars.png",
-        srcDoc:"https://docs.google.com/document/d/1sQhRUUaS18pYQ_mnIwJ6eXvWiynF_Xk18S0TGSCupdU/edit"
+        srcDoc:"https://docs.google.com/document/d/1sQhRUUaS18pYQ_mnIwJ6eXvWiynF_Xk18S0TGSCupdU/edit",
+        srcReg:"https://dare2compete.com/creative-cultural-event/design-wars-20-roboweek-20-national-institute-of-technology-nit-hamirpur-263524"
     } ,
     {
       id: 7,
@@ -146,7 +152,8 @@ const homedata = [
         prerequisites:"Python/C++ programming  and Basic ROS",
         prizes:"",
         image:"../../assets/images/REGATTA.png",
-        srcDoc:"https://docs.google.com/document/d/1MFIrG2QMHhVTAYFjRv1T-4p5Hw6_vB3Lya75SxpYA5U/edit"
+        srcDoc:"https://docs.google.com/document/d/1MFIrG2QMHhVTAYFjRv1T-4p5Hw6_vB3Lya75SxpYA5U/edit",
+        srcReg:"https://dare2compete.com/competition/regatta-20-roboweek-20-national-institute-of-technology-nit-hamirpur-263326"
     } ,
     {
       id: 8,
@@ -167,7 +174,8 @@ const homedata = [
         prerequisites:"Any student can take part.",
         prizes:"",
         image:"../../assets/images/clipped.jpg",
-        srcDoc:"https://docs.google.com/document/d/1nR2BA9EprOUfOUkP5l3lO6a7gnBiV9-kBqSxbpDf7xs/edit?usp=sharing"
+        srcDoc:"https://docs.google.com/document/d/1nR2BA9EprOUfOUkP5l3lO6a7gnBiV9-kBqSxbpDf7xs/edit?usp=sharing",
+        srcReg:"https://dare2compete.com/creative-cultural-event/clipped-roboweek-20-national-institute-of-technology-nit-hamirpur-263537"
     } ,
     {
       id: 9,
@@ -188,7 +196,8 @@ const homedata = [
         prerequisites:"All college students",
         prizes:"",
         image:"../../assets/images/Arcanum.png",
-        srcDoc:"https://docs.google.com/document/d/1Yia0B1RrDKRsKUPnsl1lTE5s_DJae3MqvAXq_Anid2o/edit?usp=sharing"
+        srcDoc:"https://docs.google.com/document/d/1Yia0B1RrDKRsKUPnsl1lTE5s_DJae3MqvAXq_Anid2o/edit?usp=sharing",
+        srcReg:"https://dare2compete.com/competition/arcanum-roboweek-20-national-institute-of-technology-nit-hamirpur-263309"
     },
     {
       id: 10,
@@ -208,7 +217,8 @@ const homedata = [
         prerequisites:"All B.Tech. students of first and second year.",
         prizes:"",
         image:"../../assets/images/Tinker_ It.png",
-        srcDoc:"https://docs.google.com/document/d/1FYxlIl67mvIraHeyXN_cR0E-l-TPF9lq_YpG3RWJUZc/edit?usp=sharing"
+        srcDoc:"https://docs.google.com/document/d/1FYxlIl67mvIraHeyXN_cR0E-l-TPF9lq_YpG3RWJUZc/edit?usp=sharing",
+        srcReg:"https://dare2compete.com/competition/tinker-it-roboweek-20-national-institute-of-technology-nit-hamirpur-263696"
     },
     {
       id: 11,
@@ -229,7 +239,8 @@ const homedata = [
         prerequisites:"All you need is general knowledge in the field of robotics and technology.",
         prizes:"",
         image:"../../assets/images/squiz.png",
-        srcDoc:"https://docs.google.com/document/d/1VADtDVxVw2ZtXwP_3npkTg64_P5pjRo5g4IsgvDaHaA/edit?usp=sharing"
+        srcDoc:"https://docs.google.com/document/d/1VADtDVxVw2ZtXwP_3npkTg64_P5pjRo5g4IsgvDaHaA/edit?usp=sharing",
+        srcReg:"https://dare2compete.com/quiz/squiz-game-roboweek-20-national-institute-of-technology-nit-hamirpur-262825"
     }
   ];
   

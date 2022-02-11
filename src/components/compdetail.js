@@ -22,6 +22,7 @@ import "../css/compdetail.css"
  let submission1="";
  let submission2="";
  let srcDoc="";
+ let srcReg="";
  function Outline()  {
  
     let params = useParams();
@@ -46,6 +47,7 @@ import "../css/compdetail.css"
           submission1=postcontent[i].submission1;
           submission2=postcontent[i].submission2;
           srcDoc=postcontent[i].srcDoc;
+          srcReg=postcontent[i].srcReg
         }
     
     else{
@@ -106,7 +108,7 @@ import "../css/compdetail.css"
                         <img src={image} class="card-img-top" alt="..." />
                         <div class="card-body">
                         <p class="card-text"><button  class="cta"> <span class="shadow"></span> <span class="edge"></span><span class="front text"><a target="_blank" href={srcDoc}> Documentation</a></span></button></p>
-                            <p class="card-text"><button  class="cta2"> <span class="shadow2"></span> <span class="edge2"></span><span class="front2 text"><a href="#"> Register here! </a></span></button></p>
+                            <p class="card-text"><button  class="cta"> <span class="shadow"></span> <span class="edge"></span><span class="front text"><a target="_blank" href={srcReg}> Register here! </a></span></button></p>
                         </div>
                         </div>
                 <div class="content">
