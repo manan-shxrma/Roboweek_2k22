@@ -106,7 +106,7 @@ const homedata = [
         prizes:"",
         image:"../../assets/images/code-play.png",
         srcDoc:"https://docs.google.com/document/d/1aKmJqsTtZxFZKgHvRXXhNojta7za_YROfL3wtrmXbkM/edit?usp=sharing",
-        srcReg:"https://dare2compete.com/festival/roboweek-20-national-institute-of-technology-nit-hamirpur-20715"
+        srcReg:"https://dare2compete.com/hackathon/code-play-roboweek-20-national-institute-of-technology-nit-hamirpur-263922"
     } ,
     {
       id: 6,

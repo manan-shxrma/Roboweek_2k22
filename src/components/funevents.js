@@ -94,7 +94,7 @@ function Services(){
         <span class="tag12 " style={{marginLeft:"1.8vw"}}>Coding</span>
             <div className="hate"><b>TECH EVENT</b></div>
             <div class="profile-description mb-2">Compete with many coders from around the country.</div>
-            <a href="https://dare2compete.com/festival/roboweek-20-national-institute-of-technology-nit-hamirpur-20715" class="bn5" style={{backgroundColor: "black"}}>Register</a><Link to="/post/codeplay" class="bn5">Details</Link>
+            <a href="https://dare2compete.com/hackathon/code-play-roboweek-20-national-institute-of-technology-nit-hamirpur-263922" class="bn5" style={{backgroundColor: "black"}}>Register</a><Link to="/post/codeplay" class="bn5">Details</Link>
         </div>
     </div></div>
     <div class="col-md-6 col-lg-4 right-card">
