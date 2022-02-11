@@ -133,7 +133,7 @@ function Services(){
         <span class="tag12 " style={{marginLeft:"2.8vw"}}>Technical</span>
             <div className="hate"><b>TECH EVENT</b></div>
             <div class="profile-description mb-2">Solve IOT challenge statements on TinkerCAD.</div>
-            <a href="https://dare2compete.com/festival/roboweek-20-national-institute-of-technology-nit-hamirpur-20715" class="bn5" style={{backgroundColor: "black"}}>Register</a><Link to="/post/tinkerit" class="bn5">Details</Link>
+            <a href="https://dare2compete.com/competition/tinker-it-roboweek-20-national-institute-of-technology-nit-hamirpur-263696" class="bn5" style={{backgroundColor: "black"}}>Register</a><Link to="/post/tinkerit" class="bn5">Details</Link>
         </div>
     </div></div>
     <div class="col-md-6 col-lg-4 left-card">
