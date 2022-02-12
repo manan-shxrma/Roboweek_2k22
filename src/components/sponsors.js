@@ -22,10 +22,10 @@ function portfolio(){
 
                   <div className="community">
                            
-                           <div className="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
+                           {/* <div className="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
                              
                              <h4 style={{color:"#0277BD"}}>Education Partners</h4>  
-                           </div>
+                           </div> */}
                                        <br />
                                       
                                            <div className="row row-img grid" style={{"justify-content": "center"}}>
