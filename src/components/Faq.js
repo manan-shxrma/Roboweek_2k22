@@ -3,7 +3,7 @@ import "../css/faq.css"
 
 function Faq(){
     return(<>
-    <section id="faq">
+    <section style={{paddingTop:"4%"}}   id="faq">
      <div className="container">
           <div style={{paddingBottom:"4%"}} data-aos="fade-right" className="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
                 <h6>FAQ's</h6>
