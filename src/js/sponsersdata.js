@@ -26,7 +26,7 @@ export const GoldSponsors = [
 export const EduPartners = [
     {
         sponsorLink: "http://rosenfeldmedia.com/",
-        sponsorImg: "/assets/images/logos/RM-Logologotype.png",
+        sponsorImg: "/assets/images/logos/Rosenfeld-min.png",
     },
     {
         sponsorLink:"https://www.stickermule.com/en-in",

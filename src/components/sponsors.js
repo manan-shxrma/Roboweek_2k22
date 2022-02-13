@@ -11,7 +11,7 @@ function portfolio(){
                   <div  className="container">
                     <div className="row">
                       <div className="col-lg-5">
-                        <div data-aos="fade-up" className="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
+                        <div data-aos="fade-right" className="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
                           <h6>Sponsors</h6>
                           <h4>Check out the sponsors for <em>Roboweek</em></h4>  
                         </div>
@@ -31,7 +31,7 @@ function portfolio(){
                                            <div className="row row-img grid" style={{"justify-content": "center"}}>
                                                {EduPartners.map((item, index) => {
                                                return (
-                                                   <div data-aos="fade-up" className="col-md-4 col-sm-6 img-div">
+                                                   <div data-aos="fade-up" style={{paddingTop:"10%"}} className="col-md-4 col-sm-6 img-div">
                                                        <a href={item.sponsorLink} target="_blank">
                                                            <img className="sponsor-img" src={item.sponsorImg} />
                                                        </a>

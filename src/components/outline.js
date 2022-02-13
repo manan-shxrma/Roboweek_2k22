@@ -153,7 +153,7 @@ class Outline extends React.Component {
                             </div>
                         </div>
 
-                        <div className="footer-bottom">
+                        <div style={{background:" rgb(231, 229, 229)"}} className="footer-bottom">
                             <div >
                             <div className="row">
                                 <div className="col-lg-6 col-md-6 col-sm-12 f-bottom">
