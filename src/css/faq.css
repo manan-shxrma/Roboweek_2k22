@@ -11,3 +11,6 @@
         outline: 0;
         box-shadow: none
     }
+    .accordion-button {
+        background-color:  rgb(231, 229, 229);;
+    }

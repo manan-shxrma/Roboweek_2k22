@@ -5,6 +5,7 @@ import '../css/outline.scss'
 import {  useParams } from "react-router-dom";
 import postcontent from "./compdetaildata"
 import "../css/compdetail.css"
+import '../css/outline.scss'
 
 
  let instructions="";
@@ -66,7 +67,7 @@ import "../css/compdetail.css"
         <nav class="posts-nav navbar fixed-top navbar-expand-lg navbar-dark bg-dark" style={{"backgroundColor": "#011B2C"}}>
                         
         <a class="navbar-brand" href="/#home">
-        <img src="../assets/images/logo-2.png" width="30" height="30" alt="" />
+        <img src="../assets/images/logo-2.png" style={{width :"100%"}} width="30" height="30" alt="" />
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -176,7 +177,7 @@ import "../css/compdetail.css"
                                         </div>
                                     </div>
                                     <div className="f-logo"> <a href="https://robosocnith.com/">
-                                        <img src={"../assets/images/robosoc.png" }  alt="logo" className="logo-footer" /></a>
+                                        <img src={"../assets/images/robosoc.png" } style={{width:"100%"}}  alt="logo" className="logo-footer" /></a>
                                         {/* <img src={"assets/images/logo-2.png"}  alt="logo" className="logo-footer" /> */}
                                     </div>
                                 </div>

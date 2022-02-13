@@ -3,7 +3,7 @@ import "../css/faq.css"
 
 function Faq(){
     return(<>
-    <section id="faq">
+    <section style={{paddingTop:"4%"}}   id="faq">
      <div className="container">
           <div style={{paddingBottom:"4%"}} data-aos="fade-right" className="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
                 <h6>FAQ's</h6>
@@ -12,8 +12,8 @@ function Faq(){
               </div>      
                     <div class="accordion" id="accordionExample">
   <div data-aos="zoom-in" class="accordion-item">
-    <h2 style={{focusOutline:"0 !important"}} class="accordion-header" id="headingOne">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+    <h2  class="accordion-header" id="headingOne">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
       WHAT IS ROBOWEEK ?
       </button>
     </h2>
