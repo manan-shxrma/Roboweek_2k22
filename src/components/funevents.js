@@ -29,7 +29,7 @@ function Services(){
     <div className="row">
 		<div style={{paddingBottom:"5%"}} class="col-md-6 col-lg-4 left-card">
     
-    <div  data-aos="fade-right" class="profile-card-4 profile-card-background text-center"><img style={{height:"27vh"}} alt="" src="assets/images/trash-bot.jpeg" class="img img-responsive" />
+    <div  data-aos="fade-right" class="profile-card-4 profile-card-background text-center"><img style={{height:"27vh"}} alt="" src="assets/images/trash-bot.png" class="img img-responsive" />
         <div style={{backgroundColor:"rgb(255,182,193)", paddingBottom:"4vh"}} class="profile-content">
             <div class="profile-name">TRASH BOT</div>
         <span class="tag12 ">Technical Creativity</span>
@@ -125,7 +125,7 @@ function Services(){
     </div></div>
     <div style={{paddingBottom:"5%"}} class="col-md-6 col-lg-6 npm right-card tinkerit">
     
-    <div data-aos="fade-left" class="profile-card-4 profile-card-background text-center"><img alt="" style={{height:"27vh"}} src="assets/images/Tinker_ It.png" class="img img-responsive" />
+    <div data-aos="fade-left" class="profile-card-4 profile-card-background text-center"><img alt="" style={{height:"27vh"}} src="assets/images/Tinker_It.png" class="img img-responsive" />
         <div style={{backgroundColor:"rgb(255,182,193)", paddingBottom:"4vh"}} class="profile-content">
             <div class="profile-name">TINKER IT
             
