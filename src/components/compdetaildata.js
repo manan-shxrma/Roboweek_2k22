@@ -18,7 +18,7 @@ const homedata = [
         judging3:"",
         prerequisites:"All you need is just creativity and basic knowledge of high school physics. ",
         prizes:"",
-        image:"../../assets/images/trash-bot.jpeg",
+        image:"../../assets/images/trash-bot.png",
         srcDoc:"https://docs.google.com/document/d/1bcbX724b5yt1HKjAwL8YXA_LZjDtLBItEwg_GpsE0QY/edit",
         srcReg:"https://dare2compete.com/competition/trash-bot-roboweek-20-national-institute-of-technology-nit-hamirpur-263560"
     },
@@ -216,7 +216,7 @@ const homedata = [
         judging3:"The efficiency of code and circuitry along with any unique ideas incorporated in the solutions by them ",
         prerequisites:"All B.Tech. students of first and second year.",
         prizes:"",
-        image:"../../assets/images/Tinker_ It.png",
+        image:"../../assets/images/Tinker_It.png",
         srcDoc:"https://docs.google.com/document/d/1FYxlIl67mvIraHeyXN_cR0E-l-TPF9lq_YpG3RWJUZc/edit?usp=sharing",
         srcReg:"https://dare2compete.com/competition/tinker-it-roboweek-20-national-institute-of-technology-nit-hamirpur-263696"
     },
