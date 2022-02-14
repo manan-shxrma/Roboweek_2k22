@@ -1,39 +1,30 @@
 import $ from "jquery"
 
+var countDownDate = new Date("Mar 21, 2022 00:00:00").getTime();
 
-var timer;
-
-var compareDate = new Date();
-compareDate.setDate(compareDate.getDate() + 17); //just for this demo today + 7 days
-
-timer = setInterval(function() {
-  timeBetweenDates(compareDate);
-}, 1000);
-
-function timeBetweenDates(toDate) {
-  var dateEntered = toDate;
-  var now = new Date();
-  var difference = dateEntered.getTime() - now.getTime();
-
-  if (difference <= 0) {
-
-    // Timer done
-    clearInterval(timer);
-  
-  } else {
+var myfunc = setInterval(function() {
+  // code goes here 
+   var now = new Date().getTime();
+var timeleft = countDownDate - now;
     
-    var seconds = Math.floor(difference / 1000);
-    var minutes = Math.floor(seconds / 60);
-    var hours = Math.floor(minutes / 60);
-    var days = Math.floor(hours / 24);
+var days = Math.floor(timeleft / (1000 * 60 * 60 * 24));
+var hours = Math.floor((timeleft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+var minutes = Math.floor((timeleft % (1000 * 60 * 60)) / (1000 * 60));
+var seconds = Math.floor((timeleft % (1000 * 60)) / 1000);
 
-    hours %= 24;
-    minutes %= 60;
-    seconds %= 60;
+document.getElementById("days").innerHTML = days 
+document.getElementById("hours").innerHTML = hours 
+document.getElementById("minutes").innerHTML = minutes 
+document.getElementById("seconds").innerHTML = seconds 
 
-    $("#days").text(days);
-    $("#hours").text(hours);
-    $("#minutes").text(minutes);
-    $("#seconds").text(seconds);
-  }
+
+if (timeleft < 0) {
+  clearInterval(myfunc);
+  document.getElementById("days").innerHTML = ""
+  document.getElementById("hours").innerHTML = "" 
+  document.getElementById("minutes").innerHTML = ""
+  document.getElementById("seconds").innerHTML = ""
+  // document.getElementById("end").innerHTML = "TIME UP!!";
 }
+  }, 1000)
+

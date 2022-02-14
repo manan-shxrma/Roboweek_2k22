@@ -5,6 +5,7 @@ import '../css/outline.scss'
 import {  useParams } from "react-router-dom";
 import postcontent from "./compdetaildata"
 import "../css/compdetail.css"
+import '../css/outline.scss'
 
 
  let instructions="";
@@ -22,6 +23,7 @@ import "../css/compdetail.css"
  let submission1="";
  let submission2="";
  let srcDoc="";
+ let srcReg="";
  function Outline()  {
  
     let params = useParams();
@@ -46,6 +48,7 @@ import "../css/compdetail.css"
           submission1=postcontent[i].submission1;
           submission2=postcontent[i].submission2;
           srcDoc=postcontent[i].srcDoc;
+          srcReg=postcontent[i].srcReg
         }
     
     else{
@@ -64,7 +67,7 @@ import "../css/compdetail.css"
         <nav class="posts-nav navbar fixed-top navbar-expand-lg navbar-dark bg-dark" style={{"backgroundColor": "#011B2C"}}>
                         
         <a class="navbar-brand" href="/#home">
-        <img src="../assets/images/logo-2.png" width="30" height="30" alt="" />
+        <img src="../assets/images/logo-2.png" style={{width :"100%"}} width="30" height="30" alt="" />
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -72,15 +75,15 @@ import "../css/compdetail.css"
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
             <li class="nav-item active">
-                <a class="nav-link" href="/#home">Home <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="/#home"> &larr; Back to Home <span class="sr-only">(current)</span></a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/#about">Events</a>
+            {/* <li class="nav-item">
+                <a class="nav-link" href="/#services">Events</a>
             </li>
             
             <li class="nav-item">
                 <a class="nav-link" href="/#contact">Contact</a>
-            </li>
+            </li> */}
             </ul>
         </div>
         </nav>
@@ -105,14 +108,14 @@ import "../css/compdetail.css"
             <div class="card" style={{"width": "18rem"}}>
                         <img src={image} class="card-img-top" alt="..." />
                         <div class="card-body">
-                        <p class="card-text"><button style={{marginLeft:"2.6em"}} class="cta"> <span class="shadow"></span> <span class="edge"></span><span class="front text"><a href={srcDoc}> Documentation</a></span></button></p>
-                            <p class="card-text"><button style={{marginLeft:"2.9em"}} class="cta"> <span class="shadow"></span> <span class="edge"></span><span class="front text"><a href="#"> Register here! </a></span></button></p>
+                        <p class="card-text"><button  class="cta"> <span class="shadow"></span> <span class="edge"></span><span class="front text"><a target="_blank" href={srcDoc}> Documentation</a></span></button></p>
+                            <p class="card-text"><button  class="cta"> <span class="shadow"></span> <span class="edge"></span><span class="front text"><a target="_blank" href={srcReg}> Register here! </a></span></button></p>
                         </div>
                         </div>
                 <div class="content">
                     <ul>
                <li> <h5 className="compet-name"><i style={{paddingRight:"8px",paddingTop:"3px"}} class="fa fa-book-reader" aria-hidden="true"></i> Instructions</h5>
-                        <p>{instructions}<br />{instructions2}<br />{instructions3}<br />{instructions4}<br />{instructions5}<br /></p>
+                        <p>{instructions}<br />{instructions2}<br />{instructions3}</p>
                </li><br />
                <li> <h5 className="compet-name"><i style={{paddingRight:"12px",paddingTop:"3px"}} class="fa fa-file-import" aria-hidden="true"></i>Submission</h5>
                         <p>{submission1}<br />{submission2}</p>
@@ -174,7 +177,7 @@ import "../css/compdetail.css"
                                         </div>
                                     </div>
                                     <div className="f-logo"> <a href="https://robosocnith.com/">
-                                        <img src={"../assets/images/robosoc.png" }  alt="logo" className="logo-footer" /></a>
+                                        <img src={"../assets/images/robosoc.png" } style={{width:"100%"}}  alt="logo" className="logo-footer" /></a>
                                         {/* <img src={"assets/images/logo-2.png"}  alt="logo" className="logo-footer" /> */}
                                     </div>
                                 </div>

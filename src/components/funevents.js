@@ -5,149 +5,178 @@ import "../css/base.css"
 import AOS from 'aos';
 AOS.init();
 
+
 function Services(){
-    return(<><div className="container mainbodyoffuneve">
+    
+    return(<><div id="services" className="container mainbodyoffuneve">
     
     <div data-aos="fade-right"
-      className="section-heading"
-      data-wow-duration="1s"
-      data-wow-delay="0.3s" style={{paddingTop:"10%"}}
+        className="section-heading"
+        data-wow-duration="1s"
+        data-wow-delay="0.3s" style={{paddingTop:"10%"}}
     >
-      <h6>Competitions</h6>
-      <h4>
+        <h6>Competitions</h6>
+        <h4>
         What <em>Roboweek</em> provides{" "}
-      </h4>
-      <div className="line-dec"></div>
+        </h4>
+        <div className="line-dec"></div>
     </div>
 
                 
                 
-  <div style={{paddingTop:"8%"}}>
+    <div style={{paddingTop:"8%"}}>
 
-  <div className="row">
-		<div class="col-md-4">
+    <div className="row">
+		<div style={{paddingBottom:"5%"}} class="col-md-6 col-lg-4 left-card">
     
-    <div  data-aos="fade-right" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/trash-bot.jpeg" class="img img-responsive" />
-        <div style={{backgroundColor:"rgb(255,182,193)"}} class="profile-content">
-        <span class="tag12 ">Technical Creativity</span>
+    <div  data-aos="fade-right" class="profile-card-4 profile-card-background text-center"><img style={{height:"27vh"}} alt="" src="assets/images/trash-bot.png" class="img img-responsive" />
+        <div style={{backgroundColor:"rgb(255,182,193)", paddingBottom:"4vh"}} class="profile-content">
             <div class="profile-name">TRASH BOT</div>
-            <div><b>TECH EVENT</b></div>
+        <span class="tag12 ">Technical Creativity</span>
+            <div className="hate"><b>TECH EVENT</b></div>
             <div class="profile-description">
             Design and build a robot out of trash materials. </div>
-            <a href="/" class="bn5">Register</a><Link to={`/post/event1`} class="bn5">Details</Link>
+            <a href="https://dare2compete.com/competition/trash-bot-roboweek-20-national-institute-of-technology-nit-hamirpur-263560" className="bn5" style={{backgroundColor: "black"}}>Register</a><Link to="/post/trashbot" className="bn5">Details</Link> 
         </div>
     </div>
 </div>
-<div class="col-md-4">
+<div class="col-md-6 col-lg-4 right-card">
     
-    <div data-aos="fade-up" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/code-nari.jpeg" class="img img-responsive" />
-        <div style={{backgroundColor:"rgb(255,182,193)"}}  class="profile-content">
-        <span class="tag12 ">Coding contest</span>  
-           
+    <div data-aos="fade-up" class="profile-card-4 profile-card-background text-center"><img style={{height:"27vh",width:"100%"}} alt="" src="assets/images/code-nari.png" class="img img-responsive" />
+        <div style={{backgroundColor:"rgb(255,182,193)", paddingBottom:"4vh"}}  class="profile-content">
+        
             <div class="profile-name">CODE NAARI </div>
-            <div><b>TECH EVENT</b></div>
+        <span class="tag12 " style={{marginLeft:"0.5vw"}}>Coding contest</span>  
+            <div className="hate"><b>TECH EVENT</b></div>
             <div class="profile-description">Compete against different female across the country to solve problems.
 </div>
-            <a href="/" class="bn5">Register</a><Link to={`/post/event2`} class="bn5">Details</Link>
+            <a href="https://dare2compete.com/hackathon/code-naari-roboweek-20-national-institute-of-technology-nit-hamirpur-263649" class="bn5" style={{backgroundColor: "black"}}>Register</a><Link to="/post/codenaari" class="bn5">Details</Link>
         </div>
     </div>
 </div>
-<div class="col-md-4">
+<div class="col-md-6 col-lg-4 left-card">
     
-    <div data-aos="fade-left" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/callisto.jpg" class="img img-responsive" />
-        <div style={{backgroundColor:"rgb(255,182,193)"}} class="profile-content">
-        <span class="tag12 ">Technical Writing</span>
+    <div data-aos="fade-left" class="profile-card-4 profile-card-background text-center"><img style={{height:"27vh"}} alt="" src="assets/images/callisto.jpg" class="img img-responsive" />
+        <div style={{backgroundColor:"rgb(255,182,193)", paddingBottom:"4vh"}} class="profile-content">
             <div class="profile-name">CALLISTO
                 
             </div>
-            <div><b>TECH EVENT</b></div>
+        <span class="tag12 ">Technical Writing</span>
+            <div className="hate"><b>TECH EVENT</b></div>
             <div class="profile-description">The technical writing competition where your words play on your behalf.
 
 
 </div>
-            <a href="/" class="bn5">Register</a><Link to={`/post/event3`} class="bn5">Details</Link>
+            <a href="https://dare2compete.com/creative-cultural-event/callisto-roboweek-20-national-institute-of-technology-nit-hamirpur-263270" class="bn5" style={{backgroundColor: "black"}}>Register</a><Link to="/post/callisto" class="bn5">Details</Link>
         </div>
     </div></div>
-    <div style={{paddingBottom:"5%"}} class="col-md-4">
+    <div style={{paddingBottom:"5%"}} class="col-md-6 col-lg-4 right-card">
     
-    <div data-aos="fade-right" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/hunt-nova.jpg" class="img img-responsive" />
-        <div style={{backgroundColor:"rgb(255,182,193)"}} class="profile-content">
-        <span class="tag12 ">Deduction</span>
+    <div data-aos="fade-right" class="profile-card-4 profile-card-background text-center"><img style={{height:"27vh"}} alt="" src="assets/images/hunt-nova.jpg" class="img img-responsive" />
+        <div style={{backgroundColor:"rgb(255,182,193)", paddingBottom:"4vh"}} class="profile-content">
             <div class="profile-name">HUNT NOVA
                 
             </div>
-            <div><b>TECH EVENT</b></div>
-            <div class="profile-description">Play with your logic to crack the components and build a working prototype on TinkerCad.
+        <span class="tag12 " style={{marginLeft:"1.3vw"}}>Deduction</span>
+            <div className="hate"><b>TECH EVENT</b></div>
+            <div class="profile-description mb-2">Play with your logic to crack the components and build a working prototype on TinkerCad.
 </div>
-            <a href="/" class="bn5">Register</a><Link to={`/post/event4`} class="bn5">Details</Link>
+            <a href="https://dare2compete.com/competition/hunt-nova-roboweek-20-national-institute-of-technology-nit-hamirpur-263565" class="bn5" style={{backgroundColor: "black"}}>Register</a><Link to="/post/huntnova" class="bn5">Details</Link>
         </div>
     </div></div>
-    <div class="col-md-4">
+    <div class="col-md-6 col-lg-4 left-card">
     
-    <div data-aos="fade-up" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/code-play.png" class="img img-responsive" />
-        <div style={{backgroundColor:"rgb(255,182,193)"}} class="profile-content">
-        <span class="tag12 ">Coding</span>
+    <div data-aos="fade-up" class="profile-card-4 profile-card-background text-center"><img style={{height:"27vh"}} alt="" src="assets/images/code-play.png" class="img img-responsive" />
+        <div style={{backgroundColor:"rgb(255,182,193)", paddingBottom:"4vh"}} class="profile-content">
             <div class="profile-name">CODE PLAY
                 
             </div>
-            <div><b>TECH EVENT</b></div>
-            <div class="profile-description">Compete with many coders from around the country.</div>
-            <a href="/" class="bn5">Register</a><Link to={`/post/event7`} class="bn5">Details</Link>
+        <span class="tag12 " style={{marginLeft:"1.8vw"}}>Coding</span>
+            <div className="hate"><b>TECH EVENT</b></div>
+            <div class="profile-description mb-2">Compete with many coders from around the country.</div>
+            <a href="https://dare2compete.com/hackathon/code-play-roboweek-20-national-institute-of-technology-nit-hamirpur-263922" class="bn5" style={{backgroundColor: "black"}}>Register</a><Link to="/post/codeplay" class="bn5">Details</Link>
         </div>
     </div></div>
-    <div class="col-md-4">
+    <div class="col-md-6 col-lg-4 right-card">
     
-    <div data-aos="fade-left" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/design-wars.png" class="img img-responsive" />
-        <div style={{backgroundColor:"rgb(255,182,193)"}} class="profile-content">
-        <span class="tag12 ">Mech. Design</span>
+    <div data-aos="fade-left" class="profile-card-4 profile-card-background text-center"><img style={{height:"27vh"}} alt="" src="assets/images/design-wars.png" class="img img-responsive" />
+        <div style={{backgroundColor:"rgb(255,182,193)", paddingBottom:"4vh"}} class="profile-content">
             <div class="profile-name">DESIGN WARS
                 
             </div>
-            <div><b>TECH EVENT</b></div>
-            <div class="profile-description">-Design Wars 2.0  aims to inspire learning through a real-world scenario. </div>
-            <a href="/" class="bn5">Register</a><Link to={`/post/event8`} class="bn5">Details</Link>
+        <span class="tag12 " style={{marginLeft:"0.76vw"}}>Mech. Design</span>
+            <div className="hate"><b>TECH EVENT</b></div>
+            <div class="profile-description mb-2">-Design Wars 2.0  aims to inspire learning through a real-world scenario. </div>
+            <a href="https://dare2compete.com/creative-cultural-event/design-wars-20-roboweek-20-national-institute-of-technology-nit-hamirpur-263524" class="bn5" style={{backgroundColor: "black"}}>Register</a><Link to="/post/designwars" class="bn5">Details</Link>
         </div>
     </div></div>
-    <div style={{paddingBottom:"5%"}} class="col-md-4">
+    <div style={{paddingBottom:"5%"}} class="col-md-6 col-lg-6 left-card regatta">
     
-    <div data-aos="fade-right" class="profile-card-4 text-center"><img alt="" style={{height:"27vh"}} src="assets/images/REGATTA.png" class="img img-responsive" />
-        <div style={{backgroundColor:"rgb(255,182,193)"}} class="profile-content">
-        <span class="tag12 ">ROS</span>
+    <div data-aos="fade-right" class="profile-card-4 profile-card-background text-center"><img alt="" style={{height:"27vh"}} src="assets/images/REGATTA.png" class="img img-responsive" />
+        <div style={{backgroundColor:"rgb(255,182,193)", paddingBottom:"4vh"}} class="profile-content">
             <div class="profile-name">REGATTA 2.0
-               
+            
             </div>
-            <div><b>TECH EVENT</b></div>
-            <div class="profile-description">Solve the problem statements using ROS NOETIC, ROS MELODIC or constructsim(online).</div>
-            <a href="/" class="bn5">Register</a><Link to={`/post/event9`} class="bn5">Details</Link>
+        <span class="tag12 " style={{marginLeft:"2.8vw"}}>ROS</span>
+            <div className="hate"><b>TECH EVENT</b></div>
+            <div class="profile-description mb-2">Solve the problem statements using ROS NOETIC, ROS MELODIC or constructsim(online).</div>
+            <a href="https://dare2compete.com/competition/regatta-20-roboweek-20-national-institute-of-technology-nit-hamirpur-263326" class="bn5" style={{backgroundColor: "black"}}>Register</a><Link to="/post/regatta" class="bn5">Details</Link>
         </div>
     </div></div>
-    <div class="col-md-4">
+    <div style={{paddingBottom:"5%"}} class="col-md-6 col-lg-6 npm right-card tinkerit">
     
-    <div data-aos="fade-up" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/clipped.jpg" class="img img-responsive" />
-        <div style={{backgroundColor:"rgb(230, 255, 110)"}} class="profile-content">
-        <span class="tag12 ">Graphical Designing</span>
+    <div data-aos="fade-left" class="profile-card-4 profile-card-background text-center"><img alt="" style={{height:"27vh"}} src="assets/images/Tinker_It.png" class="img img-responsive" />
+        <div style={{backgroundColor:"rgb(255,182,193)", paddingBottom:"4vh"}} class="profile-content">
+            <div class="profile-name">TINKER IT
+            
+            </div>
+        <span class="tag12 " style={{marginLeft:"2.8vw"}}>Technical</span>
+            <div className="hate"><b>TECH EVENT</b></div>
+            <div class="profile-description mb-2">Solve IOT challenge statements on TinkerCAD.</div>
+            <a href="https://dare2compete.com/competition/tinker-it-roboweek-20-national-institute-of-technology-nit-hamirpur-263696" class="bn5" style={{backgroundColor: "black"}}>Register</a><Link to="/post/tinkerit" class="bn5">Details</Link>
+        </div>
+    </div></div>
+    <div class="col-md-6 col-lg-4 left-card">
+    
+    <div data-aos="fade-right" class="profile-card-4 profile-card-background text-center fun-event"><img style={{height:"27vh"}} alt="" src="assets/images/clipped.jpg" class="img img-responsive" />
+        <div style={{backgroundColor:"rgb(230, 255, 110)", paddingBottom:"4vh"}} class="profile-content">
             <div class="profile-name">#CLIPPED
-              
+            
             </div>
-            <div><b>FUN EVENT</b></div>
-            <div class="profile-description">Enable you to put your creative and editing skills at one place
+        <span class="tag12 " style={{marginLeft:"-0.3vw"}}>Graphical Designing</span>
+            <div className="hate"><b>FUN EVENT</b></div>
+            <div class="profile-description mb-2">Enable you to put your creative and editing skills at one place
 </div>
-            <a href="/" class="bn5">Register</a><Link to={`/post/event5`} class="bn5">Details</Link>
+            <a href="https://dare2compete.com/creative-cultural-event/clipped-roboweek-20-national-institute-of-technology-nit-hamirpur-263537" class="bn5" style={{backgroundColor: "black"}}>Register</a><Link to="/post/clipped" class="bn5">Details</Link>
         </div>
     </div></div>
-    <div class="col-md-4">
+    <div class="col-lg-4 col-md-6 right-card">
     
-    <div data-aos="fade-left" class="profile-card-4 text-center"><img style={{height:"27vh"}} alt="" src="assets/images/Arcanum.png" class="img img-responsive" />
-        <div style={{backgroundColor:"rgb(230, 255, 110)"}} class="profile-content">
-        <span class="tag12 ">Deduction</span>
+    <div data-aos="fade-up" class="profile-card-4 profile-card-background text-center fun-event"><img style={{height:"27vh"}} alt="" src="assets/images/Arcanum.png" class="img img-responsive" />
+        <div style={{backgroundColor:"rgb(230, 255, 110)", paddingBottom:"4vh"}} class="profile-content">
             <div class="profile-name">
-               ARCANUM
+                ARCANUM
             </div>
-            <div><b>FUN EVENT</b></div>
-            <div class="profile-description">A virtual treasure hunt- let the mystery saga unfold.</div>
-            <a href="/" class="bn5">Register</a><Link to={`/post/event6`} class="bn5">Details</Link>
+        <span class="tag12 " style={{marginLeft:"1.4vw"}}>Deduction</span>
+            <div className="hate"><b>FUN EVENT</b></div>
+            <div class="profile-description mb-2">A virtual treasure hunt- let the mystery saga unfold.</div>
+            <a href="https://dare2compete.com/competition/arcanum-roboweek-20-national-institute-of-technology-nit-hamirpur-263309" class="bn5" style={{backgroundColor: "black"}}>Register</a><Link to="/post/arcanum" class="bn5">Details</Link>
         </div>
     </div></div>
+    <div class="col-lg-4 col-md-12">
+    
+    <div data-aos="fade-left" class="profile-card-4 profile-card-background text-center fun-event"><img style={{height:"27vh"}} alt="" src="assets/images/squiz.png" class="img img-responsive" />
+        <div style={{backgroundColor:"rgb(230, 255, 110)", paddingBottom:"4vh"}} class="profile-content">
+            <div class="profile-name">
+                SQUIZ GAME
+            </div>
+        <span class="tag12 " style={{marginLeft:"1.4vw"}}>Deduction</span>
+            <div className="hate"><b>FUN EVENT</b></div>
+            <div class="profile-description mb-2">Quiz for 1st and 2nd year in the domain of robotics and technology</div>
+            <a href="https://dare2compete.com/quiz/squiz-game-roboweek-20-national-institute-of-technology-nit-hamirpur-262825" class="bn5" style={{backgroundColor: "black"}}>Register</a><Link to="/post/squiz" class="bn5">Details</Link>
+        </div>
+    </div></div>
+    
 
 </div>
 </div>

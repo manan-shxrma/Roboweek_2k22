@@ -10,7 +10,7 @@ import ScrollToTop from './components/ScrollToTop';
 
 const override = css`
 text-align:center;
- background-color:#081b24;
+  background-color:#081b24;
   display: flex;
   justify-content:center;
   align-items:center;
@@ -25,11 +25,17 @@ function App() {
   const [loading,setLoading]=useState(true);
   useEffect(()=>{
     const getItems =  async () =>{
-      const result = await axios (
+      const result = await axios(
 
-        `http://localhost:3000/` 
+ //
+        // `https://roboweek.netlify.app/` 
 
-        // 'http://localhost:3000/'
+
+
+        `https://roboweek-robosocnith.com/`  
+
+        //'http://localhost:3000/'
+
         //change this url when using localhost to http://localhost:3000/
  
         )
@@ -52,14 +58,15 @@ function App() {
         <ScaleLoader color={'#eceef1'} loading={loading} css={override} size={150} />
         :
         <BrowserRouter>
-         <ScrollToTop/>
+        <ScrollToTop/>
         <Routes>
         <Route  exact path="/" element={<Outline />} />
-        <Route  path="/post/:id" element={<Compdetail />} />
+        <Route path="/post/:id" element={<Compdetail />} />
+        
         </Routes>
       </BrowserRouter>
       }
-       
+      
 </>
   );
 }

@@ -15,6 +15,8 @@ import Faq from "./Faq";
 import '../../src/App.css'
 import $ from "jquery"
 import '../css/outline.scss'
+import { Scrollbar } from "react-scrollbars-custom";
+
 
 class Outline extends React.Component { 
     
@@ -53,7 +55,7 @@ class Outline extends React.Component {
                          <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark" style={{"backgroundColor": "#011B2C"}}>
                         
                                                     <a class="navbar-brand" href="/#home">
-                                                    <img src="assets/images/logo-2.png" width="40" height="40" alt="" />
+                                                    <img src="assets/images/logo-2.png" width="30" height="30" alt="" />
                                                     </a>
                                                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                                                         <span class="navbar-toggler-icon"></span>
@@ -67,7 +69,7 @@ class Outline extends React.Component {
                                                             <a class="nav-link" href="/#about">About</a>
                                                         </li>
                                                         <li class="nav-item">
-                                                            <a class="nav-link" href="/#services">Services</a>
+                                                            <a class="nav-link" href="/#services">Events</a>
                                                         </li>
                                                         <li class="nav-item">
                                                             <a class="nav-link" href="/#timeline">Timeline</a>
@@ -104,7 +106,7 @@ class Outline extends React.Component {
                     <Techtalks /> */}
                     <Funevents />
                     <Freequote />
-                    {/* <Sponsors /> */}
+                    <Sponsors />
                     <Blog />  
                     <Contact />
                     <Faq />
@@ -151,7 +153,7 @@ class Outline extends React.Component {
                             </div>
                         </div>
 
-                        <div className="footer-bottom">
+                        <div style={{background:" rgb(231, 229, 229)"}} className="footer-bottom">
                             <div >
                             <div className="row">
                                 <div className="col-lg-6 col-md-6 col-sm-12 f-bottom">

@@ -3,7 +3,7 @@ import "../css/faq.css"
 
 function Faq(){
     return(<>
-    <section id="faq">
+    <section style={{paddingTop:"4%"}}   id="faq">
      <div className="container">
           <div style={{paddingBottom:"4%"}} data-aos="fade-right" className="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
                 <h6>FAQ's</h6>
@@ -12,8 +12,8 @@ function Faq(){
               </div>      
                     <div class="accordion" id="accordionExample">
   <div data-aos="zoom-in" class="accordion-item">
-    <h2 style={{focusOutline:"0 !important"}} class="accordion-header" id="headingOne">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+    <h2  class="accordion-header" id="headingOne">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
       WHAT IS ROBOWEEK ?
       </button>
     </h2>
@@ -67,14 +67,14 @@ function Faq(){
     </h2>
     <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-      Well we have exclusive cash prizes ,coupons and musch more for the winners
+      Well we have exclusive cash prizes ,coupons and much more for the winners
       </div>
     </div>
   </div>
   <div data-aos="zoom-in" class="accordion-item">
     <h2 class="accordion-header" id="headingSix">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-      IS THE PARTICIPATION INDIVISUAL OR IN TEAMS?
+      IS THE PARTICIPATION INDIVIDUAL OR IN TEAMS?
       </button>
     </h2>
     <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
