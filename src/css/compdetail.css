@@ -257,7 +257,9 @@ justify-content: space-between;
 
    .card-img-top {
        border-radius: 20px;
-   }
+       height: 400px;
+       object-fit:cover;
+    }
    .blog-card__info {
        padding: 20px;
    }
