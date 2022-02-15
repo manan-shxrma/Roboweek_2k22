@@ -186,8 +186,10 @@ end */}
                     
                 </div>
           <br></br>
-          <a target="_blank" href={srcDoc} class="btn btn--with-icon" style={{marginRight: '16px', marginBottom: '16px'}}><i class="btn-icon fa fa-long-arrow-right"></i> Documentation</a>
-<a target="_blank" href={srcReg} class="btn btn--with-icon"><i class="btn-icon fa fa-long-arrow-right"></i> Register here! </a>
+          <div class="col-md-6">
+            <a target="_blank" href={srcDoc} class="btn btn--with-icon" style={{marginRight: '16px', marginBottom: '16px'}}><i class="btn-icon fa fa-long-arrow-right"></i> Documentation</a>
+            <a target="_blank" href={srcReg} class="btn btn--with-icon" style={{marginRight: '16px', marginBottom: '16px'}}><i class="btn-icon fa fa-long-arrow-right"></i> Register here! </a>
+          </div>
         </div>
       </article>
     </div>
