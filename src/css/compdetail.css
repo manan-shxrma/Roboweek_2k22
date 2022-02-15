@@ -237,3 +237,29 @@ display: flex;
 justify-content: space-between;
 
    }
+
+   .work{
+     width: 100%;
+     padding-left: 25px;
+     margin-top: 30px;
+     margin-bottom: 20px;
+     font-size: 45px;
+   }
+   .compet-name {
+       padding-bottom: 5px;
+       color: #2a2728;
+   }
+
+   .compet-name2 {
+    color: rgb(80, 75, 75);
+    padding-left: 35px;
+   }
+
+   .card-img-top {
+       border-radius: 20px;
+       height: 400px;
+       object-fit:cover;
+    }
+   .blog-card__info {
+       padding: 20px;
+   }

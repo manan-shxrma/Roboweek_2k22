@@ -121,7 +121,7 @@ function Aboutsection(){
                                  WOMEN ARE BOTH TALENTED AND INNOVATIVE THINKERS AND TEND TO USE SCIENCE TO LOOK FOR SOLUTIONS.<strong>"</strong> <br/> Kimberly Bryant </p>
                         </b>
                 <div data-aos="fade-left" className="row">
-                  <div className="col-lg-4 col-sm-4">
+                  <div className="col-lg-6 col-sm-4">
                     <div className="skill-item first-skill-item wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
                       <div className="progress" data-percentage="100">
                         <span className="progress-left">
@@ -139,7 +139,7 @@ function Aboutsection(){
                       </div>
                     </div>
                   </div>
-                  <div className="col-lg-4 col-sm-4">
+                  <div className="col-lg-6 col-sm-4">
                     <div className="skill-item second-skill-item wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
                       <div className="progress" data-percentage="100">
                         <span className="progress-left">

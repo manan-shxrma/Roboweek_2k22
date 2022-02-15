@@ -140,8 +140,38 @@ a:focus {
 
   }
 }
-.profile-card-background{
-  background-color: rgb(39, 37, 37);
+.profile-card-background1{
+  background-color: rgb(13 16 89);
+}
+.profile-card-background2{
+  background-color: rgb(0 0 0);
+}
+.profile-card-background3{
+  background-color: rgb(49 11 122);
+}
+.profile-card-background4{
+  background-color: rgb(44 194 149);
+}
+.profile-card-background5{
+  background-color: rgb(235 104 253);
+}
+.profile-card-background6{
+  background-color: rgb(0 26 84);
+}
+.profile-card-background7{
+  background-color: rgb(71 70 71);
+}
+.profile-card-background8{
+  background-color: rgb(0 0 0);
+}
+.profile-card-background9{
+  background-color: rgb(24 50 153);
+}
+.profile-card-background10{
+  background-color: rgb(199 181 169);
+}
+.profile-card-background11{
+  background-color: rgb(22 24 39);
 }
 
 .profile-card-4 .profile-overview {
@@ -159,25 +189,124 @@ a:focus {
     font-weight: bold;
 }
 
-.profile-card-4 .profile-content::before {
+.event1 .profile-content::before {
     content: "";
     position: absolute;
     height: 25px;
     top: -15px;
     left: 0px;
     right: 0px;
-    background: linear-gradient(to bottom, #5c93a5 0%, #f7b7d7 100%);
+    background: linear-gradient(to bottom, #0d1059 0%, rgb(236, 238, 241) 100%);
     z-index: 0;
     transform: skewY(0deg);
 }
-.fun-event .profile-content::before {
+.event2 .profile-content::before {
   content: "";
   position: absolute;
   height: 25px;
   top: -15px;
   left: 0px;
   right: 0px;
-  background: linear-gradient(to bottom, #33ccff 0%, #e6ff6e 100%);
+  background: linear-gradient(to bottom, #000000 0%, rgb(236, 238, 241) 100%);
+  z-index: 0;
+  transform: skewY(0deg);
+}
+.event3 .profile-content::before {
+  content: "";
+  position: absolute;
+  height: 25px;
+  top: -15px;
+  left: 0px;
+  right: 0px;
+  background: linear-gradient(to bottom, #310b7a 0%, rgb(236, 238, 241) 100%);
+  z-index: 0;
+  transform: skewY(0deg);
+}
+.event4 .profile-content::before {
+  content: "";
+  position: absolute;
+  height: 25px;
+  top: -15px;
+  left: 0px;
+  right: 0px;
+  background: linear-gradient(to bottom, #31bf95 0%, rgb(236, 238, 241) 100%);
+  z-index: 0;
+  transform: skewY(0deg);
+}
+.event5 .profile-content::before {
+  content: "";
+  position: absolute;
+  height: 25px;
+  top: -15px;
+  left: 0px;
+  right: 0px;
+  background: linear-gradient(to bottom, #939598 0%, rgb(236, 238, 241) 100%);
+  z-index: 0;
+  transform: skewY(0deg);
+}
+.event6 .profile-content::before {
+  content: "";
+  position: absolute;
+  height: 25px;
+  top: -15px;
+  left: 0px;
+  right: 0px;
+  background: linear-gradient(to bottom, #001a54 0%, rgb(236, 238, 241) 100%);
+  z-index: 0;
+  transform: skewY(0deg);
+}
+.event7 .profile-content::before {
+  content: "";
+  position: absolute;
+  height: 25px;
+  top: -15px;
+  left: 0px;
+  right: 0px;
+  background: linear-gradient(to bottom, #474647 0%, rgb(236, 238, 241) 100%);
+  z-index: 0;
+  transform: skewY(0deg);
+}
+.event8 .profile-content::before {
+  content: "";
+  position: absolute;
+  height: 25px;
+  top: -15px;
+  left: 0px;
+  right: 0px;
+  background: linear-gradient(to bottom, #000000 0%, rgb(236, 238, 241) 100%);
+  z-index: 0;
+  transform: skewY(0deg);
+}
+.fun-event1 .profile-content::before {
+  content: "";
+  position: absolute;
+  height: 25px;
+  top: -15px;
+  left: 0px;
+  right: 0px;
+  background: linear-gradient(to bottom, #0e2a72 0%, rgb(236, 238, 241) 100%);
+  z-index: 0;
+  transform: skewY(0deg);
+}
+.fun-event2 .profile-content::before {
+  content: "";
+  position: absolute;
+  height: 25px;
+  top: -15px;
+  left: 0px;
+  right: 0px;
+  background: linear-gradient(to bottom, #c7b4a8 0%, rgb(236, 238, 241) 100%);
+  z-index: 0;
+  transform: skewY(0deg);
+}
+.fun-event3 .profile-content::before {
+  content: "";
+  position: absolute;
+  height: 25px;
+  top: -15px;
+  left: 0px;
+  right: 0px;
+  background: linear-gradient(to bottom, #1f2130 0%, rgb(236, 238, 241) 100%);
   z-index: 0;
   transform: skewY(0deg);
 }

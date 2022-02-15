@@ -39,42 +39,42 @@ function Freequote(){
                             </div>
                             <div class="timeline-content">
                             <div class="row">
-                            <div class="col-12 col-md-6 grey time-content-a">
+                            <div class="col-6 col-md-6 grey time-content-a">
 								Inauguration
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'>11:00 AM</span>   
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								Code Play 
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'> 05:00 PM</span> 
                                 </div>
                                
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								Regatta | Statement Release
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'>05:00 PM</span> 
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								Hunt Nova | Statement Release
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'>05:00 PM</span> 
                                 </div>
                            
-                               <div class="col-12 col-md-6 grey time-content-a">
+                               <div class="col-6 col-md-6 grey time-content-a">
 								#Clipped | Topics Release
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'> 05:00 PM</span> 
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								Trash Bot | Submission Starts
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'> 12:00 AM</span> 
                                 </div>
                                 </div>
@@ -95,22 +95,22 @@ function Freequote(){
                             </div>
                             <div class="timeline-content">
                             <div class="row">
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								Tech Writing
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'>11:00 AM</span>   
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								Workshop
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'> 05:00 - 08:00 PM</span> 
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								Callisto | Statement Release 
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'> 05:00 PM</span> 
                                 </div>
                             </div>
@@ -131,45 +131,45 @@ function Freequote(){
                             </div>
                             <div class="timeline-content">
                             <div class="row">
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								Tech Talk
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'>11:00 AM</span>   
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								Hunt and Build | Statement Release
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'> 05:00 - 08:00 PM</span> 
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								Hunt and Build | Submission
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'> 05:00 - 08:00 PM</span> 
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								Design War 2.0
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'> 05:00 - 08:00 PM</span> 
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								Hunt Nova | Submission Ends
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'>11:59 PM</span> 
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								Arcanum | Event Starts
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'>12:00 AM</span> </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								Arcanum | Event Ends
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'>11:59 PM</span> 
                                 </div>
                             </div>
@@ -190,28 +190,28 @@ function Freequote(){
                             </div>
                             <div class="timeline-content">
                             <div class="row">
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								Treasure hunt
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'>11:00 AM</span>   
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								Girl's Tech Talk
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'> 05:00 - 08:00 PM</span> 
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								ROS Competiton
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'> 05:00 - 08:00 PM</span> 
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								Callisto | Submission Starts
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'> 12:00 AM</span> 
                                 </div>
                             </div>
@@ -231,30 +231,30 @@ function Freequote(){
                             </div>
                             <div class="timeline-content">
                             <div class="row">
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								Code-Naari
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'>11:00 AM</span>   
                                 </div>
                                 
                                
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								IOT challenge
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'>11:00 AM</span>   
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								Tech Talk
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'> 05:00 - 08:00 PM</span> 
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								Callisto | Submission Ends
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'> 11:59 PM</span> 
                                 </div>
                               </div>
@@ -274,34 +274,34 @@ function Freequote(){
                             </div>
                             <div class="timeline-content">
                             <div class="row">
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								Workshop
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'>11:00 AM</span>   
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								Quiz
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'> 05:00 - 08:00 PM</span> 
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								Regatta | Submission Starts
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'>12:00 AM</span> 
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								#Clipped | Submission Starts
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'> 12:00 AM </span> 
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								Trash Bot | Submission Ends
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'> 11:59 PM</span> 
                                 </div>
                             </div>
@@ -321,28 +321,28 @@ function Freequote(){
                             </div>
                             <div class="timeline-content">
                             <div class="row">
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								Result Declaration
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'>11:00 AM</span>   
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								Closing of event
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'> 05:00 - 08:00 PM</span> 
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								Regatta | Submission Ends
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'>11:59 PM</span> 
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								#Clipped | Submission Ends
                                 </div>
-                                <div class="col-12 col-md-6 grey time-content-a">
+                                <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'> 11:59 PM</span> 
                                 </div>
                             </div>
