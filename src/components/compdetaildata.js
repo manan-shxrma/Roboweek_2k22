@@ -17,7 +17,7 @@ const homedata = [
         judging2:" Amount of trash material used along with the utilities of the robot model built by them.",
         judging3:"",
         prerequisites:"All you need is just creativity and basic knowledge of high school physics. ",
-        prizes:"",
+        prizes:"TBD",
         image:"../../assets/images/trash-bot.png",
         srcDoc:"https://docs.google.com/document/d/1bcbX724b5yt1HKjAwL8YXA_LZjDtLBItEwg_GpsE0QY/edit",
         srcReg:"https://dare2compete.com/competition/trash-bot-roboweek-20-national-institute-of-technology-nit-hamirpur-263560"
@@ -39,7 +39,7 @@ const homedata = [
         judging2:"The participants will be judged based on their creativity",
         judging3:"",
         prerequisites:" Any female student who is currently pursuing any undergraduate degree ",
-        prizes:"",
+        prizes:"TBD",
 
         image:"../../assets/images/code-nari.jpeg",
 
@@ -60,7 +60,7 @@ const homedata = [
         judging2:"Submissions will be marked on the basis of creativity, use of words, originality.",
         judging3:"",
         prerequisites:" Anyone pursuing an undergraduate degree can participate.",
-        prizes:"",
+        prizes:"TBD",
         image:"../../assets/images/callisto.jpg",
         srcDoc:"https://docs.google.com/document/d/1bCZdxce2AydavlmnKfiYLxCHGY2Y6rJ29zaFXpD4htw/edit?usp=sharing",
         srcReg:"https://dare2compete.com/creative-cultural-event/callisto-roboweek-20-national-institute-of-technology-nit-hamirpur-263270"
@@ -81,7 +81,7 @@ const homedata = [
         judging1:"Working of the project and  Neatness of the circuit.",
         judging2:"Components used if any extra component is used then marks will be deducted.",
         prerequisites:"TinkerCad and Circuit designing.",
-        prizes:"",
+        prizes:"TBD",
         image:"../../assets/images/hunt-nova.jpg",
         srcDoc:"https://docs.google.com/document/d/1Rnd--W0dzLetZZ2oOkA5ik4wcBjy5c6JEbCTZE7xVVw/edit?usp=sharing",
         srcReg:"https://dare2compete.com/competition/hunt-nova-roboweek-20-national-institute-of-technology-nit-hamirpur-263565"
@@ -103,7 +103,7 @@ const homedata = [
         judging1:"Individuals will be ranked as per the number of problems solved.",
         judging2:"The compiler supports all 3 majorly popular programming languages C++, Java, Python.",
         prerequisites:"This contest is open to anyone who likes programming. ",
-        prizes:"",
+        prizes:"TBD",
         image:"../../assets/images/code-play.png",
         srcDoc:"https://docs.google.com/document/d/1aKmJqsTtZxFZKgHvRXXhNojta7za_YROfL3wtrmXbkM/edit?usp=sharing",
         srcReg:"https://dare2compete.com/hackathon/code-play-roboweek-20-national-institute-of-technology-nit-hamirpur-263922"
@@ -150,7 +150,7 @@ const homedata = [
         judging3:"If above not applies participants would be judged on cleanliness and readability of code ",
 
         prerequisites:"Python/C++ programming  and Basic ROS",
-        prizes:"",
+        prizes:"TBD",
         image:"../../assets/images/REGATTA.png",
         srcDoc:"https://docs.google.com/document/d/1MFIrG2QMHhVTAYFjRv1T-4p5Hw6_vB3Lya75SxpYA5U/edit",
         srcReg:"https://dare2compete.com/competition/regatta-20-roboweek-20-national-institute-of-technology-nit-hamirpur-263326"
@@ -172,7 +172,7 @@ const homedata = [
         judging2:"Quality of post-production, Transition between clips, Color Correction, Use of Music and Attention to detail.",
         judging3:"",
         prerequisites:"Any student can take part.",
-        prizes:"",
+        prizes:"TBD",
         image:"../../assets/images/clipped.jpg",
         srcDoc:"https://docs.google.com/document/d/1nR2BA9EprOUfOUkP5l3lO6a7gnBiV9-kBqSxbpDf7xs/edit?usp=sharing",
         srcReg:"https://dare2compete.com/creative-cultural-event/clipped-roboweek-20-national-institute-of-technology-nit-hamirpur-263537"
@@ -194,7 +194,7 @@ const homedata = [
         judging2:"It is an individual event, only lone wolves allowed.",
         judging3:"",
         prerequisites:"All college students",
-        prizes:"",
+        prizes:"TBD",
         image:"../../assets/images/Arcanum.png",
         srcDoc:"https://docs.google.com/document/d/1Yia0B1RrDKRsKUPnsl1lTE5s_DJae3MqvAXq_Anid2o/edit?usp=sharing",
         srcReg:"https://dare2compete.com/competition/arcanum-roboweek-20-national-institute-of-technology-nit-hamirpur-263309"
@@ -215,7 +215,7 @@ const homedata = [
         judging2:"The submission window will be open from 12:01 am, 22/03/2022 to 11.59 p.m, 22/03/2022. ",
         judging3:"The efficiency of code and circuitry along with any unique ideas incorporated in the solutions by them ",
         prerequisites:"All B.Tech. students of first and second year.",
-        prizes:"",
+        prizes:"TBD",
         image:"../../assets/images/Tinker_It.png",
         srcDoc:"https://docs.google.com/document/d/1FYxlIl67mvIraHeyXN_cR0E-l-TPF9lq_YpG3RWJUZc/edit?usp=sharing",
         srcReg:"https://dare2compete.com/competition/tinker-it-roboweek-20-national-institute-of-technology-nit-hamirpur-263696"
@@ -237,7 +237,7 @@ const homedata = [
         judging2:" In case of tie breaker the participant who submitted the form in less time will be considered as winner.",
         judging3:"",
         prerequisites:"All you need is general knowledge in the field of robotics and technology.",
-        prizes:"",
+        prizes:"TBD",
         image:"../../assets/images/squiz.png",
         srcDoc:"https://docs.google.com/document/d/1VADtDVxVw2ZtXwP_3npkTg64_P5pjRo5g4IsgvDaHaA/edit?usp=sharing",
         srcReg:"https://dare2compete.com/quiz/squiz-game-roboweek-20-national-institute-of-technology-nit-hamirpur-262825"
