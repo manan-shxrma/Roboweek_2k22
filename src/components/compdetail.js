@@ -59,7 +59,7 @@ import '../css/outline.scss'
 
     
     
-       
+    
         return(<>
         
         
@@ -97,7 +97,7 @@ import '../css/outline.scss'
 {/* start */}
 
 
-                <div class="compsection">
+                {/* <div class="compsection">
         <div class="container">
             <div class="content-section">
                 <div class="title">
@@ -108,7 +108,7 @@ import '../css/outline.scss'
             <div class="card" style={{"width": "18rem"}}>
                         <img src={image} class="card-img-top" alt="..." />
                         <div class="card-body">
-                        <p class="card-text"><button  class="cta"> <span class="shadow"></span> <span class="edge"></span><span class="front text"><a target="_blank" href={srcDoc}> Documentation</a></span></button></p>
+                        <p class="card-text"><button  class="cta"> <span class="shadow"></span> <span class="edge"></span><span class="front text">    <a target="_blank" href={srcDoc}> Documentation</a></span></button></p>
                             <p class="card-text"><button  class="cta"> <span class="shadow"></span> <span class="edge"></span><span class="front text"><a target="_blank" href={srcReg}> Register here! </a></span></button></p>
                         </div>
                         </div>
@@ -141,9 +141,67 @@ import '../css/outline.scss'
 
 
 
-{/* end */}
+end */}
 
+{/* new card start */}
+<div class="container mt-5" style={{paddingTop: '60px'}}>
+  <div class="row">
+    <div class="col-12">
+      <article class="blog-card">
+        <div class="blog-card__background">
+          <div class="card__background--wrapper">
+            <div class="card__background--main" >
+              <div class="card__background--layer"></div>
+            </div>
+          </div>
+        </div>
+        {/* <div class="blog-card__head">
+          <span class="date__box">
+           {title}
+          </span>
+        </div> */}
+        <div class="blog-card__info">
+        <img src={image} class="card-img-top" height={'400px'} alt="..." />
+          <h1 class="work">{title}</h1>
+          <br></br>
+          <div class="content">
+                    <ul>
+               <li> <h5 className="compet-name"><i style={{paddingRight:"8px",paddingTop:"3px"}} class="fa fa-book-reader" aria-hidden="true"></i> Instructions</h5>
+                        <p className="compet-name2">{instructions}<br />{instructions2}<br />{instructions3}</p>
+               </li><br />
+               <li> <h5 className="compet-name"><i style={{paddingRight:"12px",paddingTop:"3px"}} class="fa fa-file-import" aria-hidden="true"></i>Submission</h5>
+                        <p className="compet-name2">{submission1}<br />{submission2}</p>
+               </li><br />
+               <li> <h5 className="compet-name"><i style={{paddingRight:"8px",paddingTop:"3px"}} class="fa fa-gavel" aria-hidden="true"></i>Judging criteria</h5>
+                        <p className="compet-name2">{judging1}<br />{judging2}<br />{judging3}</p>
+               </li><br />
+               <li> <h5 className="compet-name"><i style={{paddingRight:"8px",paddingTop:"3px"}} class="fa fa-desktop" aria-hidden="true"></i>Prerequisites</h5>
+                        <p className="compet-name2">{prerequisites}</p>
+               </li><br />
+               <li> <h5 className="compet-name"><i style={{paddingRight:"16px",paddingTop:"3px"}} class="fa fa-award" aria-hidden="true"></i>Prizes</h5>
+                        <p className="compet-name2">{prizes}</p>
+               </li><br />
+               
+                </ul>  
+                    
+                </div>
+          <br></br>
+          <div class="col-md-6">
+            <a target="_blank" href={srcDoc} class="btn btn--with-icon" style={{marginRight: '16px', marginBottom: '16px'}}><i class="btn-icon fa fa-long-arrow-right"></i> Documentation</a>
+            <a target="_blank" href={srcReg} class="btn btn--with-icon" style={{marginRight: '16px', marginBottom: '16px'}}><i class="btn-icon fa fa-long-arrow-right"></i> Register here! </a>
+          </div>
+        </div>
+      </article>
+    </div>
+  </div>
+</div>
 
+<section class="detail-page">
+  <div class="container mt-5">
+    
+  </div>
+</section>
+{/* new card done */}
 
         <footer>
                     <section id="contact">
@@ -219,7 +277,7 @@ import '../css/outline.scss'
 
 
     
-   </>)
+    </>)
     }
 
 
