@@ -32,8 +32,8 @@ function portfolio(){
                                                {EduPartners.map((item, index) => {
                                                return (
                                                    <div data-aos="fade-up" style={{paddingTop:"10%"}} className="col-md-4 col-sm-6 img-div">
-                                                       <a href={item.sponsorLink} target="_blank">
-                                                           <img className="sponsor-img" src={item.sponsorImg} />
+                                                       <a rel="noreferrer" href={item.sponsorLink} target="_blank">
+                                                           <img alt="" className="sponsor-img" src={item.sponsorImg} />
                                                        </a>
                                                    </div>                                                
                                                )
