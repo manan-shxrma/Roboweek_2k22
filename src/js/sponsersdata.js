@@ -60,6 +60,10 @@ export const EduPartners = [
     {
         sponsorLink:"https://www.axure.com/",
         sponsorImg:"assets/images/logos/axurelogo.png"
+    },
+    {
+        sponsorLink:"https://www.interviewcake.com/",
+        sponsorImg:"assets/images/logos/cake_logo_white_on_blue.svg"
     }
 
 ]
