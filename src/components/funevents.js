@@ -135,7 +135,8 @@ function Services(){
             <div class="profile-description mb-2">Solve IOT challenge statements on TinkerCAD.</div>
             <a href="https://dare2compete.com/competition/tinker-it-roboweek-20-national-institute-of-technology-nit-hamirpur-263696" class="bn5" style={{backgroundColor: "black"}}>Register</a><Link to="/post/tinkerit" class="bn5">Details</Link>
         </div>
-    </div></div>
+        </div>
+    </div>
     <div class="col-md-6 col-lg-4 left-card">
     
     <div data-aos="fade-right" class="profile-card-4 profile-card-background9 text-center fun-event1"><img style={{height:"27vh"}} alt="" src="assets/images/clipped.jpg" class="img img-responsive" />

@@ -59,7 +59,7 @@ import '../css/outline.scss'
 
     
     
-       
+    
         return(<>
         
         
@@ -242,9 +242,18 @@ end */}
                             </div>
                         </div>
 
-                        <div className="footer-bottom">
+                        <div className="footer-bottom" style={{background: "#fff" ,
+  marginLeft : "auto",
+  marginRight: "auto",
+  maxWidth: "960px",
+  padding: "0 15px",
+  width: "100%",
+  background:" rgb(238, 238, 238)"}}>
                             <div >
-                            <div className="row">
+                            <div className="row" style={{ maxWidth: "100vw",
+    padding: "20px 0 15p",
+    display: "flex",
+    justifyContent: "space-between",}}>
                                 <div className="col-lg-6 col-md-6 col-sm-12 f-bottom">
                                     <div className="f-bottom-left">
                                         
@@ -277,7 +286,7 @@ end */}
 
 
     
-   </>)
+    </>)
     }
 
 
