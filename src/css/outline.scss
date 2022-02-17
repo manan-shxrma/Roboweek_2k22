@@ -186,6 +186,11 @@ nav {
 }
 
 /* footer */
+@media(max-width:1100px) {
+  .footer-content{
+    height: 350px;
+  }
+}
 
 .footer-content {
   // font-family: "Poppins", sans-serif;
