@@ -228,13 +228,15 @@ end */}
                                                 <li><a href="mailto:robonith@gmail.com ">Help</a></li>
                                             </ul>
                                         </div>
-                                        <div className="footer-copyright-info">
+                                        <div className="footer-copyright-info" style={{padding: "10px 75px 0 0",
+  marginTop: "auto",
+  color: "#e7e8e9"}}>
                                             <div className="footer-copyright-right">
                                             Copyright © 2022 Robotics Society, NIT Hamirpur.
                                             </div>
                                         </div>
                                     </div>
-                                    <div className="f-logo"> <a href="https://robosocnith.com/">
+                                    <div className="f-logo" style={{display: "flex", width: "40%",}}> <a style={{width: "100%", marginTop: "auto"}} href="https://robosocnith.com/">
                                         <img src={"../assets/images/robosoc.png" } style={{width:"100%"}}  alt="logo" className="logo-footer" /></a>
                                         {/* <img src={"assets/images/logo-2.png"}  alt="logo" className="logo-footer" /> */}
                                     </div>
@@ -246,18 +248,23 @@ end */}
   marginLeft : "auto",
   marginRight: "auto",
   maxWidth: "960px",
-  padding: "0 15px",
+  padding: "0 10px",
   width: "100%",
   background:" rgb(238, 238, 238)"}}>
                             <div >
                             <div className="row" style={{ maxWidth: "100vw",
-    padding: "20px 0 15p",
+    padding: "20px 0 5px",
     display: "flex",
     justifyContent: "space-between",}}>
-                                <div className="col-lg-6 col-md-6 col-sm-12 f-bottom">
-                                    <div className="f-bottom-left">
+                                <div className="col-lg-6 col-md-6 col-sm-12 f-bottom" style={{display: "flex",
+  paddingTop: "5px"}}>
+                                    <div className="f-bottom-left" class={{fontSize: "14px",
+  /* margin-bottom: 0.5rem; */
+  fontFamily: 'Poppins',
+  color: "rgba(0, 0, 0, 0.85)",
+  fontWeight: "400"}}>
                                         
-                                        <img  alt=""  src={"../assets/images/logo-2.png"} style={{ "width": "162px",paddingRight:"5%",paddingTop:"7%"}}></img>
+                                        <img  alt=""  src={"../assets/images/logo-2.png"} style={{ "width": "162px",padding:"0 0 0 0"}}></img>
                                         {/* <p>Robotics Society</p> */}
                                     </div>
                                     <div className="f-bottom-right downpara">
