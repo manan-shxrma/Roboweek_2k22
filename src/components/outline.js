@@ -146,7 +146,7 @@ class Outline extends React.Component {
                                         </div>
                                     </div>
                                     <div className="f-logo col-md-6"> <a href="https://robosocnith.com/">
-                                        <img src={"assets/images/robosoc.png"} style={{width:"200px"}}  alt="logo" className="logo-footer" /></a>
+                                        <img src={"assets/images/robosoc.png"} style={{width:"200px",marginLeft:"150px"}}  alt="logo" className="logo-footer" /></a>
                                         {/* <img src={"assets/images/logo-2.png"}  alt="logo" className="logo-footer" /> */}
                                     </div>
                                 </div>
