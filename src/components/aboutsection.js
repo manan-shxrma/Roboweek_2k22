@@ -29,10 +29,10 @@ function Aboutsection(){
                   <h4>What is  <em>Roboweek?</em></h4>
                   <div className="line-dec"></div>
                 </div><p style={{fontSize:"larger"}}><strong> It is a blend of affairs encompassing week long enticing activities
-                               ranging from guest talks, robotic workshops, coding manias, fun events, cryptic hunt,
-                               quizzes and much more.</strong>
-                               <h4 style={{color:"#f7931e"}}
-                               
+                              ranging from guest talks, robotic workshops, coding manias, fun events, cryptic hunt,
+                              quizzes and much more.</strong>
+                              <h4 style={{color:"#f7931e"}}
+                              
                                 className="py-4" style={{color:"#f58b56"}}>Previous Year Records</h4></p>
                 <div data-aos="fade-left" className="row">
                   <div className="col-lg-4 col-sm-4">
@@ -112,7 +112,7 @@ function Aboutsection(){
                   <div className="line-dec"></div>
                 </div><p style={{fontSize:"larger"}}>
                             
-                                 <strong>RoboWeek is trying to promote diversity by conducting events
+                                <strong>RoboWeek is trying to promote diversity by conducting events
                                   specially endorsed for girls, thereby promoting women participation in technical 
                                   field and hence empowering women.</strong>
                         </p>
