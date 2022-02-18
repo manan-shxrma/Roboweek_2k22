@@ -26,12 +26,12 @@ function portfolio(){
                              
                              <h4 style={{color:"#0277BD"}}>Education Partners</h4>  
                            </div> */}
-                                       <br />
+                                       
                                       
                                            <div className="row row-img grid" style={{"justify-content": "center"}}>
                                                {EduPartners.map((item, index) => {
                                                return (
-                                                   <div data-aos="fade-up" style={{paddingTop:"10%"}} className="col-md-4 col-sm-6 img-div">
+                                                   <div data-aos="fade-up" style={{paddingTop:"7%"}} className="col-md-4 col-sm-6 img-div">
                                                        <a rel="noreferrer" href={item.sponsorLink} target="_blank">
                                                            <img alt="" className="sponsor-img" src={item.sponsorImg} />
                                                        </a>
@@ -45,19 +45,19 @@ function portfolio(){
 
 
                                         
-                      {/* 
-                        <div className="community">
+                      
+                        <div style={{paddingTop:"8%"}}  className="community">
                            
-                        <div className="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
+                        <div className="section-heading " data-wow-duration="1s" data-wow-delay="0.3s">
                           
-                          <h4 style={{color:"#DAA520"}}>Gold Sponsers</h4>  
+                          <h4 style={{color:"#002D62"}}>Community Partners</h4>  
                         </div>
                                     <br />
                                    
                                         <div className="row row-img grid" style={{"justify-content": "center"}}>
-                                            {GoldSponsors.map((item, index) => {
+                                            {CommunityPartners.map((item, index) => {
                                             return (
-                                                <div className="col-md-4 col-sm-6 img-div">
+                                                <div data-aos="fade-up" className="col-md-4 col-sm-6 img-div">
                                                     <a href={item.sponsorLink} target="_blank">
                                                         <img className="sponsor-img" src={item.sponsorImg} />
                                                     </a>
@@ -67,7 +67,7 @@ function portfolio(){
                                         </div>
                                     
                                 </div>
-                     */}
+                    
                                 {/* <div className="col-md-6">
                                     <h3>Platform Partners</h3>
                                     <br />

@@ -1,23 +1,7 @@
-export const GoldSponsors = [
+export const CommunityPartners = [
     {
-        sponsorLink: "https://github.com/",
-        sponsorImg: "/assets/images/logos/GitHub_Logo.png",
-    },
-    {
-        sponsorLink: "https://github.com/",
-        sponsorImg: "/assets/images/logos/GitHub_Logo.png",
-    },
-    {
-        sponsorLink: "https://github.com/",
-        sponsorImg: "/assets/images/logos/GitHub_Logo.png",
-    },
-    {
-        sponsorLink: "https://github.com/",
-        sponsorImg: "/assets/images/logos/GitHub_Logo.png",
-    },
-    {
-        sponsorLink: "https://github.com/",
-        sponsorImg: "/assets/images/logos/GitHub_Logo.png",
+        sponsorLink:"https://http://rignitc.com/",
+        sponsorImg:"assets/images/logos/RIG_NIT_Calicut.png"
     }
 ]
 
@@ -33,9 +17,10 @@ export const EduPartners = [
         sponsorImg:"assets/images/logos/02-sticker-mule-logo-light.png"
     },
     {
-        sponsorLink:"https://www.leading-learners.com/",
-        sponsorImg:"assets/images/logos/Leading_Learners_Logo.png"
+        sponsorLink:"https://www.myinterviewbuddy.com/",
+        sponsorImg:"assets/images/logos/Interview_buddy.png"
     },
+    
     {
         sponsorLink:"https://givemycertificate.com/",
         sponsorImg:"assets/images/logos/gmc.png"
@@ -65,14 +50,11 @@ export const EduPartners = [
         sponsorLink:"https://www.interviewcake.com/",
         sponsorImg:"assets/images/logos/cake_logo_white_on_blue.svg"
     },
+    
     {
-        sponsorLink:"https://www.myinterviewbuddy.com/",
-        sponsorImg:"assets/images/logos/Interview_buddy.png"
+        sponsorLink:"https://www.leading-learners.com/",
+        sponsorImg:"assets/images/logos/Leading_Learners_Logo.png"
     },
-    {
-        sponsorLink:"https://http://rignitc.com/",
-        sponsorImg:"assets/images/logos/RIG_NIT_Calicut.png"
-    }
 
 
 ]
