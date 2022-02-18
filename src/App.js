@@ -33,16 +33,7 @@ function App() {
 
 
 
-<<<<<<< HEAD
-      // `https://roboweek-robosocnith.com/`  
-=======
-      `https://roboweek-robosocnith.com/`  
-
-
-
-
-        // 'http://localhost:3000/'
->>>>>>> fe9f6dfdc69b2a2d6ff10079bf974beb3c536203
+       //`https://roboweek-robosocnith.com/`  
 
         'http://localhost:3000/'
 
