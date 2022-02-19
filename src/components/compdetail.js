@@ -228,9 +228,7 @@ end */}
                                                 <li><a href="mailto:robonith@gmail.com ">Help</a></li>
                                             </ul>
                                         </div>
-                                        <div className="footer-copyright-info" style={{padding: "10px 75px 0 0",
-  marginTop: "auto",
-  color: "#e7e8e9"}}>
+                                        <div className="footer-copyright-info" style={{padding: "10px 75px 0 0", marginTop: "auto", color: "#e7e8e9"}}>
                                             <div className="footer-copyright-right">
                                             Copyright © 2022 Robotics Society, NIT Hamirpur.
                                             </div>
@@ -256,13 +254,8 @@ end */}
     padding: "20px 0 5px",
     display: "flex",
     justifyContent: "space-between",}}>
-                                <div className="col-lg-6 col-md-6 col-sm-12 f-bottom" style={{display: "flex",
-  paddingTop: "5px"}}>
-                                    <div className="f-bottom-left" class={{fontSize: "14px",
-  /* margin-bottom: 0.5rem; */
-  fontFamily: 'Poppins',
-  color: "rgba(0, 0, 0, 0.85)",
-  fontWeight: "400"}}>
+                                <div className="col-lg-6 col-md-6 col-sm-12 f-bottom" style={{display: "flex", paddingTop: "5px"}}>
+                                    <div className="f-bottom-left" class={{fontSize: "14px", /* margin-bottom: 0.5rem; */ fontFamily: 'Poppins', color: "rgba(0, 0, 0, 0.85)", fontWeight: "400"}}>
                                         
                                         <img  alt=""  src={"../assets/images/logo-2.png"} style={{ "width": "162px",padding:"0 0 0 0"}}></img>
                                         {/* <p>Robotics Society</p> */}
