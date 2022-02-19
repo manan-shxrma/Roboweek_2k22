@@ -68,6 +68,4 @@ export const EduPartners = [
         sponsorImg:"assets/images/logos/AOPS.png"
     },
    
-    
-
 ]
