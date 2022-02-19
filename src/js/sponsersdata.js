@@ -55,6 +55,17 @@ export const EduPartners = [
         sponsorLink:"https://www.leading-learners.com/",
         sponsorImg:"assets/images/logos/Leading_Learners_Logo.png"
     },
-
+    {
+        sponsorLink:"https://artofproblemsolving.com/",
+        sponsorImg:"assets/images/logos/AOPS.png"
+    },
+    {
+        sponsorLink:"http://rmi.nitt.edu/",
+        sponsorImg:"assets/images/logos/RMI.png"
+    },
+    {
+        sponsorLink:"https://www.nitj.ac.in/rtist/",
+        sponsorImg:"assets/images/logos/R-Tist.png"
+    },
 
 ]
