@@ -7,7 +7,6 @@ import axios from 'axios';
 import { css } from "@emotion/react";
 import ScaleLoader from "react-spinners/ScaleLoader";
 import ScrollToTop from './components/ScrollToTop';
-
 const override = css`
 text-align:center;
   background-color:#081b24;
