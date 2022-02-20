@@ -117,7 +117,7 @@ class Outline extends React.Component {
                 <footer>
                     <section id="contact">
                         <a href="/" name="contact"></a>
-                        <div className="footer-content"style={{height:"350px"}}>
+                        <div className="footer-content">
                             <div class="footer-top">
                                 <button className="back-to-top" type="button" onClick={() => {window.location.href = "#"}}>
                                     Back to the top <i class="fa fa-angle-up"></i>
@@ -134,9 +134,9 @@ class Outline extends React.Component {
                                                 <li><a href="/#sponsors">Sponsors</a></li>
                                             </ul>
                                             <ul className="f-nav-ul">
-                                                <li><a href="https://discord.com/invite/vHz3tyjyke">Discord <i className="fab fa-discord"/></a></li>
-                                                <li><a href="/#timeline">Timeline <i class="fas fa-stream"></i></a></li>
-                                                <li><a href="mailto:robonith@gmail.com ">Help <i class="fas fa-hands-helping"></i></a></li>
+                                                <li><a href="https://discord.com/invite/vHz3tyjyke">Discord</a></li>
+                                                <li><a href="/#timeline">Timeline</a></li>
+                                                <li><a href="mailto:robonith@gmail.com ">Help</a></li>
                                             </ul>
                                         </div>
                                         <div className="footer-copyright-info">
@@ -146,7 +146,7 @@ class Outline extends React.Component {
                                         </div>
                                     </div>
                                     <div className="f-logo col-md-6"> <a href="https://robosocnith.com/">
-                                        <img src={"assets/images/robosoc.png"} style={{width:"200px",marginLeft:"150px"}}  alt="logo" className="logo-footer" /></a>
+                                        <img src={"assets/images/robosoc.png"} alt="logo" className="logo-footer" /></a>
                                         {/* <img src={"assets/images/logo-2.png"}  alt="logo" className="logo-footer" /> */}
                                     </div>
                                 </div>
