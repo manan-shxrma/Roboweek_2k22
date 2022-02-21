@@ -137,13 +137,13 @@ function Freequote(){
 								<span className='dati'>05:00 PM</span>   
                                 </div>
                                 <div class="col-6 col-md-6 grey time-content-a">
-								WORKSHOP - MACHINE LEARNING AND DJANGO
+								Workshop - Machine Learning and django
                                 </div>
                                 <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'>04:00 PM</span> 
                                 </div>
                                 <div class="col-6 col-md-6 grey time-content-a">
-								TECH TALK - EMOTIONAL INTELLIGENCE IN AI
+								Tech Talk - Emotional Intelligance In AI
                                 </div>
                                 <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'> 07:00 PM</span> 
@@ -167,7 +167,7 @@ function Freequote(){
                             <div class="timeline-content">
                             <div class="row">
                                 <div class="col-6 col-md-6 grey time-content-a">
-								TECH TALK - QUANTUM MACHINE LEARNING
+								Tech Talk - Quantum Machine Learning
                                 </div>
                                 <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'>06:00 PM</span>   
@@ -279,7 +279,7 @@ function Freequote(){
                             <div class="timeline-content">
                             <div class="row">
                                 <div class="col-6 col-md-6 grey time-content-a">
-								Code-Naari
+								Code Naari
                                 </div>
                                 <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'>TBD</span>   
