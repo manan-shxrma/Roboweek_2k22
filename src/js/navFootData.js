@@ -16,9 +16,14 @@ export const navItems = [
         url: "/#timeline",
     },
     {
+        title: "Sponsors",
+        url: "/#sponsors"
+    },
+    {
         title: "Contact Us",
         url: "/#contact",
     },
+    
 ]
 
 export const socialMedia = [

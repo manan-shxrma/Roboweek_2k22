@@ -30,8 +30,8 @@ function App() {
  //
         // `https://roboweek.netlify.app/` 
 
-      `https://roboweek-robosocnith.com/`   
-      //  'http://localhost:3000/'
+      // `https://roboweek-robosocnith.com/`   
+       'http://localhost:3000/'
 
 
 
