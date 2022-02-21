@@ -24,14 +24,14 @@ function App() {
   const [items, setItems] = useState([])
   const [loading,setLoading]=useState(true);
   useEffect(()=>{
-    const getItems =  async () =>{
+    const getItems =  async ()=>{
       const result = await axios(
 
  //
         // `https://roboweek.netlify.app/` 
 
-      // `https://roboweek-robosocnith.com/`   
-       'http://localhost:3000/'
+      `https://roboweek-robosocnith.com/`   
+      //  'http://localhost:3000/'
 
 
 
