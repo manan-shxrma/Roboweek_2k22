@@ -206,7 +206,7 @@ end */}
         <footer>
                     <section id="contact">
                         <a href="/" name="contact"></a>
-                        <div className="footer-content">
+                        <div className="footer-content" style={{}}>
                             <div class="footer-top">
                                 <button className="back-to-top" type="button" onClick={() => {window.location.href = "#"}}>
                                     Back to the top <i class="fa fa-angle-up"></i>
@@ -235,25 +235,16 @@ end */}
                                         </div>
                                     </div>
                                     <div className="f-logo" style={{display: "flex", width: "40%",}}> <a style={{width: "100%", marginTop: "auto"}} href="https://robosocnith.com/">
-                                        <img src={"../assets/images/robosoc.png" } style={{width:"100%"}}  alt="logo" className="logo-footer" /></a>
+                                        <img src={"../assets/images/robosoc.png" }  alt="logo" className="logo-footer" /></a>
                                         {/* <img src={"assets/images/logo-2.png"}  alt="logo" className="logo-footer" /> */}
                                     </div>
                                 </div>
                             </div>
                         </div>
 
-                        <div className="footer-bottom" style={{background: "#fff" ,
-  marginLeft : "auto",
-  marginRight: "auto",
-  maxWidth: "960px",
-  padding: "0 10px",
-  width: "100%",
-  background:" rgb(238, 238, 238)"}}>
+                        <div className="footer-bottom" style={{background: "#fff" , marginLeft : "auto", marginRight: "auto", maxWidth: "960px", padding: "0 0", width: "100%", background:" rgb(238, 238, 238)"}}>
                             <div >
-                            <div className="row" style={{ maxWidth: "100vw",
-    padding: "20px 0 5px",
-    display: "flex",
-    justifyContent: "space-between",}}>
+                            <div className="row" style={{ maxWidth: "100vw", padding: "20px 0 5px", display: "flex", justifyContent: "space-between",}}>
                                 <div className="col-lg-6 col-md-6 col-sm-12 f-bottom" style={{display: "flex", paddingTop: "5px"}}>
                                     <div className="f-bottom-left" class={{fontSize: "14px", /* margin-bottom: 0.5rem; */ fontFamily: 'Poppins', color: "rgba(0, 0, 0, 0.85)", fontWeight: "400"}}>
                                         
