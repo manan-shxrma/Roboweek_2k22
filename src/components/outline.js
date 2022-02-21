@@ -129,7 +129,7 @@ class Outline extends React.Component {
                             </div>
                             <div className="footer-mid">
                                 <div className="f-content">
-                                    <div className="f-contact col-md-6">
+                                    <div className="f-contact col-md-6" style={{paddingLeft:"12%"}}>
                                         <div className="f-nav">
                                             <ul>
                                                 <li><a href="/">Home</a></li>
