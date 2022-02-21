@@ -331,7 +331,7 @@ function Freequote(){
 								Closing of event
                                 </div>
                                 <div class="col-6 col-md-6 grey time-content-a">
-								<span className='dati'> 05:00 - 08:00 PM</span> 
+								<span className='dati'>05:00 - 08:00 PM</span> 
                                 </div>
                                 <div class="col-6 col-md-6 grey time-content-a">
 								Regatta | Submission Ends

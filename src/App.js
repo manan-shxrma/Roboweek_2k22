@@ -27,12 +27,12 @@ function App() {
     const getItems =  async ()=>{
       const result = await axios(
 
- //
+
         // `https://roboweek.netlify.app/` 
 
-      `https://roboweek-robosocnith.com/`   
-      //  'http://localhost:3000/'
+         `https://roboweek-robosocnith.com/`  
 
+        // 'http://localhost:3000/'
 
 
         //change this url when using localhost to http://localhost:3000/

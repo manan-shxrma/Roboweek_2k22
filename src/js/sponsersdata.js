@@ -2,7 +2,15 @@ export const CommunityPartners = [
     {
         sponsorLink:"https://http://rignitc.com/",
         sponsorImg:"assets/images/logos/RIG_NIT_Calicut.png"
-    }
+    },
+    {
+        sponsorLink:"https://www.nitj.ac.in/rtist/",
+        sponsorImg:"assets/images/logos/R-Tist.png"
+    },
+    {
+        sponsorLink:"http://rmi.nitt.edu/",
+        sponsorImg:"assets/images/logos/RMI.png"
+    },
 ]
 
 
@@ -55,6 +63,9 @@ export const EduPartners = [
         sponsorLink:"https://www.leading-learners.com/",
         sponsorImg:"assets/images/logos/Leading_Learners_Logo.png"
     },
-
-
+    {
+        sponsorLink:"https://artofproblemsolving.com/",
+        sponsorImg:"assets/images/logos/AOPS.png"
+    },
+   
 ]
