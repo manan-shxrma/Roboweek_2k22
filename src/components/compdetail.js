@@ -271,7 +271,7 @@ end */}
                                     <p>
                                         {socialMedia.map((item, index) => {
                                         return (
-                                            <a href={item.socialLink} target="_blank" rel="noreferrer" >
+                                            <a href={item.socialLink} style={{marginLeft:"30px"}} target="_blank" rel="noreferrer" >
                                                 <i className={item.socialIcon}></i>
                                             </a>
                                         )

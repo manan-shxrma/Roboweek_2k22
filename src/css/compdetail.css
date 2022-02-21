@@ -258,7 +258,7 @@ justify-content: space-between;
    .card-img-top {
        border-radius: 20px;
        height: 400px;
-       object-fit:cover;
+       object-fit: fill;
     }
    .blog-card__info {
        padding: 20px;

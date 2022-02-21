@@ -82,7 +82,7 @@ const homedata = [
         judging2:"Components used if any extra component is used then marks will be deducted.",
         prerequisites:"TinkerCad and Circuit designing.",
         prizes:"TBD",
-        image:"../../assets/images/hunt-nova.jpg",
+        image:"../../assets/images/hunt-nova-2.png",
         srcDoc:"https://docs.google.com/document/d/1Rnd--W0dzLetZZ2oOkA5ik4wcBjy5c6JEbCTZE7xVVw/edit?usp=sharing",
         srcReg:"https://dare2compete.com/competition/hunt-nova-roboweek-20-national-institute-of-technology-nit-hamirpur-263565"
     }
