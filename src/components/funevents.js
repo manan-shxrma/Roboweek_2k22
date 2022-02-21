@@ -72,7 +72,7 @@ function Services(){
     </div></div>
     <div style={{paddingBottom:"5%"}} class="col-md-6 col-lg-4 right-card">
     
-    <div data-aos="fade-right" class="profile-card-4 profile-card-background4 text-center event4"><img style={{height:"27vh"}} alt="" src="assets/images/hunt-nova.jpg" class="img img-responsive" />
+    <div data-aos="fade-right" class="profile-card-4 profile-card-background4 text-center event4"><img style={{height:"27vh"}} alt="" src="assets/images/hunt-nova.png" class="img img-responsive" />
         <div style={{backgroundColor:"#eceef1", paddingBottom:"4vh"}} class="profile-content">
             <div class="profile-name">HUNT NOVA
                 

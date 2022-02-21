@@ -339,6 +339,7 @@ function Freequote(){
                                 <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'> 12:00 PM</span>   
                                 </div>
+                                
                                 <div class="col-6 col-md-6 grey time-content-a">
 								Tech Talk - Cloud Computing
                                 </div>
