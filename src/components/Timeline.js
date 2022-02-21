@@ -280,11 +280,12 @@ function Freequote(){
                                 <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'>11:00 AM</span>   
                                 </div>
+                                
                                 <div class="col-6 col-md-6 grey time-content-a">
 								Quiz
                                 </div>
                                 <div class="col-6 col-md-6 grey time-content-a">
-								<span className='dati'> 05:00 - 08:00 PM</span> 
+								<span className='dati'> 09:00 PM</span> 
                                 </div>
                                 <div class="col-6 col-md-6 grey time-content-a">
 								Regatta | Submission Starts
@@ -303,6 +304,12 @@ function Freequote(){
                                 </div>
                                 <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'> 11:59 PM</span> 
+                                </div>
+                                <div class="col-6 col-md-6 grey time-content-a">
+								Cloud Computing Talk
+                                </div>
+                                <div class="col-6 col-md-6 grey time-content-a">
+								<span className='dati'>06:00 PM</span>   
                                 </div>
                             </div>
                             </div>
@@ -325,13 +332,13 @@ function Freequote(){
 								Result Declaration
                                 </div>
                                 <div class="col-6 col-md-6 grey time-content-a">
-								<span className='dati'>11:00 AM</span>   
+								<span className='dati'>To Be Declared</span>   
                                 </div>
                                 <div class="col-6 col-md-6 grey time-content-a">
-								Closing of event
+								#Clipped | Submission Ends
                                 </div>
                                 <div class="col-6 col-md-6 grey time-content-a">
-								<span className='dati'>05:00 - 08:00 PM</span> 
+								<span className='dati'>11:59 PM</span> 
                                 </div>
                                 <div class="col-6 col-md-6 grey time-content-a">
 								Regatta | Submission Ends
@@ -340,10 +347,10 @@ function Freequote(){
 								<span className='dati'>11:59 PM</span> 
                                 </div>
                                 <div class="col-6 col-md-6 grey time-content-a">
-								#Clipped | Submission Ends
+								Closing Ceremony
                                 </div>
                                 <div class="col-6 col-md-6 grey time-content-a">
-								<span className='dati'> 11:59 PM</span> 
+								<span className='dati'> To Be Declared</span> 
                                 </div>
                             </div>
                             </div>

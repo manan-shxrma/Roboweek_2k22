@@ -150,7 +150,7 @@ a:focus {
   background-color: rgb(49 11 122);
 }
 .profile-card-background4{
-  background-color: rgb(44 194 149);
+  background-color: rgb(21 47 51);
 }
 .profile-card-background5{
   background-color: rgb(235 104 253);
@@ -229,7 +229,7 @@ a:focus {
   top: -15px;
   left: 0px;
   right: 0px;
-  background: linear-gradient(to bottom, #31bf95 0%, rgb(236, 238, 241) 100%);
+  background: linear-gradient(to bottom, rgb(21 47 51) 0%, rgb(236, 238, 241) 100%);
   z-index: 0;
   transform: skewY(0deg);
 }
