@@ -203,6 +203,7 @@ end */}
 </section>
 {/* new card done */}
 
+        {/* footer */}
         <footer>
                     <section id="contact">
                         <a href="/" name="contact"></a>
@@ -214,7 +215,7 @@ end */}
                             </div>
                             <div className="footer-mid">
                                 <div className="f-content">
-                                    <div className="f-contact">
+                                    <div className="f-contact col-md-6">
                                         <div className="f-nav">
                                             <ul>
                                                 <li><a href="/">Home</a></li>
@@ -223,48 +224,32 @@ end */}
                                                 <li><a href="/#sponsors">Sponsors</a></li>
                                             </ul>
                                             <ul className="f-nav-ul">
-                                                <li><a href="https://robosocnith.com/projects.html">Projects</a></li>
+                                                <li><a href="https://discord.com/invite/vHz3tyjyke">Discord</a></li>
                                                 <li><a href="/#timeline">Timeline</a></li>
                                                 <li><a href="mailto:robonith@gmail.com ">Help</a></li>
                                             </ul>
                                         </div>
-                                        <div className="footer-copyright-info" style={{padding: "10px 75px 0 0",
-  marginTop: "auto",
-  color: "#e7e8e9"}}>
+                                        <div className="footer-copyright-info">
                                             <div className="footer-copyright-right">
                                             Copyright © 2022 Robotics Society, NIT Hamirpur.
                                             </div>
                                         </div>
                                     </div>
-                                    <div className="f-logo" style={{display: "flex", width: "40%",}}> <a style={{width: "100%", marginTop: "auto"}} href="https://robosocnith.com/">
-                                        <img src={"../assets/images/robosoc.png" } style={{width:"100%"}}  alt="logo" className="logo-footer" /></a>
+                                    <div className="f-logo col-md-6"> <a href="https://robosocnith.com/">
+                                        <img src={"/assets/images/robosoc.png"}  alt="logo" className="logo-footer" /></a>
                                         {/* <img src={"assets/images/logo-2.png"}  alt="logo" className="logo-footer" /> */}
                                     </div>
                                 </div>
                             </div>
                         </div>
 
-                        <div className="footer-bottom" style={{background: "#fff" ,
-  marginLeft : "auto",
-  marginRight: "auto",
-  maxWidth: "960px",
-  padding: "0 10px",
-  width: "100%",
-  background:" rgb(238, 238, 238)"}}>
+                        <div style={{background:" rgb(238, 238, 238)"}} className="footer-bottom">
                             <div >
-                            <div className="row" style={{ maxWidth: "100vw",
-    padding: "20px 0 5px",
-    display: "flex",
-    justifyContent: "space-between",}}>
-                                <div className="col-lg-6 col-md-6 col-sm-12 f-bottom" style={{display: "flex",
-  paddingTop: "5px"}}>
-                                    <div className="f-bottom-left" class={{fontSize: "14px",
-  /* margin-bottom: 0.5rem; */
-  fontFamily: 'Poppins',
-  color: "rgba(0, 0, 0, 0.85)",
-  fontWeight: "400"}}>
+                            <div className="row">
+                                <div className="col-lg-6 col-md-6 col-sm-12 f-bottom">
+                                    <div className="f-bottom-left">
                                         
-                                        <img  alt=""  src={"../assets/images/logo-2.png"} style={{ "width": "162px",padding:"0 0 0 0"}}></img>
+                                        <img  alt=""  src={"assets/images/logo-2.png"} style={{ "width": "162px",paddingRight:"5%",paddingTop:"7%"}}></img>
                                         {/* <p>Robotics Society</p> */}
                                     </div>
                                     <div className="f-bottom-right downpara">
