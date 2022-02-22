@@ -214,7 +214,7 @@ end */}
                             </div>
                             <div className="footer-mid">
                                 <div className="f-content">
-                                    <div className="f-contact">
+                                    <div className="f-contact col-md-6" style={{paddingLeft:"15%"}}>
                                         <div className="f-nav">
                                             <ul>
                                                 <li><a href="/">Home</a></li>
@@ -229,12 +229,12 @@ end */}
                                             </ul>
                                         </div>
                                         <div className="footer-copyright-info" style={{padding: "10px 75px 0 0", marginTop: "auto", color: "#e7e8e9"}}>
-                                            <div className="footer-copyright-right">
+                                            <div className="footer-copyright-right" >
                                             Copyright © 2022 Robotics Society, NIT Hamirpur.
                                             </div>
                                         </div>
                                     </div>
-                                    <div className="f-logo" style={{display: "flex", width: "40%",}}> <a style={{width: "100%", marginTop: "auto"}} href="https://robosocnith.com/">
+                                    <div className="f-logo" style={{display: "flex", width: "30%", marginRight:"40%"}}> <a style={{width: "100%", marginTop: "auto"}} href="https://robosocnith.com/">
                                         <img src={"../assets/images/robosoc.png" }  alt="logo" className="logo-footer" /></a>
                                         {/* <img src={"assets/images/logo-2.png"}  alt="logo" className="logo-footer" /> */}
                                     </div>
@@ -248,7 +248,7 @@ end */}
                                 <div className="col-lg-6 col-md-6 col-sm-12 f-bottom" style={{display: "flex", paddingTop: "5px"}}>
                                     <div className="f-bottom-left" class={{fontSize: "14px", /* margin-bottom: 0.5rem; */ fontFamily: 'Poppins', color: "rgba(0, 0, 0, 0.85)", fontWeight: "400"}}>
                                         
-                                        <img  alt=""  src={"../assets/images/logo-2.png"} style={{ "width": "162px",padding:"0 0 0 0"}}></img>
+                                        <img  alt=""  src={"../assets/images/logo-2.png"} style={{ width: "162px",padding:"0 0 0 0"}}></img>
                                         {/* <p>Robotics Society</p> */}
                                     </div>
                                     <div className="f-bottom-right downpara">
@@ -258,7 +258,7 @@ end */}
                                         </p>
                                     </div>
                                 </div>
-                                <div className="col-lg-6 col-md-6 col-sm-12 f-media">
+                                <div className="col-lg-6 col-md-6 col-sm-12 f-media" style={{textAlign:"center"}}>
                                     <p>
                                         {socialMedia.map((item, index) => {
                                         return (
