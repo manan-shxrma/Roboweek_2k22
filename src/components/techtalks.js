@@ -84,7 +84,7 @@ Cognizant Technology Solutions
 </h3>
     <h4>Quantum Machine Learning</h4>
     <p class="tech-para">Vice President at Techversant| Quantum Machine Learning Expert | Key-Note Speaker | IEEE Senior Member</p>
-    <div class="icons"><a href="#"><i class="ion-social-linkedin" style={{color:"orange"}}></i></a>
+    <div class="icons"><a href="https://www.linkedin.com/in/dr-santosh-kumar-nanda-b3848499"><i class="ion-social-linkedin" style={{color:"orange"}}></i></a>
       <a href="#"> <i class="ion-social-twitter" style={{color:"orange"}}></i></a>
       <a href="#"> <i class="ion-social-facebook" style={{color:"orange"}}></i></a>
     </div>
@@ -99,9 +99,9 @@ Cognizant Technology Solutions
 </h3>
     <h4>Women In FOSS </h4>
     <p class="tech-para">Assistant Consultant at Tata Consultancy Services Limited | Ex Associate Cognizant Technology Solutions</p>
-    <div class="icons"><a href="#"><i class="ion-social-linkedin" style={{color:"orange"}}></i></a>
+    <div class="icons"><a href="https://www.linkedin.com/in/nithya-duraisamy-45284250/"><i class="ion-social-linkedin" style={{color:"orange"}}></i></a>
       <a href="#"> <i class="ion-social-twitter" style={{color:"orange"}}></i></a>
-      <a href="#"> <i class="ion-social-facebook" style={{color:"orange"}}></i></a>
+      <a href="https://www.facebook.com/nithya.duraisamy.7"> <i class="ion-social-facebook" style={{color:"orange"}}></i></a>
     </div>
   </figcaption>
 </figure>
