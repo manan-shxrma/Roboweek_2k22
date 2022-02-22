@@ -379,7 +379,7 @@
     .main-timeline .timeline:nth-child(2n) .timeline-content {
         width: 95%;
         text-align: center;
-        padding: 10px 0
+        padding: 5px 0
     }
     .main-timeline .title {
         margin-bottom: 10px
