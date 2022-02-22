@@ -62,7 +62,7 @@
  .postcard .postcard__bar {
 	 width: 50px;
 	 height: 10px;
-	 margin: 10px 0;
+	 margin: 25px 0;
 	 border-radius: 5px;
 	 background-color: #424242;
 	 transition: width 0.2s ease;

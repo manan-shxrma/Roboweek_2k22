@@ -12,7 +12,7 @@ const homedata = [
        
         title:"Trash Bot",
         submission1:"Submission platform- Google Forms ",
-        submission2:"The submission window will be open from 12:01 am, 18/03/2022 to 11.59 p.m, 23/03/2022",
+        submission2:"The submission window will be open from 12:00 am, 21/03/2022 to 11:59 p.m, 25/03/2022",
         judging1:"The participants will be judged based on their creativity and innovation; ",
         judging2:" Amount of trash material used along with the utilities of the robot model built by them.",
         judging3:"",
