@@ -28,27 +28,22 @@ function App() {
 
 
         // `https://roboweek.netlify.app/` 
-<<<<<<< HEAD
 
 
 
 
 
 
-      // `https://roboweek-robosocnith.com/`  
+     `https://roboweek-robosocnith.com/`  
 
 
-      'http://localhost:3000/'
+     // 'http://localhost:3000/'
 
-//        'http://localhost:3000/'
-
-
+      //  'http://localhost:3000/'
 
 
-=======
-         `https://roboweek-robosocnith.com/`  
-      // 'http://localhost:3000/'
->>>>>>> 86d0dfdc8127e1eb3a313aacd3b410d922e6e8ad
+
+
         //change this url when using localhost to http://localhost:3000/
  
         )
