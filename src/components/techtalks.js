@@ -16,7 +16,7 @@ function Services() {
           </h4>
           <div className="line-dec"></div>
         </div>
-        <div style={{ paddingTop: "10%" }} className="container">
+        {/* <div style={{ paddingTop: "10%" }} className="container">
           <section className="light">
             
               <article className="postcard light blue">
@@ -30,14 +30,14 @@ function Services() {
                 <div className="postcard__text t-dark">
                   <h1 className="postcard__title blue">
                     <a href="#empty">Podcast Title</a>
-                  </h1>
+                  </h1> */}
                   {/* <div className="postcard__subtitle small">
                     <time datetime="2020-05-25 12:00:00">
                       <i className="fas fa-calendar-alt mr-2"></i>Mon, May 25th
                       2020
                     </time>
                   </div> */}
-                  <div className="postcard__bar"></div>
+                  {/* <div className="postcard__bar"></div>
                   <div className="postcard__preview-txt">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
                     Eligendi, fugiat asperiores inventore beatae accusamus odit
@@ -60,8 +60,8 @@ function Services() {
                     </li>
                   </ul>
                 </div>
-              </article>
-              <article className="postcard light red">
+              </article> */}
+              {/* <article className="postcard light red">
                 <a className="postcard__img_link" href="#empty">
                   <img
                     className="postcard__img"
@@ -72,14 +72,14 @@ function Services() {
                 <div className="postcard__text t-dark">
                   <h1 className="postcard__title red">
                     <a href="#empty">Podcast Title</a>
-                  </h1>
+                  </h1> */}
                   {/* <div className="postcard__subtitle small">
                     <time datetime="2020-05-25 12:00:00">
                       <i className="fas fa-calendar-alt mr-2"></i>Mon, May 25th
                       2020
                     </time>
                   </div> */}
-                  <div className="postcard__bar"></div>
+                  {/* <div className="postcard__bar"></div>
                   <div className="postcard__preview-txt">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
                     Eligendi, fugiat asperiores inventore beatae accusamus odit
@@ -114,14 +114,14 @@ function Services() {
                 <div className="postcard__text t-dark">
                   <h1 className="postcard__title green">
                     <a href="#empty">Podcast Title</a>
-                  </h1>
+                  </h1> */}
                   {/* <div className="postcard__subtitle small">
                     <time datetime="2020-05-25 12:00:00">
                       <i className="fas fa-calendar-alt mr-2"></i>Mon, May 25th
                       2020
                     </time>
                   </div> */}
-                  <div className="postcard__bar"></div>
+                  {/* <div className="postcard__bar"></div>
                   <div className="postcard__preview-txt">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
                     Eligendi, fugiat asperiores inventore beatae accusamus odit
@@ -146,8 +146,8 @@ function Services() {
                 </div>
               </article>
              
-          </section>
-        </div>
+          </section> 
+        </div>*/}
       </div>
       </div>
     </>
