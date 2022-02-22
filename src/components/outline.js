@@ -106,8 +106,8 @@ class Outline extends React.Component {
                     
                     <Topsection />
                     <Aboutsection />
-                    {/* <Competitions />
-                    <Techtalks /> */}
+                    {/* <Competitions /> */}
+                    <Techtalks />
                     <Funevents />
                     <Freequote />
                     <Sponsors />
@@ -149,8 +149,11 @@ class Outline extends React.Component {
                                             </div>
                                         </div>
                                     </div>
-                                    <div className="f-logo col-md-6"> <a href="https://robosocnith.com/">
-                                        <img src={"assets/images/robosoc.png"}  alt="logo" className="logo-footer" /></a>
+
+                                    
+                                    <div className="f-logo col-md-6" style={{paddingRight:"15%"}}> <a href="https://robosocnith.com/">
+                                        <img src={"assets/images/robosoc.png"} alt="logo" className="logo-footer" /></a>
+
                                         {/* <img src={"assets/images/logo-2.png"}  alt="logo" className="logo-footer" /> */}
                                     </div>
                                 </div>
