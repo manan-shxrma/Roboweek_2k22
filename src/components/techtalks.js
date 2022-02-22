@@ -33,11 +33,11 @@ function Services() {
                   </h1>
                   <div className="postcard__subtitle small">
                     <time datetime="2020-05-25 12:00:00">
-                      <i className="fas fa-calendar-alt mr-2"></i>Mon, May 25th
-                      2020
+                    Mon, May 25th
+                      2020<i className="fas fa-calendar-alt mr-2"></i>
                     </time>
                   </div>
-                  <div className="postcard__bar"></div>
+                  {/* <div className="postcard__bar"></div> */}
                   <div className="postcard__preview-txt">
                   Most of us have heard of AI and quantum computing . But, have you heard of quantum machine learning?
                   Quantum machine learning is the intersection between quantum computing and AI that's going to change what the future looks like.
