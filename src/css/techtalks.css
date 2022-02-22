@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&family=Roboto:wght@400;900&display=swap');
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,400);
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css);
 /* This pen */
  .dark {
 	 background: #110f16;
@@ -49,9 +51,11 @@
 }
  .postcard .postcard__title {
 	 font-size: 1.75rem;
+	 padding-left: 20px;
+	 color:#0076bd
 }
  .postcard .postcard__img {
-	 max-height: 180px;
+	 max-height: 100px;
 	 width: 100%;
 	 object-fit: fill;
 	 position: relative;
@@ -60,9 +64,10 @@
 	 display: contents;
 }
  .postcard .postcard__bar {
-	 width: 50px;
+	 visibility: hidden;
+	 width: 10px;
 	 height: 10px;
-	 margin: 10px 0;
+	 margin: 25px 0;
 	 border-radius: 5px;
 	 background-color: #424242;
 	 transition: width 0.2s ease;
@@ -74,10 +79,10 @@
 	 flex-direction: column;
 }
  .postcard .postcard__preview-txt {
-	 overflow: hidden;
-	 text-overflow: ellipsis;
-	 text-align: justify;
-	 height: 100%;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	text-align: justify;
+	height: 100%;
 }
  .postcard .postcard__tagbox {
 	 display: flex;
@@ -268,4 +273,74 @@
 		 background-image: linear-gradient(80deg, rgba(189, 187, 73, 0.1), transparent 50%);
 	}
 }
- 
+figure.snip1390 {
+  font-family: 'Roboto', Arial, sans-serif;
+  position: relative;
+  overflow: hidden;
+  margin: 10px;
+  min-width: 230px;
+  max-width: 315px;
+  width: 100%;
+  color: #000000;
+  text-align: center;
+  font-size: 16px;
+  background-color: #2C3447;
+  padding: 30px;
+  background-image: linear-gradient(-25deg, rgba(0, 0, 0, 0.2) 0%, rgba(255, 255, 255, 0.1) 100%);
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+figure.snip1390 *,
+figure.snip1390 *:before,
+figure.snip1390 *:after {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+}
+figure.snip1390 figcaption {
+  width: 100%;
+}
+figure.snip1390 h2,
+figure.snip1390 h4,
+figure.snip1390 blockquote {
+  margin: 0;
+}
+figure.snip1390 h2,
+figure.snip1390 h4 {
+  font-weight: 300;
+}
+figure.snip1390 h2 {
+  color: #ffffff;
+}
+figure.snip1390 h4 {
+  color: #a6a6a6;
+}
+figure.snip1390 blockquote {
+  font-size: 1em;
+  padding: 45px 20px 40px 50px;
+  margin-top: 30px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  box-shadow: inset -1.4px -1.4px 2px rgba(0, 0, 0, 0.3);
+  text-align: left;
+  position: relative;
+}
+figure.snip1390 blockquote:before {
+  font-family: 'FontAwesome';
+  content: "\201C";
+  position: absolute;
+  font-size: 70px;
+  opacity: 0.25;
+  font-style: normal;
+  top: 0px;
+  left: 20px;
+}
+figure.snip1390 .profile {
+  width: 100px;
+  border-radius: 50%;
+  display: inline-block;
+  box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.4);
+  margin-bottom: 10px;
+  border: solid 5px #A6A57A;
+}
