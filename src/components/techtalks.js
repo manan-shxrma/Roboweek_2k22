@@ -1,5 +1,11 @@
 import React from "react";
 import "../css/techtalks.css";
+import Card from '@mui/material/Card';
+import CardActions from '@mui/material/CardActions';
+import CardContent from '@mui/material/CardContent';
+import CardMedia from '@mui/material/CardMedia';
+import Button from '@mui/material/Button';
+import Typography from '@mui/material/Typography';
 
 function Services() {
   return (
@@ -10,149 +16,116 @@ function Services() {
           data-wow-duration="1s"
           data-wow-delay="0.3s"
         >
-          <h6>Techtalk</h6>
+          <h6>Speakers</h6>
           <h4>
             Learn with <em>Roboweek</em>{" "}
           </h4>
           <div className="line-dec"></div>
         </div>
-         <div style={{ paddingTop: "10%" }} className="container">
-          <section className="light">
-            
-              <article className="postcard light blue">
-                <a className="postcard__img_link" href="#empty">
-                  <img
-                    className="postcard__img"
-                    src="../../assets/images/TECHTALK! (400 × 300 px).png"
-                    alt="pic Title"
-                  />
-                </a>
-                <div className="postcard__text t-dark">
-                  <h1 className="postcard__title blue">
-                    <a href="#empty">Quantum Machine Learning</a>
-                  </h1> 
-                   <div className="postcard__subtitle small">
-                    <time datetime="2020-05-25 12:00:00">
-                      <h6>
-                      <i className="fas fa-calendar-alt mr-2"></i>Mon, March 23rd
-                      2022</h6>
-                    </time>
-                  </div> 
-                   <div className="postcard__bar"></div>
-                  <div className="postcard__preview-txt">
-                    Most of us have heard of AI and quantum computing . But, have you heard of quantum machine learning?
-                    Quantum machine learning is the intersection between quantum computing and AI that’s going to change what the future looks like.
-                    Individually, they’re amazing. But together, they’re unstoppable .
-                    Here's a chance for you to discover more about this realm!
-                    Robotics society NITH is Happy to announce, that Dr. Santosh Kumar Nanda , Vice President of Artificial Intelligence
-                    and Data Science Services at Techversant, as our stunning speaker for ROBOWEEK 2.0 , who will tell us about Quantum ML, 
-                    and solve your queries too.
+    {/* <div style={{paddingTop:"5%"}} class="row">
+    <div class="col-sm-12 col-md-6 col-lg-6" style={{paddingLeft:"10%", width:"40%"}}>
+        <Card sx={{ maxWidth: 345 }}>
+      <CardMedia
+        component="img"
+        height="250"
+        image="assets/images/tech-talk-1.png"
+        alt="green iguana"
+      />
+      <CardContent>
+        <Typography gutterBottom variant="h5" component="div">
+          Quantum Machine Learning
+        </Typography>
+        <Typography gutterBottom variant="h6" component="div">
+          Dr. Santosh K Nanda
+        </Typography>
+        <Typography variant="body2" color="text.secondary">
+        Vice President at Techversant | Quantum Machine Learning Expert | Key-Note Speaker | IEEE Senior Member
+        </Typography>
+      </CardContent>
+      <CardActions>
+        <Button size="small">Register</Button>
+        <Button size="small">Play</Button>
+      </CardActions>
+    </Card>
+</div>
+<div class="col-sm-12 col-md-6 col-lg-6" style={{paddingLeft:"10%", width:"40%"}}>
+        <Card sx={{ maxWidth: 345 }}>
+      <CardMedia
+        component="img"
+        height="250"
+        image="assets/images/tech-talk-2.jpg"
+        alt="green iguana"
+      />
+      <CardContent>
+        <Typography gutterBottom variant="h5" component="div">
+        Women in FOSS
+        </Typography>
+        <Typography gutterBottom variant="h6" component="div">
+          Nithya Duraisamy
+        </Typography>
+        <Typography variant="body2" color="text.secondary">
+        Assistant Consultant at Tata Consultancy Services Limited | Ex Test Engineer at Infosys | Ex Associate at
+Cognizant Technology Solutions
+        </Typography>
+      </CardContent>
+      <CardActions>
+        <Button size="small">Register</Button>
+        <Button size="small">Play</Button>
+      </CardActions>
+    </Card>
+</div>
+ </div> */}
+<div style={{paddingTop:"5%", textAlign:"-webkit-center"}} class="row">
+<div class="col-sm-12 col-md-6 col-lg-6">
+<figure class="snip1515">
+  <div class="profile-image"><img src="assets/images/tech-talk-1.png" alt="sample47" /></div>
+  <figcaption>
+    <h3 class="tech-h3">Santosh Kumar Nanda
+</h3>
+    <h4>Quantum Machine Learning</h4>
+    <p class="tech-para">Vice President at Techversant| Quantum Machine Learning Expert | Key-Note Speaker | IEEE Senior Member</p>
+    <div class="icons"><a href="#"><i class="ion-social-linkedin" style={{color:"orange"}}></i></a>
+      <a href="#"> <i class="ion-social-twitter" style={{color:"orange"}}></i></a>
+      <a href="#"> <i class="ion-social-facebook" style={{color:"orange"}}></i></a>
+    </div>
+  </figcaption>
+</figure>
+</div>
+<div class="col-sm-12 col-md-6 col-lg-6">
+<figure class="snip1515">
+  <div class="profile-image"><img src="assets/images/tech-talk-2.jpg" alt="sample83" /></div>
+  <figcaption>
+    <h3 class="tech-h3">Nithya Duraisamy
+</h3>
+    <h4>Women In FOSS </h4>
+    <p class="tech-para">Assistant Consultant at Tata Consultancy Services Limited | Ex Associate Cognizant Technology Solutions</p>
+    <div class="icons"><a href="#"><i class="ion-social-linkedin" style={{color:"orange"}}></i></a>
+      <a href="#"> <i class="ion-social-twitter" style={{color:"orange"}}></i></a>
+      <a href="#"> <i class="ion-social-facebook" style={{color:"orange"}}></i></a>
+    </div>
+  </figcaption>
+</figure>
+</div>
+{/* <div class="col-sm-12 col-md-4 col-lg-4">
+<figure class="snip1515">
+  <div class="profile-image"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sample70.jpg" alt="sample70" /></div>
+  <figcaption>
+    <h3 class="tech-h3">Ruby Von Rails</h3>
+    <h4>Public Relations</h4>
+    <p class="tech-para">The only skills I have the patience to learn are those that have no real application in life. </p>
+    <div class="icons"><a href="#"><i class="ion-social-reddit" style={{color:"orange"}}></i></a>
+      <a href="#"> <i class="ion-social-twitter" style={{color:"orange"}}></i></a>
+      <a href="#"> <i class="ion-social-vimeo" style={{color:"orange"}}></i></a>
+    </div>
+  </figcaption>
+</figure>
+</div> */}
+</div>
 
-                  </div>
-                  
-                  <ul className="postcard__tagbox">
-                  <li className="tag__item play blue">
-                      <a href="#empty">
-                        <i className="fas fa-tag mr-2"></i>Register
-                      </a>
-                    </li>
-                    <li className="tag__item play blue">
-                      <a href="#empty">
-                        <i className="fas fa-play mr-2"></i>Play Episode
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-              </article> 
-              {/* <article className="postcard light red">
-                <a className="postcard__img_link" href="#empty">
-                  <img
-                    className="postcard__img"
-                    src="https://picsum.photos/501/500"
-                    alt="pic Title"
-                  />
-                </a>
-                <div className="postcard__text t-dark">
-                  <h1 className="postcard__title red">
-                    <a href="#empty">Podcast Title</a>
-                  </h1> */}
-                  {/* <div className="postcard__subtitle small">
-                    <time datetime="2020-05-25 12:00:00">
-                      <i className="fas fa-calendar-alt mr-2"></i>Mon, May 25th
-                      2020
-                    </time>
-                  </div> */}
-                  {/* <div className="postcard__bar"></div>
-                  <div className="postcard__preview-txt">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Eligendi, fugiat asperiores inventore beatae accusamus odit
-                    minima enim, commodi quia, doloribus eius! Ducimus nemo
-                    accusantium maiores velit corrupti tempora reiciendis
-                    molestiae repellat vero. Eveniet ipsam adipisci illo iusto
-                    quibusdam, sunt neque nulla unde ipsum dolores nobis enim
-                    quidem excepturi, illum quos!
-                  </div>
-                  <ul className="postcard__tagbox">
-                  <li className="tag__item play red">
-                      <a href="#empty">
-                        <i className="fas fa-tag mr-2"></i>Register
-                      </a>
-                    </li>
-                    <li className="tag__item play red">
-                      <a href="#empty">
-                        <i className="fas fa-play mr-2"></i>Play Episode
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-              </article>
-              <article className="postcard light green">
-                <a className="postcard__img_link" href="#empty">
-                  <img
-                    className="postcard__img"
-                    src="https://picsum.photos/500/501"
-                    alt="pic Title"
-                  />
-                </a>
-                <div className="postcard__text t-dark">
-                  <h1 className="postcard__title green">
-                    <a href="#empty">Podcast Title</a>
-                  </h1> */}
-                  {/* <div className="postcard__subtitle small">
-                    <time datetime="2020-05-25 12:00:00">
-                      <i className="fas fa-calendar-alt mr-2"></i>Mon, May 25th
-                      2020
-                    </time>
-                  </div> */}
-                  {/* <div className="postcard__bar"></div>
-                  <div className="postcard__preview-txt">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Eligendi, fugiat asperiores inventore beatae accusamus odit
-                    minima enim, commodi quia, doloribus eius! Ducimus nemo
-                    accusantium maiores velit corrupti tempora reiciendis
-                    molestiae repellat vero. Eveniet ipsam adipisci illo iusto
-                    quibusdam, sunt neque nulla unde ipsum dolores nobis enim
-                    quidem excepturi, illum quos!
-                  </div>
-                  <ul className="postcard__tagbox">
-                  <li className="tag__item play green">
-                      <a href="#empty">
-                        <i className="fas fa-tag mr-2"></i>Register
-                      </a>
-                    </li>
-                    <li className="tag__item play green">
-                      <a href="#empty">
-                        <i className="fas fa-play mr-2"></i>Play Episode
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-                </article>*/}
-             
-          </section> 
-        </div>
+        </div>     
+          
       </div>
-      </div>
+      
     </>
   );
 }
