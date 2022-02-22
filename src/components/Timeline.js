@@ -137,7 +137,7 @@ function Freequote(){
 								<span className='dati'>05:00 PM</span>   
                                 </div>
                                 <div class="col-6 col-md-6 grey time-content-a">
-								Workshop - Machine Learning and django
+								Workshop - Machine Learning with django
                                 </div>
                                 <div class="col-6 col-md-4 grey time-content-a">
 								<span className='dati'>04:00 PM</span> 
