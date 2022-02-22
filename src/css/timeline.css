@@ -157,51 +157,59 @@
 .main-timeline .timeline:hover .icon:after {
     left: -3px
 }
-
+.main-timeline .date-0 {
+    width: 50%;
+    float: left;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    position: relative
+}
 .main-timeline .date-1 {
     width: 50%;
     float: left;
-    margin-top: 60px;
+    margin-top: 43px;
     position: relative
 }
 .main-timeline .date-2 {
+    width: 50%;
+    float: left;
+    margin-top: 33px;
+    margin-bottom: 15px;
+    position: relative
+}
+.main-timeline .date-3 {
+    width: 50%;
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: relative
+}.main-timeline .date-4 {
+    width: 50%;
+    float: left;
+    margin-top: 60px;
+    margin-bottom: 5px;
+    position: relative
+}.main-timeline .date-5 {
+    width: 50%;
+    float: left;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    position: relative
+}.main-timeline .date-6 {
+    width: 50%;
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: relative
+}.main-timeline .date-7 {
     width: 50%;
     float: left;
     margin-top: 20px;
     margin-bottom: 20px;
     position: relative
 }
-.main-timeline .date-3 {
-    width: 50%;
-    float: left;
-    margin-top: 89px;
-    margin-bottom: 20px;
-    position: relative
-}.main-timeline .date-4 {
-    width: 50%;
-    float: left;
-    margin-top: 25px;
-    margin-bottom: 20px;
-    position: relative
-}.main-timeline .date-5 {
-    width: 50%;
-    float: left;
-    margin-top: 25px;
-    margin-bottom: 20px;
-    position: relative
-}.main-timeline .date-6 {
-    width: 50%;
-    float: left;
-    margin-top: 42px;
-    margin-bottom: 20px;
-    position: relative
-}.main-timeline .date-7 {
-    width: 50%;
-    float: left;
-    margin-top: 25px;
-    margin-bottom: 20px;
-    position: relative
-}
+
+
 
 .main-timeline .date-content:before {
     content: "";

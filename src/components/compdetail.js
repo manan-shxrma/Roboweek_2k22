@@ -203,6 +203,7 @@ end */}
 </section>
 {/* new card done */}
 
+        {/* footer */}
         <footer>
                     <section id="contact">
                         <a href="/" name="contact"></a>
@@ -214,7 +215,9 @@ end */}
                             </div>
                             <div className="footer-mid">
                                 <div className="f-content">
+
                                     <div className="f-contact col-md-6" style={{paddingLeft:"15%"}}>
+
                                         <div className="f-nav">
                                             <ul>
                                                 <li><a href="/">Home</a></li>
@@ -223,7 +226,7 @@ end */}
                                                 <li><a href="/#sponsors">Sponsors</a></li>
                                             </ul>
                                             <ul className="f-nav-ul">
-                                                <li><a href="https://robosocnith.com/projects.html">Projects</a></li>
+                                                <li><a href="https://discord.com/invite/vHz3tyjyke">Discord</a></li>
                                                 <li><a href="/#timeline">Timeline</a></li>
                                                 <li><a href="mailto:robonith@gmail.com ">Help</a></li>
                                             </ul>
@@ -245,20 +248,22 @@ end */}
                         <div className="footer-bottom" style={{background: "#fff" , marginLeft : "auto", marginRight: "auto", maxWidth: "960px", padding: "0 0", width: "100%", background:" rgb(238, 238, 238)"}}>
                             <div >
                             <div className="row" style={{ maxWidth: "100vw", padding: "20px 0 5px", display: "flex", justifyContent: "space-between",}}>
-                                <div className="col-lg-6 col-md-6 col-sm-12 f-bottom" style={{display: "flex", paddingTop: "5px"}}>
+                                <div className="col-lg-8 col-md-8 col-sm-12 f-bottom" style={{display: "flex", paddingTop: "5px"}}>
                                     <div className="f-bottom-left" class={{fontSize: "14px", /* margin-bottom: 0.5rem; */ fontFamily: 'Poppins', color: "rgba(0, 0, 0, 0.85)", fontWeight: "400"}}>
                                         
+
                                         <img  alt=""  src={"../assets/images/logo-2.png"} style={{ width: "162px",padding:"0 0 0 0"}}></img>
+
                                         {/* <p>Robotics Society</p> */}
                                     </div>
-                                    <div className="f-bottom-right downpara">
-                                        <p>
+                                    <div className="f-bottom-right downpara" style={{paddingRight:"15%"}}>
+                                        <p style={{ textAlign:"right"}}>
                                             Made with ❤️ by humans
                                             {/* <a className="yellow-text underline" href="https://scriptindia.org" rel="noreferrer"  target="_blank"> Robosocnith</a> */}
                                         </p>
                                     </div>
                                 </div>
-                                <div className="col-lg-6 col-md-6 col-sm-12 f-media" style={{textAlign:"center"}}>
+                                <div className="col-lg-4 col-md-4 col-sm-12 f-media" style={{textAlign:"right"}}>
                                     <p>
                                         {socialMedia.map((item, index) => {
                                         return (
