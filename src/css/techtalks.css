@@ -115,7 +115,7 @@
 }
 .raise:hover, .raise:focus {
   border-color: var(--hover);
-  color: #fff;
+  color: #ffa260;
 }
 
 .raise {
