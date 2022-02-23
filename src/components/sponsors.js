@@ -27,7 +27,7 @@ function portfolio(){
                            
                            <div className="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
                              
-                             <h4 class="sponsor-h4" style={{backgroundColor:"#EEBC1D",color:"#fff",textAlign:"center",marginTop:"20px",marginBottom:"20px"}}>Gold Sponsors</h4>  
+                             <h4 class="sponsor-h4" style={{backgroundColor:"#A38A00",color:"#fff",textAlign:"center",marginTop:"20px",marginBottom:"20px"}}>Gold Sponsors</h4>  
                            </div>
                                        
                                       
