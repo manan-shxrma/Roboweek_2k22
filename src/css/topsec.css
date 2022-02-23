@@ -20,6 +20,10 @@
 		top: 20%;
 		
 	}
+	#bottone15 {
+		margin-top: 0;
+		top: 30%;
+	}
   }
 .hover {
 	width: 100%;
@@ -377,6 +381,7 @@
 		top: 35%;
 		width: 80%;
 		height: 80vh;
+		z-index: -100;
 	}
   }
 
