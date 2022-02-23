@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Open+sans);
 @import url(https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display);
+@import url(https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap);
 .snip1515 {
   font-family: 'Open Sans', Arial, sans-serif;
   position: relative;
@@ -18,7 +19,7 @@
 .snip1515 * {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
-  border-radius:15%;
+  border-radius:5%;
 }
 
 .snip1515 .profile-image {
@@ -27,7 +28,7 @@
   z-index: 1;
   position: relative;
   padding: 10px;
-  border: 2px solid #f58b56;
+  border: 5px solid #f58b56;
 }
 
 .snip1515 .profile-image img {
@@ -39,15 +40,18 @@
   width: 100%;
   background-image: linear-gradient(#000203 0%, #00345e 85%, #004d89 100%);
   color: #555;
-  padding: 125px 25px 25px;
+  padding: 125px 25px 15px 25px;
   margin-top: -100px;
   display: inline-block;
 }
 
 .snip1515 h3,
-.snip1515 h4,
 .snip1515 p {
   margin: 0 0 5px;
+}
+.snip1515 h4 {
+  margin: 0 0 5px;
+  font-family:'Roboto', sans-serif;
 }
 
 .snip1515 h3 {
@@ -92,4 +96,42 @@
 }
 .tech-h3{
 	color: #9c9ca0;
+}
+
+
+.raise:hover,
+.raise:focus {
+  box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+  transform: translateY(-0.25em);
+}
+.raise {
+  --color: #ffeb60;
+  --hover: #ffa260;
+}
+
+button {
+  color: var(--color);
+  transition: 0.25s;
+}
+button:hover, button:focus {
+  border-color: var(--hover);
+  color: #fff;
+}
+
+button {
+  background: none;
+  border: 2px solid;
+  font: inherit;
+  line-height: 1;
+  margin: 0.5em;
+  padding: 1em 2em;
+}
+
+h1 {
+  font-weight: 400;
+}
+
+code {
+  color: #e4cb58;
+  font: inherit;
 }

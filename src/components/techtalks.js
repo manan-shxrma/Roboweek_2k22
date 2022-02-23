@@ -1,7 +1,7 @@
 import React from "react";
 import "../css/techtalks.css";
-import "../css/base.css"
-import AOS from 'aos';
+import "../css/base.css";
+import AOS from "aos";
 AOS.init();
 // import Card from '@mui/material/Card';
 // import CardActions from '@mui/material/CardActions';
@@ -12,52 +12,115 @@ AOS.init();
 
 function Services() {
   return (
-   <>  <div id="techtalks">
-      <div className="container mainbodyoftimeline">
-        <div data-aos="fade-right"
-          className="section-heading wow fadeInLeft"
-          data-wow-duration="1s"
-          data-wow-delay="0.3s"
-        >
-          <h6>Speakers</h6>
-          <h4>
-            Learn with <em>Roboweek</em>{" "}
-          </h4>
-          <div className="line-dec"></div>
-        </div>
-   
-<div style={{paddingTop:"5%", textAlign:"-webkit-center"}} class="row">
-<div class="col-sm-12 col-md-6 col-lg-6">
-<figure class="snip1515">
-  <div data-aos="zoom-in" class="profile-image"><img style={{height:"16rem", borderRadius:"20%"}} src="assets/images/tech-talk-1.png" alt="sample47" /></div>
-  <figcaption>
-    <h3 class="tech-h3">Santosh Kumar Nanda
-</h3>
-    <h4 style={{color:"orange", fontFamily: 'Roboto'}}>Quantum Machine Learning</h4>
-    <p class="tech-para">Vice President at Techversant | Quantum Machine Learning Expert  | IEEE Senior Member</p>
-    <div data-aos="fade-up" class="icons"><a href="https://www.linkedin.com/in/dr-santosh-kumar-nanda-b3848499"><i class="ion-social-linkedin" style={{color:"orange"}}></i></a>
-      <a href="https://scholar.google.com/citations?user=4owxU1QAAAAJ&hl=en"> <i class="ion-social-google" style={{color:"orange"}}></i></a>
-      
-    </div>
-  </figcaption>
-</figure>
-</div>
-<div class="col-sm-12 col-md-6 col-lg-6">
-<figure class="snip1515">
-  <div data-aos="zoom-in" class="profile-image"><img style={{height:"16rem"}} src="assets/images/tech-talk-2.jpg" alt="sample83" /></div>
-  <figcaption>
-    <h3 class="tech-h3">Nithya Duraisamy
-</h3>
-    <h4 style={{color:"orange",fontFamily: 'Roboto'}}>Women In FOSS </h4>
-    <p class="tech-para">Assistant Consultant at Tata Consultancy Services Limited | Ex Associate Cognizant Technology Solutions</p>
-    <div data-aos="fade-up" class="icons"><a href="https://www.linkedin.com/in/nithya-duraisamy-45284250/"><i class="ion-social-linkedin" style={{color:"orange"}}></i></a>
-      <a href="https://www.youtube.com/channel/UCXsisJBABS2n2rQjR_rbJEg/videos"> <i class="ion-social-youtube" style={{color:"orange"}}></i></a>
-      <a href="https://www.facebook.com/nithya.duraisamy.7"> <i class="ion-social-facebook" style={{color:"orange"}}></i></a>
-    </div>
-  </figcaption>
-</figure>
-</div>
-{/* <div class="col-sm-12 col-md-4 col-lg-4">
+    <>
+      {" "}
+      <div id="techtalks">
+        <div className="container mainbodyoftimeline">
+          <div
+            data-aos="fade-right"
+            className="section-heading wow fadeInLeft"
+            data-wow-duration="1s"
+            data-wow-delay="0.3s"
+          >
+            <h6>Speakers</h6>
+            <h4>
+              Learn with <em>Roboweek</em>{" "}
+            </h4>
+            <div className="line-dec"></div>
+          </div>
+
+          <div
+            style={{ paddingTop: "5%", textAlign: "-webkit-center" }}
+            class="row"
+          >
+            <div class="col-sm-12 col-md-6 col-lg-6">
+              <figure class="snip1515">
+                <div data-aos="zoom-in" class="profile-image">
+                  <img
+                    style={{ height: "16rem",}}
+                    src="assets/images/tech-talk-1.png"
+                    alt="sample47"
+                  />
+                </div>
+                <figcaption>
+                  <h3 class="tech-h3">Santosh Kumar Nanda</h3>
+                  <h4 style={{ color: "orange", fontFamily: "Roboto" }}>
+                    <b>Quantum Machine Learning</b>
+                  </h4>
+                  <p class="tech-para">
+                    Vice President at Techversant | Quantum Machine Learning
+                    Expert | IEEE Senior Member
+                  </p>
+                  <div data-aos="fade-up" class="icons">
+                    <a href="https://www.linkedin.com/in/dr-santosh-kumar-nanda-b3848499">
+                      <i
+                        class="ion-social-linkedin"
+                        style={{ color: "orange" }}
+                      ></i>
+                    </a>
+                    <a href="https://scholar.google.com/citations?user=4owxU1QAAAAJ&hl=en">
+                      {" "}
+                      <i
+                        class="ion-social-google"
+                        style={{ color: "orange" }}
+                      ></i>
+                    </a>
+                  </div>
+                  <div class="buttons">
+                     <button class="raise" >Registering soon</button>
+                     {/* <button class="raise">play</button> */}
+                  </div>
+                </figcaption>
+              </figure>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-6">
+              <figure class="snip1515">
+                <div data-aos="zoom-in" class="profile-image">
+                  <img
+                    style={{ height: "16rem" }}
+                    src="assets/images/tech-talk-2.jpg"
+                    alt="sample83"
+                  />
+                </div>
+                <figcaption>
+                  <h3 class="tech-h3">Nithya Duraisamy</h3>
+                  <h4 style={{ color: "orange", fontFamily: "Roboto" }}>
+                    Women In FOSS{" "}
+                  </h4>
+                  <p class="tech-para">
+                    Assistant Consultant at Tata Consultancy Services Limited |
+                    Ex Associate Cognizant Technology Solutions
+                  </p>
+                  <div data-aos="fade-up" class="icons">
+                    <a href="https://www.linkedin.com/in/nithya-duraisamy-45284250/">
+                      <i
+                        class="ion-social-linkedin"
+                        style={{ color: "orange" }}
+                      ></i>
+                    </a>
+                    <a href="https://www.youtube.com/channel/UCXsisJBABS2n2rQjR_rbJEg/videos">
+                      {" "}
+                      <i
+                        class="ion-social-youtube"
+                        style={{ color: "orange" }}
+                      ></i>
+                    </a>
+                    <a href="https://www.facebook.com/nithya.duraisamy.7">
+                      {" "}
+                      <i
+                        class="ion-social-facebook"
+                        style={{ color: "orange" }}
+                      ></i>
+                    </a>
+                  </div>
+                  <div class="buttons">
+                     <button class="raise">Registering soon</button>
+                     {/* <button class="raise">play</button> */}
+                  </div>
+                </figcaption>
+              </figure>
+            </div>
+            {/* <div class="col-sm-12 col-md-4 col-lg-4">
 <figure class="snip1515">
   <div class="profile-image"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sample70.jpg" alt="sample70" /></div>
   <figcaption>
@@ -71,12 +134,9 @@ function Services() {
   </figcaption>
 </figure>
 </div> */}
-</div>
-
-        </div>     
-          
+          </div>
+        </div>
       </div>
-      
     </>
   );
 }
