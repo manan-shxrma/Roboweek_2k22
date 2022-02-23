@@ -85,7 +85,7 @@ function Services() {
                 <figcaption>
                   <h3 class="tech-h3">Nithya Duraisamy</h3>
                   <h4 style={{ color: "orange", fontFamily: "Roboto" }}>
-                    Women In FOSS{" "}
+                    <b>Women In FOSS{" "}</b>
                   </h4>
                   <p class="tech-para">
                     Assistant Consultant at Tata Consultancy Services Limited |
