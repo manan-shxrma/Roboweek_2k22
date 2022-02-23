@@ -109,21 +109,21 @@
   --hover: #ffa260;
 }
 
-button {
+.raise {
   color: var(--color);
   transition: 0.25s;
 }
-button:hover, button:focus {
+.raise:hover, .raise:focus {
   border-color: var(--hover);
   color: #fff;
 }
 
-button {
+.raise {
   background: none;
   border: 2px solid;
   font: inherit;
   line-height: 1;
-  margin: 0.5em;
+  margin: 0em;
   padding: 1em 2em;
 }
 
