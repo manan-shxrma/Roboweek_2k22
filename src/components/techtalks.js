@@ -1,17 +1,20 @@
 import React from "react";
 import "../css/techtalks.css";
-import Card from '@mui/material/Card';
-import CardActions from '@mui/material/CardActions';
-import CardContent from '@mui/material/CardContent';
-import CardMedia from '@mui/material/CardMedia';
-import Button from '@mui/material/Button';
-import Typography from '@mui/material/Typography';
+import "../css/base.css"
+import AOS from 'aos';
+AOS.init();
+// import Card from '@mui/material/Card';
+// import CardActions from '@mui/material/CardActions';
+// import CardContent from '@mui/material/CardContent';
+// import CardMedia from '@mui/material/CardMedia';
+// import Button from '@mui/material/Button';
+// import Typography from '@mui/material/Typography';
 
 function Services() {
   return (
    <>  <div id="techtalks">
       <div className="container mainbodyoftimeline">
-        <div
+        <div data-aos="fade-right"
           className="section-heading wow fadeInLeft"
           data-wow-duration="1s"
           data-wow-delay="0.3s"
@@ -22,85 +25,33 @@ function Services() {
           </h4>
           <div className="line-dec"></div>
         </div>
-    {/* <div style={{paddingTop:"5%"}} class="row">
-    <div class="col-sm-12 col-md-6 col-lg-6" style={{paddingLeft:"10%", width:"40%"}}>
-        <Card sx={{ maxWidth: 345 }}>
-      <CardMedia
-        component="img"
-        height="250"
-        image="assets/images/tech-talk-1.png"
-        alt="green iguana"
-      />
-      <CardContent>
-        <Typography gutterBottom variant="h5" component="div">
-          Quantum Machine Learning
-        </Typography>
-        <Typography gutterBottom variant="h6" component="div">
-          Dr. Santosh K Nanda
-        </Typography>
-        <Typography variant="body2" color="text.secondary">
-        Vice President at Techversant | Quantum Machine Learning Expert | Key-Note Speaker | IEEE Senior Member
-        </Typography>
-      </CardContent>
-      <CardActions>
-        <Button size="small">Register</Button>
-        <Button size="small">Play</Button>
-      </CardActions>
-    </Card>
-</div>
-<div class="col-sm-12 col-md-6 col-lg-6" style={{paddingLeft:"10%", width:"40%"}}>
-        <Card sx={{ maxWidth: 345 }}>
-      <CardMedia
-        component="img"
-        height="250"
-        image="assets/images/tech-talk-2.jpg"
-        alt="green iguana"
-      />
-      <CardContent>
-        <Typography gutterBottom variant="h5" component="div">
-        Women in FOSS
-        </Typography>
-        <Typography gutterBottom variant="h6" component="div">
-          Nithya Duraisamy
-        </Typography>
-        <Typography variant="body2" color="text.secondary">
-        Assistant Consultant at Tata Consultancy Services Limited | Ex Test Engineer at Infosys | Ex Associate at
-Cognizant Technology Solutions
-        </Typography>
-      </CardContent>
-      <CardActions>
-        <Button size="small">Register</Button>
-        <Button size="small">Play</Button>
-      </CardActions>
-    </Card>
-</div>
- </div> */}
+   
 <div style={{paddingTop:"5%", textAlign:"-webkit-center"}} class="row">
 <div class="col-sm-12 col-md-6 col-lg-6">
 <figure class="snip1515">
-  <div class="profile-image"><img src="assets/images/tech-talk-1.png" alt="sample47" /></div>
+  <div data-aos="zoom-in" class="profile-image"><img style={{height:"16rem", borderRadius:"20%"}} src="assets/images/tech-talk-1.png" alt="sample47" /></div>
   <figcaption>
     <h3 class="tech-h3">Santosh Kumar Nanda
 </h3>
-    <h4>Quantum Machine Learning</h4>
-    <p class="tech-para">Vice President at Techversant| Quantum Machine Learning Expert | Key-Note Speaker | IEEE Senior Member</p>
-    <div class="icons"><a href="https://www.linkedin.com/in/dr-santosh-kumar-nanda-b3848499"><i class="ion-social-linkedin" style={{color:"orange"}}></i></a>
-      <a href="#"> <i class="ion-social-twitter" style={{color:"orange"}}></i></a>
-      <a href="#"> <i class="ion-social-facebook" style={{color:"orange"}}></i></a>
+    <h4 style={{color:"orange", fontFamily: 'Roboto'}}>Quantum Machine Learning</h4>
+    <p class="tech-para">Vice President at Techversant | Quantum Machine Learning Expert  | IEEE Senior Member</p>
+    <div data-aos="fade-up" class="icons"><a href="https://www.linkedin.com/in/dr-santosh-kumar-nanda-b3848499"><i class="ion-social-linkedin" style={{color:"orange"}}></i></a>
+      <a href="https://scholar.google.com/citations?user=4owxU1QAAAAJ&hl=en"> <i class="ion-social-google" style={{color:"orange"}}></i></a>
+      
     </div>
   </figcaption>
 </figure>
 </div>
 <div class="col-sm-12 col-md-6 col-lg-6">
 <figure class="snip1515">
-  <div class="profile-image"><img src="assets/images/tech-talk-2.jpg" alt="sample83" /></div>
+  <div data-aos="zoom-in" class="profile-image"><img style={{height:"16rem"}} src="assets/images/tech-talk-2.jpg" alt="sample83" /></div>
   <figcaption>
     <h3 class="tech-h3">Nithya Duraisamy
 </h3>
-    <h4>Women In FOSS </h4>
+    <h4 style={{color:"orange",fontFamily: 'Roboto'}}>Women In FOSS </h4>
     <p class="tech-para">Assistant Consultant at Tata Consultancy Services Limited | Ex Associate Cognizant Technology Solutions</p>
-    <div class="icons"><a href="https://www.linkedin.com/in/nithya-duraisamy-45284250/"><i class="ion-social-linkedin" style={{color:"orange"}}></i></a>
-      <a href="#"> <i class="ion-social-twitter" style={{color:"orange"}}></i></a>
+    <div data-aos="fade-up" class="icons"><a href="https://www.linkedin.com/in/nithya-duraisamy-45284250/"><i class="ion-social-linkedin" style={{color:"orange"}}></i></a>
+      <a href="https://www.youtube.com/channel/UCXsisJBABS2n2rQjR_rbJEg/videos"> <i class="ion-social-youtube" style={{color:"orange"}}></i></a>
       <a href="https://www.facebook.com/nithya.duraisamy.7"> <i class="ion-social-facebook" style={{color:"orange"}}></i></a>
     </div>
   </figcaption>
