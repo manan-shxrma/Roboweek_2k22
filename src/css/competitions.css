@@ -7,6 +7,9 @@
   
   
   /* From cssbuttons.io by @Custyyyy */
+
+
+
 #bottone5 {
   align-items: center;
   background-color: #FFFFFF;
@@ -52,3 +55,107 @@
   color: rgba(0, 0, 0, 0.65);
   transform: translateY(0);
  }
+
+ #bottone-5 {
+  margin-left: 5%;
+  color:rgb(128,0,0);
+  align-items: center;
+  background-color: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: .25rem;
+  box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  justify-content: center;
+  line-height: 1.25;
+  min-height: 3rem;
+  padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+  text-decoration: none;
+  transition: all 250ms;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: baseline;
+  width: auto;
+  box-shadow: rgba(0, 0, 0, 0.1) 0 6px 12px;
+ }
+ 
+ #bottone-5:hover,
+ #bottone-5:focus {
+  border-color: rgba(0, 0, 0, 0.15);
+  box-shadow: rgba(0, 0, 0, 0.1) 0 6px 12px;
+  color: rgb(128,0,0);
+ }
+ 
+ #bottone-5:hover {
+  transform: translateY(-1px);
+ }
+ 
+ #bottone-5:active {
+  background-color: #F0F0F1;
+  border-color: rgba(0, 0, 0, 0.15);
+  box-shadow: rgba(0, 0, 0, 0.06) 0 2px 4px;
+  color: rgba(0, 0, 0, 0.65);
+  transform: translateY(0);
+ }
+
+.django-img {
+    border: solid black 5px;
+    background-color: black;
+    border-radius:10%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+@media (max-width: 900px) {
+  .django-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position:absolute;
+    bottom: 650px;
+    right: 5px;
+    padding-left: 0%;
+
+  }
+  .main-box{
+    margin-top: 80px;
+  }
+  .sub-box{
+    margin-top: 100px;
+  }
+  #bottone-5{
+    margin: 10px auto;
+  }
+  #bottone5:nth-child(2){
+    color:rgb(128,0,0);
+  }
+  #bottone5:hover {
+    transform: translateY(-1px);
+   }
+   
+   #bottone5:active {
+    background-color: #F0F0F1;
+    border-color: rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.06) 0 2px 4px;
+    color: rgba(0, 0, 0, 0.65);
+    transform: translateY(0);
+   }
+    .icon{
+      position: relative;
+      width: 70px;
+      height: 70px;
+      right: 2px;
+    }
+    .first-thumb {
+      width: 100vw;
+    }
+    .icon-img {
+      position: relative;
+      top: 5px;
+
+    }
+}

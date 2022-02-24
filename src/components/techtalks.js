@@ -15,7 +15,7 @@ function Services() {
     <>
       {" "}
       <div id="techtalks">
-        <div className="container mainbodyoftimeline">
+        <div style={{paddingTop:"5%"}} className="container mainbodyoftimeline">
           <div
             data-aos="fade-right"
             className="section-heading wow fadeInLeft"
@@ -76,11 +76,7 @@ function Services() {
             <div class="col-sm-12 col-md-6 col-lg-6">
               <figure class="snip1515">
                 <div data-aos="zoom-in" class="profile-image">
-                  <img
-                    style={{ height: "16rem" }}
-                    src="assets/images/tech-talk-2.jpg"
-                    alt="sample83"
-                  />
+                  <img style={{ height: "16rem" }}src="assets/images/tech-talk-2.jpg"alt="sample83"/>
                 </div>
                 <figcaption>
                   <h3 class="tech-h3">Nithya Duraisamy</h3>
