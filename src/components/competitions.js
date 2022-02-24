@@ -71,7 +71,7 @@ function Services(){
                               </div>
                             </div>
                             <div className="col-lg-6 align-self-center">
-                              <div  data-aos="fade-left"  className="right-image">
+                              <div  className="right-image">
                                 <img  className="img-responsive django-img" src="assets/images/Machine learning.png" alt="" />
                               </div>
                             </div>
