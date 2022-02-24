@@ -7,10 +7,10 @@ AOS.init();
 function Services(){
 
   function activateLasers(){
-    window.location.href = "https://dare2compete.com/festival/roboweek-20-national-institute-of-technology-nit-hamirpur-20715";
+    window.location.href = "";
   }
   function activateLasers1(){
-    window.location.href = "https://discord.com/invite/vHz3tyjyke";
+    window.location.href = "";
   }
 
 
@@ -19,7 +19,7 @@ function Services(){
     <div className="container">
       <div className="row">
         <div className="col-lg-12">
-          <div className="section-heading  wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.5s">
+          <div  data-aos="fade-up"  className="section-heading  wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.5s">
             <h6>Workshops</h6>
             <h4>What Roboweek <em>Provides</em></h4>
             <div className="line-dec"></div>
@@ -33,7 +33,7 @@ function Services(){
                   <div className="menu">
                     <div  className="first-thumb active">
                       
-                      <div className="thumb"style={{width:"75px", visibility:"none"}}>
+                      <div className="thumb " style={{width:"100%" }}>
                         <span className="icon"><img src="assets/images/service-icon-02.png" className="icon-img" alt="" /></span>
                         ML with Django
                       </div>
@@ -59,7 +59,7 @@ function Services(){
                                 <h4>Machine Learning with Django</h4>
                                 <p>Have you ever wondered how MACHINE LEARNING helps robots sustain productivity by allowing them to engage dynamically and avoid obstacles?
                                  Any approach capable of simulating human intelligence contains ML. It shows how data can be used in new ways..</p>
-                                <div className="ticks-list"><span><i className="fa fa-check"></i> Hands on project</span><span><i className="fa fa-check"></i> algorithm models</span> 
+                                <div  data-aos="fade-right"  className="ticks-list"><span><i className="fa fa-check"></i> Hands on project</span><span><i className="fa fa-check"></i> algorithm models</span> 
                                   <span><i className="fa fa-check"></i> Python Libraries Used in ML algorithm</span>  </div>
                                   <button onClick={activateLasers} id="bottone5"> <i style={{paddingRight:"2px",paddingTop:"3px"}} class="fa fa-award" aria-hidden="true"></i> Registrations soon!</button>
                                   <button onClick={activateLasers1} style={{}} id="bottone-5"> <i style={{paddingRight:"2px",paddingTop:"3px"}} class="fa fa-play" aria-hidden="true"></i> Play</button>
@@ -71,7 +71,7 @@ function Services(){
                               </div>
                             </div>
                             <div className="col-lg-6 align-self-center">
-                              <div className="right-image">
+                              <div  data-aos="fade-left"  className="right-image">
                                 <img  className="img-responsive django-img" src="assets/images/Machine learning.png" alt="" />
                               </div>
                             </div>
