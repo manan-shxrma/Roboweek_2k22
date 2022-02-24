@@ -177,7 +177,7 @@ class Outline extends React.Component {
                                     </div>
                                 </div>
                                 <div className="col-lg-6 col-md-6 col-sm-12 f-media">
-                                    <p>
+                                    <p class="social-footer">
                                         {socialMedia.map((item, index) => {
                                         return (
                                             <a href={item.socialLink} target="_blank" rel="noreferrer" >
