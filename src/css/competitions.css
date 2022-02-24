@@ -103,32 +103,39 @@
   transform: translateY(0);
  }
 
+.right {
+  float:right;
+}
+
 .django-img {
     border: solid black 5px;
     background-color: black;
     border-radius:10%;
+    padding: 0%;
+    float:right;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 @media (max-width: 900px) {
   .django-img {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position:absolute;
-    bottom: 650px;
+    float: left;
+    position: relative;
+    bottom: 100px;
+    width: 70vw;
+    padding: 0;
     right: 5px;
-    padding-left: 0%;
-
   }
   .main-box{
-    margin-top: 80px;
+    margin-top: 30px;
   }
   .sub-box{
-    margin-top: 100px;
+    margin-top: 10px;
+  }
+  #bottone5{
+    margin: 10px 5px;
   }
   #bottone-5{
-    margin: 10px auto;
+    margin: 10px 5px;
   }
   #bottone5:nth-child(2){
     color:rgb(128,0,0);
@@ -150,11 +157,17 @@
       height: 70px;
       right: 2px;
     }
-   
+
     .icon-img {
       position: relative;
       top: 5px;
+      right:0px;
 
+      
+    }
+
+    .section-heading {
+      margin-bottom: 5px;
     }
 }
 
