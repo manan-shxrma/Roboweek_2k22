@@ -112,5 +112,9 @@ export const BronzeSponsers = [
         sponsorLink:"https://www.axure.com/",
         sponsorImg:"assets/images/logos/axurelogo.png"
     },
+    {
+        sponsorLink:"https://youtube.com/channel/UCAvC_lW5iXoBcmSEIowngKw",
+        sponsorImg:"assets/images/learning-pocket.png"
+    },
     
 ]

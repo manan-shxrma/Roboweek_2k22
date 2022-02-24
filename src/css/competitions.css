@@ -124,6 +124,9 @@
     width: 70vw;
     padding: 0;
     right: 5px;
+  } 
+  .section-heading-workshop{
+    margin-bottom: 25px !important;
   }
   .main-box{
     margin-top: 30px;
@@ -170,6 +173,8 @@
       margin-bottom: 5px;
     }
 }
+
+
 
 @media only screen and (max-width: 767px)  {
   .thumb{ 
