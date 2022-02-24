@@ -1432,7 +1432,6 @@ Services Style
 
 .services .naccs .menu div .thumb {
   display: inline-block;
-  width: 100%;
   padding: 30px 0px;
   background-color: #fff;
 }
@@ -1839,7 +1838,7 @@ Blog
 
 .post-item .thumb {
   display: inline-block;
-  float: left;
+ 
   margin-right: 30px;
 }
 
@@ -2183,7 +2182,9 @@ responsive
   }
   .services .naccs .menu div .thumb {
     padding: 5px;
+    
   }
+  
   .services .icon img {
     margin: 0px;
   }
