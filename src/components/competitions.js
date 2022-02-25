@@ -107,7 +107,7 @@ function Services() {
                                           Libraries Used in ML algorithm
                                         </span>{" "}
                                       </div>
-                                      <div class="row">
+                                      <div class="row buttons-ml">
                         
                                       <button
                                         onClick={activateLasers}
@@ -130,7 +130,7 @@ function Services() {
                                       
                                       <button
                                         onClick={activateLasers1}
-                                        style={{}}
+                                        style={{width:"fit-content"}}
                                         id="bottone-5"
                                       >
                                         {" "}
