@@ -11,6 +11,10 @@ export const CommunityPartners =[
         sponsorLink:"http://rmi.nitt.edu/",
         sponsorImg:"assets/images/logos/RMI.png"
     },
+    {
+        sponsorLink:"https://gdsc.community.dev/events/details/developer-student-clubs-national-institute-of-technology-nit-hamirpur-presents-title-getting-started-with-android/",
+        sponsorImg:"assets/images/logos/GDSC.png"
+    },
 ]
 export const Partners=[
     {
@@ -28,6 +32,10 @@ export const Partners=[
     {
         sponsorLink:"https://www.myinterviewbuddy.com/",
         sponsorImg:"assets/images/logos/Interview_buddy.png"
+    },
+    {
+        sponsorLink:"https://certopus.com/",
+        sponsorImg:"assets/images/logos/certopus_dark.svg"
     },
 ]
 
@@ -92,6 +100,10 @@ export const GoldSponsors = [
         sponsorLink:"https://www.elearnmarkets.com/",
         sponsorImg:"assets/images/logos/elmlogo.png"
     },
+    {
+        sponsorLink:"https://gen.xyz/",
+        sponsorImg:"assets/images/logos/xyz-logo-color.svg"
+    },
 ]
 export const SilverSponsers = [
     {
@@ -120,5 +132,22 @@ export const BronzeSponsers = [
         sponsorLink:"https://1password.com/",
         sponsorImg:"assets/images/logos/1password.png"
     },
+    {
+        sponsorLink:"https://youtube.com/channel/UCAvC_lW5iXoBcmSEIowngKw",
+        sponsorImg:"assets/images/logos/learning-pocket.png"
+    },
+    {
+        sponsorLink:"https://www.clerky.com/?gclid=CjwKCAiA9tyQBhAIEiwA6tdCrEdH80IoAO_cWJsIG28-dQ37i3KpexYhqBiywO1CGamH-jO5j7UiiRoCY9oQAvD_BwE",
+        sponsorImg:"assets/images/logos/clerky.svg"
+    },
+    {
+        sponsorLink:"https://balsamiq.cloud/",
+        sponsorImg:"assets/images/logos/balsamiq.png"
+    },
+    {
+        sponsorLink:"https://hackclub.com/",
+        sponsorImg:"assets/images/logos/hack-club.svg"
+    },
+    
     
 ]
