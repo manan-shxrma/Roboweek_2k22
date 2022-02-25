@@ -97,6 +97,10 @@ export const GoldSponsors = [
         sponsorImg:"assets/images/logos/Leading_Learners_Logo.png"
     },
     {
+        sponsorLink:"https://dare2compete.com/c/national-institute-of-technology-nit-hamirpur-placement-interview-competitions-articles-videos-950",
+        sponsorImg:"assets/images/logos/d2clogo.svg"
+    },
+    {
         sponsorLink:"https://www.elearnmarkets.com/",
         sponsorImg:"assets/images/logos/elmlogo.png"
     },
