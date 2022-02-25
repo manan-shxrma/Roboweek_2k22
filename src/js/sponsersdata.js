@@ -97,6 +97,10 @@ export const GoldSponsors = [
         sponsorImg:"assets/images/logos/Leading_Learners_Logo.png"
     },
     {
+        sponsorLink:"https://www.elearnmarkets.com/",
+        sponsorImg:"assets/images/logos/elmlogo.png"
+    },
+    {
         sponsorLink:"https://gen.xyz/",
         sponsorImg:"assets/images/logos/xyz-logo-color.svg"
     },
@@ -123,6 +127,10 @@ export const BronzeSponsers = [
     {
         sponsorLink:"https://www.axure.com/",
         sponsorImg:"assets/images/logos/axurelogo.png"
+    },
+    {
+        sponsorLink:"https://1password.com/",
+        sponsorImg:"assets/images/logos/1password.png"
     },
     {
         sponsorLink:"https://youtube.com/channel/UCAvC_lW5iXoBcmSEIowngKw",
