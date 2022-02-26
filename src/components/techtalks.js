@@ -76,6 +76,78 @@ function Services() {
             <div class="col-sm-12 col-md-4 col-lg-4">
               <figure class="snip1515">
                 <div data-aos="zoom-in" class="profile-image">
+                  <img style={{ height: "16rem" }}src="assets/images/Manmeetkaur.jpeg"alt="sample83"/>
+                </div>
+                <figcaption>
+                  <h3 class="tech-h3">Manmeet Kaur</h3>
+                  <h4 style={{ color: "orange", fontFamily: "Roboto" }}>
+                    <b>Cloud Computing</b>
+                  </h4>
+                  <p class="tech-para">
+                  Cloud Technology Consulting @Protiviti | PG in Cloud Computing @University of Texas |Ex-Expedia ,Xerox
+                  </p>
+                  <div data-aos="fade-up" class="icons">
+                    <a href="https://www.linkedin.com/in/manmeet-kaur-35212129/">
+                      <i
+                        class="ion-social-linkedin"
+                        style={{ color: "orange" }}
+                      ></i>
+                    </a>
+                    <a href="https://scholar.google.com/citations?user=4owxU1QAAAAJ&hl=en">
+                      {" "}
+                      <i
+                        class="ion-social-google"
+                        style={{ color: "orange" }}
+                      ></i>
+                    </a>
+                  </div>
+                  <div class="buttons">
+                     <button class="raise" >Registering soon</button>
+                     {/* <button class="raise">play</button> */}
+                  </div>
+                </figcaption>
+              </figure>
+            </div>
+            <div class="col-sm-12 col-md-4 col-lg-4">
+              <figure class="snip1515">
+                <div data-aos="zoom-in" class="profile-image">
+                  <img style={{ height: "16rem" }}src="assets/images/Pratiktirokar.jpeg"alt="sample83"/>
+                </div>
+                <figcaption>
+                  <h3 class="tech-h3">Pratik Tirodkar</h3>
+                  <h4 style={{ color: "orange", fontFamily: "Roboto" }}>
+                    <b>Autonomous robots</b>
+                  </h4>
+                  <p class="tech-para">
+                  Director PNT Robotics || Shark Tank India Finalist || 
+                   Maker of World's 1st Internet Controlled Robot for Pandemic
+                  
+                  </p>
+                  <div data-aos="fade-up" class="icons">
+                    <a href="https://www.linkedin.com/in/pratik-tirodkar/">
+                      <i
+                        class="ion-social-linkedin"
+                        style={{ color: "orange" }}
+                      ></i>
+                    </a>
+                    <a href="https://scholar.google.com/citations?user=4owxU1QAAAAJ&hl=en">
+                      {" "}
+                      <i
+                        class="ion-social-google"
+                        style={{ color: "orange" }}
+                      ></i>
+                    </a>
+                  </div>
+                  <div class="buttons">
+                     <button class="raise" >Registering soon</button>
+                     {/* <button class="raise">play</button> */}
+                  </div>
+                </figcaption>
+              </figure>
+            </div>
+            <div class="col-sm-12 col-md-4 col-lg-4">
+              <figure class="snip1515">
+                <div data-aos="zoom-in" class="profile-image">
                   <img style={{ height: "16rem" }}src="assets/images/tech-talk-2.jpg"alt="sample83"/>
                 </div>
                 <figcaption>
@@ -124,7 +196,7 @@ function Services() {
                 <figcaption>
                   <h3 class="tech-h3">Kuppulakshmi Krishnamoorthy</h3>
                   <h4 style={{ color: "orange", fontFamily: "Roboto" }}>
-                    <b>EI as Important as AI{" "}</b>
+                    <b>E as Important as AI{" "}</b>
                   </h4>
                   <p class="tech-para">
                   Global Head—Zoho for Startups at Zoho Corporation | Trainer
