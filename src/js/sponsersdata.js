@@ -37,6 +37,11 @@ export const Partners=[
         sponsorLink:"https://certopus.com/",
         sponsorImg:"assets/images/logos/certopus_dark.svg"
     },
+    {
+        sponsorLink:"https://www.noticebard.com/general/",
+        sponsorImg:"assets/images/logos/noticebard-logo-o (1).svg"
+    },
+
 ]
 
 
