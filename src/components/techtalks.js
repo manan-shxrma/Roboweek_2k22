@@ -84,7 +84,7 @@ function Services() {
                     <b>Cloud Computing</b>
                   </h4>
                   <p class="tech-para">
-                  Cloud Technology Consulting @Protiviti | PG in Cloud Computing @University of Texas |Ex-Expedia ,Xerox
+                  Cloud Technology Consulting at Protiviti | PG in Cloud Computing at University of Texas | Ex-Expedia at Xerox
                   </p>
                   <div data-aos="fade-up" class="icons">
                     <a href="https://www.linkedin.com/in/manmeet-kaur-35212129/">
@@ -93,13 +93,13 @@ function Services() {
                         style={{ color: "orange" }}
                       ></i>
                     </a>
-                    <a href="https://scholar.google.com/citations?user=4owxU1QAAAAJ&hl=en">
+                    {/* <a href="https://scholar.google.com/citations?user=4owxU1QAAAAJ&hl=en">
                       {" "}
                       <i
                         class="ion-social-google"
                         style={{ color: "orange" }}
                       ></i>
-                    </a>
+                    </a> */}
                   </div>
                   <div class="buttons">
                      <button class="raise" >Registering soon</button>
@@ -119,7 +119,7 @@ function Services() {
                     <b>Autonomous robots</b>
                   </h4>
                   <p class="tech-para">
-                  Director PNT Robotics || Shark Tank India Finalist || 
+                  Director PNT Robotics | Shark Tank India Finalist |
                    Maker of World's 1st Internet Controlled Robot for Pandemic
                   
                   </p>
@@ -130,10 +130,16 @@ function Services() {
                         style={{ color: "orange" }}
                       ></i>
                     </a>
-                    <a href="https://scholar.google.com/citations?user=4owxU1QAAAAJ&hl=en">
+                    <a href="https://www.instagram.com/pnt_robotics/">
+                      <i
+                        class="ion-social-instagram-outline"
+                        style={{ color: "orange" }}
+                      ></i>
+                    </a>
+                    <a href="https://pntsolutions.in/">
                       {" "}
                       <i
-                        class="ion-social-google"
+                        class="ion-link"
                         style={{ color: "orange" }}
                       ></i>
                     </a>
@@ -145,7 +151,7 @@ function Services() {
                 </figcaption>
               </figure>
             </div>
-            <div class="col-sm-12 col-md-4 col-lg-4">
+            <div class="col-sm-12 col-md-6 col-lg-6">
               <figure class="snip1515">
                 <div data-aos="zoom-in" class="profile-image">
                   <img style={{ height: "16rem" }}src="assets/images/tech-talk-2.jpg"alt="sample83"/>
@@ -188,15 +194,15 @@ function Services() {
                 </figcaption>
               </figure>
             </div>
-            <div class="col-sm-12 col-md-4 col-lg-4">
+            <div class="col-sm-12 col-md-6 col-lg-6">
               <figure class="snip1515">
                 <div data-aos="zoom-in" class="profile-image">
-                  <img style={{ height: "15rem" }}src="assets/images/tech-talk-3.jpg"alt="sample83"/>
+                  <img style={{ height: "16rem" }}src="assets/images/tech-talk-3.jpg"alt="sample83"/>
                 </div>
-                <figcaption>
+                <figcaption class="ei">
                   <h3 class="tech-h3">Kuppulakshmi Krishnamoorthy</h3>
                   <h4 style={{ color: "orange", fontFamily: "Roboto" }}>
-                    <b>E as Important as AI{" "}</b>
+                    <b>Emotional Intelligence is Important as AI{" "}</b>
                   </h4>
                   <p class="tech-para">
                   Global Head—Zoho for Startups at Zoho Corporation | Trainer
