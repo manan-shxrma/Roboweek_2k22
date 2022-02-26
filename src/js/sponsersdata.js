@@ -15,6 +15,10 @@ export const CommunityPartners =[
         sponsorLink:"https://gdsc.community.dev/events/details/developer-student-clubs-national-institute-of-technology-nit-hamirpur-presents-title-getting-started-with-android/",
         sponsorImg:"assets/images/logos/GDSC.png"
     },
+    {
+        sponsorLink:"https://roboticsclub.iitd.ac.in/",
+        sponsorImg:"assets/images/logos/robopng.png"
+    },
 ]
 export const Partners=[
     {
