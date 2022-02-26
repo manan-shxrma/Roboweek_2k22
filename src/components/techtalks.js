@@ -33,7 +33,7 @@ function Services() {
             style={{ paddingTop: "5%", textAlign: "-webkit-center" }}
             class="row"
           >
-            <div class="col-sm-12 col-md-6 col-lg-6">
+            <div class="col-sm-12 col-md-4 col-lg-4">
               <figure class="snip1515">
                 <div data-aos="zoom-in" class="profile-image">
                   <img
@@ -73,7 +73,7 @@ function Services() {
                 </figcaption>
               </figure>
             </div>
-            <div class="col-sm-12 col-md-6 col-lg-6">
+            <div class="col-sm-12 col-md-4 col-lg-4">
               <figure class="snip1515">
                 <div data-aos="zoom-in" class="profile-image">
                   <img style={{ height: "16rem" }}src="assets/images/tech-talk-2.jpg"alt="sample83"/>
@@ -108,6 +108,50 @@ function Services() {
                         style={{ color: "orange" }}
                       ></i>
                     </a>
+                  </div>
+                  <div class="buttons">
+                     <button class="raise">Registering soon</button>
+                     {/* <button class="raise">play</button> */}
+                  </div>
+                </figcaption>
+              </figure>
+            </div>
+            <div class="col-sm-12 col-md-4 col-lg-4">
+              <figure class="snip1515">
+                <div data-aos="zoom-in" class="profile-image">
+                  <img style={{ height: "15rem" }}src="assets/images/tech-talk-3.jpg"alt="sample83"/>
+                </div>
+                <figcaption>
+                  <h3 class="tech-h3">Kuppulakshmi Krishnamoorthy</h3>
+                  <h4 style={{ color: "orange", fontFamily: "Roboto" }}>
+                    <b>EI as Important as AI{" "}</b>
+                  </h4>
+                  <p class="tech-para">
+                  Global Head—Zoho for Startups at Zoho Corporation | Trainer
+Datamatics Global Services
+
+                  </p>
+                  <div data-aos="fade-up" class="icons">
+                    <a href="https://www.linkedin.com/in/kuppukrish/">
+                      <i
+                        class="ion-social-linkedin"
+                        style={{ color: "orange" }}
+                      ></i>
+                    </a>
+                    {/* <a href="https://www.youtube.com/channel/UCXsisJBABS2n2rQjR_rbJEg/videos">
+                      {" "}
+                      <i
+                        class="ion-social-youtube"
+                        style={{ color: "orange" }}
+                      ></i>
+                    </a>
+                    <a href="https://www.facebook.com/nithya.duraisamy.7">
+                      {" "}
+                      <i
+                        class="ion-social-facebook"
+                        style={{ color: "orange" }}
+                      ></i>
+                    </a> */}
                   </div>
                   <div class="buttons">
                      <button class="raise">Registering soon</button>
