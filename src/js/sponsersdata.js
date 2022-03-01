@@ -130,6 +130,10 @@ export const SilverSponsers = [
         sponsorLink:"https://www.interviewcake.com/",
         sponsorImg:"assets/images/logos/cake_logo_white_on_blue.svg"
     },
+    {
+        sponsorLink:"https://badelog.co.in/",
+        sponsorImg:"assets/images/logos/bade-log(1).png"
+    },
 ]
 export const BronzeSponsers = [
     {
