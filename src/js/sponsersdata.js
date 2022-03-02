@@ -142,6 +142,10 @@ export const SilverSponsers = [
         sponsorLink:"https://www.knowlexon.com/",
         sponsorImg:"assets/images/logos/KNOWLEXON_LOGO_FULL.png"
     },
+    {
+        sponsorLink:"https://flipr.ai/",
+        sponsorImg:"assets/images/logos/Flipr_Logo.png"
+    },
 ]
 export const BronzeSponsers = [
     {

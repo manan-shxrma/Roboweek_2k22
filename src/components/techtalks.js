@@ -67,7 +67,7 @@ function Services() {
                     </a>
                   </div>
                   <div class="buttons">
-                     <button class="raise" >Registering soon</button>
+                  <a href="https://dare2compete.com/workshop/tech-talks-roboweek-20-national-institute-of-technology-nit-hamirpur-269981" target="_blank"><button class="raise">Register Now</button></a>
                      {/* <button class="raise">play</button> */}
                   </div>
                 </figcaption>
@@ -102,7 +102,7 @@ function Services() {
                     </a> */}
                   </div>
                   <div class="buttons">
-                     <button class="raise" >Registering soon</button>
+                  <a href="https://dare2compete.com/workshop/tech-talks-roboweek-20-national-institute-of-technology-nit-hamirpur-269981" target="_blank"><button class="raise">Register Now</button></a>
                      {/* <button class="raise">play</button> */}
                   </div>
                 </figcaption>
@@ -145,7 +145,7 @@ function Services() {
                     </a>
                   </div>
                   <div class="buttons">
-                     <button class="raise" >Registering soon</button>
+                     <a href="https://dare2compete.com/workshop/tech-talks-roboweek-20-national-institute-of-technology-nit-hamirpur-269981" target="_blank"><button class="raise">Register Now</button></a>
                      {/* <button class="raise">play</button> */}
                   </div>
                 </figcaption>
@@ -188,7 +188,7 @@ function Services() {
                     </a>
                   </div>
                   <div class="buttons">
-                     <button class="raise">Registering soon</button>
+                     <a href="https://dare2compete.com/workshop/tech-talks-roboweek-20-national-institute-of-technology-nit-hamirpur-269981" target="_blank"><button class="raise">Register Now</button></a>
                      {/* <button class="raise">play</button> */}
                   </div>
                 </figcaption>
@@ -239,7 +239,7 @@ Datamatics Global Services
                     </a>
                   </div>
                   <div class="buttons">
-                     <button class="raise">Registering soon</button>
+                     <a href="https://dare2compete.com/workshop/tech-talks-roboweek-20-national-institute-of-technology-nit-hamirpur-269981" target="_blank"><button class="raise">Register Now</button></a>
                      {/* <button class="raise">play</button> */}
                   </div>
                 </figcaption>
