@@ -19,6 +19,10 @@ export const CommunityPartners =[
         sponsorLink:"https://roboticsclub.iitd.ac.in/",
         sponsorImg:"assets/images/logos/robopng.png"
     },
+    {
+        sponsorLink:"https://techno.birlainstitute.co.in/",
+        sponsorImg:"assets/images/logos/Technoforum.png"
+    },
 ]
 export const Partners=[
     {
@@ -129,6 +133,14 @@ export const SilverSponsers = [
     {
         sponsorLink:"https://www.interviewcake.com/",
         sponsorImg:"assets/images/logos/cake_logo_white_on_blue.svg"
+    },
+    {
+        sponsorLink:"https://badelog.co.in/",
+        sponsorImg:"assets/images/logos/bade-log(1).png"
+    },
+    {
+        sponsorLink:"https://www.knowlexon.com/",
+        sponsorImg:"assets/images/logos/KNOWLEXON_LOGO_FULL.png"
     },
 ]
 export const BronzeSponsers = [
