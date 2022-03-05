@@ -358,6 +358,178 @@ function Services() {
                 </div>
               </div>
             </div>
+
+
+{/* my start */}
+            <div className="col-lg-12">
+              <div className="naccs">
+                <div className="grid">
+                  <div className="row">
+                    <div className="col-lg-12">
+                      <div className="menu" style={{ marginTop:"30px",marginBottom:"30px", contentAlign: "center" }}>
+                        <div className="first-thumb active">
+                          <div className="thumb " style={{ width: "100%" }}>
+                            <span className="icon">
+                              <img
+                                src="assets/images/service-icon-02.png"
+                                className="icon-img"
+                                alt=""
+                              />
+                            </span>
+                            Flipr Hackathon
+                          </div>
+                        </div>
+                        {/* <div>
+                      <div className="thumb">                 
+                        <span className="icon"><img src="assets/images/service-icon-02.png" alt="" /></span>
+                        Turtle Regatta
+                      </div>
+                    </div> */}
+                      </div>
+                    </div>
+                    <div className="col-lg-12 main-box">
+                      <ul className="nacc">
+                        <li className="active">
+                          <div className="sub-box">
+                            <div
+                              style={{ marginLeft: "8px" }}
+                              className="thumb"
+                            >
+                              <div className="row">
+                                {/* <div className="col-lg-6 align-self-center right">
+                              <div className="right-image">
+                                <img  className="img-responsive django-img" src="assets/images/Machine learning.png" alt="" />
+                              </div>
+                            </div> */}
+                                <div className="col-lg-12 align-self-center">
+                                  <div className="left-text">
+                                    <img
+                                      className="img-responsive django-img col-lg-6"
+                                      src="assets/images/hackrathon.png"
+                                      alt=""
+                                      height={'380px'}
+                                    />
+                                    <div className="col-lg-6">
+                                      <h4>Flipr Hackathon</h4>
+                                      <p>
+
+                                      Hello there, y'all! ✋
+There's a chance to land a full-time job or an internship. Robotics society NIT hamirpur presents Flipr hackathon.☄️
+This Hackathon will be entirely online, and a number of firms will be on the lookout for exceptional individuals to join their exclusive team.🤵This Hackathon will provide pre-final and final-year students with placement and internship opportunities
+
+                                      </p>
+
+
+                                      <div
+                                        data-aos="fade-right"
+                                        className="ticks-list"
+                                      >
+                                        <span>
+                                          <i className="fa fa-check"></i> Amazon Gift Vouchers to the top 3
+                                        </span>
+                                        
+                                        <span>
+                                          <i className="fa fa-check"></i>
+                                          The top 3 will receive placement and internship opportunities as well.
+                                        </span>{" "}
+                                        <span>
+                                          <i className="fa fa-check"></i>{" "}
+                                          Students in the third, fourth, and fifth years are eligible (Open to All Branches).
+                                        </span>
+                                        <span>
+                                          <i className="fa fa-check"></i>
+                                          The Hackathon is two day long starting from 25th march at 9:00 PM.
+                                        </span>{" "}
+                                      </div>
+                                      <div class="row buttons-ml">
+                        
+                                      {/* <button
+                                        onClick={activateLasers3}
+                                        id="bottone5"
+                                        style={{width:"fit-content"}}
+                                        disabled={true}
+                                      
+                                      >
+                                        {" "}
+                                        <i
+                                          style={{
+                                            paddingRight: "2px",
+                                            paddingTop: "3px",
+                                          }}
+                                          class="fa fa-award"
+                                          aria-hidden="true"
+                                        ></i>{" "}
+                                        Register
+                                      </button>
+                                    
+                                      
+                                      <button
+                                        onClick={activateLasers4}
+                                        style={{width:"fit-content"}}
+                                        id="bottone-5"
+                                        disabled={true}
+                                      >
+                                        {" "}
+                                        <i
+                                          style={{
+                                            paddingRight: "2px",
+                                            paddingTop: "3px",
+                                          }}
+                                          class="fa fa-play"
+                                          aria-hidden="true"
+                                        ></i>{" "}
+                                        Play
+                                      </button> */}
+                                      
+                                      </div>
+                                    </div>
+                                    {/* <button style={{marginLeft:"10%"}} class="cybr-btn">
+                                            Buttons<span aria-hidden>_</span>
+                                            <span aria-hidden class="cybr-btn__glitch">Buttons_</span>
+                                            
+                                          </button> */}
+                                  </div>
+                                </div>
+                                {/* <div className="col-lg-6 align-self-center">
+                              <div  className="right-image">
+                                <img  className="img-responsive django-img" src="assets/images/Machine learning.png" alt="" />
+                              </div>
+                            </div> */}
+                              </div>
+                            </div>
+                          </div>
+                        </li>
+                        {/* <li>
+                      <div>
+                        <div style={{marginLeft :"8px"}} className="thumb">
+                          <div className="row">
+                            <div className="col-lg-6 align-self-center">
+                              <div className="left-text">
+                                <h4>Healthy Food &amp; Life</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sedr do eiusmod deis tempor incididunt ut labore et dolore kengan darwin doerski token.
+                                  dover lipsum lorem and the others.</p>
+                                <div className="ticks-list"><span><i className="fa fa-check"></i> Optimized Template</span> <span><i className="fa fa-check"></i> Data Info</span> <span><i className="fa fa-check"></i> SEO Analysis</span>
+                                  <span><i className="fa fa-check"></i> Data Info</span> <span><i className="fa fa-check"></i> SEO Analysis</span> </div>
+                                  <button id="bottone5"><i style={{paddingRight:"2px",paddingTop:"3px"}}  class="fa fa-award" aria-hidden="true"></i> Register</button>
+                                         
+                              </div>
+                            </div>
+                            <div className="col-lg-6 align-self-center">
+                              <div className="right-image">
+                                <img src="assets/images/services-image-02.jpg" alt="" />
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </li> */}
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            {/* my end */}
           </div>
         </div>
       </div>
