@@ -5,11 +5,16 @@ import "aos/dist/aos.css";
 AOS.init();
 
 function Services() {
-  function activateLasers() {
-    window.location.href =
-      "https://dare2compete.com/workshop/django-ml-roboweek-20-national-institute-of-technology-nit-hamirpur-267510";
-  }
   function activateLasers1() {
+    window.location.href ="https://dare2compete.com/workshop/django-ml-roboweek-20-national-institute-of-technology-nit-hamirpur-267510";
+  }
+  function activateLasers2() {
+    window.location.href = "";
+  }
+  function activateLasers3() {
+    window.location.href = "https://dare2compete.com/workshop/iot-in-home-automation-roboweek-20-national-institute-of-technology-nit-hamirpur-271532";
+  }
+  function activateLasers4() {
     window.location.href = "";
   }
 
@@ -77,7 +82,7 @@ function Services() {
                                   <div className="left-text">
                                     <img
                                       className="img-responsive django-img col-lg-6"
-                                      src="assets/images/Machine learning.png"
+                                      src="assets/images/machine-learning.png"
                                       alt=""
                                     />
                                     <div className="col-lg-6">
@@ -111,7 +116,7 @@ function Services() {
                                       <div class="row buttons-ml">
                         
                                       <button
-                                        onClick={activateLasers}
+                                        onClick={activateLasers1}
                                         id="bottone5"
                                         style={{width:"fit-content"}}
                                       
@@ -130,10 +135,10 @@ function Services() {
                                     
                                       
                                       <button
-                                        onClick={activateLasers1}
+                                        onClick={activateLasers2}
                                         style={{width:"fit-content"}}
                                         id="bottone-5"
-                                      >
+                                      disabled>
                                         {" "}
                                         <i
                                           style={{
@@ -209,7 +214,7 @@ function Services() {
                                 alt=""
                               />
                             </span>
-                            ML with Django
+                            IOT Workshop
                           </div>
                         </div>
                         {/* <div>
@@ -238,19 +243,17 @@ function Services() {
                                   <div className="left-text">
                                     <img
                                       className="img-responsive django-img col-lg-6"
-                                      src="assets/images/Machine learning.png"
+                                      src="assets/images/iot.png"
                                       alt=""
                                     />
                                     <div className="col-lg-6">
-                                      <h4>Machine Learning with Django</h4>
+                                      <h4>Workshop on IOT (Internet of Things)</h4>
                                       <p>
-                                        Have you ever wondered how MACHINE
-                                        LEARNING helps robots sustain
-                                        productivity by allowing them to engage
-                                        dynamically and avoid obstacles? Any
-                                        approach capable of simulating human
-                                        intelligence contains ML. It shows how
-                                        data can be used in new ways..
+                                      What if I say that, "You can control lights, fans and even your complete house,<br/>
+                                      just by a simple voice command or by your smartphone"?<br/>
+                                      Sounds very interesting.<br/>
+                                      huh?<br/>
+                                      Yes, you can control it by the help of IoT Home Automation.
                                       </p>
                                       <div
                                         data-aos="fade-right"
@@ -262,17 +265,17 @@ function Services() {
                                         </span>
                                         <span>
                                           <i className="fa fa-check"></i>{" "}
-                                          algorithm models
+                                          IOT(Internet of Things)
                                         </span>
                                         <span>
-                                          <i className="fa fa-check"></i> Python
-                                          Libraries Used in ML algorithm
+                                          <i className="fa fa-check"></i>
+                                          References to 100+ interesting projects in IOT
                                         </span>{" "}
                                       </div>
                                       <div class="row buttons-ml">
                         
                                       <button
-                                        onClick={activateLasers}
+                                        onClick={activateLasers3}
                                         id="bottone5"
                                         style={{width:"fit-content"}}
                                       
@@ -291,7 +294,7 @@ function Services() {
                                     
                                       
                                       <button
-                                        onClick={activateLasers1}
+                                        onClick={activateLasers4}
                                         style={{width:"fit-content"}}
                                         id="bottone-5"
                                       >

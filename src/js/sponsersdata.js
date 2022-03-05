@@ -39,11 +39,11 @@ export const Partners=[
     },
     {
         sponsorLink:"https://artofproblemsolving.com/",
-        sponsorImg:"assets/images/logos/AOPS.png"
+        sponsorImg:"assets/images/logos/aops-name.png"
     },
     {
         sponsorLink:"https://www.myinterviewbuddy.com/",
-        sponsorImg:"assets/images/logos/Interview_buddy.png"
+        sponsorImg:"assets/images/logos/interview-name.png"
     },
     {
         sponsorLink:"https://certopus.com/",
