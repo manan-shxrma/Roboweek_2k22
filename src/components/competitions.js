@@ -29,13 +29,13 @@ function Services() {
                 className="section-heading  wow fadeInDown section-heading-workshop"
                 data-wow-duration="1s"
                 data-wow-delay="0.5s"
-                style={{marginBottom:"2px"}}
+                style={{marginBottom:"2px", textAlign:"left"}}
               >
                 <h6>Workshops</h6>
                 <h4>
                   What Roboweek <em>Provides</em>
                 </h4>
-                <div className="line-dec"></div>
+                <div className="line-dec" style={{marginLeft:"0px"}}></div>
               </div>
             </div>
             <div className="col-lg-12">
@@ -58,7 +58,11 @@ function Services() {
                         </div>
                         {/* <div>
                       <div className="thumb">                 
-                        <span className="icon"><img src="assets/images/service-icon-02.png" alt="" /></span>
+                        <span className="icon">
+                        <img src="assets/images/service-icon-02.png" 
+                        alt="" 
+                        />
+                        </span>
                         Turtle Regatta
                       </div>
                     </div> */}
