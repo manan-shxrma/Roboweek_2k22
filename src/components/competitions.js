@@ -17,6 +17,9 @@ function Services() {
   function activateLasers4() {
     window.location.href = "";
   }
+  function activateLasers5() {
+    window.location.href = "";
+  }
 
   return (
     <>
@@ -43,8 +46,10 @@ function Services() {
                 <div className="grid">
                   <div className="row">
                     <div className="col-lg-12">
+                      {/* <--------------sec start------------> */}
                       <div className="menu" style={{marginTop:"30px",marginBottom:"30px", contentAlign: "center" }}>
-                        <div className="first-thumb active">
+                        {/* <----------------------first---------------------------> */}
+                        <div className="first-thumb active" style={{marginRight:"3%",marginLeft:"3%"}}>
                           <div className="thumb " style={{ width: "100%" }}>
                             <span className="icon">
                               <img
@@ -56,21 +61,41 @@ function Services() {
                             ML with Django
                           </div>
                         </div>
-                        {/* <div>
-                      <div className="thumb">                 
+                        {/* <----------------------Second---------------------------> */}
+                      <div style={{marginRight:"3%",marginLeft:"3%"}}>
+                      <div className="thumb" style={{ width: "100%" }}>                 
                         <span className="icon">
-                        <img src="assets/images/service-icon-02.png" 
+                        <img src="assets/images/service-icon-02.png"
+                        className="icon-img" 
                         alt="" 
                         />
                         </span>
-                        Turtle Regatta
-                      </div>
-                    </div> */}
+                        IOT Workshop
                       </div>
                     </div>
+                    {/* <----------------------Third---------------------------> */}
+                    <div style={{marginRight:"3%",marginLeft:"3%"}}>
+                      <div className="thumb" style={{ width: "100%" }}>                 
+                        <span className="icon">
+                        <img src="assets/images/service-icon-02.png"
+                        className="icon-img" 
+                        alt="" 
+                        />
+                        </span>
+                        Flipr Hackathon
+                      </div>
+                    </div>
+                      </div>
+                    {/* <--------------sec ends--------------------> */}
+                    </div>
+
                     <div className="col-lg-12 main-box">
                       <ul className="nacc">
-                        <li className="active">
+
+
+                        {/* <<<<<<<<<<<<<<<<<--------------ML with Django-content------------>>>>>>>>>>>>>>>>>>>>>>> */}
+
+                        <li className="active" style={{paddingRight:"3%",paddingLeft:"3%"}}>
                           <div className="sub-box">
                             <div
                               style={{ marginLeft: "8px" }}
@@ -101,7 +126,7 @@ function Services() {
                                         data can be used in new ways..
                                       </p>
                                       <div
-                                        data-aos="fade-right"
+                                        // data-aos="fade-right"
                                         className="ticks-list"
                                       >
                                         <span>
@@ -173,67 +198,12 @@ function Services() {
                             </div>
                           </div>
                         </li>
-                        {/* <li>
-                      <div>
-                        <div style={{marginLeft :"8px"}} className="thumb">
-                          <div className="row">
-                            <div className="col-lg-6 align-self-center">
-                              <div className="left-text">
-                                <h4>Healthy Food &amp; Life</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sedr do eiusmod deis tempor incididunt ut labore et dolore kengan darwin doerski token.
-                                  dover lipsum lorem and the others.</p>
-                                <div className="ticks-list"><span><i className="fa fa-check"></i> Optimized Template</span> <span><i className="fa fa-check"></i> Data Info</span> <span><i className="fa fa-check"></i> SEO Analysis</span>
-                                  <span><i className="fa fa-check"></i> Data Info</span> <span><i className="fa fa-check"></i> SEO Analysis</span> </div>
-                                  <button id="bottone5"><i style={{paddingRight:"2px",paddingTop:"3px"}}  class="fa fa-award" aria-hidden="true"></i> Register</button>
-                                         
-                              </div>
-                            </div>
-                            <div className="col-lg-6 align-self-center">
-                              <div className="right-image">
-                                <img src="assets/images/services-image-02.jpg" alt="" />
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </li> */}
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="col-lg-12">
-              <div className="naccs">
-                <div className="grid">
-                  <div className="row">
-                    <div className="col-lg-12">
-                      <div className="menu" style={{ marginTop:"30px",marginBottom:"30px", contentAlign: "center" }}>
-                        <div className="first-thumb active">
-                          <div className="thumb " style={{ width: "100%" }}>
-                            <span className="icon">
-                              <img
-                                src="assets/images/service-icon-02.png"
-                                className="icon-img"
-                                alt=""
-                              />
-                            </span>
-                            IOT Workshop
-                          </div>
-                        </div>
-                        {/* <div>
-                      <div className="thumb">                 
-                        <span className="icon"><img src="assets/images/service-icon-02.png" alt="" /></span>
-                        Turtle Regatta
-                      </div>
-                    </div> */}
-                      </div>
-                    </div>
-                    <div className="col-lg-12 main-box">
-                      <ul className="nacc">
-                        <li className="active">
-                          <div className="sub-box">
-                            <div
+
+                        {/* <<<<<<<<<<<<<<<<<<<<<<<<<----------------IoT-workshop-content-------------->>>>>>>>>>>>>>>>>>>>>>>>>>> */}
+
+                        <li style={{paddingLeft:"5%",paddingRight:"5%"}}>
+                      <div className="sub-box">
+                      <div
                               style={{ marginLeft: "8px" }}
                               className="thumb"
                             >
@@ -260,7 +230,7 @@ function Services() {
                                       Yes, you can control it by the help of IoT Home Automation.
                                       </p>
                                       <div
-                                        data-aos="fade-right"
+                                        // data-aos="fade-right"
                                         className="ticks-list"
                                       >
                                         <span>
@@ -330,70 +300,12 @@ function Services() {
                             </div> */}
                               </div>
                             </div>
-                          </div>
-                        </li>
-                        {/* <li>
-                      <div>
-                        <div style={{marginLeft :"8px"}} className="thumb">
-                          <div className="row">
-                            <div className="col-lg-6 align-self-center">
-                              <div className="left-text">
-                                <h4>Healthy Food &amp; Life</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sedr do eiusmod deis tempor incididunt ut labore et dolore kengan darwin doerski token.
-                                  dover lipsum lorem and the others.</p>
-                                <div className="ticks-list"><span><i className="fa fa-check"></i> Optimized Template</span> <span><i className="fa fa-check"></i> Data Info</span> <span><i className="fa fa-check"></i> SEO Analysis</span>
-                                  <span><i className="fa fa-check"></i> Data Info</span> <span><i className="fa fa-check"></i> SEO Analysis</span> </div>
-                                  <button id="bottone5"><i style={{paddingRight:"2px",paddingTop:"3px"}}  class="fa fa-award" aria-hidden="true"></i> Register</button>
-                                         
-                              </div>
-                            </div>
-                            <div className="col-lg-6 align-self-center">
-                              <div className="right-image">
-                                <img src="assets/images/services-image-02.jpg" alt="" />
-                              </div>
-                            </div>
-                          </div>
-                        </div>
                       </div>
-                    </li> */}
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
+                    </li>
 
+                    {/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<----------------------------Flipr-Hackathon-content----------------------->>>>>>>>>>>>>>>> */}
 
-{/* my start */}
-            <div className="col-lg-12">
-              <div className="naccs">
-                <div className="grid">
-                  <div className="row">
-                    <div className="col-lg-12">
-                      <div className="menu" style={{ marginTop:"30px",marginBottom:"30px", contentAlign: "center" }}>
-                        <div className="first-thumb active">
-                          <div className="thumb " style={{ width: "100%" }}>
-                            <span className="icon">
-                              <img
-                                src="assets/images/service-icon-02.png"
-                                className="icon-img"
-                                alt=""
-                              />
-                            </span>
-                            Flipr Hackathon
-                          </div>
-                        </div>
-                        {/* <div>
-                      <div className="thumb">                 
-                        <span className="icon"><img src="assets/images/service-icon-02.png" alt="" /></span>
-                        Turtle Regatta
-                      </div>
-                    </div> */}
-                      </div>
-                    </div>
-                    <div className="col-lg-12 main-box">
-                      <ul className="nacc">
-                        <li className="active">
+                    <li style={{paddingRight:"3%",paddingLeft:"3%"}}>
                           <div className="sub-box">
                             <div
                               style={{ marginLeft: "8px" }}
@@ -409,9 +321,9 @@ function Services() {
                                   <div className="left-text">
                                     <img
                                       className="img-responsive django-img col-lg-6"
-                                      src="assets/images/hackrathon.png"
+                                      src="assets/images/hackathon(1).png"
                                       alt=""
-                                      height={'380px'}
+                                      // height={'380px'}
                                     />
                                     <div className="col-lg-6">
                                       <h4>Flipr Hackathon</h4>
@@ -425,33 +337,35 @@ This Hackathon will be entirely online, and a number of firms will be on the loo
 
 
                                       <div
-                                        data-aos="fade-right"
+                                        // data-aos="fade-right"
                                         className="ticks-list"
                                       >
+                                        
                                         <span>
-                                          <i className="fa fa-check"></i> Amazon Gift Vouchers to the top 3
-                                        </span>
+                                          <i className="fa fa-check"></i>{" "}Amazon Gift<br/>Vouchers to the top 3
+                                        </span>{" "}
                                         
                                         <span>
                                           <i className="fa fa-check"></i>
-                                          The top 3 will receive placement and internship opportunities as well.
+                                          The top 3 will receive placement<br/>and internship opportunities as well.
                                         </span>{" "}
                                         <span>
                                           <i className="fa fa-check"></i>{" "}
-                                          Students in the third, fourth, and fifth years are eligible (Open to All Branches).
+                                          Students in the <br/>3rd, 4th, and 5th year <br/>are eligible. <br/>(Open to All Branches).
                                         </span>
                                         <span>
                                           <i className="fa fa-check"></i>
-                                          The Hackathon is two day long starting from 25th march at 9:00 PM.
+                                          The Hackathon is two day<br/>long starting from<br/>25th march at 9:00 PM.
                                         </span>{" "}
                                       </div>
                                       <div class="row buttons-ml">
                         
-                                      {/* <button
-                                        onClick={activateLasers3}
+                                      <div class="row buttons-ml">
+                        
+                                      <button
+                                        onClick={activateLasers5}
                                         id="bottone5"
-                                        style={{width:"fit-content"}}
-                                        disabled={true}
+                                        style={{width:"fit-content", padding:"0 15% 0 15%"}}
                                       
                                       >
                                         {" "}
@@ -467,12 +381,11 @@ This Hackathon will be entirely online, and a number of firms will be on the loo
                                       </button>
                                     
                                       
-                                      <button
-                                        onClick={activateLasers4}
+                                      {/* <button
+                                        onClick={activateLasers2}
                                         style={{width:"fit-content"}}
                                         id="bottone-5"
-                                        disabled={true}
-                                      >
+                                      disabled>
                                         {" "}
                                         <i
                                           style={{
@@ -484,6 +397,8 @@ This Hackathon will be entirely online, and a number of firms will be on the loo
                                         ></i>{" "}
                                         Play
                                       </button> */}
+                                      
+                                      </div>
                                       
                                       </div>
                                     </div>
@@ -503,37 +418,15 @@ This Hackathon will be entirely online, and a number of firms will be on the loo
                             </div>
                           </div>
                         </li>
-                        {/* <li>
-                      <div>
-                        <div style={{marginLeft :"8px"}} className="thumb">
-                          <div className="row">
-                            <div className="col-lg-6 align-self-center">
-                              <div className="left-text">
-                                <h4>Healthy Food &amp; Life</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sedr do eiusmod deis tempor incididunt ut labore et dolore kengan darwin doerski token.
-                                  dover lipsum lorem and the others.</p>
-                                <div className="ticks-list"><span><i className="fa fa-check"></i> Optimized Template</span> <span><i className="fa fa-check"></i> Data Info</span> <span><i className="fa fa-check"></i> SEO Analysis</span>
-                                  <span><i className="fa fa-check"></i> Data Info</span> <span><i className="fa fa-check"></i> SEO Analysis</span> </div>
-                                  <button id="bottone5"><i style={{paddingRight:"2px",paddingTop:"3px"}}  class="fa fa-award" aria-hidden="true"></i> Register</button>
-                                         
-                              </div>
-                            </div>
-                            <div className="col-lg-6 align-self-center">
-                              <div className="right-image">
-                                <img src="assets/images/services-image-02.jpg" alt="" />
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </li> */}
+
+
+
                       </ul>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
-            {/* my end */}
           </div>
         </div>
       </div>
