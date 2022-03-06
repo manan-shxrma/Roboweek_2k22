@@ -24,25 +24,25 @@ function portfolio(){
                       {/* <----------Gold- Sponsers------> */}
 
                   <div className="community">
-                           
-                           <div className="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
-                             
-                             <h4 class="sponsor-h4" style={{backgroundColor:"#A38A00",color:"#fff",textAlign:"center",marginTop:"20px",marginBottom:"20px"}}>Gold Sponsors</h4>  
-                           </div>
-                                       
+                          
+                          <div className="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
+                            
+                            <h4 class="sponsor-h4" style={{backgroundColor:"#A38A00",color:"#fff",textAlign:"center",marginTop:"20px",marginBottom:"20px"}}>Gold Sponsors</h4>  
+                          </div>
                                       
-                                           <div className="row row-img grid" style={{"justify-content": "center"}}>
-                                               {GoldSponsors.map((item, index) => {
-                                               return (
-                                                   <div data-aos="fade-up" style={{paddingTop:"7%"}} className="col-md-4 col-sm-6 img-div">
-                                                       <a rel="noreferrer" href={item.sponsorLink} target="_blank">
-                                                           <img alt="" className="sponsor-img" src={item.sponsorImg} />
-                                                       </a>
-                                                   </div>                                                
-                                               )
-                                               })}
-                                           </div>
-                                       
+                                     
+                                        <div className="row row-img grid" style={{"justify-content": "center"}}>
+                                            {GoldSponsors.map((item, index) => {
+                                            return (
+                                                <div data-aos="fade-up" style={{paddingTop:"7%"}} className="col-md-4 col-sm-6 img-div">
+                                                    <a rel="noreferrer" href={item.sponsorLink} target="_blank">
+                                                        <img alt="" className="sponsor-img" src={item.sponsorImg} />
+                                                    </a>
+                                                </div>                                                
+                                            )
+                                            })}
+                                          </div>
+                                      
                         </div>
 
                         {/* <----------Silver- Sponsers------> */}
