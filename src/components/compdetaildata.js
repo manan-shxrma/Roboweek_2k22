@@ -161,7 +161,7 @@ const homedata = [
       emoji: "🤣",
       name: "clipped",
       instructions:
-        "You will be given some topics, on which you have to make a 7- 10 minute video in one week.",
+        "You will be given some topics, on which you have to make a 5-7 minute video in one week.",
         instructions2:"Submit a word file explaining the essence, transition and edits of your video that you made.",
         instructions3:"Also the links of videos used if you are using something outside of the library we provided.",
         instructions4:"",
