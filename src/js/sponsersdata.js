@@ -99,7 +99,7 @@ export const GoldSponsors = [
     {
         sponsorLink:"https://www.elearnmarkets.com/",
         sponsorImg:"assets/images/logos/elmlogo.png"
-    },
+    }, 
     {
         sponsorLink:"https://gen.xyz/",
         sponsorImg:"assets/images/logos/xyz-logo-color.svg"
