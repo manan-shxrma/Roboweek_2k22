@@ -47,10 +47,10 @@ function Services() {
                   <div className="row">
                     <div className="col-lg-12">
                       {/* <--------------sec start------------> */}
-                      <div className="menu" style={{marginTop:"30px",marginBottom:"30px", contentAlign: "center" }}>
+                      <div className="menu" style={{marginTop:"30px",marginBottom:"50px", contentAlign: "center" }}>
                         {/* <----------------------first---------------------------> */}
-                        <div className="first-thumb active" style={{marginRight:"3%",marginLeft:"3%"}}>
-                          <div className="thumb " style={{ width: "100%" }}>
+                        <div className=" active" style={{marginRight:"3%",marginLeft:"0%"}}>
+                          <div className="thumb first-thumb" style={{ width: "100%" }}>
                             <span className="icon">
                               <img
                                 src="assets/images/service-icon-02.png"
@@ -62,7 +62,7 @@ function Services() {
                           </div>
                         </div>
                         {/* <----------------------Second---------------------------> */}
-                      <div style={{marginRight:"3%",marginLeft:"3%"}}>
+                      <div className="second-thumb " style={{marginRight:"10%",marginLeft:"10%"}}>
                       <div className="thumb" style={{ width: "100%" }}>                 
                         <span className="icon">
                         <img src="assets/images/service-icon-02.png"
@@ -74,7 +74,7 @@ function Services() {
                       </div>
                     </div>
                     {/* <----------------------Third---------------------------> */}
-                    <div style={{marginRight:"3%",marginLeft:"3%"}}>
+                    <div className="third-thumb" style={{marginRight:"3%",marginLeft:"3%"}}>
                       <div className="thumb" style={{ width: "100%" }}>                 
                         <span className="icon">
                         <img src="assets/images/service-icon-02.png"
@@ -203,10 +203,7 @@ function Services() {
 
                         <li style={{paddingLeft:"5%",paddingRight:"5%"}}>
                       <div className="sub-box">
-                      <div
-                              style={{ marginLeft: "8px" }}
-                              className="thumb"
-                            >
+                      <div style={{ marginLeft: "8px" }} className="thumb">
                               <div className="row">
                                 {/* <div className="col-lg-6 align-self-center right">
                               <div className="right-image">
@@ -216,7 +213,7 @@ function Services() {
                                 <div className="col-lg-12 align-self-center">
                                   <div className="left-text">
                                     <img
-                                      className="img-responsive django-img col-lg-6"
+                                      className="img-responsive django-img2 col-lg-6"
                                       src="assets/images/iot.png"
                                       alt=""
                                     />

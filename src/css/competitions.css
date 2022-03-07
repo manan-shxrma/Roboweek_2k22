@@ -115,16 +115,32 @@
     float:right;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+.django-img2 {
+  border: solid black 5px;
+  background-color: black;
+  border-radius:10%;
+  padding: 0%;
+  float:right;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
 
 @media (max-width: 900px) {
   .django-img {
-    float: left;
     position: relative;
     bottom: 100px;
-    width: 70vw;
+    width: 90vw;
     padding: 0;
-    right: 5px;
+    right: 0;
+    left: 2px;
   } 
+  .django-img2 {
+    position: relative;
+    bottom: 100px;
+    width: 90vw;
+    padding: 0;
+    right: 0;
+    left: 10px;
+  }
   .section-heading-workshop{
     margin-bottom: 25px !important;
   }
@@ -140,6 +156,17 @@
   #bottone-5{
     margin: 10px 5px;
   }
+  /* .active {
+    border-width: 7px;
+    border-style: solid;
+    border-radius: 20px;
+    border-image: 
+      linear-gradient(
+        to bottom, 
+        rgb(154, 248, 3), 
+        rgb(255, 2, 2)
+      ) 2 80%;
+  } */
   #bottone5:nth-child(2){
     color:rgb(128,0,0);
   }
@@ -183,3 +210,4 @@
   }
 
 }
+

@@ -177,7 +177,7 @@ function Freequote(){
 								Hunt Nova | Submission Ends
                                 </div>
                                 <div class="col-6 col-md-4 grey time-content-a">
-								<span className='dati'> 11:59AM</span> 
+								<span className='dati'> 11:59AM (IST)</span> 
                                 </div>
                                 {/* <div class="col-6 col-md-6 grey time-content-a">
 								gdsgdsg
@@ -309,7 +309,7 @@ function Freequote(){
 								Clipped | Submission Ends
                                 </div>
                                 <div class="col-6 col-md-4 grey time-content-a">
-								<span className='dati'> 11:59PM</span> 
+								<span className='dati'> 11:59PM (IST)</span> 
                                 </div>
                                 <div class="col-6 col-md-6 grey time-content-a">
 								FLIPR Hackathon Begins
@@ -338,7 +338,7 @@ function Freequote(){
 								Workshop - Machine Learning with django
                                 </div>
                                 <div class="col-6 col-md-4 grey time-content-a">
-								<span className='dati'>04:00 PM</span> 
+								<span className='dati'>04:00 PM (IST)</span> 
                                 </div>
                                 <div class="col-6 col-md-6 grey time-content-a">
 								Tech Talk - Cloud Computing
@@ -403,7 +403,7 @@ function Freequote(){
 								FLIPR Hackathon Ends
                                 </div>
                                 <div class="col-6 col-md-4 grey time-content-a">
-								<span className='dati'>08:59PM</span> 
+								<span className='dati'>08:59PM (IST)</span> 
                                 </div>
                             </div>
                             </div>
