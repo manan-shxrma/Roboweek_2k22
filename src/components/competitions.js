@@ -58,7 +58,7 @@ function Services() {
                                 alt=""
                               />
                             </span>
-                            ML with Django
+                            Flipr Hackathon 
                           </div>
                         </div>
                         {/* <----------------------Second---------------------------> */}
@@ -82,7 +82,7 @@ function Services() {
                         alt="" 
                         />
                         </span>
-                        Flipr Hackathon
+                        ML with Django
                       </div>
                     </div>
                       </div>
@@ -93,216 +93,8 @@ function Services() {
                       <ul className="nacc">
 
 
-                        {/* <<<<<<<<<<<<<<<<<--------------ML with Django-content------------>>>>>>>>>>>>>>>>>>>>>>> */}
-
-                        <li className="active" style={{paddingRight:"3%",paddingLeft:"3%"}}>
-                          <div className="sub-box">
-                            <div
-                              style={{ marginLeft: "8px" }}
-                              className="thumb"
-                            >
-                              <div className="row">
-                                {/* <div className="col-lg-6 align-self-center right">
-                              <div className="right-image">
-                                <img  className="img-responsive django-img" src="assets/images/Machine learning.png" alt="" />
-                              </div>
-                            </div> */}
-                                <div className="col-lg-12 align-self-center">
-                                  <div className="left-text">
-                                    <img
-                                      className="img-responsive django-img col-lg-6"
-                                      src="assets/images/machine-learning.png"
-                                      alt=""
-                                    />
-                                    <div className="col-lg-6">
-                                      <h4>Machine Learning with Django</h4>
-                                      <p>
-                                        Have you ever wondered how MACHINE
-                                        LEARNING helps robots sustain
-                                        productivity by allowing them to engage
-                                        dynamically and avoid obstacles? Any
-                                        approach capable of simulating human
-                                        intelligence contains ML. It shows how
-                                        data can be used in new ways..
-                                      </p>
-                                      <div
-                                        // data-aos="fade-right"
-                                        className="ticks-list"
-                                      >
-                                        <span>
-                                          <i className="fa fa-check"></i> Hands
-                                          on project
-                                        </span>
-                                        <span>
-                                          <i className="fa fa-check"></i>{" "}
-                                          algorithm models
-                                        </span>
-                                        <span>
-                                          <i className="fa fa-check"></i> Python
-                                          Libraries Used in ML algorithm
-                                        </span>{" "}
-                                      </div>
-                                      <div class="row buttons-ml">
-                        
-                                      <button
-                                        onClick={activateLasers1}
-                                        id="bottone5"
-                                        style={{width:"fit-content"}}
-                                      
-                                      >
-                                        {" "}
-                                        <i
-                                          style={{
-                                            paddingRight: "2px",
-                                            paddingTop: "3px",
-                                          }}
-                                          class="fa fa-award"
-                                          aria-hidden="true"
-                                        ></i>{" "}
-                                        Register
-                                      </button>
-                                    
-                                      
-                                      <button
-                                        onClick={activateLasers2}
-                                        style={{width:"fit-content"}}
-                                        id="bottone-5"
-                                      disabled>
-                                        {" "}
-                                        <i
-                                          style={{
-                                            paddingRight: "2px",
-                                            paddingTop: "3px",
-                                          }}
-                                          class="fa fa-play"
-                                          aria-hidden="true"
-                                        ></i>{" "}
-                                        Play
-                                      </button>
-                                      
-                                      </div>
-                                    </div>
-                                    {/* <button style={{marginLeft:"10%"}} class="cybr-btn">
-                                            Buttons<span aria-hidden>_</span>
-                                            <span aria-hidden class="cybr-btn__glitch">Buttons_</span>
-                                            
-                                          </button> */}
-                                  </div>
-                                </div>
-                                {/* <div className="col-lg-6 align-self-center">
-                              <div  className="right-image">
-                                <img  className="img-responsive django-img" src="assets/images/Machine learning.png" alt="" />
-                              </div>
-                            </div> */}
-                              </div>
-                            </div>
-                          </div>
-                        </li>
-
-                        {/* <<<<<<<<<<<<<<<<<<<<<<<<<----------------IoT-workshop-content-------------->>>>>>>>>>>>>>>>>>>>>>>>>>> */}
-
-                        <li style={{paddingLeft:"5%",paddingRight:"5%"}}>
-                      <div className="sub-box">
-                      <div style={{ marginLeft: "8px" }} className="thumb">
-                              <div className="row">
-                                {/* <div className="col-lg-6 align-self-center right">
-                              <div className="right-image">
-                                <img  className="img-responsive django-img" src="assets/images/Machine learning.png" alt="" />
-                              </div>
-                            </div> */}
-                                <div className="col-lg-12 align-self-center">
-                                  <div className="left-text">
-                                    <img
-                                      className="img-responsive django-img2 col-lg-6"
-                                      src="assets/images/iot.png"
-                                      alt=""
-                                    />
-                                    <div className="col-lg-6">
-                                      <h4>Workshop on IOT (Internet of Things)</h4>
-                                      <p>
-                                      What if I say that, "You can control lights, fans and even your complete house,<br/>
-                                      just by a simple voice command or by your smartphone"?<br/>
-                                      Sounds very interesting.<br/>
-                                      huh?<br/>
-                                      Yes, you can control it by the help of IoT Home Automation.
-                                      </p>
-                                      <div
-                                        // data-aos="fade-right"
-                                        className="ticks-list"
-                                      >
-                                        <span>
-                                          <i className="fa fa-check"></i> Hands
-                                          on project
-                                        </span>
-                                        <span>
-                                          <i className="fa fa-check"></i>{" "}
-                                          IOT(Internet of Things)
-                                        </span>
-                                        <span>
-                                          <i className="fa fa-check"></i>
-                                          References to 100+ interesting projects in IOT
-                                        </span>{" "}
-                                      </div>
-                                      <div class="row buttons-ml">
-                        
-                                      <button
-                                        onClick={activateLasers3}
-                                        id="bottone5"
-                                        style={{width:"fit-content"}}
-                                      
-                                      >
-                                        {" "}
-                                        <i
-                                          style={{
-                                            paddingRight: "2px",
-                                            paddingTop: "3px",
-                                          }}
-                                          class="fa fa-award"
-                                          aria-hidden="true"
-                                        ></i>{" "}
-                                        Register
-                                      </button>
-                                    
-                                      
-                                      <button
-                                        onClick={activateLasers4}
-                                        style={{width:"fit-content"}}
-                                        id="bottone-5"
-                                      >
-                                        {" "}
-                                        <i
-                                          style={{
-                                            paddingRight: "2px",
-                                            paddingTop: "3px",
-                                          }}
-                                          class="fa fa-play"
-                                          aria-hidden="true"
-                                        ></i>{" "}
-                                        Play
-                                      </button>
-                                      
-                                      </div>
-                                    </div>
-                                    {/* <button style={{marginLeft:"10%"}} class="cybr-btn">
-                                            Buttons<span aria-hidden>_</span>
-                                            <span aria-hidden class="cybr-btn__glitch">Buttons_</span>
-                                            
-                                          </button> */}
-                                  </div>
-                                </div>
-                                {/* <div className="col-lg-6 align-self-center">
-                              <div  className="right-image">
-                                <img  className="img-responsive django-img" src="assets/images/Machine learning.png" alt="" />
-                              </div>
-                            </div> */}
-                              </div>
-                            </div>
-                      </div>
-                    </li>
-
-                    {/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<----------------------------Flipr-Hackathon-content----------------------->>>>>>>>>>>>>>>> */}
-
-                    <li style={{paddingRight:"3%",paddingLeft:"3%"}}>
+                        {/* <<<<<<<<<<<<<<<<<--------------Flipr-Hackathon-content------------>>>>>>>>>>>>>>>>>>>>>>> */}
+                        <li className ="active" style={{paddingRight:"3%",paddingLeft:"3%"}}>
                           <div className="sub-box">
                             <div
                               style={{ marginLeft: "8px" }}
@@ -416,6 +208,214 @@ This Hackathon will be entirely online, and a number of firms will be on the loo
                           </div>
                         </li>
 
+                       
+                        {/* <<<<<<<<<<<<<<<<<<<<<<<<<----------------IoT-workshop-content-------------->>>>>>>>>>>>>>>>>>>>>>>>>>> */}
+
+                        <li style={{paddingLeft:"5%",paddingRight:"5%"}}>
+                      <div className="sub-box">
+                      <div style={{ marginLeft: "8px" }} className="thumb">
+                              <div className="row">
+                                {/* <div className="col-lg-6 align-self-center right">
+                              <div className="right-image">
+                                <img  className="img-responsive django-img" src="assets/images/Machine learning.png" alt="" />
+                              </div>
+                            </div> */}
+                                <div className="col-lg-12 align-self-center">
+                                  <div className="left-text">
+                                    <img
+                                      className="img-responsive django-img2 col-lg-6"
+                                      src="assets/images/iot.png"
+                                      alt=""
+                                    />
+                                    <div className="col-lg-6">
+                                      <h4>Workshop on IOT (Internet of Things)</h4>
+                                      <p>
+                                      What if I say that, "You can control lights, fans and even your complete house,<br/>
+                                      just by a simple voice command or by your smartphone"?<br/>
+                                      Sounds very interesting.<br/>
+                                      huh?<br/>
+                                      Yes, you can control it by the help of IoT Home Automation.
+                                      </p>
+                                      <div
+                                        // data-aos="fade-right"
+                                        className="ticks-list"
+                                      >
+                                        <span>
+                                          <i className="fa fa-check"></i> Hands
+                                          on project
+                                        </span>
+                                        <span>
+                                          <i className="fa fa-check"></i>{" "}
+                                          IOT(Internet of Things)
+                                        </span>
+                                        <span>
+                                          <i className="fa fa-check"></i>
+                                          References to 100+ interesting projects in IOT
+                                        </span>{" "}
+                                      </div>
+                                      <div class="row buttons-ml">
+                        
+                                      <button
+                                        onClick={activateLasers3}
+                                        id="bottone5"
+                                        style={{width:"fit-content"}}
+                                      
+                                      >
+                                        {" "}
+                                        <i
+                                          style={{
+                                            paddingRight: "2px",
+                                            paddingTop: "3px",
+                                          }}
+                                          class="fa fa-award"
+                                          aria-hidden="true"
+                                        ></i>{" "}
+                                        Register
+                                      </button>
+                                    
+                                      
+                                      <button
+                                        onClick={activateLasers4}
+                                        style={{width:"fit-content"}}
+                                        id="bottone-5"
+                                      >
+                                        {" "}
+                                        <i
+                                          style={{
+                                            paddingRight: "2px",
+                                            paddingTop: "3px",
+                                          }}
+                                          class="fa fa-play"
+                                          aria-hidden="true"
+                                        ></i>{" "}
+                                        Play
+                                      </button>
+                                      
+                                      </div>
+                                    </div>
+                                    {/* <button style={{marginLeft:"10%"}} class="cybr-btn">
+                                            Buttons<span aria-hidden>_</span>
+                                            <span aria-hidden class="cybr-btn__glitch">Buttons_</span>
+                                            
+                                          </button> */}
+                                  </div>
+                                </div>
+                                {/* <div className="col-lg-6 align-self-center">
+                              <div  className="right-image">
+                                <img  className="img-responsive django-img" src="assets/images/Machine learning.png" alt="" />
+                              </div>
+                            </div> */}
+                              </div>
+                            </div>
+                      </div>
+                    </li>
+
+                    {/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<--------------------------ML with Django-content------------------------->>>>>>>>>>>>>>>> */}
+                    <li style={{paddingRight:"3%",paddingLeft:"3%"}}>
+                          <div className="sub-box">
+                            <div
+                              style={{ marginLeft: "8px" }}
+                              className="thumb"
+                            >
+                              <div className="row">
+                                {/* <div className="col-lg-6 align-self-center right">
+                              <div className="right-image">
+                                <img  className="img-responsive django-img" src="assets/images/Machine learning.png" alt="" />
+                              </div>
+                            </div> */}
+                                <div className="col-lg-12 align-self-center">
+                                  <div className="left-text">
+                                    <img
+                                      className="img-responsive django-img col-lg-6"
+                                      src="assets/images/machine-learning.png"
+                                      alt=""
+                                    />
+                                    <div className="col-lg-6">
+                                      <h4>Machine Learning with Django</h4>
+                                      <p>
+                                        Have you ever wondered how MACHINE
+                                        LEARNING helps robots sustain
+                                        productivity by allowing them to engage
+                                        dynamically and avoid obstacles? Any
+                                        approach capable of simulating human
+                                        intelligence contains ML. It shows how
+                                        data can be used in new ways..
+                                      </p>
+                                      <div
+                                        // data-aos="fade-right"
+                                        className="ticks-list"
+                                      >
+                                        <span>
+                                          <i className="fa fa-check"></i> Hands
+                                          on project
+                                        </span>
+                                        <span>
+                                          <i className="fa fa-check"></i>{" "}
+                                          algorithm models
+                                        </span>
+                                        <span>
+                                          <i className="fa fa-check"></i> Python
+                                          Libraries Used in ML algorithm
+                                        </span>{" "}
+                                      </div>
+                                      <div class="row buttons-ml">
+                        
+                                      <button
+                                        onClick={activateLasers1}
+                                        id="bottone5"
+                                        style={{width:"fit-content"}}
+                                      
+                                      >
+                                        {" "}
+                                        <i
+                                          style={{
+                                            paddingRight: "2px",
+                                            paddingTop: "3px",
+                                          }}
+                                          class="fa fa-award"
+                                          aria-hidden="true"
+                                        ></i>{" "}
+                                        Register
+                                      </button>
+                                    
+                                      
+                                      <button
+                                        onClick={activateLasers2}
+                                        style={{width:"fit-content"}}
+                                        id="bottone-5"
+                                      disabled>
+                                        {" "}
+                                        <i
+                                          style={{
+                                            paddingRight: "2px",
+                                            paddingTop: "3px",
+                                          }}
+                                          class="fa fa-play"
+                                          aria-hidden="true"
+                                        ></i>{" "}
+                                        Play
+                                      </button>
+                                      
+                                      </div>
+                                    </div>
+                                    {/* <button style={{marginLeft:"10%"}} class="cybr-btn">
+                                            Buttons<span aria-hidden>_</span>
+                                            <span aria-hidden class="cybr-btn__glitch">Buttons_</span>
+                                            
+                                          </button> */}
+                                  </div>
+                                </div>
+                                {/* <div className="col-lg-6 align-self-center">
+                              <div  className="right-image">
+                                <img  className="img-responsive django-img" src="assets/images/Machine learning.png" alt="" />
+                              </div>
+                            </div> */}
+                              </div>
+                            </div>
+                          </div>
+                        </li>
+
+                    
 
 
                       </ul>

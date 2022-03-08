@@ -8,7 +8,7 @@ import Aos from 'aos';
 import 'aos/dist/aos.css'
 import Blog from "./blog"
 import Contact from "./contactus"
-import hackathon from "./hackathon"
+import Hackathon from "../hackathon/hackathon.js"
 import Competitions from "./competitions"
 import Funevents from "./funevents"
 import Techtalks from "./techtalks"
@@ -107,7 +107,7 @@ class Outline extends React.Component {
                     
                     <Topsection />
                     <Aboutsection />
-                    <hackathon />
+                    <Hackathon />
                     <Competitions />
                     <Techtalks />
                     <Funevents />
