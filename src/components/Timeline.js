@@ -23,7 +23,7 @@ function Freequote(){
       
        
 
-        <div style={{paddingTop:"4%"}} class="container">
+        <div style={{paddingTop:"5%"}} class="container">
 <div class="main-timeline">
 
                         {/* <!-- start experience section--> */}
@@ -46,7 +46,7 @@ function Freequote(){
 								<span className='dati'> 05:00 PM (IST)</span>   
                                 </div>
                                 <div class="col-6 col-md-6 grey time-content-a">
-								Design Wars 2.0 | Statement Release
+								Design Wars 2.0 | Statement Release 
                                 </div>
                                 <div class="col-6 col-md-4 grey time-content-a">
 								<span className='dati'> 05:00 PM (IST)</span> 
@@ -338,7 +338,7 @@ function Freequote(){
 								Workshop - Machine Learning with django
                                 </div>
                                 <div class="col-6 col-md-4 grey time-content-a">
-								<span className='dati'>04:00 PM (IST)</span> 
+								<span className='dati'>12:00 PM (IST)</span> 
                                 </div>
                                 <div class="col-6 col-md-6 grey time-content-a">
 								Tech Talk - Cloud Computing
