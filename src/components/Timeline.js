@@ -40,7 +40,7 @@ function Freequote(){
                             <div class="timeline-content">
                             <div class="row">
                                 <div class="col-6 col-md-6 grey time-content-a">
-								#Clipped | Statement Release
+								Clipped | Statement Release
                                 </div>
                                 <div class="col-6 col-md-4 grey time-content-a">
 								<span className='dati'> 05:00 PM (IST)</span>   
@@ -136,12 +136,7 @@ function Freequote(){
                                 <div class="col-6 col-md-4 grey time-content-a">
 								<span className='dati'> 05:00 PM (IST)</span>   
                                 </div>
-                                <div class="col-6 col-md-6 grey time-content-a">
-								Workshop - Machine Learning with django
-                                </div>
-                                <div class="col-6 col-md-4 grey time-content-a">
-								<span className='dati'> 04:00 PM (IST)</span> 
-                                </div>
+                                
                                 <div class="col-6 col-md-6 grey time-content-a">
 								Tech Talk - Emotional Intelligence is Important as AI
                                 </div>
@@ -182,7 +177,7 @@ function Freequote(){
 								Hunt Nova | Submission Ends
                                 </div>
                                 <div class="col-6 col-md-4 grey time-content-a">
-								<span className='dati'> 12:00 AM (IST)</span> 
+								<span className='dati'> 11:59AM (IST)</span> 
                                 </div>
                                 {/* <div class="col-6 col-md-6 grey time-content-a">
 								gdsgdsg
@@ -226,7 +221,7 @@ function Freequote(){
                             <div class="timeline-content">
                             <div class="row">
                                 <div class="col-6 col-md-6 grey time-content-a">
-								#Clipped | Submission Starts
+								Clipped | Submission Starts
                                 </div>
                                 <div class="col-6 col-md-4 grey time-content-a">
 								<span className='dati'> 12:00 AM (IST)</span>   
@@ -311,7 +306,13 @@ function Freequote(){
 								<span className='dati'> 07:00 PM (IST)</span> 
                                 </div>
                                 <div class="col-6 col-md-6 grey time-content-a">
-								#Clipped | Submission Ends
+								Clipped | Submission Ends
+                                </div>
+                                <div class="col-6 col-md-4 grey time-content-a">
+								<span className='dati'> 11:59PM (IST)</span> 
+                                </div>
+                                <div class="col-6 col-md-6 grey time-content-a">
+								FLIPR Hackathon Begins
                                 </div>
                                 <div class="col-6 col-md-4 grey time-content-a">
 								<span className='dati'> 11:59 PM (IST)</span> 
@@ -334,12 +335,11 @@ function Freequote(){
                             <div class="timeline-content">
                             <div class="row">
                                 <div class="col-6 col-md-6 grey time-content-a">
-								Workshop - Line Follower Bot (1)
+								Workshop - Machine Learning with django
                                 </div>
                                 <div class="col-6 col-md-4 grey time-content-a">
-								<span className='dati'> 12:00 PM (IST)</span>   
+								<span className='dati'>04:00 PM (IST)</span> 
                                 </div>
-                                
                                 <div class="col-6 col-md-6 grey time-content-a">
 								Tech Talk - Cloud Computing
                                 </div>
@@ -353,7 +353,7 @@ function Freequote(){
 								<span className='dati'> 09:00 PM (IST)</span> 
                                 </div>
                                 {/* <div class="col-6 col-md-6 grey time-content-a">
-								#Clipped | Submission Starts
+								Clipped | Submission Starts
                                 </div>
                                 <div class="col-6 col-md-6 grey time-content-a">
 								<span className='dati'> 12:00 AM </span> 
@@ -382,7 +382,7 @@ function Freequote(){
                             <div class="timeline-content">
                             <div class="row">
                             <div class="col-6 col-md-6 grey time-content-a">
-								Workshop - Line Follower Bot (2)
+								Workshop - IOT in House Automation
                                 </div>
                                 <div class="col-6 col-md-4 grey time-content-a">
 								<span className='dati'> 12:00 PM (IST)</span>   
@@ -398,6 +398,12 @@ function Freequote(){
                                 </div>
                                 <div class="col-6 col-md-4 grey time-content-a">
 								<span className='dati'> 09:00 PM (IST)</span> 
+                                </div>
+                                <div class="col-6 col-md-6 grey time-content-a">
+								FLIPR Hackathon Ends
+                                </div>
+                                <div class="col-6 col-md-4 grey time-content-a">
+								<span className='dati'>08:59PM (IST)</span> 
                                 </div>
                             </div>
                             </div>
