@@ -230,7 +230,7 @@ function Freequote(){
 								Arcanum - Treasure Hunt
                                 </div>
                                 <div class="col-6 col-md-4 grey time-content-a">
-								<span className='dati'> 11:00 PM (IST)</span> 
+								<span className='dati'> 09:00 PM (IST)</span> 
                                 </div>
                                 <div class="col-6 col-md-6 grey time-content-a">
 								Tech TalK - Women In Foss
@@ -315,7 +315,7 @@ function Freequote(){
 								FLIPR Hackathon Begins
                                 </div>
                                 <div class="col-6 col-md-4 grey time-content-a">
-								<span className='dati'> 11:59 PM (IST)</span> 
+								<span className='dati'> 09:00 PM (IST)</span> 
                                 </div>
                               </div>
                             </div>
@@ -338,7 +338,7 @@ function Freequote(){
 								Workshop - Machine Learning with django
                                 </div>
                                 <div class="col-6 col-md-4 grey time-content-a">
-								<span className='dati'>04:00 PM (IST)</span> 
+								<span className='dati'>12:00 PM (IST)</span> 
                                 </div>
                                 <div class="col-6 col-md-6 grey time-content-a">
 								Tech Talk - Cloud Computing
