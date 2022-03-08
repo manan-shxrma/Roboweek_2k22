@@ -53,7 +53,7 @@ function Services() {
                           <div className="thumb first-thumb" style={{ width: "100%" }}>
                             <span className="icon">
                               <img
-                                src="assets/images/service-icon-02.png"
+                                src="assets/images/service-icon-03.png"
                                 className="icon-img"
                                 alt=""
                               />
@@ -77,7 +77,7 @@ function Services() {
                     <div className="third-thumb" style={{marginRight:"3%",marginLeft:"3%"}}>
                       <div className="thumb" style={{ width: "100%" }}>                 
                         <span className="icon">
-                        <img src="assets/images/service-icon-02.png"
+                        <img src="assets/images/service-icon-01.png"
                         className="icon-img" 
                         alt="" 
                         />
