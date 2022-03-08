@@ -8,7 +8,7 @@ import Aos from 'aos';
 import 'aos/dist/aos.css'
 import Blog from "./blog"
 import Contact from "./contactus"
-import Hackathon from "../hackathon/hackathon.js"
+import Hackathon from "../Hackathon-code/hackathon"
 import Competitions from "./competitions"
 import Funevents from "./funevents"
 import Techtalks from "./techtalks"

@@ -1,5 +1,5 @@
 import React from "react";
-import "../hackathon/hackathon.css";
+import "../Hackathon-code/hackathon.css";
 import AOS from "aos";
 import "aos/dist/aos.css";
 AOS.init();
