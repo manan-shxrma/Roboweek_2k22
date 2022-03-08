@@ -143,3 +143,9 @@ code {
   color: #e4cb58;
   font: inherit;
 }
+@media (min-width:900px){
+  .down-images{
+    padding-top: 5%;
+  }
+
+}
