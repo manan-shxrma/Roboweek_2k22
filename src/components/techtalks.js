@@ -151,7 +151,7 @@ function Services() {
                 </figcaption>
               </figure>
             </div>
-            <div class="col-sm-12 col-md-6 col-lg-6">
+            <div class="col-sm-12 col-md-6 col-lg-6 down-images">
               <figure class="snip1515">
                 <div data-aos="zoom-in" class="profile-image">
                   <img style={{ height: "16rem" }}src="assets/images/tech-talk-2.jpg"alt="sample83"/>
@@ -194,7 +194,7 @@ function Services() {
                 </figcaption>
               </figure>
             </div>
-            <div class="col-sm-12 col-md-6 col-lg-6">
+            <div class="col-sm-12 col-md-6 col-lg-6 down-images">
               <figure class="snip1515">
                 <div data-aos="zoom-in" class="profile-image">
                   <img style={{ height: "16rem" }}src="assets/images/tech-talk-3.jpg"alt="sample83"/>

@@ -160,7 +160,7 @@ export const SilverSponsers = [
     },
     {
         sponsorLink:"https://cybrancee.com/",
-        sponsorImg:"assets/images/logos/Cybrancee.png"
+        sponsorImg:"assets/images/logos/Cybrancee_logo-removebg-preview.png"
     },
 ]
 export const BronzeSponsers = [

@@ -1,50 +1,176 @@
 @font-face {
-    font-family: Cyber;
-    src: url("https://assets.codepen.io/605876/Blender-Pro-Bold.otf");
-    font-display: swap;
-  }
-  
-  
-  
-  /* From cssbuttons.io by @Custyyyy */
+  font-family: Cyber;
+  src: url("https://assets.codepen.io/605876/Blender-Pro-Bold.otf");
+  font-display: swap;
+}
+
+
+
+/* From cssbuttons.io by @Custyyyy */
 
 
 
 #bottone5 {
-  align-items: center;
-  background-color: #FFFFFF;
-  border: 1px solid rgba(0, 0, 0, 0.1);
-  border-radius: .25rem;
-  box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
-  box-sizing: border-box;
-  color: rgba(0, 0, 0, 0.85);
-  cursor: pointer;
-  display: inline-flex;
-  font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-size: 16px;
-  font-weight: 600;
-  justify-content: center;
-  line-height: 1.25;
-  min-height: 3rem;
-  padding: calc(.875rem - 1px) calc(1.5rem - 1px);
-  text-decoration: none;
-  transition: all 250ms;
-  user-select: none;
-  -webkit-user-select: none;
-  touch-action: manipulation;
-  vertical-align: baseline;
-  width: auto;
-  box-shadow: rgba(0, 0, 0, 0.1) 0 6px 12px;
- }
- 
- #bottone5:hover,
- #bottone5:focus {
-  border-color: rgba(0, 0, 0, 0.15);
-  box-shadow: rgba(0, 0, 0, 0.1) 0 6px 12px;
-  color: rgba(0, 0, 0, 0.65);
- }
- 
- #bottone5:hover {
+align-items: center;
+background-color: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.1);
+border-radius: .25rem;
+box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+box-sizing: border-box;
+color: rgba(0, 0, 0, 0.85);
+cursor: pointer;
+display: inline-flex;
+font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+font-size: 16px;
+font-weight: 600;
+justify-content: center;
+line-height: 1.25;
+min-height: 3rem;
+padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+text-decoration: none;
+transition: all 250ms;
+user-select: none;
+-webkit-user-select: none;
+touch-action: manipulation;
+vertical-align: baseline;
+width: auto;
+box-shadow: rgba(0, 0, 0, 0.1) 0 6px 12px;
+}
+
+#bottone5:hover,
+#bottone5:focus {
+border-color: rgba(0, 0, 0, 0.15);
+box-shadow: rgba(0, 0, 0, 0.1) 0 6px 12px;
+color: rgba(0, 0, 0, 0.65);
+}
+
+#bottone5:hover {
+transform: translateY(-1px);
+}
+
+#bottone5:active {
+background-color: #F0F0F1;
+border-color: rgba(0, 0, 0, 0.15);
+box-shadow: rgba(0, 0, 0, 0.06) 0 2px 4px;
+color: rgba(0, 0, 0, 0.65);
+transform: translateY(0);
+}
+
+#bottone-5 {
+margin-left: 5%;
+color:rgb(128,0,0);
+align-items: center;
+background-color: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.1);
+border-radius: .25rem;
+box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+box-sizing: border-box;
+cursor: pointer;
+display: inline-flex;
+font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+font-size: 16px;
+font-weight: 600;
+justify-content: center;
+line-height: 1.25;
+min-height: 3rem;
+padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+text-decoration: none;
+transition: all 250ms;
+user-select: none;
+-webkit-user-select: none;
+touch-action: manipulation;
+vertical-align: baseline;
+width: auto;
+box-shadow: rgba(0, 0, 0, 0.1) 0 6px 12px;
+}
+
+#bottone-5:hover,
+#bottone-5:focus {
+border-color: rgba(0, 0, 0, 0.15);
+box-shadow: rgba(0, 0, 0, 0.1) 0 6px 12px;
+color: rgb(128,0,0);
+}
+
+#bottone-5:hover {
+transform: translateY(-1px);
+}
+
+#bottone-5:active {
+background-color: #F0F0F1;
+border-color: rgba(0, 0, 0, 0.15);
+box-shadow: rgba(0, 0, 0, 0.06) 0 2px 4px;
+color: rgba(0, 0, 0, 0.65);
+transform: translateY(0);
+}
+
+.right {
+float:right;
+}
+
+.django-img {
+  border: solid black 0px;
+  background-color: black;
+  border-radius:10%;
+  padding: 0%;
+  float:right;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.django-img2 {
+border: solid black 0px;
+background-color: black;
+border-radius:10%;
+padding: 0%;
+float:right;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+@media (max-width: 900px) {
+.django-img {
+  position: relative;
+  bottom: 100px;
+  width: 90vw;
+  padding: 0;
+  right: 0;
+  left: 2px;
+} 
+.django-img2 {
+  position: relative;
+  bottom: 100px;
+  width: 90vw;
+  padding: 0;
+  right: 0;
+  left: 10px;
+}
+.section-heading-workshop{
+  margin-bottom: 25px !important;
+}
+.main-box{
+  margin-top: 30px;
+}
+.sub-box{
+  margin-top: 10px;
+}
+#bottone5{
+  margin: 10px 5px;
+}
+#bottone-5{
+  margin: 10px 5px;
+}
+/* .active {
+  border-width: 7px;
+  border-style: solid;
+  border-radius: 20px;
+  border-image: 
+    linear-gradient(
+      to bottom, 
+      rgb(154, 248, 3), 
+      rgb(255, 2, 2)
+    ) 2 80%;
+} */
+#bottone5:nth-child(2){
+  color:rgb(128,0,0);
+}
+#bottone5:hover {
   transform: translateY(-1px);
  }
  
@@ -55,159 +181,33 @@
   color: rgba(0, 0, 0, 0.65);
   transform: translateY(0);
  }
-
- #bottone-5 {
-  margin-left: 5%;
-  color:rgb(128,0,0);
-  align-items: center;
-  background-color: #FFFFFF;
-  border: 1px solid rgba(0, 0, 0, 0.1);
-  border-radius: .25rem;
-  box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
-  box-sizing: border-box;
-  cursor: pointer;
-  display: inline-flex;
-  font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-size: 16px;
-  font-weight: 600;
-  justify-content: center;
-  line-height: 1.25;
-  min-height: 3rem;
-  padding: calc(.875rem - 1px) calc(1.5rem - 1px);
-  text-decoration: none;
-  transition: all 250ms;
-  user-select: none;
-  -webkit-user-select: none;
-  touch-action: manipulation;
-  vertical-align: baseline;
-  width: auto;
-  box-shadow: rgba(0, 0, 0, 0.1) 0 6px 12px;
- }
- 
- #bottone-5:hover,
- #bottone-5:focus {
-  border-color: rgba(0, 0, 0, 0.15);
-  box-shadow: rgba(0, 0, 0, 0.1) 0 6px 12px;
-  color: rgb(128,0,0);
- }
- 
- #bottone-5:hover {
-  transform: translateY(-1px);
- }
- 
- #bottone-5:active {
-  background-color: #F0F0F1;
-  border-color: rgba(0, 0, 0, 0.15);
-  box-shadow: rgba(0, 0, 0, 0.06) 0 2px 4px;
-  color: rgba(0, 0, 0, 0.65);
-  transform: translateY(0);
- }
-
-.right {
-  float:right;
-}
-
-.django-img {
-    border: solid black 5px;
-    background-color: black;
-    border-radius:10%;
-    padding: 0%;
-    float:right;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-.django-img2 {
-  border: solid black 5px;
-  background-color: black;
-  border-radius:10%;
-  padding: 0%;
-  float:right;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-
-@media (max-width: 900px) {
-  .django-img {
+  .icon{
     position: relative;
-    bottom: 100px;
-    width: 90vw;
-    padding: 0;
-    right: 0;
-    left: 2px;
-  } 
-  .django-img2 {
+    width: 70px;
+    height: 70px;
+    right: 2px;
+  }
+
+  .icon-img {
     position: relative;
-    bottom: 100px;
-    width: 90vw;
-    padding: 0;
-    right: 0;
-    left: 10px;
-  }
-  .section-heading-workshop{
-    margin-bottom: 25px !important;
-  }
-  .main-box{
-    margin-top: 30px;
-  }
-  .sub-box{
-    margin-top: 10px;
-  }
-  #bottone5{
-    margin: 10px 5px;
-  }
-  #bottone-5{
-    margin: 10px 5px;
-  }
-  /* .active {
-    border-width: 7px;
-    border-style: solid;
-    border-radius: 20px;
-    border-image: 
-      linear-gradient(
-        to bottom, 
-        rgb(154, 248, 3), 
-        rgb(255, 2, 2)
-      ) 2 80%;
-  } */
-  #bottone5:nth-child(2){
-    color:rgb(128,0,0);
-  }
-  #bottone5:hover {
-    transform: translateY(-1px);
-   }
-   
-   #bottone5:active {
-    background-color: #F0F0F1;
-    border-color: rgba(0, 0, 0, 0.15);
-    box-shadow: rgba(0, 0, 0, 0.06) 0 2px 4px;
-    color: rgba(0, 0, 0, 0.65);
-    transform: translateY(0);
-   }
-    .icon{
-      position: relative;
-      width: 70px;
-      height: 70px;
-      right: 2px;
-    }
+    top: 5px;
+    right:0px;
 
-    .icon-img {
-      position: relative;
-      top: 5px;
-      right:0px;
+    
+  }
 
-      
-    }
-
-    .section-heading {
-      margin-bottom: 5px;
-    }
+  .section-heading {
+    margin-bottom: 5px;
+  }
 }
 
 
 
 @media only screen and (max-width: 767px)  {
-  .thumb{ 
-    object-fit: cover;
-    min-width: 75px;
-  }
+.thumb{ 
+  object-fit: cover;
+  min-width: 75px;
+}
 
 }
 
