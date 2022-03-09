@@ -94,7 +94,7 @@ function Services() {
 
 
                         {/* <<<<<<<<<<<<<<<<<--------------Flipr-Hackathon-content------------>>>>>>>>>>>>>>>>>>>>>>> */}
-                        <li style={{paddingRight:"3%",paddingLeft:"3%"}}>
+                        <li className ="active" style={{paddingRight:"3%",paddingLeft:"3%"}}>
                           <div className="sub-box">
                             <div
                               style={{ marginLeft: "8px" }}
@@ -311,7 +311,7 @@ This Hackathon will be entirely online, and a number of firms will be on the loo
                     </li>
 
                     {/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<--------------------------ML with Django-content------------------------->>>>>>>>>>>>>>>> */}
-                    <li className="active" style={{paddingRight:"3%",paddingLeft:"3%"}}>
+                    <li style={{paddingRight:"3%",paddingLeft:"3%"}}>
                           <div className="sub-box">
                             <div
                               style={{ marginLeft: "8px" }}
