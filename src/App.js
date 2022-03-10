@@ -37,7 +37,8 @@ function App() {
      `https://roboweek-robosocnith.com/`  
 
 
-        //'http://localhost:3000/'
+       //'http://localhost:3000/'
+
 
 
 
@@ -77,19 +78,3 @@ function App() {
 }
 
 export default App;
-
-
-
-// ::-webkit-scrollbar {
-//   width: 10px;
-// }
-
-// /* Track */
-// ::-webkit-scrollbar-track {
-//   box-shadow: inset 0 0 5px grey; 
-//   border-radius: 16px;
-// }
-
-// /* Handle */
-// ::-webkit-scrollbar-thumb {
-//   background: gray; 
