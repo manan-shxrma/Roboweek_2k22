@@ -158,6 +158,12 @@ export const SilverSponsers = [
         sponsorLink:"https://flipr.ai/",
         sponsorImg:"assets/images/logos/Flipr_Logo.png"
     },
+    {
+        sponsorLink:"https://cybrancee.com/",
+
+        sponsorImg:"assets/images/logos/Cybrancee_logo-removebg-preview.png"
+
+    },
 ]
 export const BronzeSponsers = [
     {
