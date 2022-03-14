@@ -115,7 +115,7 @@ function Faq(){
     </h2>
     <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-      Registration portal will be opened any time soon ....
+      You can register for any event by simply clicking on <b>Register</b> button provided under the respective event
       </div>
     </div>
   </div>

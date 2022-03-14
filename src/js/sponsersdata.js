@@ -1,6 +1,6 @@
 export const CommunityPartners =[
     {
-        sponsorLink:"https://http://rignitc.com/",
+        sponsorLink:"http://rignitc.com/",
         sponsorImg:"assets/images/logos/RIG_NIT_Calicut.png"
     },
     {
@@ -11,24 +11,56 @@ export const CommunityPartners =[
         sponsorLink:"http://rmi.nitt.edu/",
         sponsorImg:"assets/images/logos/RMI.png"
     },
+    {
+        sponsorLink:"https://roboticsnitp.co.in/",
+        sponsorImg:"assets/images/logos/nit-patna(black).png"
+    },
+    {
+        sponsorLink:"https://gdsc.community.dev/events/details/developer-student-clubs-national-institute-of-technology-nit-hamirpur-presents-title-getting-started-with-android/",
+        sponsorImg:"assets/images/logos/GDSC.png"
+    },
+    {
+        sponsorLink:"https://roboticsclub.iitd.ac.in/",
+        sponsorImg:"assets/images/logos/robopng.png"
+    },
+    {
+        sponsorLink:"https://techno.birlainstitute.co.in/",
+        sponsorImg:"assets/images/logos/Technoforum.png"
+    },
 ]
 export const Partners=[
     {
         sponsorLink:"https://givemycertificate.com/",
-        sponsorImg:"assets/images/logos/gmc.png"
+        sponsorImg:"assets/images/logos/gmc-name.png"
     },
     {
         sponsorLink:"https://streamyard.com/",
-        sponsorImg:"assets/images/logos/StreamYard - Horz (2).png"
+        sponsorImg:"assets/images/logos/stream-yard-name.png"
     },
     {
         sponsorLink:"https://artofproblemsolving.com/",
-        sponsorImg:"assets/images/logos/AOPS.png"
+        sponsorImg:"assets/images/logos/aops-name.png"
     },
     {
         sponsorLink:"https://www.myinterviewbuddy.com/",
-        sponsorImg:"assets/images/logos/Interview_buddy.png"
+        sponsorImg:"assets/images/logos/interview-name.png"
     },
+    {
+        sponsorLink:"https://certopus.com/",
+        sponsorImg:"assets/images/logos/certopus-name.png"
+    },
+    {
+        sponsorLink:"https://www.noticebard.com/",
+        sponsorImg:"assets/images/logos/notice-bard-name.png"
+    },
+    {
+        sponsorLink:"https://cipherschools.com/",
+        sponsorImg:"assets/images/logos/cipher-school-name.png"
+    },
+    {
+        sponsorLink:"https://youtube.com/channel/UCAvC_lW5iXoBcmSEIowngKw",
+        sponsorImg:"assets/images/logos/learning-pocket-name.png"
+    }
 ]
 
 
@@ -88,6 +120,18 @@ export const GoldSponsors = [
         sponsorLink:"https://www.leading-learners.com/",
         sponsorImg:"assets/images/logos/Leading_Learners_Logo.png"
     },
+    {
+        sponsorLink:"https://dare2compete.com/c/national-institute-of-technology-nit-hamirpur-placement-interview-competitions-articles-videos-950",
+        sponsorImg:"assets/images/logos/d2clogo.svg"
+    },
+    {
+        sponsorLink:"https://www.elearnmarkets.com/",
+        sponsorImg:"assets/images/logos/elmlogo.png"
+    }, 
+    {
+        sponsorLink:"https://gen.xyz/",
+        sponsorImg:"assets/images/logos/xyz-logo-color.svg"
+    },
 ]
 export const SilverSponsers = [
     {
@@ -102,6 +146,24 @@ export const SilverSponsers = [
         sponsorLink:"https://www.interviewcake.com/",
         sponsorImg:"assets/images/logos/cake_logo_white_on_blue.svg"
     },
+    {
+        sponsorLink:"https://badelog.co.in/",
+        sponsorImg:"assets/images/logos/bade-log(1).png"
+    },
+    {
+        sponsorLink:"https://www.knowlexon.com/",
+        sponsorImg:"assets/images/logos/KNOWLEXON_LOGO_FULL.png"
+    },
+    {
+        sponsorLink:"https://flipr.ai/",
+        sponsorImg:"assets/images/logos/Flipr_Logo.png"
+    },
+    {
+        sponsorLink:"https://cybrancee.com/",
+
+        sponsorImg:"assets/images/logos/Cybrancee_logo-removebg-preview.png"
+
+    },
 ]
 export const BronzeSponsers = [
     {
@@ -112,5 +174,22 @@ export const BronzeSponsers = [
         sponsorLink:"https://www.axure.com/",
         sponsorImg:"assets/images/logos/axurelogo.png"
     },
+    {
+        sponsorLink:"https://1password.com/",
+        sponsorImg:"assets/images/logos/1password.png"
+    },
+    {
+        sponsorLink:"https://www.clerky.com/?gclid=CjwKCAiA9tyQBhAIEiwA6tdCrEdH80IoAO_cWJsIG28-dQ37i3KpexYhqBiywO1CGamH-jO5j7UiiRoCY9oQAvD_BwE",
+        sponsorImg:"assets/images/logos/clerky.svg"
+    },
+    {
+        sponsorLink:"https://balsamiq.cloud/",
+        sponsorImg:"assets/images/logos/balsamiq.png"
+    },
+    {
+        sponsorLink:"https://hackclub.com/",
+        sponsorImg:"assets/images/logos/hack-club.svg"
+    },
+    
     
 ]

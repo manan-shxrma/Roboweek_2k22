@@ -33,7 +33,7 @@ function Services() {
             style={{ paddingTop: "5%", textAlign: "-webkit-center" }}
             class="row"
           >
-            <div class="col-sm-12 col-md-6 col-lg-6">
+            <div class="col-sm-12 col-md-4 col-lg-4">
               <figure class="snip1515">
                 <div data-aos="zoom-in" class="profile-image">
                   <img
@@ -52,13 +52,13 @@ function Services() {
                     Expert | IEEE Senior Member
                   </p>
                   <div data-aos="fade-up" class="icons">
-                    <a href="https://www.linkedin.com/in/dr-santosh-kumar-nanda-b3848499">
+                    <a href="https://www.linkedin.com/in/dr-santosh-kumar-nanda-b3848499" target="_blank">
                       <i
                         class="ion-social-linkedin"
                         style={{ color: "orange" }}
                       ></i>
                     </a>
-                    <a href="https://scholar.google.com/citations?user=4owxU1QAAAAJ&hl=en">
+                    <a href="https://scholar.google.com/citations?user=4owxU1QAAAAJ&hl=en" target="_blank">
                       {" "}
                       <i
                         class="ion-social-google"
@@ -67,13 +67,91 @@ function Services() {
                     </a>
                   </div>
                   <div class="buttons">
-                     <button class="raise" >Registering soon</button>
+                  <a href="https://dare2compete.com/workshop/tech-talks-roboweek-20-national-institute-of-technology-nit-hamirpur-269981" target="_blank"><button class="raise">Register Now</button></a>
                      {/* <button class="raise">play</button> */}
                   </div>
                 </figcaption>
               </figure>
             </div>
-            <div class="col-sm-12 col-md-6 col-lg-6">
+            <div class="col-sm-12 col-md-4 col-lg-4">
+              <figure class="snip1515">
+                <div data-aos="zoom-in" class="profile-image">
+                  <img style={{ height: "16rem" }}src="assets/images/Manmeetkaur.jpeg"alt="sample83"/>
+                </div>
+                <figcaption>
+                  <h3 class="tech-h3">Manmeet Kaur</h3>
+                  <h4 style={{ color: "orange", fontFamily: "Roboto" }}>
+                    <b>Cloud Computing</b>
+                  </h4>
+                  <p class="tech-para">
+                  Cloud Technology Consulting at Protiviti | PG in Cloud Computing at University of Texas | Ex-Expedia at Xerox
+                  </p>
+                  <div data-aos="fade-up" class="icons">
+                    <a href="https://www.linkedin.com/in/manmeet-kaur-35212129/" target="_blank">
+                      <i
+                        class="ion-social-linkedin"
+                        style={{ color: "orange" }}
+                      ></i>
+                    </a>
+                    {/* <a href="https://scholar.google.com/citations?user=4owxU1QAAAAJ&hl=en">
+                      {" "}
+                      <i
+                        class="ion-social-google"
+                        style={{ color: "orange" }}
+                      ></i>
+                    </a> */}
+                  </div>
+                  <div class="buttons">
+                  <a href="https://dare2compete.com/workshop/tech-talks-roboweek-20-national-institute-of-technology-nit-hamirpur-269981" target="_blank"><button class="raise">Register Now</button></a>
+                     {/* <button class="raise">play</button> */}
+                  </div>
+                </figcaption>
+              </figure>
+            </div>
+            <div class="col-sm-12 col-md-4 col-lg-4">
+              <figure class="snip1515">
+                <div data-aos="zoom-in" class="profile-image">
+                  <img style={{ height: "16rem" }}src="assets/images/Pratiktirokar.jpeg"alt="sample83"/>
+                </div>
+                <figcaption>
+                  <h3 class="tech-h3">Pratik Tirodkar</h3>
+                  <h4 style={{ color: "orange", fontFamily: "Roboto" }}>
+                    <b>Autonomous robots</b>
+                  </h4>
+                  <p class="tech-para">
+                  Director PNT Robotics | Shark Tank India Finalist |
+                   Maker of World's 1st Internet Controlled Robot for Pandemic
+                  
+                  </p>
+                  <div data-aos="fade-up" class="icons">
+                    <a href="https://www.linkedin.com/in/pratik-tirodkar/" target="_blank">
+                      <i
+                        class="ion-social-linkedin"
+                        style={{ color: "orange" }}
+                      ></i>
+                    </a>
+                    <a href="https://www.instagram.com/pnt_robotics/" target="_blank">
+                      <i
+                        class="ion-social-instagram-outline"
+                        style={{ color: "orange" }}
+                      ></i>
+                    </a>
+                    <a href="https://pntsolutions.in/" target="_blank">
+                      {" "}
+                      <i
+                        class="ion-link"
+                        style={{ color: "orange" }}
+                      ></i>
+                    </a>
+                  </div>
+                  <div class="buttons">
+                     <a href="https://dare2compete.com/workshop/tech-talks-roboweek-20-national-institute-of-technology-nit-hamirpur-269981" target="_blank"><button class="raise">Register Now</button></a>
+                     {/* <button class="raise">play</button> */}
+                  </div>
+                </figcaption>
+              </figure>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-6 down-images">
               <figure class="snip1515">
                 <div data-aos="zoom-in" class="profile-image">
                   <img style={{ height: "16rem" }}src="assets/images/tech-talk-2.jpg"alt="sample83"/>
@@ -88,20 +166,20 @@ function Services() {
                     Ex Associate Cognizant Technology Solutions
                   </p>
                   <div data-aos="fade-up" class="icons">
-                    <a href="https://www.linkedin.com/in/nithya-duraisamy-45284250/">
+                    <a href="https://www.linkedin.com/in/nithya-duraisamy-45284250/" target="_blank">
                       <i
                         class="ion-social-linkedin"
                         style={{ color: "orange" }}
                       ></i>
                     </a>
-                    <a href="https://www.youtube.com/channel/UCXsisJBABS2n2rQjR_rbJEg/videos">
+                    <a href="https://www.youtube.com/channel/UCXsisJBABS2n2rQjR_rbJEg/videos" target="_blank">
                       {" "}
                       <i
                         class="ion-social-youtube"
                         style={{ color: "orange" }}
                       ></i>
                     </a>
-                    <a href="https://www.facebook.com/nithya.duraisamy.7">
+                    <a href="https://www.facebook.com/nithya.duraisamy.7" target="_blank">
                       {" "}
                       <i
                         class="ion-social-facebook"
@@ -110,7 +188,58 @@ function Services() {
                     </a>
                   </div>
                   <div class="buttons">
-                     <button class="raise">Registering soon</button>
+                     <a href="https://dare2compete.com/workshop/tech-talks-roboweek-20-national-institute-of-technology-nit-hamirpur-269981" target="_blank"><button class="raise">Register Now</button></a>
+                     {/* <button class="raise">play</button> */}
+                  </div>
+                </figcaption>
+              </figure>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-6 down-images">
+              <figure class="snip1515">
+                <div data-aos="zoom-in" class="profile-image">
+                  <img style={{ height: "16rem" }}src="assets/images/tech-talk-3.jpg"alt="sample83"/>
+                </div>
+                <figcaption class="ei">
+                  <h3 class="tech-h3">Kuppulakshmi Krishnamoorthy</h3>
+                  <h4 style={{ color: "orange", fontFamily: "Roboto" }}>
+                    <b>Emotional Intelligence is Important as AI{" "}</b>
+                  </h4>
+                  <p class="tech-para">
+                  Global Head—Zoho for Startups at Zoho Corporation | Trainer
+Datamatics Global Services
+
+                  </p>
+                  <div data-aos="fade-up" class="icons">
+                    <a href="https://www.linkedin.com/in/kuppukrish/" target="_blank">
+                      <i
+                        class="ion-social-linkedin"
+                        style={{ color: "orange" }}
+                      ></i>
+                    </a>
+                    <a href="https://www.instagram.com/kuppoo/" target="_blank">
+                      {" "}
+                      <i
+                        class="ion-social-instagram-outline"
+                        style={{ color: "orange" }}
+                      ></i>
+                    </a>
+                    <a href="https://www.facebook.com/kklakshmi" target="_blank">
+                      {" "}
+                      <i
+                        class="ion-social-facebook"
+                        style={{ color: "orange" }}
+                      ></i>
+                    </a>
+                    <a href="https://twitter.com/Kuppulakshmi" target="_blank">
+                      {" "}
+                      <i
+                        class="ion-social-twitter"
+                        style={{ color: "orange" }}
+                      ></i>
+                    </a>
+                  </div>
+                  <div class="buttons">
+                     <a href="https://dare2compete.com/workshop/tech-talks-roboweek-20-national-institute-of-technology-nit-hamirpur-269981" target="_blank"><button class="raise">Register Now</button></a>
                      {/* <button class="raise">play</button> */}
                   </div>
                 </figcaption>

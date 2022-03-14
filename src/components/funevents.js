@@ -106,7 +106,7 @@ function Services(){
             </div>
         <span class="tag12 " style={{marginLeft:"0.76vw"}}>Mech. Design</span>
             <div className="hate"><b>TECH EVENT</b></div>
-            <div class="profile-description mb-2">-Design Wars 2.0  aims to inspire learning through a real-world scenario. </div>
+            <div class="profile-description mb-2">Design Wars 2.0  aims to inspire learning through a real-world scenario. </div>
             <a href="https://dare2compete.com/creative-cultural-event/design-wars-20-roboweek-20-national-institute-of-technology-nit-hamirpur-263524" class="bn5" style={{backgroundColor: "black"}}>Register</a><Link to="/post/designwars" class="bn5">Details</Link>
         </div>
     </div></div>
