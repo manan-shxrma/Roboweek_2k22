@@ -12,7 +12,7 @@ function Freequote(){
         return(<><section id="timeline">
        
     <div  className="container mainbodyoftimeline mb-4" >
-     <div data-aos="fade-right" className="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
+     <div className="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
           <h6>Timeline</h6>
           <h4>How <em>Roboweek</em> works</h4>
           <div className="line-dec"></div>
