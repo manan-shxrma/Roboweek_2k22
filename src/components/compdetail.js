@@ -18,6 +18,7 @@ import '../css/outline.scss'
  let prizes1="";
  let prizes2="";
  let prizes3="";
+ let participants="";
  let judging1="";
  let judging2="";
  let judging3="";
@@ -45,6 +46,7 @@ import '../css/outline.scss'
           prizes1=postcontent[i].prizes1;
           prizes2=postcontent[i].prizes2;
           prizes3=postcontent[i].prizes3;
+         participants=postcontent[i].participants;
           judging1=postcontent[i].judging1;
           judging2=postcontent[i].judging2;
           judging3=postcontent[i].judging3;
@@ -182,8 +184,17 @@ end */}
                <li> <h5 className="compet-name"><i style={{paddingRight:"8px",paddingTop:"3px"}} class="fa fa-desktop" aria-hidden="true"></i>Prerequisites</h5>
                         <p className="compet-name2">{prerequisites}</p>
                </li><br />
-               <li> <h5 className="compet-name"><i style={{paddingRight:"16px",paddingTop:"3px"}} class="fa fa-award" aria-hidden="true"></i>Prizes</h5>
-                        <p className="compet-name2">{prizes1}<br />{prizes2}<br />{prizes3}</p>
+               <li> <h5 className="compet-name"><i style={{paddingRight:"16px",paddingTop:"3px"}} class="fa fa-award" aria-hidden="true"></i>Winner</h5>
+                        <p className="compet-name2">{prizes1}</p>
+               </li><br />
+               <li> <h5 className="compet-name"><i style={{paddingRight:"16px",paddingTop:"3px"}} class="fa fa-award" aria-hidden="true"></i>Runner Up</h5>
+                        <p className="compet-name2">{prizes2}</p>
+               </li><br />
+               <li> <h5 className="compet-name"><i style={{paddingRight:"16px",paddingTop:"3px"}} class="fa fa-award" aria-hidden="true"></i>Diversity</h5>
+                        <p className="compet-name2">{prizes3}</p>
+               </li><br />
+               <li> <h5 className="compet-name"><i style={{paddingRight:"16px",paddingTop:"3px"}} class="fa fa-award" aria-hidden="true"></i>All Participants</h5>
+                        <p className="compet-name2">{participants}</p>
                </li><br />
                
                 </ul>  
