@@ -14,7 +14,7 @@ import Techtalks from "./techtalks"
 import Faq from "./Faq";
 import '../../src/App.css'
 import '../css/outline.scss'
-
+import Prizes from "./prizes";
 
 
 class Outline extends React.Component { 
@@ -109,6 +109,7 @@ class Outline extends React.Component {
                     <Techtalks />
                     <Funevents />
                     <Freequote />
+                    <Prizes />
                     <Sponsors />
                     <Blog />  
                     <Contact />
