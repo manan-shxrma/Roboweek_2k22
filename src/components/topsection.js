@@ -23,12 +23,13 @@ return(<>
   <h5 className="underhero">Let's build the future</h5>
  <button onClick={activateLasers} id="bottone15"><i style={{paddingTop:"1%",paddingRight:"3%"}} class="fas fa-award" /> Register</button>
  <button style={{marginLeft:"3%"}} onClick={activateLasers1} id="bottone15"><i style={{paddingTop:"1%",paddingRight:"3%"}} className="fab fa-discord" /> Discord</button> 
- <div id="timer">
-  <span id="days"></span>days
+ <div id="timer" style={{display:"none"}} >
+ <span id="days"></span>days
   <span id="hours"></span>hours
   <span id="minutes"></span>minutes
   <span id="seconds"></span>seconds
 </div>
+<div id="timer"><h1 className ="underhero">Event start </h1></div>
 
 
   </div>
