@@ -52,6 +52,15 @@
     border-radius: 20px 20px 10px 10px;
     margin: 1em;
 }
+.first-prize{
+    color: #daa520;
+}
+.second-prize{
+    color: #808080;
+}
+.third-prize{
+    color: rgb(205 127 50);
+}
 @media screen and (min-width: 66.25em) {
     .pricing-palden .pricing-item {
         margin: 1em -0.5em;
@@ -142,9 +151,9 @@
 .pricing-palden .pricing-action:hover, .pricing-palden .pricing-action:focus {
     background-color: #100a13;
 }
-.pricing-palden .pricing-item--featured .pricing-deco {
+/* .pricing-palden .pricing-item--featured .pricing-deco {
     padding: 5em 0 8.885em 0;
-}
+} */
 
 
 
