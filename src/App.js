@@ -7,6 +7,11 @@ import axios from 'axios';
 import { css } from "@emotion/react";
 import ScaleLoader from "react-spinners/ScaleLoader";
 import ScrollToTop from './components/ScrollToTop';
+
+
+
+
+
 const override = css`
 text-align:center;
   background-color:#081b24;
@@ -55,8 +60,7 @@ function App() {
   }, [])
  
   return (<>
-    
-
+     
       {
         loading ?
         <ScaleLoader color={'#eceef1'} loading={loading} css={override} size={150} />
@@ -70,7 +74,7 @@ function App() {
         </Routes>
       </BrowserRouter>
       }
-      
+     
 </>
   );
 }

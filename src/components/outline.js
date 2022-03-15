@@ -13,9 +13,8 @@ import Funevents from "./funevents"
 import Techtalks from "./techtalks"
 import Faq from "./Faq";
 import '../../src/App.css'
-import $ from "jquery"
 import '../css/outline.scss'
-import { Scrollbar } from "react-scrollbars-custom";
+import Prizes from "./prizes";
 
 
 class Outline extends React.Component { 
@@ -48,8 +47,8 @@ class Outline extends React.Component {
     render(){
        
         return(<> 
+                  
                    
-                    
                         {this.state.width <= 990 ?
                         <>
                          <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark" style={{"backgroundColor": "#011B2C"}}>
@@ -110,6 +109,7 @@ class Outline extends React.Component {
                     <Techtalks />
                     <Funevents />
                     <Freequote />
+                    <Prizes />
                     <Sponsors />
                     <Blog />  
                     <Contact />
@@ -192,6 +192,7 @@ class Outline extends React.Component {
                         </div>
                     </section>
                 </footer>
+                
             </>
          );
     }
