@@ -6,7 +6,7 @@ import AOS from 'aos';
 AOS.init();
 
 function portfolio(){
-    return(<><section id="sponsors">
+    return(<><section id="sponsors" style={{paddingTop:"3em"}}>
                         {/* <div id="portfolio" className="our-portfolio section"> */}
                   <div  className="container">
                     <div className="row">
