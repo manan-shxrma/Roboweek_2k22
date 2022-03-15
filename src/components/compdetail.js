@@ -15,7 +15,9 @@ import '../css/outline.scss'
  let instructions5="";
  let title="";
  let prerequisites="";
- let prizes="";
+ let prizes1="";
+ let prizes2="";
+ let prizes3="";
  let judging1="";
  let judging2="";
  let judging3="";
@@ -40,7 +42,9 @@ import '../css/outline.scss'
         instructions5=postcontent[i].instructions5;
           title=postcontent[i].title;
           prerequisites=postcontent[i].prerequisites;
-          prizes=postcontent[i].prizes;
+          prizes1=postcontent[i].prizes1;
+          prizes2=postcontent[i].prizes2;
+          prizes3=postcontent[i].prizes3;
           judging1=postcontent[i].judging1;
           judging2=postcontent[i].judging2;
           judging3=postcontent[i].judging3;
@@ -179,7 +183,7 @@ end */}
                         <p className="compet-name2">{prerequisites}</p>
                </li><br />
                <li> <h5 className="compet-name"><i style={{paddingRight:"16px",paddingTop:"3px"}} class="fa fa-award" aria-hidden="true"></i>Prizes</h5>
-                        <p className="compet-name2">{prizes}</p>
+                        <p className="compet-name2">{prizes1}<br />{prizes2}<br />{prizes3}</p>
                </li><br />
                
                 </ul>  
