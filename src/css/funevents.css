@@ -240,7 +240,7 @@ a:focus {
   top: -15px;
   left: 0px;
   right: 0px;
-  background: linear-gradient(to bottom, #939598 0%, rgb(236, 238, 241) 100%);
+  background: linear-gradient(to bottom, #f346f3 0%, rgb(236, 238, 241) 100%);
   z-index: 0;
   transform: skewY(0deg);
 }

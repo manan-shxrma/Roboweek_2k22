@@ -169,7 +169,7 @@
 .allparli{
     border-bottom:2px solid rgba(158,157,158,1);
      margin-bottom:5%;
-     color:rgba(158,157,158,1);
+     color:rgb(255, 255, 255);
 }
 @media(min-width:450px) {
     .pricing-item{

@@ -30,10 +30,10 @@ function prizes(){
      {/* <-------------Hunt nova-----------> */}
      <div class="carousel-item active">
    
-         <h3 style={{color:"#fff", textAlign:"center",fontSize:"4rem"}}>Hunt Nova</h3>
+         <h3 style={{color:"#fff",paddingTop:"5%",paddingBottom:"5%", textAlign:"center",fontSize:"4rem"}}>Hunt Nova</h3>
    <div style={{paddingTop:"3%"}} class='pricing pricing-palden'>
     <div  class='pricing-item'>
-      <div style={{background:"#CD7F32", paddingBottom:"200px"}} class='pricing-deco'>
+      <div style={{background:"rgb(121 85 72)", paddingBottom:"200px"}} class='pricing-deco'>
       <img className="medalImg" alt="medal1"  src="assets/images/3rd.svg"/>
         <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='100px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xmlSpace='preserve' xmlnsXlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
           <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
@@ -53,7 +53,7 @@ function prizes(){
       
     </div>
     <div class='pricing-item pricing__item--featured'>
-      <div style={{background:"#DAA520", paddingBottom:"200px"}} class='pricing-deco'>
+      <div style={{background:"rgb(255 210 67)", paddingBottom:"200px"}} class='pricing-deco'>
       <img className="medalImg" alt="medal1"  src="assets/images/1st.svg"/>
         <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='10px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xmlSpace='preserve' xmlnsXlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
           <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
@@ -95,13 +95,14 @@ function prizes(){
      </div> 
     </div>
   </div>
+
   {/* <-------------Regatta 2.0-----------> */}
   <div class="carousel-item">
    
-         <h3 style={{color:"#fff", textAlign:"center",fontSize:"4rem"}}>Regatta 2.0</h3>
+         <h3 style={{color:"#fff",paddingTop:"5%",paddingBottom:"5%", textAlign:"center",fontSize:"4rem"}}>Regatta 2.0</h3>
    <div style={{paddingTop:"3%"}} class='pricing pricing-palden'>
     <div  class='pricing-item'>
-      <div style={{background:"#CD7F32", paddingBottom:"200px"}} class='pricing-deco'>
+      <div style={{background:"rgb(121 85 72)", paddingBottom:"200px"}} class='pricing-deco'>
       <img className="medalImg" alt="medal1"  src="assets/images/3rd.svg"/>
         <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='100px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xmlSpace='preserve' xmlnsXlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
           <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
@@ -120,7 +121,7 @@ function prizes(){
       </div>
     </div>
     <div class='pricing-item pricing__item--featured'>
-      <div style={{background:"#DAA520", paddingBottom:"200px"}} class='pricing-deco'>
+      <div style={{background:"rgb(255 210 67)", paddingBottom:"200px"}} class='pricing-deco'>
       <img className="medalImg" alt="medal1"  src="assets/images/1st.svg"/>
         <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='10px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xmlSpace='preserve' xmlnsXlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
           <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
@@ -165,10 +166,10 @@ function prizes(){
   {/* <-------------Callisto-----------> */}
   <div class="carousel-item">
    
-         <h3 style={{color:"#fff", textAlign:"center",fontSize:"4rem"}}>Callisto</h3>
+         <h3 style={{color:"#fff",paddingTop:"5%",paddingBottom:"5%", textAlign:"center",fontSize:"4rem"}}>Callisto</h3>
    <div style={{paddingTop:"3%"}} class='pricing pricing-palden'>
     <div  class='pricing-item'>
-      <div style={{background:"#CD7F32", paddingBottom:"200px"}} class='pricing-deco'>
+      <div style={{background:"rgb(121 85 72)", paddingBottom:"200px"}} class='pricing-deco'>
       <img className="medalImg" alt="medal1"  src="assets/images/3rd.svg"/>
         <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='100px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xmlSpace='preserve' xmlnsXlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
           <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
@@ -187,7 +188,7 @@ function prizes(){
       </div>
     </div>
     <div class='pricing-item pricing__item--featured'>
-      <div style={{background:"#DAA520", paddingBottom:"200px"}} class='pricing-deco'>
+      <div style={{background:"rgb(255 210 67)", paddingBottom:"200px"}} class='pricing-deco'>
       <img className="medalImg" alt="medal1"  src="assets/images/1st.svg"/>
         <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='10px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xmlSpace='preserve' xmlnsXlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
           <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
@@ -232,10 +233,10 @@ function prizes(){
      {/* <-------------Trash Bot-----------> */}
   <div class="carousel-item">
    
-         <h3 style={{color:"#fff", textAlign:"center",fontSize:"4rem"}}>Trash Bot</h3>
+         <h3 style={{color:"#fff",paddingTop:"5%",paddingBottom:"5%", textAlign:"center",fontSize:"4rem"}}>Trash Bot</h3>
    <div style={{paddingTop:"3%"}} class='pricing pricing-palden'>
     <div  class='pricing-item'>
-      <div style={{background:"#CD7F32", paddingBottom:"200px"}} class='pricing-deco'>
+      <div style={{background:"rgb(121 85 72)", paddingBottom:"200px"}} class='pricing-deco'>
       <img className="medalImg" alt="medal1"  src="assets/images/3rd.svg"/>
         <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='100px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xmlSpace='preserve' xmlnsXlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
           <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
@@ -255,7 +256,7 @@ function prizes(){
       
     </div>
     <div class='pricing-item pricing__item--featured'>
-      <div style={{background:"#DAA520", paddingBottom:"200px"}} class='pricing-deco'>
+      <div style={{background:"rgb(255 210 67)", paddingBottom:"200px"}} class='pricing-deco'>
       <img className="medalImg" alt="medal1"  src="assets/images/1st.svg"/>
         <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='10px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xmlSpace='preserve' xmlnsXlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
           <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
@@ -300,10 +301,10 @@ function prizes(){
     {/* <-------------Tinker it-----------> */}
   <div class="carousel-item">
    
-         <h3 style={{color:"#fff", textAlign:"center",fontSize:"4rem"}}>Tinker It</h3>
+         <h3 style={{color:"#fff",paddingTop:"5%",paddingBottom:"5%", textAlign:"center",fontSize:"4rem"}}>Tinker It</h3>
    <div style={{paddingTop:"3%"}} class='pricing pricing-palden'>
     <div  class='pricing-item'>
-      <div style={{background:"#CD7F32", paddingBottom:"200px"}} class='pricing-deco'>
+      <div style={{background:"rgb(121 85 72)", paddingBottom:"200px"}} class='pricing-deco'>
       <img className="medalImg" alt="medal1"  src="assets/images/3rd.svg"/>
         <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='100px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xmlSpace='preserve' xmlnsXlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
           <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
@@ -323,7 +324,7 @@ function prizes(){
       
     </div>
     <div class='pricing-item pricing__item--featured'>
-      <div style={{background:"#DAA520", paddingBottom:"200px"}} class='pricing-deco'>
+      <div style={{background:"rgb(255 210 67)", paddingBottom:"200px"}} class='pricing-deco'>
       <img className="medalImg" alt="medal1"  src="assets/images/1st.svg"/>
         <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='10px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xmlSpace='preserve' xmlnsXlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
           <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
@@ -368,10 +369,10 @@ function prizes(){
    {/* <-------------Design wars 2.0-----------> */}
   <div class="carousel-item">
    
-         <h3 style={{color:"#fff", textAlign:"center",fontSize:"4rem"}}>Design Wars 2.0</h3>
+         <h3 style={{color:"#fff",paddingTop:"5%",paddingBottom:"5%", textAlign:"center",fontSize:"4rem"}}>Design Wars 2.0</h3>
    <div style={{paddingTop:"3%"}} class='pricing pricing-palden'>
     <div  class='pricing-item'>
-      <div style={{background:"#CD7F32", paddingBottom:"200px"}} class='pricing-deco'>
+      <div style={{background:"rgb(121 85 72)", paddingBottom:"200px"}} class='pricing-deco'>
       <img className="medalImg" alt="medal1"  src="assets/images/3rd.svg"/>
         <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='100px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xmlSpace='preserve' xmlnsXlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
           <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
@@ -391,7 +392,7 @@ function prizes(){
       
     </div>
     <div class='pricing-item pricing__item--featured'>
-      <div style={{background:"#DAA520", paddingBottom:"200px"}} class='pricing-deco'>
+      <div style={{background:"rgb(255 210 67)", paddingBottom:"200px"}} class='pricing-deco'>
       <img className="medalImg" alt="medal1"  src="assets/images/1st.svg"/>
         <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='10px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xmlSpace='preserve' xmlnsXlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
           <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
@@ -436,10 +437,10 @@ function prizes(){
    {/* <-------------Code Naari-----------> */}
   <div class="carousel-item">
    
-         <h3 style={{color:"#fff", textAlign:"center",fontSize:"4rem"}}>Code Naari</h3>
+         <h3 style={{color:"#fff",paddingTop:"5%",paddingBottom:"5%", textAlign:"center",fontSize:"4rem"}}>Code Naari</h3>
    <div style={{paddingTop:"3%"}} class='pricing pricing-palden'>
     <div  class='pricing-item'>
-      <div style={{background:"#CD7F32", paddingBottom:"200px"}} class='pricing-deco'>
+      <div style={{background:"rgb(121 85 72)", paddingBottom:"200px"}} class='pricing-deco'>
       <img className="medalImg" alt="medal1"  src="assets/images/3rd.svg"/>
         <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='100px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xmlSpace='preserve' xmlnsXlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
           <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
@@ -459,7 +460,7 @@ function prizes(){
       
     </div>
     <div class='pricing-item pricing__item--featured'>
-      <div style={{background:"#DAA520", paddingBottom:"200px"}} class='pricing-deco'>
+      <div style={{background:"rgb(255 210 67)", paddingBottom:"200px"}} class='pricing-deco'>
       <img className="medalImg" alt="medal1"  src="assets/images/1st.svg"/>
         <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='10px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xmlSpace='preserve' xmlnsXlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
           <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
@@ -505,10 +506,10 @@ function prizes(){
    {/* <-------------Code Play-----------> */}
   <div class="carousel-item">
    
-         <h3 style={{color:"#fff", textAlign:"center",fontSize:"4rem"}}>Code Play</h3>
+         <h3 style={{color:"#fff",paddingTop:"5%",paddingBottom:"5%", textAlign:"center",fontSize:"4rem"}}>Code Play</h3>
    <div style={{paddingTop:"3%"}} class='pricing pricing-palden'>
     <div  class='pricing-item'>
-      <div style={{background:"#CD7F32", paddingBottom:"200px"}} class='pricing-deco'>
+      <div style={{background:"rgb(121 85 72)", paddingBottom:"200px"}} class='pricing-deco'>
       <img className="medalImg" alt="medal1"  src="assets/images/3rd.svg"/>
         <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='100px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xmlSpace='preserve' xmlnsXlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
           <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
@@ -528,7 +529,7 @@ function prizes(){
       
     </div>
     <div class='pricing-item pricing__item--featured'>
-      <div style={{background:"#DAA520", paddingBottom:"200px"}} class='pricing-deco'>
+      <div style={{background:"rgb(255 210 67)", paddingBottom:"200px"}} class='pricing-deco'>
       <img className="medalImg" alt="medal1"  src="assets/images/1st.svg"/>
         <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='10px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xmlSpace='preserve' xmlnsXlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
           <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
@@ -569,6 +570,7 @@ function prizes(){
      </div> 
     </div>
   </div>
+  
 
 
     
@@ -576,7 +578,7 @@ function prizes(){
   <h3 style={{color:"#fff", textAlign:"center"}}>Code Naari</h3>
   <div style={{paddingTop:"3%"}} class='pricing pricing-palden'>
     <div  class='pricing-item'>
-      <div style={{background:"#CD7F32"}} class='pricing-deco'>
+      <div style={{background:"rgb(121 85 72)"}} class='pricing-deco'>
       <img className="medalImg" alt="medal1"  src="assets/images/3rd.svg"/>
         <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='100px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xmlSpace='preserve' xmlnsXlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
           <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
@@ -594,7 +596,7 @@ function prizes(){
       
     </div>
     <div class='pricing-item pricing__item--featured'>
-      <div style={{background:"#DAA520",height:"50%"}} class='pricing-deco'>
+      <div style={{background:"rgb(255 210 67)",height:"50%"}} class='pricing-deco'>
       <img className="medalImg" alt="medal1"  src="assets/images/1st.svg"/>
         <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='10px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xmlSpace='preserve' xmlnsXlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
           <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
@@ -667,7 +669,7 @@ function prizes(){
                    <li className="allparli" >5-Year free upgrades for participants</li>
                    <li className="allparli" >Provide 10% discount coupons on all the apparels</li>
                    <li className="allparli" >Provide 10% discount coupons on all the apparels</li>
-                   <li className="allparli" >1 month free hosting on Expansion,</li>
+                   <li className="allparli" >1 month free hosting on Expansion</li>
                    <li className="allparli" >25% off the first year of 1Password Families</li>
                    <li className="allparli" >Free course access on Full Coding Interview Prep Course</li>
                    <li className="allparli" >90-day extended trial promo of Balsamiq Cloud</li>
