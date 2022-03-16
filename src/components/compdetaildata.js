@@ -17,10 +17,10 @@ const homedata = [
         judging2:" Amount of trash material used along with the utilities of the robot model built by them.",
         judging3:"",
         prerequisites:"All you need is just creativity and basic knowledge of high school physics. ",
-        prizes1:"Free D2C Pro membership worth Rs. 999, giving them free access to high quality courses,,Async online mock interviews with unlimited practice,12 months free hosting,Company Lifetime Package to the winners.",
+        prizes1:"Free D2C Pro membership worth Rs. 999,Async online mock interviews with unlimited practice,12 months free hosting,Company Lifetime Package to the winners.",
         prizes2:"Free D2C Pro membership worth Rs. 999, Async online mock interviews with unlimited practice, 6 months free hosting.",
         prizes3:"Free D2C Pro membership worth Rs. 999,Async online mock interviews with unlimited practice, 3 months free hosting.",
-        participant:"1 month free hosting on Expansion,90-day extended trial promo of Balsamiq Cloud,Free course access on Full Coding Interview Prep Course",
+        participants:"1 month free hosting on Expansion,90-day extended trial promo of Balsamiq Cloud,Free course access on Full Coding Interview Prep Course",
        image:"../../assets/images/Trash_bot_1.png",
         srcDoc:"https://docs.google.com/document/d/1bcbX724b5yt1HKjAwL8YXA_LZjDtLBItEwg_GpsE0QY/edit",
         srcReg:"https://dare2compete.com/competition/trash-bot-roboweek-20-national-institute-of-technology-nit-hamirpur-263560"
@@ -43,10 +43,10 @@ const homedata = [
         judging3:"",
         prerequisites:" Any female student who is currently pursuing any undergraduate degree ",
         
-        prizes1:"Free D2C Pro membership worth Rs. 999, giving them free access to high quality courses,,Async online mock interviews with unlimited practice,12 months free hosting,Company Lifetime Package to the winners.",
+        prizes1:"Free D2C Pro membership worth Rs. 999,Async online mock interviews with unlimited practice,12 months free hosting,Company Lifetime Package to the winners.",
         prizes2:"Free D2C Pro membership worth Rs. 999, Async online mock interviews with unlimited practice, 6 months free hosting.",
         prizes3:"Free D2C Pro membership worth Rs. 999,Async online mock interviews with unlimited practice, 3 months free hosting.",
-        participant:"1 month free hosting on Expansion,90-day extended trial promo of Balsamiq Cloud,Free course access on Full Coding Interview Prep Course",
+        participants:"1 month free hosting on Expansion,90-day extended trial promo of Balsamiq Cloud,Free course access on Full Coding Interview Prep Course",
         image:"../../assets/images/CODE_NAARI.png",
 
         srcDoc:"https://docs.google.com/document/d/1JGfo0aMb4-PgUhfJbD9WTiXHpmcqb_b6OomciORBkUg/edit?usp=sharing",
@@ -66,10 +66,10 @@ const homedata = [
         judging2:"Submissions will be marked on the basis of creativity, use of words, originality.",
         judging3:"",
         prerequisites:" Anyone pursuing an undergraduate degree can participate.",
-        prizes1:"Free D2C Pro membership worth Rs. 999, giving them free access to high quality courses,,Async online mock interviews with unlimited practice,12 months free hosting,Company Lifetime Package to the winners.",
+        prizes1:"Free D2C Pro membership worth Rs. 999,Async online mock interviews with unlimited practice,12 months free hosting,Company Lifetime Package to the winners.",
         prizes2:"Free D2C Pro membership worth Rs. 999, Async online mock interviews with unlimited practice, 6 months free hosting.",
         prizes3:"Free D2C Pro membership worth Rs. 999,Async online mock interviews with unlimited practice, 3 months free hosting.",
-        participant:"1 month free hosting on Expansion,90-day extended trial promo of Balsamiq Cloud,Free course access on Full Coding Interview Prep Course",
+        participants:"1 month free hosting on Expansion,90-day extended trial promo of Balsamiq Cloud,Free course access on Full Coding Interview Prep Course",
         image:"../../assets/images/callisto.jpg",
         srcDoc:"https://docs.google.com/document/d/1bCZdxce2AydavlmnKfiYLxCHGY2Y6rJ29zaFXpD4htw/edit?usp=sharing",
         srcReg:"https://dare2compete.com/creative-cultural-event/callisto-roboweek-20-national-institute-of-technology-nit-hamirpur-263270"
@@ -91,10 +91,10 @@ const homedata = [
         judging2:"The neatness of the circuit",
         judging3:"Components used if any extra component is used then marks will be deducted.",
         prerequisites:"TinkerCad and Circuit designing.",
-        prizes1:"Free D2C Pro membership worth Rs. 999, giving them free access to high quality courses,,Async online mock interviews with unlimited practice,12 months free hosting,Company Lifetime Package to the winners.",
+        prizes1:"Free D2C Pro membership worth Rs. 999,Async online mock interviews with unlimited practice,12 months free hosting,Company Lifetime Package to the winners.",
         prizes2:"Free D2C Pro membership worth Rs. 999, Async online mock interviews with unlimited practice, 6 months free hosting.",
         prizes3:"Free D2C Pro membership worth Rs. 999,Async online mock interviews with unlimited practice, 3 months free hosting.",
-        participant:"1 month free hosting on Expansion,90-day extended trial promo of Balsamiq Cloud,Free course access on Full Coding Interview Prep Course",
+        participants:"1 month free hosting on Expansion,90-day extended trial promo of Balsamiq Cloud,Free course access on Full Coding Interview Prep Course",
         image:"../../assets/images/HuntNova.png",
         srcDoc:"https://docs.google.com/document/d/1Rnd--W0dzLetZZ2oOkA5ik4wcBjy5c6JEbCTZE7xVVw/edit?usp=sharing",
         srcReg:"https://dare2compete.com/competition/hunt-nova-roboweek-20-national-institute-of-technology-nit-hamirpur-263565"
@@ -116,10 +116,10 @@ const homedata = [
         judging1:"Individuals will be ranked as per the number of problems solved.",
         judging2:"The compiler supports all 3 majorly popular programming languages C++, Java, Python.",
         prerequisites:"This contest is open to anyone who likes programming. ",
-        prizes1:"Free D2C Pro membership worth Rs. 999, giving them free access to high quality courses,,Async online mock interviews with unlimited practice,12 months free hosting,Company Lifetime Package to the winners.",
+        prizes1:"Free D2C Pro membership worth Rs. 999,Async online mock interviews with unlimited practice,12 months free hosting,Company Lifetime Package to the winners.",
         prizes2:"Free D2C Pro membership worth Rs. 999, Async online mock interviews with unlimited practice, 6 months free hosting.",
         prizes3:"Free D2C Pro membership worth Rs. 999,Async online mock interviews with unlimited practice, 3 months free hosting.",
-        participant:"1 month free hosting on Expansion,90-day extended trial promo of Balsamiq Cloud,Free course access on Full Coding Interview Prep Course",
+        participants:"1 month free hosting on Expansion,90-day extended trial promo of Balsamiq Cloud,Free course access on Full Coding Interview Prep Course",
         image:"../../assets/images/Code-Play_1.png",
         srcDoc:"https://docs.google.com/document/d/1aKmJqsTtZxFZKgHvRXXhNojta7za_YROfL3wtrmXbkM/edit?usp=sharing",
         srcReg:"https://dare2compete.com/hackathon/code-play-roboweek-20-national-institute-of-technology-nit-hamirpur-263922"
@@ -141,10 +141,10 @@ const homedata = [
         judging2:"rendering effects, use of complex mechanisms and assemblies, etc.",
         judging3:"Bonus marks would be provided if Animation, Simulations and Dynamic Study is provided.",
         prerequisites:"Students from all the degree programs and years are eligible to participate in this competition.",
-        prizes1:"Free D2C Pro membership worth Rs. 999, giving them free access to high quality courses,,Async online mock interviews with unlimited practice,12 months free hosting,Company Lifetime Package to the winners.",
+        prizes1:"Free D2C Pro membership worth Rs. 999, Async online mock interviews with unlimited practice,12 months free hosting,Company Lifetime Package to the winners.",
         prizes2:"Free D2C Pro membership worth Rs. 999, Async online mock interviews with unlimited practice, 6 months free hosting.",
-        prizes3:"Free D2C Pro membership worth Rs. 999,Async online mock interviews with unlimited practice, 3 months free hosting.",
-        participant:"1 month free hosting on Expansion,90-day extended trial promo of Balsamiq Cloud,Free course access on Full Coding Interview Prep Course",
+        prizes3:"Free D2C Pro membership worth Rs. 999, Async online mock interviews with unlimited practice, 3 months free hosting.",
+        participants:"1 month free hosting on Expansion,90-day extended trial promo of Balsamiq Cloud,Free course access on Full Coding Interview Prep Course",
         image:"../../assets/images/Design_wars.png",
         srcDoc:"https://docs.google.com/document/d/1sQhRUUaS18pYQ_mnIwJ6eXvWiynF_Xk18S0TGSCupdU/edit",
         srcReg:"https://dare2compete.com/creative-cultural-event/design-wars-20-roboweek-20-national-institute-of-technology-nit-hamirpur-263524"
@@ -169,10 +169,10 @@ const homedata = [
         judging3:"If above not applies participants would be judged on cleanliness and readability of code ",
 
         prerequisites:"Python/C++ programming  and Basic ROS",
-        prizes1:"Free D2C Pro membership worth Rs. 999, giving them free access to high quality courses,,Async online mock interviews with unlimited practice,12 months free hosting,Company Lifetime Package to the winners.",
+        prizes1:"Free D2C Pro membership worth Rs. 999 ,Async online mock interviews with unlimited practice,12 months free hosting,Company Lifetime Package to the winners.",
         prizes2:"Free D2C Pro membership worth Rs. 999, Async online mock interviews with unlimited practice, 6 months free hosting.",
         prizes3:"Free D2C Pro membership worth Rs. 999,Async online mock interviews with unlimited practice, 3 months free hosting.",
-        participant:"1 month free hosting on Expansion,90-day extended trial promo of Balsamiq Cloud,Free course access on Full Coding Interview Prep Course",
+        participants:"1 month free hosting on Expansion,90-day extended trial promo of Balsamiq Cloud,Free course access on Full Coding Interview Prep Course",
         image:"../../assets/images/REGATTA_2.0.png",
         srcDoc:"https://docs.google.com/document/d/1MFIrG2QMHhVTAYFjRv1T-4p5Hw6_vB3Lya75SxpYA5U/edit",
         srcReg:"https://dare2compete.com/competition/regatta-20-roboweek-20-national-institute-of-technology-nit-hamirpur-263326"
@@ -194,8 +194,10 @@ const homedata = [
         judging2:"Quality of post-production, Transition between clips, Color Correction, Use of Music and Attention to detail.",
         judging3:"",
         prerequisites:"Any student can take part.",
-        prizes:"TBD",
-        participant:"1 month free hosting on Expansion,90-day extended trial promo of Balsamiq Cloud,Free course access on Full Coding Interview Prep Course",
+        prizes1:"TBD",
+        prizes2:"TBD",
+        prizes3:"TBD",
+        participants:"1 month free hosting on Expansion,90-day extended trial promo of Balsamiq Cloud,Free course access on Full Coding Interview Prep Course",
         image:"../../assets/images/Clipped_1.png",
         srcDoc:"https://docs.google.com/document/d/1nR2BA9EprOUfOUkP5l3lO6a7gnBiV9-kBqSxbpDf7xs/edit?usp=sharing",
         srcReg:"https://dare2compete.com/creative-cultural-event/clipped-roboweek-20-national-institute-of-technology-nit-hamirpur-263537"
@@ -217,40 +219,16 @@ const homedata = [
         judging2:"It is an individual event, only lone wolves allowed.",
         judging3:"",
         prerequisites:"All college students",
-        prizes1:"TBD",
-        participant:"1 month free hosting on Expansion,90-day extended trial promo of Balsamiq Cloud,Free course access on Full Coding Interview Prep Course",
+        prizes1:"TBD", 
+        prizes2:"TBD", 
+        prizes3:"TBD",
+        participants:"1 month free hosting on Expansion,90-day extended trial promo of Balsamiq Cloud,Free course access on Full Coding Interview Prep Course",
         image:"../../assets/images/ARCANUM_1.png",
         srcDoc:"https://docs.google.com/document/d/1Yia0B1RrDKRsKUPnsl1lTE5s_DJae3MqvAXq_Anid2o/edit?usp=sharing",
         srcReg:"https://dare2compete.com/competition/arcanum-roboweek-20-national-institute-of-technology-nit-hamirpur-263309"
     },
     {
       id: 10,
-      emoji: "🤣",
-      name: "tinkerit",
-      instructions:
-        "Tinker It is an IOT challenge where the participants need to demonstrate their grasp.",
-        instructions2:"Understanding of basic IOT by solving a variety of challenge statements.",
-        instructions3:"Participants need to solve as many problem statements as they can during the submission window",
-        instructions4:"",
-        title:"Tinker It",
-        submission1:"Submission platform- TinkerCAD links in the google forms provided. Statement release-9:00 p.m, 21/03/2022",
-        submission2:"The submission window will be open from  21/03/2022 09:00 pm(IST), to 23/03/2022 11.59 p.m(IST)",
-        judging1:"The participants will be judged based on the number of problem statements solved by them",
-        judging2:"Any unique ideas incorporated in the solution will be given more weightage ",
-        judging3:"The efficiency of code and circuitry along with any unique ideas incorporated in the solutions by them ",
-        prerequisites:"All B.Tech. students of first and second year.",
-        prizes1:"Free D2C Pro membership worth Rs. 999, giving them free access to high quality courses,,Async online mock interviews with unlimited practice,12 months free hosting,Company Lifetime Package to the winners.",
-        prizes2:"Free D2C Pro membership worth Rs. 999, Async online mock interviews with unlimited practice, 6 months free hosting.",
-        prizes3:"Free D2C Pro membership worth Rs. 999,Async online mock interviews with unlimited practice, 3 months free hosting.",
-       participant:"1 month free hosting on Expansion,90-day extended trial promo of Balsamiq Cloud,Free course access on Full Coding Interview Prep Course",
- 
-
-        image:"../../assets/images/Tinker_It-1.png",
-        srcDoc:"https://docs.google.com/document/d/1FYxlIl67mvIraHeyXN_cR0E-l-TPF9lq_YpG3RWJUZc/edit?usp=sharing",
-        srcReg:"https://dare2compete.com/competition/tinker-it-roboweek-20-national-institute-of-technology-nit-hamirpur-263696"
-    },
-    {
-      id: 11,
       emoji: "💪",
       name: "squiz",
       instructions:
@@ -266,15 +244,42 @@ const homedata = [
         judging2:" In case of tie breaker the participant who submitted the form in less time will be considered as winner.",
         judging3:"",
         prerequisites:"All you need is general knowledge in the field of robotics and technology.",
-        prize1:"TBD",
-        prize1:"TBD",
-        prize1:"TBD",
-        participant:"1 month free hosting on Expansion,90-day extended trial promo of Balsamiq Cloud,Free course access on Full Coding Interview Prep Course",
+        prizes1:"TBD",
+        prizes2:"TBD",
+        prizes3:"TBD",
+        participants:"1 month free hosting on Expansion,90-day extended trial promo of Balsamiq Cloud,Free course access on Full Coding Interview Prep Course",
  
         image:"../../assets/images/squiz.png",
         srcDoc:"https://docs.google.com/document/d/1VADtDVxVw2ZtXwP_3npkTg64_P5pjRo5g4IsgvDaHaA/edit?usp=sharing",
         srcReg:"https://dare2compete.com/quiz/squiz-game-roboweek-20-national-institute-of-technology-nit-hamirpur-262825"
-    }
+    },
+    {
+      id: 1,
+      emoji: "🤣",
+      name: "tinkerit",
+      instructions:
+        "Tinker It is an IOT challenge where the participants need to demonstrate their grasp.",
+        instructions2:"Understanding of basic IOT by solving a variety of challenge statements.",
+        instructions3:"Participants need to solve as many problem statements as they can during the submission window",
+        instructions4:"",
+        title:"Tinker It",
+        submission1:"Submission platform- TinkerCAD links in the google forms provided. Statement release-9:00 p.m, 21/03/2022",
+        submission2:"The submission window will be open from  21/03/2022 09:00 pm(IST), to 23/03/2022 11.59 p.m(IST)",
+        judging1:"The participants will be judged based on the number of problem statements solved by them",
+        judging2:"Any unique ideas incorporated in the solution will be given more weightage ",
+        judging3:"The efficiency of code and circuitry along with any unique ideas incorporated in the solutions by them ",
+        prerequisites:"All B.Tech. students of first and second year.",
+        prizes1:"Free D2C Pro membership worth Rs. 999,Async online mock interviews with unlimited practice,12 months free hosting,Company Lifetime Package to the winners.",
+        prizes2:"Free D2C Pro membership worth Rs. 999, Async online mock interviews with unlimited practice, 6 months free hosting.",
+        prizes3:"Free D2C Pro membership worth Rs. 999,Async online mock interviews with unlimited practice, 3 months free hosting.",
+       participants:"1 month free hosting on Expansion,90-day extended trial promo of Balsamiq Cloud,Free course access on Full Coding Interview Prep Course",
+ 
+
+        image:"../../assets/images/Tinker_It-1.png",
+        srcDoc:"https://docs.google.com/document/d/1FYxlIl67mvIraHeyXN_cR0E-l-TPF9lq_YpG3RWJUZc/edit?usp=sharing",
+        srcReg:"https://dare2compete.com/competition/tinker-it-roboweek-20-national-institute-of-technology-nit-hamirpur-263696"
+    },
+    
   ];
   
   
