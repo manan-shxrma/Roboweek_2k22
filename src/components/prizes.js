@@ -654,7 +654,7 @@ function prizes(){
     <div className="col-lg-5">
       <div data-aos="fade-right" className="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
         
-        <h4 style={{color:"white"}}>All participants</h4>  
+        <h4 style={{color:"white"}}>For All participants</h4>  
       </div>
     </div>
   </div>
