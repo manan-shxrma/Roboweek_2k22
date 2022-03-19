@@ -658,21 +658,21 @@ function prizes(){
       </div>
     </div>
   </div>
-  <div style={{paddingLeft:"5%"}}>
+  <div style={{paddingLeft:"5%",paddingRight:"5%"}}>
     <div style={{background: "rgba(0, 0, 0, 0.5)", borderRadius:"25px",color:"#fff" ,padding:"10px"}}  className="row">
       <div className="col-lg-6 col-md-6 col-sm-12">
                
-               <img style={{width:"80%", height:"80%"}} alt="none" src="assets/images/Graduation_Monochromatic.svg" />
+               <img style={{height:"80%"}} alt="none" src="assets/images/Graduation_Monochromatic.svg" />
       </div>
       <div className="col-lg-6 col-md-6 col-sm-12">
-      <ul style={{padding: "10% 10%"}}>
-                   <li className="allparli" >5-Year free upgrades for participants</li>
-                   <li className="allparli" >Provide 10% discount coupons on all the apparels</li>
-                   <li className="allparli" >Provide 10% discount coupons on all the apparels</li>
-                   <li className="allparli" >1 month free hosting on Expansion</li>
-                   <li className="allparli" >25% off the first year of 1Password Families</li>
-                   <li className="allparli" >Free course access on Full Coding Interview Prep Course</li>
-                   <li className="allparli" >90-day extended trial promo of Balsamiq Cloud</li>
+      <ul style={{paddingTop:"15%",paddingBottom:"5%",paddingRight:"10%",paddingLeft:"0"}}>
+                   <li className="allparli" ><i class="ion-university"/> 5-Year free upgrades for participants</li>
+                   <li className="allparli" ><i class="ion-university"/> Provide 10% discount coupons on all the apparels</li>
+                   <li className="allparli" ><i class="ion-university"/> Provide 10% discount coupons on all the apparels</li>
+                   <li className="allparli" ><i class="ion-university"/> 1 month free hosting on Expansion</li>
+                   <li className="allparli" ><i class="ion-university"/> 25% off the first year of 1Password Families</li>
+                   <li className="allparli" ><i class="ion-university"/> Free course access on Full Coding Interview Prep Course</li>
+                   <li className="allparli" ><i class="ion-university"/> 90-day extended trial promo of Balsamiq Cloud</li>
                  </ul>
       </div>
     </div>
