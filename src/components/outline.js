@@ -1,6 +1,7 @@
 import React from "react"
 import Topsection from "./topsection"
 import Aboutsection from "./aboutsection";
+// import Hackathon from "./hackathon";
 import Freequote from "./Timeline";
 import {navItems,socialMedia,} from '../js/navFootData';
 import Sponsors from "./sponsors";
@@ -105,6 +106,7 @@ class Outline extends React.Component {
                     
                     <Topsection />
                     <Aboutsection />
+                    {/* <Hackathon /> */}
                     <Competitions />
                     <Techtalks />
                     <Funevents />

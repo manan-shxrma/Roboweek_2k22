@@ -189,8 +189,12 @@ const homedata = [
         instructions4:"",
         instructions5:"",
         title:"#Clipped",
+
         submission1:"Submission platform- D2C. Statement release-18/03/2022  at 5 PM IST.",
         submission2:"The submission window will be open from 24/03/2022 at 12:00 AM (IST) to 24/03/2022 at 11:59 PM (IST)",
+        submission1:"Submission platform- TBD. Statement release-18/03/2022  at 05:00 PM IST.",
+        submission2:"The submission window will be open from 24/03/2022 at 12:00 AM (IST) to 25/03/2022 at 11:59 PM (IST)",
+
         judging1:"How they manage to influence and motivate the viewers about robotics.",
         judging2:"Quality of post-production, Transition between clips, Color Correction, Use of Music and Attention to detail.",
         judging3:"",
