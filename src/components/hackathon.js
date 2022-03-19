@@ -69,11 +69,10 @@ return (
                 <div class="right">
                     <h1 className="hack-head"  data-aos="fade-up">Flipr Hackathon</h1>
                     <p className="hack-content">
-                      Hello there, y'all! ✋ There's a chance to land a full-time job
-                      or an internship. Robotics society NIT hamirpur presents Flipr
-                      hackathon.☄️ This Hackathon will be entirely online, and a
+                      Robotics society NIT hamirpur presents Flipr
+                      hackathon.<br/>This Hackathon will be entirely online, and a
                       number of firms will be on the lookout for exceptional
-                      individuals to join their exclusive team.🤵This Hackathon will
+                      individuals to join their exclusive team.<br/>This Hackathon will
                       provide pre-final and final-year students with placement and
                       internship opportunities
                     </p>

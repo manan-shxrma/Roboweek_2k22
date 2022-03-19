@@ -75,7 +75,7 @@ class Outline extends React.Component {
                                                             <a class="nav-link" href="/#timeline">Timeline</a>
                                                         </li>
                                                         <li class="nav-item">
-                                                            <a class="nav-link" href="/#sponsors">Sponsors</a>
+                                                            <a class="nav-link" href="/#prizes">Prizes</a>
                                                         </li>
                                                         <li class="nav-item">
                                                             <a class="nav-link" href="/#contact">Contact</a>

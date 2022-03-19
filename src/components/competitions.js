@@ -19,10 +19,6 @@ function Services() {
   function activateLasers4() {
     window.location.href = "";
   }
-  function activateLasers5() {
-    window.location.href =
-      "https://dare2compete.com/hackathon/flipr-hackathon-roboweek-20-national-institute-of-technology-nit-hamirpur-271755";
-  }
 
   return (
     <>
