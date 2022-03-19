@@ -11,7 +11,7 @@ AOS.init();
 
 function prizes(){
     return(<> 
-                <section class="prizes"><div className="container">
+                <section id="prizes" class="prizes"><div className="container">
                 <div className="row">
     <div className="col-lg-5">
       <div data-aos="fade-right" className="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">

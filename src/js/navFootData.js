@@ -16,8 +16,8 @@ export const navItems = [
         url: "/#timeline",
     },
     {
-        title: "Sponsors",
-        url: "/#sponsors"
+        title: "Prizes",
+        url: "/#prizes"
     },
     {
         title: "Contact Us",
