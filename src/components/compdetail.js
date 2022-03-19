@@ -18,6 +18,7 @@ import '../css/outline.scss'
  let prizes1="";
  let prizes2="";
  let prizes3="";
+ let prizes4="";
  let participants="";
  let judging1="";
  let judging2="";
@@ -46,6 +47,7 @@ import '../css/outline.scss'
           prizes1=postcontent[i].prizes1;
           prizes2=postcontent[i].prizes2;
           prizes3=postcontent[i].prizes3;
+          prizes4=postcontent[i].prizes4;
          participants=postcontent[i].participants;
           judging1=postcontent[i].judging1;
           judging2=postcontent[i].judging2;
@@ -187,11 +189,14 @@ end */}
                <li> <h5 className="compet-name"><i style={{paddingRight:"16px",paddingTop:"3px"}} class="fa fa-award" aria-hidden="true"></i>Winner</h5>
                         <p className="compet-name2">{prizes1}</p>
                </li><br />
-               <li> <h5 className="compet-name"><i style={{paddingRight:"16px",paddingTop:"3px"}} class="fa fa-award" aria-hidden="true"></i>Runner Up</h5>
+               <li> <h5 className="compet-name"><i style={{paddingRight:"16px",paddingTop:"3px"}} class="fa fa-award" aria-hidden="true"></i>1st Runner Up</h5>
                         <p className="compet-name2">{prizes2}</p>
                </li><br />
-               <li> <h5 className="compet-name"><i style={{paddingRight:"16px",paddingTop:"3px"}} class="fa fa-award" aria-hidden="true"></i>Diversity</h5>
+               <li> <h5 className="compet-name"><i style={{paddingRight:"16px",paddingTop:"3px"}} class="fa fa-award" aria-hidden="true"></i>2nd Runner Up</h5>
                         <p className="compet-name2">{prizes3}</p>
+               </li><br />
+               <li> <h5 className="compet-name"><i style={{paddingRight:"16px",paddingTop:"3px"}} class="fa fa-award" aria-hidden="true"></i>Diversity </h5>
+                        <p className="compet-name2">{prizes4}</p>
                </li><br />
                <li> <h5 className="compet-name"><i style={{paddingRight:"16px",paddingTop:"3px"}} class="fa fa-award" aria-hidden="true"></i>All Participants</h5>
                         <p className="compet-name2">{participants}</p>
