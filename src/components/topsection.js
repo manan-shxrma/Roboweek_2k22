@@ -5,6 +5,7 @@ import "../css/base.css"
 import "../js/topsection.js"
 import "../css/topsec.css"
 import Illustration from "./illustration";
+import Funevents from "./funevents"
 
 AOS.init();
 function Topsection(){
@@ -24,10 +25,17 @@ return(<>
  <button onClick={activateLasers} id="bottone15"><i style={{paddingTop:"1%",paddingRight:"3%"}} class="fas fa-award" /> Register</button>
  <button style={{marginLeft:"3%"}} onClick={activateLasers1} id="bottone15"><i style={{paddingTop:"1%",paddingRight:"3%"}} className="fab fa-discord" /> Discord</button> 
  <div id="timer">
- <span id="days"></span>days
+ <a href="/#services">
+   <span className="event-start">
+    
+    Event Started !
+    
+   </span>
+   </a>
+ {/* <span id="days"></span>days
   <span id="hours"></span>hours
   <span id="minutes"></span>minutes
-  <span id="seconds"></span>seconds
+  <span id="seconds"></span>seconds */}
 </div>
 
 

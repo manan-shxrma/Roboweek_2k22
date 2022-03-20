@@ -466,3 +466,7 @@
   .timertext{
 	  color: aliceblue;
   }
+
+  .event-start {
+	font-family: 'Rowdies', cursive;
+  }
