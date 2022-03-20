@@ -1,7 +1,6 @@
 import React from "react"
 import Topsection from "./topsection"
 import Aboutsection from "./aboutsection";
-// import Hackathon from "./hackathon";
 import Freequote from "./Timeline";
 import {navItems,socialMedia,} from '../js/navFootData';
 import Sponsors from "./sponsors";
@@ -9,6 +8,7 @@ import Aos from 'aos';
 import 'aos/dist/aos.css'
 import Blog from "./blog"
 import Contact from "./contactus"
+import Hackathon from "./hackathon"
 import Competitions from "./competitions"
 import Funevents from "./funevents"
 import Techtalks from "./techtalks"
@@ -75,7 +75,7 @@ class Outline extends React.Component {
                                                             <a class="nav-link" href="/#timeline">Timeline</a>
                                                         </li>
                                                         <li class="nav-item">
-                                                            <a class="nav-link" href="/#sponsors">Sponsors</a>
+                                                            <a class="nav-link" href="/#prizes">Prizes</a>
                                                         </li>
                                                         <li class="nav-item">
                                                             <a class="nav-link" href="/#contact">Contact</a>
@@ -106,7 +106,7 @@ class Outline extends React.Component {
                     
                     <Topsection />
                     <Aboutsection />
-                    {/* <Hackathon /> */}
+                    <Hackathon />
                     <Competitions />
                     <Techtalks />
                     <Funevents />
