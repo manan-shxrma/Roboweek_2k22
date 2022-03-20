@@ -179,21 +179,15 @@
     }
     
 }
-@media(max-width:550px) {
-    .price {
-        position: relative;
-        top: 1280px;
-    }
-    .pricing__item--featured {
-        position: relative;
-        bottom: 615px;
-    }
-    .price-2 {
-        position: relative;
-        bottom: 615px;
-    }
-}
-/* @media (min-width:550px and max-width:1000px) {
+
+/* # Mobile
+only screen and (min-width: 480px)
+
+# Tablet
+only screen and (min-width: 768px) */
+
+
+@media (max-width:961px) {
     .price {
         position: relative;
         top: 650px;
@@ -209,5 +203,22 @@
         position: relative;
         bottom: 640px;
         left: 180px;
-    } */
-/* } */
+    }
+}
+@media (max-width:481px) {
+    .price {
+        position: relative;
+        top: 1230px;
+        left: 0px;
+    }
+    .pricing__item--featured {
+        position: relative;
+        bottom: 615px;
+        right: 0px;
+    }
+    .price-2 {
+        position: relative;
+        bottom: 615px;
+        left: 0px;
+    }
+}
