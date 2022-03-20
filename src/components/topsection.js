@@ -25,7 +25,7 @@ return(<>
  <button onClick={activateLasers} id="bottone15"><i style={{paddingTop:"1%",paddingRight:"3%"}} class="fas fa-award" /> Register</button>
  <button style={{marginLeft:"3%"}} onClick={activateLasers1} id="bottone15"><i style={{paddingTop:"1%",paddingRight:"3%"}} className="fab fa-discord" /> Discord</button> 
  <div id="timer">
- <a href="/#services">
+ <a href="#services">
    <span className="event-start">
     
     Event Started !
