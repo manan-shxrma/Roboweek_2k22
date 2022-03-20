@@ -30,7 +30,7 @@ function prizes(){
      {/* <-------------Hunt nova-----------> */}
      <div class="carousel-item active">
    
-         <h3 style={{color:"#fff",paddingTop:"5%",paddingBottom:"5%", textAlign:"center",fontSize:"4rem"}}>Hunt Nova</h3>
+         <h3 style={{color:"#fff",paddingTop:"2%",paddingBottom:"0.5%", textAlign:"center",fontSize:"4rem"}}>Hunt Nova</h3>
    <div style={{paddingTop:"3%"}} class='pricing pricing-palden'>
     <div  class='pricing-item'>
       <div style={{background:"rgb(121 85 72)", paddingBottom:"200px"}} class='pricing-deco'>
@@ -99,7 +99,7 @@ function prizes(){
   {/* <-------------Regatta 2.0-----------> */}
   <div class="carousel-item">
    
-         <h3 style={{color:"#fff",paddingTop:"5%",paddingBottom:"5%", textAlign:"center",fontSize:"4rem"}}>Regatta 2.0</h3>
+         <h3 style={{color:"#fff",paddingTop:"2%",paddingBottom:"0.5%", textAlign:"center",fontSize:"4rem"}}>Regatta 2.0</h3>
    <div style={{paddingTop:"3%"}} class='pricing pricing-palden'>
     <div  class='pricing-item'>
       <div style={{background:"rgb(121 85 72)", paddingBottom:"200px"}} class='pricing-deco'>
@@ -166,7 +166,7 @@ function prizes(){
   {/* <-------------Callisto-----------> */}
   <div class="carousel-item">
    
-         <h3 style={{color:"#fff",paddingTop:"5%",paddingBottom:"5%", textAlign:"center",fontSize:"4rem"}}>Callisto</h3>
+         <h3 style={{color:"#fff",paddingTop:"2%",paddingBottom:"0.5%", textAlign:"center",fontSize:"4rem"}}>Callisto</h3>
    <div style={{paddingTop:"3%"}} class='pricing pricing-palden'>
     <div  class='pricing-item'>
       <div style={{background:"rgb(121 85 72)", paddingBottom:"200px"}} class='pricing-deco'>
@@ -233,7 +233,7 @@ function prizes(){
      {/* <-------------Trash Bot-----------> */}
   <div class="carousel-item">
    
-         <h3 style={{color:"#fff",paddingTop:"5%",paddingBottom:"5%", textAlign:"center",fontSize:"4rem"}}>Trash Bot</h3>
+         <h3 style={{color:"#fff",paddingTop:"2%",paddingBottom:"0.5%", textAlign:"center",fontSize:"4rem"}}>Trash Bot</h3>
    <div style={{paddingTop:"3%"}} class='pricing pricing-palden'>
     <div  class='pricing-item'>
       <div style={{background:"rgb(121 85 72)", paddingBottom:"200px"}} class='pricing-deco'>
@@ -301,7 +301,7 @@ function prizes(){
     {/* <-------------Tinker it-----------> */}
   <div class="carousel-item">
    
-         <h3 style={{color:"#fff",paddingTop:"5%",paddingBottom:"5%", textAlign:"center",fontSize:"4rem"}}>Tinker It</h3>
+         <h3 style={{color:"#fff",paddingTop:"2%",paddingBottom:"0.5%", textAlign:"center",fontSize:"4rem"}}>Tinker It</h3>
    <div style={{paddingTop:"3%"}} class='pricing pricing-palden'>
     <div  class='pricing-item'>
       <div style={{background:"rgb(121 85 72)", paddingBottom:"200px"}} class='pricing-deco'>
@@ -369,7 +369,7 @@ function prizes(){
    {/* <-------------Design wars 2.0-----------> */}
   <div class="carousel-item">
    
-         <h3 style={{color:"#fff",paddingTop:"5%",paddingBottom:"5%", textAlign:"center",fontSize:"4rem"}}>Design Wars 2.0</h3>
+         <h3 style={{color:"#fff",paddingTop:"2%",paddingBottom:"0.5%", textAlign:"center",fontSize:"4rem"}}>Design Wars 2.0</h3>
    <div style={{paddingTop:"3%"}} class='pricing pricing-palden'>
     <div  class='pricing-item'>
       <div style={{background:"rgb(121 85 72)", paddingBottom:"200px"}} class='pricing-deco'>
@@ -437,7 +437,7 @@ function prizes(){
    {/* <-------------Code Naari-----------> */}
   <div class="carousel-item">
    
-         <h3 style={{color:"#fff",paddingTop:"5%",paddingBottom:"5%", textAlign:"center",fontSize:"4rem"}}>Code Naari</h3>
+         <h3 style={{color:"#fff",paddingTop:"2%",paddingBottom:"0.5%", textAlign:"center",fontSize:"4rem"}}>Code Naari</h3>
    <div style={{paddingTop:"3%"}} class='pricing pricing-palden'>
     <div  class='pricing-item'>
       <div style={{background:"rgb(121 85 72)", paddingBottom:"200px"}} class='pricing-deco'>
@@ -506,7 +506,7 @@ function prizes(){
    {/* <-------------Code Play-----------> */}
   <div class="carousel-item">
    
-         <h3 style={{color:"#fff",paddingTop:"5%",paddingBottom:"5%", textAlign:"center",fontSize:"4rem"}}>Code Play</h3>
+         <h3 style={{color:"#fff",paddingTop:"2%",paddingBottom:"0.5%", textAlign:"center",fontSize:"4rem"}}>Code Play</h3>
    <div style={{paddingTop:"3%"}} class='pricing pricing-palden'>
     <div  class='pricing-item'>
       <div style={{background:"rgb(121 85 72)", paddingBottom:"200px"}} class='pricing-deco'>
@@ -651,28 +651,28 @@ function prizes(){
 
   <div className="container">
                 <div className="row">
-    <div className="col-lg-5">
+    <div className="col-lg-12">
       <div data-aos="fade-right" className="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
         
-        <h4 style={{color:"white"}}>All participants</h4>  
+        <h4 style={{color:"white", paddingTop:"3%",paddingBottom:"2%",textAlign:"center"}}>For All participants</h4>  
       </div>
     </div>
   </div>
-  <div style={{paddingLeft:"5%"}}>
+  <div style={{paddingLeft:"5%",paddingRight:"5%"}}>
     <div style={{background: "rgba(0, 0, 0, 0.5)", borderRadius:"25px",color:"#fff" ,padding:"10px"}}  className="row">
       <div className="col-lg-6 col-md-6 col-sm-12">
                
-               <img style={{width:"80%", height:"80%"}} alt="none" src="assets/images/Graduation_Monochromatic.svg" />
+               <img style={{height:"80%"}} alt="none" src="assets/images/Graduation_Monochromatic.svg" />
       </div>
       <div className="col-lg-6 col-md-6 col-sm-12">
-      <ul style={{padding: "10% 10%"}}>
-                   <li className="allparli" >5-Year free upgrades for participants</li>
-                   <li className="allparli" >Provide 10% discount coupons on all the apparels</li>
-                   <li className="allparli" >Provide 10% discount coupons on all the apparels</li>
-                   <li className="allparli" >1 month free hosting on Expansion</li>
-                   <li className="allparli" >25% off the first year of 1Password Families</li>
-                   <li className="allparli" >Free course access on Full Coding Interview Prep Course</li>
-                   <li className="allparli" >90-day extended trial promo of Balsamiq Cloud</li>
+      <ul style={{paddingTop:"15%",paddingBottom:"5%",paddingRight:"10%",paddingLeft:"0"}}>
+                   <li className="allparli" ><i class="ion-university"/> 5-Year free upgrades for participants</li>
+                   <li className="allparli" ><i class="ion-university"/> Provide 10% discount coupons on all the apparels</li>
+                   <li className="allparli" ><i class="ion-university"/> Provide 10% discount coupons on all the apparels</li>
+                   <li className="allparli" ><i class="ion-university"/> 1 month free hosting on Expansion</li>
+                   <li className="allparli" ><i class="ion-university"/> 25% off the first year of 1Password Families</li>
+                   <li className="allparli" ><i class="ion-university"/> Free course access on Full Coding Interview Prep Course</li>
+                   <li className="allparli" ><i class="ion-university"/> 90-day extended trial promo of Balsamiq Cloud</li>
                  </ul>
       </div>
     </div>
