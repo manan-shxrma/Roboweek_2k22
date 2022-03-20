@@ -8,7 +8,7 @@ AOS.init();
 function Aboutsection() {
   return (
     <>
-      <div id="about" className="about section">
+      <div id="about" className="about section" style={{paddingBottom:"100px"}}>
         <div className="container">
           <div className="row">
             <div className="col-lg-12">
