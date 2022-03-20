@@ -175,5 +175,39 @@
     .pricing-item{
         margin-right: 10%;
         margin-left: 10%;
+        
+    }
+    
+}
+@media(max-width:550px) {
+    .price {
+        position: relative;
+        top: 1280px;
+    }
+    .pricing__item--featured {
+        position: relative;
+        bottom: 615px;
+    }
+    .price-2 {
+        position: relative;
+        bottom: 615px;
     }
 }
+/* @media (min-width:550px and max-width:1000px) {
+    .price {
+        position: relative;
+        top: 650px;
+        left: 180px;
+    }
+    .pricing__item--featured {
+        position: relative;
+        right: 360px;
+        bottom: 15px;
+        height: 585px;
+    }
+    .price-2 {
+        position: relative;
+        bottom: 640px;
+        left: 180px;
+    } */
+/* } */
