@@ -27,18 +27,18 @@ function Freequote(){
 <div class="main-timeline">
 
                         {/* <!-- start experience section--> */}
-                        <div data-aos="fade-left" class="timeline">
+                        <div data-aos="fade-left" class="timeline" style={{color:"#adaeaf"}}>
                             <div class="icon"></div>
                             <div class="date-content date-0" >
                                 <div class="date-outer">
-                                    <span class="date">
+                                    <span class="date" >
                                             <span class="month">18th March</span>
-                                    <span class="year">2022</span>
+                                    <span class="year" style={{color:"#adaeaf"}}>2022</span>
                                     </span>
                                 </div>
                             </div>
                             <div class="timeline-content">
-                            <div class="row">
+                            <div class="row" >
                                 <div class="col-6 col-md-6 grey time-content-a">
 								Clipped | Statement Release
                                 </div>
@@ -62,13 +62,13 @@ function Freequote(){
                         </div>
                         {/* <!-- end experience section-->*/}
                         {/* <!-- start experience section--> */}
-                        <div data-aos="fade-right" class="timeline">
+                        <div data-aos="fade-right" class="timeline" style={{color:"#adaeaf"}}>
                             <div class="icon"></div>
                             <div class="date-content date-1">
                                 <div class="date-outer">
                                     <span class="date">
                                             <span class="month">21st March</span>
-                                    <span class="year">2022</span>
+                                    <span class="year" style={{color:"#adaeaf"}}>2022</span>
                                     </span>
                                 </div>
                             </div>
@@ -129,7 +129,7 @@ function Freequote(){
                                 </div>
                             </div>
                             <div class="timeline-content">
-                            <div class="row">
+                            <div class="row" style={{paddingTop:"5%"}}>
                                 <div class="col-6 col-md-6 grey time-content-a">
 								Callisto | Statement Release
                                 </div>
