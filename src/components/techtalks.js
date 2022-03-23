@@ -239,7 +239,7 @@ Datamatics Global Services
                     </a>
                   </div>
                   <div class="buttons">
-                     <a href="https://dare2compete.com/workshop/tech-talks-roboweek-20-national-institute-of-technology-nit-hamirpur-269981" target="_blank"><button class="raise">Register Now</button></a>
+                     <a href="https://dare2compete.com/workshop/tech-talks-roboweek-20-national-institute-of-technology-nit-hamirpur-269981" target="_blank"><button disabled class="raise" style={{cursor:"not-allowed"}}>Register Now</button></a>
                      {/* <button class="raise">play</button> */}
                   </div>
                 </figcaption>
