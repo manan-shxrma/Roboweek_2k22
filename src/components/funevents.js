@@ -36,7 +36,7 @@ function Services(){
             <div className="hate"><b>TECH EVENT</b></div>
             <div class="profile-description">
             Design and build a robot out of trash materials. </div>
-            <a href="https://dare2compete.com/competition/trash-bot-roboweek-20-national-institute-of-technology-nit-hamirpur-263560" className="bn5" style={{backgroundColor: "black"}}>Register</a><Link to="/post/trashbot" className="bn5">Details</Link> 
+            <a href="https://dare2compete.com/api/competition/get-attachment/62386b8e0b4b2_TrashBot.pdf" className="bn5" target="_blank" style={{backgroundColor: "black"}}>Documentation</a><Link to="/post/trashbot" className="bn5">Details</Link> 
         </div>
     </div>
 </div>
@@ -67,7 +67,7 @@ function Services(){
 
 
 </div>
-            <a href="https://dare2compete.com/creative-cultural-event/callisto-roboweek-20-national-institute-of-technology-nit-hamirpur-263270" class="bn5" style={{backgroundColor: "black"}}>Register</a><Link to="/post/callisto" class="bn5">Details</Link>
+            <a href="https://dare2compete.com/api/competition/get-attachment/6239a56e66413_Copy_of_PROBLEM_STATEMENT_DOCUMENT__1_.pdf" class="bn5" target="_blank" style={{backgroundColor: "black"}}>Documentation</a><Link to="/post/callisto" class="bn5">Details</Link>
         </div>
     </div></div>
     <div style={{paddingBottom:"5%"}} class="col-md-6 col-lg-4 right-card">
@@ -81,7 +81,7 @@ function Services(){
             <div className="hate"><b>TECH EVENT</b></div>
             <div class="profile-description mb-2">Play with your logic to crack the components and build a working prototype on TinkerCad.
 </div>
-            <a href="https://dare2compete.com/competition/hunt-nova-roboweek-20-national-institute-of-technology-nit-hamirpur-263565" class="bn5" style={{backgroundColor: "black"}}>Register</a><Link to="/post/huntnova" class="bn5">Details</Link>
+            <a href="https://dare2compete.com/api/competition/get-attachment/623861f615589_HUNT_NOVA__Problem_Statement_.pdf" class="bn5" target="_blank" style={{backgroundColor: "black"}}>Documentation</a><Link to="/post/huntnova" class="bn5">Details</Link>
         </div>
     </div></div>
     <div class="col-md-6 col-lg-4 left-card">
@@ -94,7 +94,7 @@ function Services(){
         <span class="tag12 " style={{marginLeft:"1.8vw"}}>Coding</span>
             <div className="hate"><b>TECH EVENT</b></div>
             <div class="profile-description mb-2">Compete with many coders from around the country.</div>
-            <a href="https://dare2compete.com/hackathon/code-play-roboweek-20-national-institute-of-technology-nit-hamirpur-263922" class="bn5" style={{backgroundColor: "black"}}>Register</a><Link to="/post/codeplay" class="bn5">Details</Link>
+            <Link to="/post/codeplay" class="bn5">Details</Link>
         </div>
     </div></div>
     <div class="col-md-6 col-lg-4 right-card">
@@ -107,7 +107,7 @@ function Services(){
         <span class="tag12 " style={{marginLeft:"0.76vw"}}>Mech. Design</span>
             <div className="hate"><b>TECH EVENT</b></div>
             <div class="profile-description mb-2">Design Wars 2.0  aims to inspire learning through a real-world scenario. </div>
-            <a href="https://dare2compete.com/creative-cultural-event/design-wars-20-roboweek-20-national-institute-of-technology-nit-hamirpur-263524" class="bn5" style={{backgroundColor: "black"}}>Register</a><Link to="/post/designwars" class="bn5">Details</Link>
+            <a href="https://dare2compete.com/api/competition/get-attachment/62346d5d6b66f_Design_Wars_2.0__Problem_Statement_.pdf" class="bn5" target="_blank" style={{backgroundColor: "black"}}>Documentation</a><Link to="/post/designwars" class="bn5">Details</Link>
         </div>
     </div></div>
     <div style={{paddingBottom:"5%"}} class="col-md-6 col-lg-6 left-card regatta">
@@ -120,7 +120,7 @@ function Services(){
         <span class="tag12 " style={{marginLeft:"2.8vw"}}>ROS</span>
             <div className="hate"><b>TECH EVENT</b></div>
             <div class="profile-description mb-2">Solve the problem statements using ROS NOETIC, ROS MELODIC or constructsim(online).</div>
-            <a href="https://dare2compete.com/competition/regatta-20-roboweek-20-national-institute-of-technology-nit-hamirpur-263326" class="bn5" style={{backgroundColor: "black"}}>Register</a><Link to="/post/regatta" class="bn5">Details</Link>
+            <a href="https://dare2compete.com/api/competition/get-attachment/62346e0cb74a0_regatta_2.0__Problem_Statement_.pdf" class="bn5" target="_blank" style={{backgroundColor: "black"}}>Documentation</a><Link to="/post/regatta" class="bn5">Details</Link>
         </div>
     </div></div>
     <div style={{paddingBottom:"5%"}} class="col-md-6 col-lg-6 npm right-card tinkerit">
@@ -133,7 +133,7 @@ function Services(){
         <span class="tag12 " style={{marginLeft:"2.8vw"}}>Technical</span>
             <div className="hate"><b>TECH EVENT</b></div>
             <div class="profile-description mb-2">Solve IOT challenge statements on TinkerCAD.</div>
-            <a href="https://dare2compete.com/competition/tinker-it-roboweek-20-national-institute-of-technology-nit-hamirpur-263696" class="bn5" style={{backgroundColor: "black"}}>Register</a><Link to="/post/tinkerit" class="bn5">Details</Link>
+            <a href="https://dare2compete.com/api/competition/get-attachment/623861a742a62_Tinker_It__Problem_Statement_.pdf" class="bn5" target="_blank" style={{backgroundColor: "black"}}>Documentation</a><Link to="/post/tinkerit" class="bn5">Details</Link>
         </div>
         </div>
     </div>
@@ -148,7 +148,7 @@ function Services(){
             <div className="hate"><b>FUN EVENT</b></div>
             <div class="profile-description mb-2">Enable you to put your creative and editing skills at one place
 </div>
-            <a href="https://dare2compete.com/creative-cultural-event/clipped-roboweek-20-national-institute-of-technology-nit-hamirpur-263537" class="bn5" style={{backgroundColor: "black"}}>Register</a><Link to="/post/clipped" class="bn5">Details</Link>
+            <a href="https://dare2compete.com/api/competition/get-attachment/62346d13e9b2d_CLIPPED__Problem_Statement_.pdf" class="bn5" target="_blank" style={{backgroundColor: "black"}}>Documentation</a><Link to="/post/clipped" class="bn5">Details</Link>
         </div>
     </div></div>
     <div class="col-lg-4 col-md-6 right-card">

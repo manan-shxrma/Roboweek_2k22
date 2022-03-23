@@ -67,7 +67,7 @@ function Services() {
                     </a>
                   </div>
                   <div class="buttons">
-                  <a href="https://dare2compete.com/workshop/tech-talks-roboweek-20-national-institute-of-technology-nit-hamirpur-269981" target="_blank"><button class="raise">Register Now</button></a>
+                  <a href="https://youtu.be/qtheF6UpIRI" target="_blank"><button class="raise">Play</button></a>
                      {/* <button class="raise">play</button> */}
                   </div>
                 </figcaption>
