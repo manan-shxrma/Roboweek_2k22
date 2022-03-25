@@ -67,8 +67,8 @@ function Services() {
                     </a>
                   </div>
                   <div class="buttons">
-                  <a href="https://youtu.be/qtheF6UpIRI" target="_blank"><button class="raise">Play</button></a>
-                     {/* <button class="raise">play</button> */}
+                  <a href="https://youtu.be/qtheF6UpIRI" target="_blank"><button class="raise" style={{paddingLeft:"50px",paddingRight:"50px"}}>Play Now</button></a>
+                     {/* <button class="raise">Play Now Now Now Now</button> */}
                   </div>
                 </figcaption>
               </figure>
@@ -103,7 +103,7 @@ function Services() {
                   </div>
                   <div class="buttons">
                   <a href="https://dare2compete.com/workshop/tech-talks-roboweek-20-national-institute-of-technology-nit-hamirpur-269981" target="_blank"><button class="raise">Register Now</button></a>
-                     {/* <button class="raise">play</button> */}
+                     {/* <button class="raise">Play Now Now Now Now</button> */}
                   </div>
                 </figcaption>
               </figure>
@@ -145,8 +145,8 @@ function Services() {
                     </a>
                   </div>
                   <div class="buttons">
-                     <a href="https://dare2compete.com/workshop/tech-talks-roboweek-20-national-institute-of-technology-nit-hamirpur-269981" target="_blank"><button class="raise">Register Now</button></a>
-                     {/* <button class="raise">play</button> */}
+                     <a href="https://youtu.be/YHZ9F-ZBNH8" target="_blank"><button class="raise" style={{paddingLeft:"50px",paddingRight:"50px"}}>Play Now</button></a>
+                     {/* <button class="raise">Play Now Now Now Now</button> */}
                   </div>
                 </figcaption>
               </figure>
@@ -188,8 +188,8 @@ function Services() {
                     </a>
                   </div>
                   <div class="buttons">
-                     <a href="https://dare2compete.com/workshop/tech-talks-roboweek-20-national-institute-of-technology-nit-hamirpur-269981" target="_blank"><button class="raise">Register Now</button></a>
-                     {/* <button class="raise">play</button> */}
+                     <a href="https://youtu.be/eTgyTyVp4BU" target="_blank"><button class="raise" style={{paddingLeft:"50px",paddingRight:"50px"}}>Play Now</button></a>
+                     {/* <button class="raise">Play Now Now Now Now</button> */}
                   </div>
                 </figcaption>
               </figure>
@@ -239,8 +239,8 @@ Datamatics Global Services
                     </a>
                   </div>
                   <div class="buttons">
-                     <a href="https://www.youtube.com/watch?v=srJZ61_5-aA" target="_blank"><button class="raise">Play</button></a>
-                     {/* <button class="raise">play</button> */}
+                     <a href="https://www.youtube.com/watch?v=srJZ61_5-aA" target="_blank"><button class="raise" style={{paddingLeft:"50px",paddingRight:"50px"}}>Play Now</button></a>
+                     {/* <button class="raise">Play Now Now Now Now</button> */}
                   </div>
                 </figcaption>
               </figure>
