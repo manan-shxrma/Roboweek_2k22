@@ -66,7 +66,7 @@ function prizes(){
       <div class="first-prize">
       <h2>Winners</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px", paddingBottom:"80px"}}>
-        <li class='pricing-feature'>Free D2C Pro membership worth Rs. 999, giving them free access to high quality courses</li>
+        <li class='pricing-feature'>A cash prize of Rs. 2,000 /- </li>
         <li class='pricing-feature'>12 months free hosting</li>
         <li class='pricing-feature'>Async online mock interviews with unlimited practice</li>
       </ul>
@@ -87,7 +87,7 @@ function prizes(){
       <div class="second-prize">
       <h2>Runners Up</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px"}}>
-        <li class='pricing-feature'>Gift vouchers from HoverRobotix Hoverboards India worth Rs 10000/- each</li>
+        <li class='pricing-feature'>A cash prize of Rs. 1,500 /- </li>
         <li class='pricing-feature'>6 months free hosting</li>
         <li class='pricing-feature'>Async online mock interviews with unlimited practice</li>
       </ul>
@@ -134,7 +134,7 @@ function prizes(){
         <div class="first-prize">
       <h2>Winners</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px", paddingBottom:"80px"}}>
-        <li class='pricing-feature'>Free D2C Pro membership worth Rs. 999, giving them free access to high quality courses</li>
+        <li class='pricing-feature'>A cash prize of Rs. 1,500 /-</li>
         <li class='pricing-feature'>12 months free hosting</li>
         <li class='pricing-feature'>Async online mock interviews with unlimited practice</li>
       </ul></div>
@@ -154,7 +154,7 @@ function prizes(){
       <div class="second-prize">
       <h2>Runners Up</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px"}}>
-        <li class='pricing-feature'>Gift vouchers from HoverRobotix Hoverboards India worth Rs 10000/- each</li>
+        <li class='pricing-feature'>A cash prize of Rs. 1,000 /- </li>
         <li class='pricing-feature'>6 months free hosting</li>
         <li class='pricing-feature'>Async online mock interviews with unlimited practice</li>
       </ul>
@@ -201,7 +201,7 @@ function prizes(){
         <div class="first-prize">
       <h2>Winners</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px", paddingBottom:"80px"}}>
-        <li class='pricing-feature'>Free D2C Pro membership worth Rs. 999, giving them free access to high quality courses</li>
+        <li class='pricing-feature'>A cash prize of Rs. 1,000 /-</li>
         <li class='pricing-feature'>12 months free hosting</li>
         <li class='pricing-feature'>Async online mock interviews with unlimited practice</li>
       </ul></div>
@@ -221,7 +221,7 @@ function prizes(){
       <div class="second-prize">
       <h2>Runners Up</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px"}}>
-        <li class='pricing-feature'>Gift vouchers from HoverRobotix Hoverboards India worth Rs 10000/- each</li>
+        <li class='pricing-feature'>A cash prize of Rs. 750 /-</li>
         <li class='pricing-feature'>6 months free hosting</li>
         <li class='pricing-feature'>Async online mock interviews with unlimited practice</li>
       </ul>
@@ -269,7 +269,7 @@ function prizes(){
         <div class="first-prize">
       <h2>Winners</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px", paddingBottom:"80px"}}>
-        <li class='pricing-feature'>Free D2C Pro membership worth Rs. 999, giving them free access to high quality courses</li>
+        <li class='pricing-feature'>A cash prize of Rs. 1,500 /- </li>
         <li class='pricing-feature'>12 months free hosting</li>
         <li class='pricing-feature'>Async online mock interviews with unlimited practice</li>
       </ul></div>
@@ -289,7 +289,7 @@ function prizes(){
       <div class="second-prize">
       <h2>Runners Up</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px"}}>
-        <li class='pricing-feature'>Gift vouchers from HoverRobotix Hoverboards India worth Rs 10000/- each</li>
+        <li class='pricing-feature'>A cash prize of Rs. 1,000 /-</li>
         <li class='pricing-feature'>6 months free hosting</li>
         <li class='pricing-feature'>Async online mock interviews with unlimited practice</li>
       </ul>
@@ -337,7 +337,7 @@ function prizes(){
         <div class="first-prize">
       <h2>Winners</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px", paddingBottom:"80px"}}>
-        <li class='pricing-feature'>Free D2C Pro membership worth Rs. 999, giving them free access to high quality courses</li>
+        <li class='pricing-feature'>A cash prize of Rs. 2,000 /-</li>
         <li class='pricing-feature'>12 months free hosting</li>
         <li class='pricing-feature'>Async online mock interviews with unlimited practice</li>
       </ul></div>
@@ -357,7 +357,7 @@ function prizes(){
       <div class="second-prize">
       <h2>Runners Up</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px"}}>
-        <li class='pricing-feature'>Gift vouchers from HoverRobotix Hoverboards India worth Rs 10000/- each</li>
+        <li class='pricing-feature'>A cash prize of Rs. 1,500 /-</li>
         <li class='pricing-feature'>6 months free hosting</li>
         <li class='pricing-feature'>Async online mock interviews with unlimited practice</li>
       </ul>
@@ -405,7 +405,7 @@ function prizes(){
         <div class="first-prize">
       <h2>Winners</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px", paddingBottom:"80px"}}>
-        <li class='pricing-feature'>Free D2C Pro membership worth Rs. 999, giving them free access to high quality courses</li>
+        <li class='pricing-feature'>A cash prize of Rs. 2,000 /-</li>
         <li class='pricing-feature'>12 months free hosting</li>
         <li class='pricing-feature'>Async online mock interviews with unlimited practice</li>
       </ul></div>
@@ -425,7 +425,7 @@ function prizes(){
       <div class="second-prize">
       <h2>Runners Up</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px"}}>
-        <li class='pricing-feature'>Gift vouchers from HoverRobotix Hoverboards India worth Rs 10000/- each</li>
+        <li class='pricing-feature'>A cash prize of Rs. 1,500 /-</li>
         <li class='pricing-feature'>6 months free hosting</li>
         <li class='pricing-feature'>Async online mock interviews with unlimited practice</li>
       </ul>
@@ -452,7 +452,7 @@ function prizes(){
       <div class="third-prize">
       <h2>2nd Runners Up</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px"}}>
-        <li class='pricing-feature'>Gift vouchers from HoverRobotix Hoverboards India worth Rs 10000/- each</li>
+        <li class='pricing-feature'>A cash prize of Rs. 750 /- </li>
         <li class='pricing-feature'>3 months free hosting.</li>
         <li class='pricing-feature'>Async online mock interviews with unlimited practice</li>
       </ul>
@@ -473,7 +473,7 @@ function prizes(){
         <div class="first-prize">
       <h2>Winners</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px", paddingBottom:"80px"}}>
-        <li class='pricing-feature'>Free D2C Pro membership worth Rs. 999, giving them free access to high quality courses</li>
+        <li class='pricing-feature'>A cash prize of Rs. 2,000 /- </li>
         <li class='pricing-feature'>12 months free hosting</li>
         <li class='pricing-feature'>Async online mock interviews with unlimited practice</li>
       </ul></div>
@@ -493,7 +493,7 @@ function prizes(){
       <div class="second-prize">
       <h2>Runners Up</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px"}}>
-        <li class='pricing-feature'>Gift vouchers from HoverRobotix Hoverboards India worth Rs 10000/- each</li>
+        <li class='pricing-feature'>A cash prize of Rs. 1,500 /- </li>
         <li class='pricing-feature'>6 months free hosting</li>
         <li class='pricing-feature'>Async online mock interviews with unlimited practice</li>
       </ul>
@@ -521,7 +521,7 @@ function prizes(){
       <div class="third-prize">
       <h2>2nd Runners Up</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px"}}>
-        <li class='pricing-feature'>Gift vouchers from HoverRobotix Hoverboards India worth Rs 10000/- each</li>
+        <li class='pricing-feature'>A cash prize of Rs. 500 /-</li>
         <li class='pricing-feature'>3 months free hosting.</li>
         <li class='pricing-feature'>Async online mock interviews with unlimited practice</li>
       </ul>
@@ -542,7 +542,7 @@ function prizes(){
         <div class="first-prize">
       <h2>Winners</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px", paddingBottom:"80px"}}>
-        <li class='pricing-feature'>Free D2C Pro membership worth Rs. 999, giving them free access to high quality courses</li>
+        <li class='pricing-feature'>A cash prize of Rs. 1,500 /-</li>
         <li class='pricing-feature'>12 months free hosting</li>
         <li class='pricing-feature'>Async online mock interviews with unlimited practice</li>
       </ul></div>
@@ -562,7 +562,7 @@ function prizes(){
       <div class="second-prize">
       <h2>Runners Up</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px"}}>
-        <li class='pricing-feature'>Gift vouchers from HoverRobotix Hoverboards India worth Rs 10000/- each</li>
+        <li class='pricing-feature'>A cash prize of Rs. 1,000 /-</li>
         <li class='pricing-feature'>6 months free hosting</li>
         <li class='pricing-feature'>Async online mock interviews with unlimited practice</li>
       </ul>
