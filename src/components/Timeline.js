@@ -208,13 +208,13 @@ function Freequote(){
                         {/* <!-- end experience section--> */}
 
                         {/* <!-- start experience section--> */}
-                        <div data-aos="fade-left" class="timeline">
+                        <div data-aos="fade-left" class="timeline" style={{color:"#adaeaf"}}>
                             <div class="icon"></div>
                             <div class="date-content date-4">
                                 <div class="date-outer">
                                     <span class="date">
                                             <span class="month">24th March</span>
-                                    <span class="year">2022</span>
+                                    <span class="year" style={{color:"#adaeaf"}}>2022</span>
                                     </span>
                                 </div>
                             </div>
