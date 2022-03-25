@@ -161,7 +161,7 @@ function Services(){
         <span class="tag12 " style={{marginLeft:"1.4vw"}}>Deduction</span>
             <div className="hate"><b>FUN EVENT</b></div>
             <div class="profile-description mb-2">A virtual treasure hunt- let the mystery saga unfold.</div>
-            <a href="https://dare2compete.com/competition/arcanum-roboweek-20-national-institute-of-technology-nit-hamirpur-263309" class="bn5" style={{backgroundColor: "black"}}>Register</a><Link to="/post/arcanum" class="bn5">Details</Link>
+            <a href="https://dare2compete.com/competition/arcanum-roboweek-20-national-institute-of-technology-nit-hamirpur-263309" class="bn5" style={{backgroundColor: "black", paddingLeft:"35px",paddingRight:"35px"}}>Play</a><Link to="/post/arcanum" class="bn5">Details</Link>
         </div>
     </div></div>
     <div class="col-lg-4 col-md-12">
