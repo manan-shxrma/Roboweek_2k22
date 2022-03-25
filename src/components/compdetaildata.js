@@ -272,7 +272,7 @@ const homedata = [
         instructions5:"",
         title:"Squiz game",
         submission1:"Submission platform- Google Forms .",
-        submission2:"The submission window will be open from 26/03/2022  09:00 PM (IST) to 10:00 PM (IST)",
+        submission2:"The submission window will be open from 26/03/2022  09:00 PM (IST) to 09:30 PM (IST)",
         judging1:"Based on the no of correct answers the score will be distributed.",
         judging2:" In case of tie breaker the participant who submitted the form in less time will be considered as winner.",
         judging3:"",
