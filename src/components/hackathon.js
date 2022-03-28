@@ -127,7 +127,7 @@ return (
                                               marginBottom: "5%"
                                             }}
                                           >
-                                            {" "}
+                                            {/* {" "}
                                             <i
                                               style={{
                                                 paddingRight: "2px",
@@ -135,8 +135,8 @@ return (
                                               }}
                                               class="fa fa-award"
                                               aria-hidden="true"
-                                            ></i>{" "}
-                                            Register
+                                            ></i>{" "} */}
+                                            Ended
                                           </button>
                                         </div>
                                         </div>

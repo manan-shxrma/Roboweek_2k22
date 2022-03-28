@@ -56,7 +56,7 @@ import '../css/outline.scss'
           submission1=postcontent[i].submission1;
           submission2=postcontent[i].submission2;
           srcDoc=postcontent[i].srcDoc;
-          srcReg=postcontent[i].srcReg
+          srcReg=postcontent[i].srcReg;
         }
     
     else{
@@ -208,7 +208,7 @@ end */}
           <br></br>
           <div class="col-md-6">
             <a target="_blank" href={srcDoc} class="btn btn--with-icon" style={{marginRight: '16px', marginBottom: '16px'}}><i class="btn-icon fa fa-long-arrow-right"></i> Documentation</a>
-            <a target="_blank" href={srcReg} class="btn btn--with-icon" style={{marginRight: '16px', marginBottom: '16px'}}><i class="btn-icon fa fa-long-arrow-right"></i> Register here! </a>
+            {/* <a target="_blank" href={srcReg} class="btn btn--with-icon" style={{marginRight: '16px', marginBottom: '16px'}}><i class="btn-icon fa fa-long-arrow-right"></i> Register here! </a> */}
           </div>
         </div>
       </article>
