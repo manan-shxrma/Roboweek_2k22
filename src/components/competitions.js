@@ -156,7 +156,7 @@ function Services() {
                                         </span>{" "}
                                       </div>
                                       <div class="row buttons-ml">
-                                        <button
+                                        {/* <button
                                           onClick={activateLasers3}
                                           id="bottone5"
                                           style={{ width: "fit-content" }}
@@ -171,7 +171,7 @@ function Services() {
                                             aria-hidden="true"
                                           ></i>{" "}
                                           Register
-                                        </button>
+                                        </button> */}
 
                                         <button
                                           onClick={activateLasers4}
@@ -184,10 +184,10 @@ function Services() {
                                               paddingRight: "2px",
                                               paddingTop: "3px",
                                             }}
-                                            class="fa fa-play"
+                                            class="fa fa-youtube-play"
                                             aria-hidden="true"
                                           ></i>{" "}
-                                          Play
+                                          <b>Watch Now</b>
                                         </button>
                                       </div>
                                     </div>
@@ -257,7 +257,7 @@ function Services() {
                                         </span>{" "}
                                       </div>
                                       <div class="row buttons-ml">
-                                        <button
+                                        {/* <button
                                           onClick={activateLasers1}
                                           id="bottone5"
                                           style={{ width: "fit-content" }}
@@ -272,13 +272,12 @@ function Services() {
                                             aria-hidden="true"
                                           ></i>{" "}
                                           Register
-                                        </button>
+                                        </button> */}
 
-                                        <button
+<button
                                           onClick={activateLasers2}
                                           style={{ width: "fit-content" }}
                                           id="bottone-5"
-                                          disabled
                                         >
                                           {" "}
                                           <i
@@ -286,10 +285,10 @@ function Services() {
                                               paddingRight: "2px",
                                               paddingTop: "3px",
                                             }}
-                                            class="fa fa-play"
+                                            class="fa fa-youtube-play"
                                             aria-hidden="true"
                                           ></i>{" "}
-                                          Play
+                                          <b>Watch Now</b>
                                         </button>
                                       </div>
                                     </div>

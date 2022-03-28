@@ -67,7 +67,7 @@ function Services() {
                     </a>
                   </div>
                   <div class="buttons">
-                  <a href="https://youtu.be/qtheF6UpIRI" target="_blank"><button class="raise" style={{paddingLeft:"50px",paddingRight:"50px"}}>Play Now</button></a>
+                  <a href="https://youtu.be/qtheF6UpIRI" target="_blank"><button class="raise" style={{paddingLeft:"50px",paddingRight:"50px"}}>Watch Now</button></a>
                      {/* <button class="raise">Play Now Now Now Now</button> */}
                   </div>
                 </figcaption>
@@ -102,7 +102,7 @@ function Services() {
                     </a> */}
                   </div>
                   <div class="buttons">
-                  <a href="https://dare2compete.com/workshop/tech-talks-roboweek-20-national-institute-of-technology-nit-hamirpur-269981" target="_blank"><button class="raise">Register Now</button></a>
+                  <a href="https://www.youtube.com/watch?v=D7hhgGlkS60" target="_blank"><button class="raise">Watch Now</button></a>
                      {/* <button class="raise">Play Now Now Now Now</button> */}
                   </div>
                 </figcaption>
@@ -145,7 +145,7 @@ function Services() {
                     </a>
                   </div>
                   <div class="buttons">
-                     <a href="https://youtu.be/YHZ9F-ZBNH8" target="_blank"><button class="raise" style={{paddingLeft:"50px",paddingRight:"50px"}}>Play Now</button></a>
+                     <a href="https://youtu.be/YHZ9F-ZBNH8" target="_blank"><button class="raise" style={{paddingLeft:"50px",paddingRight:"50px"}}>Watch Now</button></a>
                      {/* <button class="raise">Play Now Now Now Now</button> */}
                   </div>
                 </figcaption>
@@ -188,7 +188,7 @@ function Services() {
                     </a>
                   </div>
                   <div class="buttons">
-                     <a href="https://youtu.be/eTgyTyVp4BU" target="_blank"><button class="raise" style={{paddingLeft:"50px",paddingRight:"50px"}}>Play Now</button></a>
+                     <a href="https://youtu.be/eTgyTyVp4BU" target="_blank"><button class="raise" style={{paddingLeft:"50px",paddingRight:"50px"}}>Watch Now</button></a>
                      {/* <button class="raise">Play Now Now Now Now</button> */}
                   </div>
                 </figcaption>
@@ -239,7 +239,7 @@ Datamatics Global Services
                     </a>
                   </div>
                   <div class="buttons">
-                     <a href="https://www.youtube.com/watch?v=srJZ61_5-aA" target="_blank"><button class="raise" style={{paddingLeft:"50px",paddingRight:"50px"}}>Play Now</button></a>
+                     <a href="https://www.youtube.com/watch?v=srJZ61_5-aA" target="_blank"><button class="raise" style={{paddingLeft:"50px",paddingRight:"50px"}}>Watch Now</button></a>
                      {/* <button class="raise">Play Now Now Now Now</button> */}
                   </div>
                 </figcaption>

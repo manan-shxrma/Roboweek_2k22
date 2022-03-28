@@ -24,7 +24,7 @@ function Freequote(){
        
 
         <div style={{paddingTop:"5%"}} class="container">
-<div class="main-timeline">
+<div class="main-timeline" style={{color:"#adaeaf"}}>
 
                         {/* <!-- start experience section--> */}
                         <div data-aos="fade-left" class="timeline" style={{color:"#adaeaf"}}>
@@ -261,13 +261,13 @@ function Freequote(){
                         </div>
                         {/* <!-- end experience section--> */}
                         {/* <!-- start experience section--> */}
-                        <div data-aos="fade-right" class="timeline">
+                        <div data-aos="fade-right" class="timeline" style={{color:"#adaeaf"}}>
                             <div class="icon"></div>
                             <div class="date-content date-5">
                                 <div class="date-outer">
                                     <span class="date">
                                             <span class="month">25th March</span>
-                                    <span class="year">2022</span>
+                                    <span class="year" style={{color:"#adaeaf"}}>2022</span>
                                     </span>
                                 </div>
                             </div>
@@ -322,13 +322,13 @@ function Freequote(){
                         </div>
                         {/* <!-- end experience section--> */}
                         {/* <!-- start experience section--> */}
-                        <div data-aos="fade-left" class="timeline">
+                        <div data-aos="fade-left" class="timeline" style={{color:"#adaeaf"}}>
                             <div class="icon"></div>
                             <div class="date-content date-6">
                                 <div class="date-outer">
                                     <span class="date">
                                             <span class="month">26th March</span>
-                                    <span class="year">2022</span>
+                                    <span class="year" style={{color:"#adaeaf"}}>2022</span>
                                     </span>
                                 </div>
                             </div>
@@ -369,13 +369,13 @@ function Freequote(){
                         </div>
                         {/* <!-- end experience section--> */}
                         {/* <!-- start experience section--> */}
-                        <div data-aos="fade-right" class="timeline">
+                        <div data-aos="fade-right" class="timeline" style={{color:"#adaeaf"}}>
                             <div class="icon"></div>
                             <div class="date-content date-7">
                                 <div class="date-outer">
                                     <span class="date">
                                             <span class="month">27th March</span>
-                                    <span class="year">2022</span>
+                                    <span class="year" style={{color:"#adaeaf"}}>2022</span>
                                     </span>
                                 </div>
                             </div>
