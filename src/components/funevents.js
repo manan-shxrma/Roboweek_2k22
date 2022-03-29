@@ -95,6 +95,7 @@ function Services(){
         <span class="tag12 " style={{marginLeft:"1.8vw"}}>Coding</span>
             <div className="hate"><b>TECH EVENT</b></div>
             <div class="profile-description mb-2">Compete with many coders from around the country.</div>
+            <a href="https://docs.google.com/spreadsheets/d/1txfWB5mVyjgBDkwc1O_FrUffU-r0Up21BWoTbC6-q8o/edit?usp=sharing" class="bn5" target="_blank" style={{backgroundColor: "black"}}>Results</a>
             <Link to="/post/codeplay" class="bn5">Details</Link>
         </div>
     </div></div>
