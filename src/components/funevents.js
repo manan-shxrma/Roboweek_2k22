@@ -50,7 +50,7 @@ function Services(){
             <div className="hate"><b>TECH EVENT</b></div>
             <div class="profile-description">Compete against different female across the country to solve problems.
 </div>
-            {/* <a href="https://www.youtube.com/watch?v=Zfwx6y5UY04&t=391s" class="bn5" style={{backgroundColor: "black"}}>Results</a> */}
+            { <a href="https://docs.google.com/spreadsheets/d/1pJd1dJByj6odybDORBXSHrj0YynmNlkTWTeIwzM1YNk/edit#gid=0" class="bn5" style={{backgroundColor: "black"}}>Results</a> }
             <Link to="/post/codenaari" class="bn5">Details</Link>
         </div>
     </div>
