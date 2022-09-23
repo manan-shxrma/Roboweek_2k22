@@ -24,12 +24,12 @@ function Topsection() {
             <h5 className="underhero">Let's build the future</h5>
             <button onClick={activateLasers} id="bottone15">
               <i
-                style={{ paddingTop: "1%", paddingRight: "3%" }}
+                style={{ paddingTop: "1%", paddingRight: "3%",color:"#800000" }}
                 class="fas fa-play"
               />{" "}
-              &nbsp;<b>Watch</b>
+              &nbsp;<b>Watch Roboweek2.0</b>
             </button>
-            <button
+            {/* <button
               style={{ marginLeft: "3%" }}
               onClick={activateLasers1}
               id="bottone15"
@@ -39,7 +39,7 @@ function Topsection() {
                 className="fab fa-discord"
               />{" "}
               &nbsp;<b>Discord</b>
-            </button>
+            </button> */}
             <div id="timer">
               <a href="#services">
                 <span className="event-start">Launching soon !</span>

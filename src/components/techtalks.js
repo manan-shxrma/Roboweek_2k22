@@ -25,7 +25,7 @@ function Services() {
             data-wow-duration="1s"
             data-wow-delay="0.3s"
           >
-            <h6>Speakers</h6>
+            <h6>Previous year Speakers</h6>
             <h4>
               Learn with <em>Roboweek</em>{" "}
             </h4>

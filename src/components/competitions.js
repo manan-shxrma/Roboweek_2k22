@@ -98,7 +98,7 @@ function Services() {
                           <div className="thumb" style={{ width: "100%" }}>
                             <span className="icon">
                               <img
-                                src="assets/images/service-icon-02.png"
+                                src="assets/images/service-icon-03.png"
                                 className="icon-img"
                                 alt=""
                               />
