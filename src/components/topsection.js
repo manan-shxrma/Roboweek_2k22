@@ -20,7 +20,7 @@ function Topsection() {
       <section id="home" class="background">
         <div class="hover">
           <div data-aos="fade-right" className="headingdiv">
-            <h1 class="hero-title">RoboWeek 2.0</h1>
+            <h1 class="hero-title">RoboWeek 3.0</h1>
             <h5 className="underhero">Let's build the future</h5>
             <button onClick={activateLasers} id="bottone15">
               <i
@@ -42,8 +42,8 @@ function Topsection() {
             </button>
             <div id="timer">
               <a href="#services">
-                <span className="event-start">Event Ended !</span>
-                <h5 className="underhero">See &nbsp; You &nbsp; Next &nbsp; Year &nbsp; <i class="fa fa-hand-peace fa-2" aria-hidden="true"></i></h5>
+                <span className="event-start">Launching soon !</span>
+                {/* <h5 className="underhero">See &nbsp; You &nbsp; Next &nbsp; Year &nbsp; <i class="fa fa-hand-peace fa-2" aria-hidden="true"></i></h5> */}
                 
               </a>
               {/* <span id="days"></span>days

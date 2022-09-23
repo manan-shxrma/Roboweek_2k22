@@ -106,11 +106,11 @@ class Outline extends React.Component {
                     
                     <Topsection />
                     <Aboutsection />
-                    <Hackathon />
+                    {/* <Hackathon /> */}
                     <Competitions />
                     <Techtalks />
                     <Funevents />
-                    <Freequote />
+                    {/* <Freequote /> */}
                     <Prizes />
                     <Sponsors />
                     <Blog />  

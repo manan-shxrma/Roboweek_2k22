@@ -65,7 +65,7 @@ function Aboutsection() {
                             </span>
                             <div className="progress-value">
                               <div>
-                                3000+
+                                3800+
                                 <br />
                                 <span>Registrations</span>
                               </div>
@@ -88,7 +88,7 @@ function Aboutsection() {
                             </span>
                             <div className="progress-value">
                               <div>
-                                300+
+                                320+
                                 <br />
                                 <span>Colleges</span>
                               </div>
@@ -111,7 +111,7 @@ function Aboutsection() {
                             </span>
                             <div className="progress-value">
                               <div>
-                                25
+                                25+
                                 <br />
                                 <span>Sponsors</span>
                               </div>
@@ -182,7 +182,7 @@ function Aboutsection() {
                             </span>
                             <div className="progress-value">
                               <div>
-                                700+
+                                800+
                                 <br />
                                 <span>Girl Participants</span>
                               </div>
@@ -205,7 +205,7 @@ function Aboutsection() {
                             </span>
                             <div className="progress-value">
                               <div>
-                                9
+                                07
                                 <br />
                                 <span>Community Partners</span>
                               </div>

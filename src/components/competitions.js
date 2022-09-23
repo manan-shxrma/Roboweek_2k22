@@ -10,7 +10,7 @@ function Services() {
       "https://dare2compete.com/workshop/django-ml-roboweek-20-national-institute-of-technology-nit-hamirpur-267510";
   }
   function activateLasers2() {
-    window.location.href = "";
+    window.location.href = "https://www.youtube.com/watch?v=lrnYq73Ima4";
   }
   function activateLasers3() {
     window.location.href =
@@ -33,9 +33,9 @@ function Services() {
                 data-wow-delay="0.5s"
                 style={{ marginBottom: "2px", textAlign: "left" }}
               >
-                <h6>Workshops</h6>
+                <h6>Past Workshops</h6>
                 <h4>
-                  What Roboweek <em>Provides</em>
+                  What Roboweek has <em>Provided</em>
                 </h4>
                 <div className="line-dec" style={{ marginLeft: "0px" }}></div>
               </div>
@@ -88,6 +88,22 @@ function Services() {
                               />
                             </span>
                             ML with Django
+                          </div>
+                        </div>
+                        {/* <----------------------Third---------------------------> */}
+                        <div
+                          className="third-thumb"
+                          style={{ marginRight: "3%", marginLeft: "3%" }}
+                        >
+                          <div className="thumb" style={{ width: "100%" }}>
+                            <span className="icon">
+                              <img
+                                src="assets/images/service-icon-02.png"
+                                className="icon-img"
+                                alt=""
+                              />
+                            </span>
+                            ROS
                           </div>
                         </div>
                       </div>
@@ -174,7 +190,7 @@ function Services() {
                                         </button> */}
 
                                         <button
-                                          onClick={activateLasers4}
+                                          onClick={activateLasers3}
                                           style={{ width: "fit-content" }}
                                           id="bottone-5"
                                         >
@@ -254,6 +270,102 @@ function Services() {
                                         <span>
                                           <i className="fa fa-check"></i> Python
                                           Libraries Used in ML algorithm
+                                        </span>{" "}
+                                      </div>
+                                      <div class="row buttons-ml">
+                                        {/* <button
+                                          onClick={activateLasers1}
+                                          id="bottone5"
+                                          style={{ width: "fit-content" }}
+                                        >
+                                          {" "}
+                                          <i
+                                            style={{
+                                              paddingRight: "2px",
+                                              paddingTop: "3px",
+                                            }}
+                                            class="fa fa-award"
+                                            aria-hidden="true"
+                                          ></i>{" "}
+                                          Register
+                                        </button> */}
+
+<button
+                                          onClick={activateLasers1}
+                                          style={{ width: "fit-content" }}
+                                          id="bottone-5"
+                                        >
+                                          {" "}
+                                          <i
+                                            style={{
+                                              paddingRight: "2px",
+                                              paddingTop: "3px",
+                                            }}
+                                            class="fa fa-youtube-play"
+                                            aria-hidden="true"
+                                          ></i>{" "}
+                                          <b>Watch Now</b>
+                                        </button>
+                                      </div>
+                                    </div>
+                                    {/* <button style={{marginLeft:"10%"}} class="cybr-btn">
+                                            Buttons<span aria-hidden>_</span>
+                                            <span aria-hidden class="cybr-btn__glitch">Buttons_</span>
+                                            
+                                          </button> */}
+                                  </div>
+                                </div>
+                                {/* <div className="col-lg-6 align-self-center">
+                              <div  className="right-image">
+                                <img  className="img-responsive django-img" src="assets/images/Machine learning.png" alt="" />
+                              </div>
+                            </div> */}
+                              </div>
+                            </div>
+                          </div>
+                        </li>
+                        {/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<--------------------------ROS by jai sir------------------------->>>>>>>>>>>>>>>> */}
+                        <li style={{ paddingRight: "3%", paddingLeft: "3%" }}>
+                          <div className="sub-box">
+                            <div
+                              style={{ marginLeft: "8px" }}
+                              className="thumb"
+                            >
+                              <div className="row">
+                                {/* <div className="col-lg-6 align-self-center right">
+                              <div className="right-image">
+                                <img  className="img-responsive django-img" src="assets/images/Machine learning.png" alt="" />
+                              </div>
+                            </div> */}
+                                <div className="col-lg-12 align-self-center">
+                                  <div className="left-text">
+                                    <img
+                                      className="img-responsive django-img col-lg-6"
+                                      src="assets/images/jai-sir.jpg"
+                                      alt=""
+                                    />
+                                    <div className="col-lg-6">
+                                      <h4>Workshop on ROS
+</h4>
+                                      <p>
+                                      Robot Operating System (ROS or ros) is an open-source robotics middleware suite. Although ROS is not an operating system (OS) but a set of software frameworks for robot software development, it provides services designed for a heterogeneous computer cluster such as hardware abstraction, low-level device control, implementation of commonly used functionality, message-passing between processes, and package management.
+
+                                      </p>
+                                      <div
+                                        // data-aos="fade-right"
+                                        className="ticks-list"
+                                      >
+                                        <span>
+                                          <i className="fa fa-check"></i> Hands
+                                          on project
+                                        </span>
+                                        <span>
+                                          <i className="fa fa-check"></i>{" "}
+                                          ROS(Robot Operating System)
+
+                                        </span>
+                                        <span>
+                                          <i className="fa fa-check"></i> Turtlesim
                                         </span>{" "}
                                       </div>
                                       <div class="row buttons-ml">

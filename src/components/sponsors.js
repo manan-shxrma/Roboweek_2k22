@@ -12,8 +12,8 @@ function portfolio(){
                     <div className="row">
                       <div className="col-lg-5">
                         <div data-aos="fade-right" className="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
-                          <h6>Sponsors</h6>
-                          <h4>Check out the sponsors for <em>Roboweek</em></h4>  
+                          <h6>Past Sponsors</h6>
+                          <h4>Check out the past sponsors for <em>Roboweek</em></h4>  
                         </div>
                       </div>
                     </div>

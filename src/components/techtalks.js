@@ -15,7 +15,10 @@ function Services() {
     <>
       {" "}
       <div id="techtalks">
-        <div style={{paddingTop:"5%"}} className="container mainbodyoftimeline">
+        <div
+          style={{ paddingTop: "5%" }}
+          className="container mainbodyoftimeline"
+        >
           <div
             data-aos="fade-right"
             className="section-heading wow fadeInLeft"
@@ -37,7 +40,7 @@ function Services() {
               <figure class="snip1515">
                 <div data-aos="zoom-in" class="profile-image">
                   <img
-                    style={{ height: "16rem",}}
+                    style={{ height: "16rem" }}
                     src="assets/images/tech-talk-1.png"
                     alt="sample47"
                   />
@@ -52,13 +55,19 @@ function Services() {
                     Expert | IEEE Senior Member
                   </p>
                   <div data-aos="fade-up" class="icons">
-                    <a href="https://www.linkedin.com/in/dr-santosh-kumar-nanda-b3848499" target="_blank">
+                    <a
+                      href="https://www.linkedin.com/in/dr-santosh-kumar-nanda-b3848499"
+                      target="_blank"
+                    >
                       <i
                         class="ion-social-linkedin"
                         style={{ color: "orange" }}
                       ></i>
                     </a>
-                    <a href="https://scholar.google.com/citations?user=4owxU1QAAAAJ&hl=en" target="_blank">
+                    <a
+                      href="https://scholar.google.com/citations?user=4owxU1QAAAAJ&hl=en"
+                      target="_blank"
+                    >
                       {" "}
                       <i
                         class="ion-social-google"
@@ -67,8 +76,15 @@ function Services() {
                     </a>
                   </div>
                   <div class="buttons">
-                  <a href="https://youtu.be/qtheF6UpIRI" target="_blank"><button class="raise" style={{paddingLeft:"50px",paddingRight:"50px"}}>Watch Now</button></a>
-                     {/* <button class="raise">Play Now Now Now Now</button> */}
+                    <a href="https://youtu.be/qtheF6UpIRI" target="_blank">
+                      <button
+                        class="raise"
+                        style={{ paddingLeft: "50px", paddingRight: "50px" }}
+                      >
+                        Watch Now
+                      </button>
+                    </a>
+                    {/* <button class="raise">Play Now Now Now Now</button> */}
                   </div>
                 </figcaption>
               </figure>
@@ -76,7 +92,11 @@ function Services() {
             <div class="col-sm-12 col-md-4 col-lg-4">
               <figure class="snip1515">
                 <div data-aos="zoom-in" class="profile-image">
-                  <img style={{ height: "16rem" }}src="assets/images/Manmeetkaur.jpeg"alt="sample83"/>
+                  <img
+                    style={{ height: "16rem" }}
+                    src="assets/images/Manmeetkaur.jpeg"
+                    alt="sample83"
+                  />
                 </div>
                 <figcaption>
                   <h3 class="tech-h3">Manmeet Kaur</h3>
@@ -84,10 +104,14 @@ function Services() {
                     <b>Cloud Computing</b>
                   </h4>
                   <p class="tech-para">
-                  Cloud Technology Consulting at Protiviti | PG in Cloud Computing at University of Texas | Ex-Expedia at Xerox
+                    Cloud Technology Consulting at Protiviti | PG in Cloud
+                    Computing at University of Texas | Ex-Expedia at Xerox
                   </p>
                   <div data-aos="fade-up" class="icons">
-                    <a href="https://www.linkedin.com/in/manmeet-kaur-35212129/" target="_blank">
+                    <a
+                      href="https://www.linkedin.com/in/manmeet-kaur-35212129/"
+                      target="_blank"
+                    >
                       <i
                         class="ion-social-linkedin"
                         style={{ color: "orange" }}
@@ -102,8 +126,13 @@ function Services() {
                     </a> */}
                   </div>
                   <div class="buttons">
-                  <a href="https://www.youtube.com/watch?v=D7hhgGlkS60" target="_blank"><button class="raise">Watch Now</button></a>
-                     {/* <button class="raise">Play Now Now Now Now</button> */}
+                    <a
+                      href="https://www.youtube.com/watch?v=D7hhgGlkS60"
+                      target="_blank"
+                    >
+                      <button class="raise">Watch Now</button>
+                    </a>
+                    {/* <button class="raise">Play Now Now Now Now</button> */}
                   </div>
                 </figcaption>
               </figure>
@@ -111,7 +140,11 @@ function Services() {
             <div class="col-sm-12 col-md-4 col-lg-4">
               <figure class="snip1515">
                 <div data-aos="zoom-in" class="profile-image">
-                  <img style={{ height: "16rem" }}src="assets/images/Pratiktirokar.jpeg"alt="sample83"/>
+                  <img
+                    style={{ height: "16rem" }}
+                    src="assets/images/Pratiktirokar.jpeg"
+                    alt="sample83"
+                  />
                 </div>
                 <figcaption>
                   <h3 class="tech-h3">Pratik Tirodkar</h3>
@@ -119,18 +152,23 @@ function Services() {
                     <b>Autonomous robots</b>
                   </h4>
                   <p class="tech-para">
-                  Director PNT Robotics | Shark Tank India Finalist |
-                   Maker of World's 1st Internet Controlled Robot for Pandemic
-                  
+                    Director PNT Robotics | Shark Tank India Finalist | Maker of
+                    World's 1st Internet Controlled Robot for Pandemic
                   </p>
                   <div data-aos="fade-up" class="icons">
-                    <a href="https://www.linkedin.com/in/pratik-tirodkar/" target="_blank">
+                    <a
+                      href="https://www.linkedin.com/in/pratik-tirodkar/"
+                      target="_blank"
+                    >
                       <i
                         class="ion-social-linkedin"
                         style={{ color: "orange" }}
                       ></i>
                     </a>
-                    <a href="https://www.instagram.com/pnt_robotics/" target="_blank">
+                    <a
+                      href="https://www.instagram.com/pnt_robotics/"
+                      target="_blank"
+                    >
                       <i
                         class="ion-social-instagram-outline"
                         style={{ color: "orange" }}
@@ -138,15 +176,19 @@ function Services() {
                     </a>
                     <a href="https://pntsolutions.in/" target="_blank">
                       {" "}
-                      <i
-                        class="ion-link"
-                        style={{ color: "orange" }}
-                      ></i>
+                      <i class="ion-link" style={{ color: "orange" }}></i>
                     </a>
                   </div>
                   <div class="buttons">
-                     <a href="https://youtu.be/YHZ9F-ZBNH8" target="_blank"><button class="raise" style={{paddingLeft:"50px",paddingRight:"50px"}}>Watch Now</button></a>
-                     {/* <button class="raise">Play Now Now Now Now</button> */}
+                    <a href="https://youtu.be/YHZ9F-ZBNH8" target="_blank">
+                      <button
+                        class="raise"
+                        style={{ paddingLeft: "50px", paddingRight: "50px" }}
+                      >
+                        Watch Now
+                      </button>
+                    </a>
+                    {/* <button class="raise">Play Now Now Now Now</button> */}
                   </div>
                 </figcaption>
               </figure>
@@ -154,32 +196,45 @@ function Services() {
             <div class="col-sm-12 col-md-6 col-lg-6 down-images">
               <figure class="snip1515">
                 <div data-aos="zoom-in" class="profile-image">
-                  <img style={{ height: "16rem" }}src="assets/images/tech-talk-2.jpg"alt="sample83"/>
+                  <img
+                    style={{ height: "16rem" }}
+                    src="assets/images/tech-talk-2.jpg"
+                    alt="sample83"
+                  />
                 </div>
                 <figcaption>
                   <h3 class="tech-h3">Nithya Duraisamy</h3>
                   <h4 style={{ color: "orange", fontFamily: "Roboto" }}>
-                    <b>Women In FOSS{" "}</b>
+                    <b>Women In FOSS </b>
                   </h4>
                   <p class="tech-para">
                     Assistant Consultant at Tata Consultancy Services Limited |
                     Ex Associate Cognizant Technology Solutions
                   </p>
                   <div data-aos="fade-up" class="icons">
-                    <a href="https://www.linkedin.com/in/nithya-duraisamy-45284250/" target="_blank">
+                    <a
+                      href="https://www.linkedin.com/in/nithya-duraisamy-45284250/"
+                      target="_blank"
+                    >
                       <i
                         class="ion-social-linkedin"
                         style={{ color: "orange" }}
                       ></i>
                     </a>
-                    <a href="https://www.youtube.com/channel/UCXsisJBABS2n2rQjR_rbJEg/videos" target="_blank">
+                    <a
+                      href="https://www.youtube.com/channel/UCXsisJBABS2n2rQjR_rbJEg/videos"
+                      target="_blank"
+                    >
                       {" "}
                       <i
                         class="ion-social-youtube"
                         style={{ color: "orange" }}
                       ></i>
                     </a>
-                    <a href="https://www.facebook.com/nithya.duraisamy.7" target="_blank">
+                    <a
+                      href="https://www.facebook.com/nithya.duraisamy.7"
+                      target="_blank"
+                    >
                       {" "}
                       <i
                         class="ion-social-facebook"
@@ -188,8 +243,15 @@ function Services() {
                     </a>
                   </div>
                   <div class="buttons">
-                     <a href="https://youtu.be/eTgyTyVp4BU" target="_blank"><button class="raise" style={{paddingLeft:"50px",paddingRight:"50px"}}>Watch Now</button></a>
-                     {/* <button class="raise">Play Now Now Now Now</button> */}
+                    <a href="https://youtu.be/eTgyTyVp4BU" target="_blank">
+                      <button
+                        class="raise"
+                        style={{ paddingLeft: "50px", paddingRight: "50px" }}
+                      >
+                        Watch Now
+                      </button>
+                    </a>
+                    {/* <button class="raise">Play Now Now Now Now</button> */}
                   </div>
                 </figcaption>
               </figure>
@@ -197,20 +259,26 @@ function Services() {
             <div class="col-sm-12 col-md-6 col-lg-6 down-images">
               <figure class="snip1515">
                 <div data-aos="zoom-in" class="profile-image">
-                  <img style={{ height: "16rem" }}src="assets/images/tech-talk-3.jpg"alt="sample83"/>
+                  <img
+                    style={{ height: "16rem" }}
+                    src="assets/images/tech-talk-3.jpg"
+                    alt="sample83"
+                  />
                 </div>
                 <figcaption class="ei">
                   <h3 class="tech-h3">Kuppulakshmi Krishnamoorthy</h3>
                   <h4 style={{ color: "orange", fontFamily: "Roboto" }}>
-                    <b>Emotional Intelligence is Important as AI{" "}</b>
+                    <b>Emotional Intelligence is Important as AI </b>
                   </h4>
                   <p class="tech-para">
-                  Global Head—Zoho for Startups at Zoho Corporation | Trainer
-Datamatics Global Services
-
+                    Global Head—Zoho for Startups at Zoho Corporation | Trainer
+                    Datamatics Global Services
                   </p>
                   <div data-aos="fade-up" class="icons">
-                    <a href="https://www.linkedin.com/in/kuppukrish/" target="_blank">
+                    <a
+                      href="https://www.linkedin.com/in/kuppukrish/"
+                      target="_blank"
+                    >
                       <i
                         class="ion-social-linkedin"
                         style={{ color: "orange" }}
@@ -223,7 +291,10 @@ Datamatics Global Services
                         style={{ color: "orange" }}
                       ></i>
                     </a>
-                    <a href="https://www.facebook.com/kklakshmi" target="_blank">
+                    <a
+                      href="https://www.facebook.com/kklakshmi"
+                      target="_blank"
+                    >
                       {" "}
                       <i
                         class="ion-social-facebook"
@@ -239,8 +310,18 @@ Datamatics Global Services
                     </a>
                   </div>
                   <div class="buttons">
-                     <a href="https://www.youtube.com/watch?v=srJZ61_5-aA" target="_blank"><button class="raise" style={{paddingLeft:"50px",paddingRight:"50px"}}>Watch Now</button></a>
-                     {/* <button class="raise">Play Now Now Now Now</button> */}
+                    <a
+                      href="https://www.youtube.com/watch?v=srJZ61_5-aA"
+                      target="_blank"
+                    >
+                      <button
+                        class="raise"
+                        style={{ paddingLeft: "50px", paddingRight: "50px" }}
+                      >
+                        Watch Now
+                      </button>
+                    </a>
+                    {/* <button class="raise">Play Now Now Now Now</button> */}
                   </div>
                 </figcaption>
               </figure>
@@ -260,7 +341,166 @@ Datamatics Global Services
 </figure>
 </div> */}
           </div>
+          <div
+            style={{ paddingTop: "5%", textAlign: "-webkit-center" }}
+            class="row"
+          >
+            <div class="col-sm-12 col-md-4 col-lg-4">
+              <figure class="snip1515">
+                <div data-aos="zoom-in" class="profile-image">
+                  <img
+                    style={{ height: "16rem" }}
+                    src="assets/images/tech-talk-4.jpg"
+                    alt="sample47"
+                  />
+                </div>
+                <figcaption>
+                  <h3 class="tech-h3">Gagandeep Reehal</h3>
+                  <h4 style={{ color: "orange", fontFamily: "Roboto" }}>
+                    <b>Autonomous Cars</b>
+                  </h4>
+                  <p class="tech-para">
+                  Co-Founder & CEO, Minus Zero | Building Self Driving Cars in India | Former Advisor & AI Researcher | TEDxPatiala Host 2022
+                  </p>
+                  <div data-aos="fade-up" class="icons">
+                    <a
+                      href="https://www.linkedin.com/in/gagandeepreehal/"
+                      target="_blank"
+                    >
+                      <i
+                        class="ion-social-linkedin"
+                        style={{ color: "orange" }}
+                      ></i>
+                    </a>
+                    <a
+                      href="https://minuszero.in/"
+                      target="_blank"
+                    >
+                      {" "}
+                      <i
+                        class="ion-link" style={{ color: "orange" }}
+                      ></i>
+                    </a>
+                  </div>
+                  <div class="buttons">
+                    <a href="https://www.youtube.com/watch?v=tGUSL4r_Dbc" target="_blank">
+                      <button
+                        class="raise"
+                        style={{ paddingLeft: "50px", paddingRight: "50px" }}
+                      >
+                        Watch Now
+                      </button>
+                    </a>
+                    {/* <button class="raise">Play Now Now Now Now</button> */}
+                  </div>
+                </figcaption>
+              </figure>
+            </div>
+            <div class="col-sm-12 col-md-4 col-lg-4">
+              <figure class="snip1515">
+                <div data-aos="zoom-in" class="profile-image">
+                  <img
+                    style={{ height: "16rem" }}
+                    src="assets/images/tech-talk-5.jpg"
+                    alt="sample83"
+                  />
+                </div>
+                <figcaption>
+                  <h3 class="tech-h3">Harsh kashyap</h3>
+                  <h4 style={{ color: "orange", fontFamily: "Roboto" }}>
+                    <b>Machine Learning</b>
+                  </h4>
+                  <p class="tech-para">
+                  Sr. Machine Learning Scientist at Path Robotics | He did his Master's from Northeastern University, Boston in Electrical Engineering
+                  </p>
+                  <div data-aos="fade-up" class="icons">
+                    <a
+                      href="https://www.linkedin.com/in/hkashyap"
+                      target="_blank"
+                    >
+                      <i
+                        class="ion-social-linkedin"
+                        style={{ color: "orange" }}
+                      ></i>
+                    </a>
+                    {/* <a href="https://scholar.google.com/citations?user=4owxU1QAAAAJ&hl=en">
+                      {" "}
+                      <i
+                        class="ion-social-google"
+                        style={{ color: "orange" }}
+                      ></i>
+                    </a> */}
+                  </div>
+                  <div class="buttons">
+                    <a
+                      href="https://www.youtube.com/watch?v=MfqPO0Djafc"
+                      target="_blank"
+                    >
+                      <button class="raise">Watch Now</button>
+                    </a>
+                    {/* <button class="raise">Play Now Now Now Now</button> */}
+                  </div>
+                </figcaption>
+              </figure>
+            </div>
+            <div class="col-sm-12 col-md-4 col-lg-4">
+              <figure class="snip1515">
+                <div data-aos="zoom-in" class="profile-image">
+                  <img
+                    style={{ height: "16rem" }}
+                    src="assets/images/tech-talk-6.jpg"
+                    alt="sample83"
+                  />
+                </div>
+                <figcaption>
+                  <h3 class="tech-h3">Koyal Bhartia
+</h3>
+                  <h4 style={{ color: "orange", fontFamily: "Roboto" }}>
+                    <b>Women in Robotics</b>
+                  </h4>
+                  <p class="tech-para">
+                  Robotics Engineer at ArcBest technologies | Autonomous Mobile Robot | Member - Women in AI and Robotics | Robotics Graduate from UMD
+                  </p>
+                  <div data-aos="fade-up" class="icons">
+                    <a
+                      href="https://www.linkedin.com/in/koyalbhartia/"
+                      target="_blank"
+                    >
+                      <i
+                        class="ion-social-linkedin"
+                        style={{ color: "orange" }}
+                      ></i>
+                    </a>
+                    <a
+                      href="https://github.com/koyalbhartia"
+                      target="_blank"
+                    >
+                      <i
+                        class="ion-social-instagram-outline"
+                        style={{ color: "orange" }}
+                      ></i>
+                    </a>
+                    <a href="https://koyalbhartia.github.io" target="_blank">
+                      {" "}
+                      <i class="ion-link" style={{ color: "orange" }}></i>
+                    </a>
+                  </div>
+                  <div class="buttons">
+                    <a href="https://www.youtube.com/watch?v=2Qr6bDl6y_0" target="_blank">
+                      <button
+                        class="raise"
+                        style={{ paddingLeft: "50px", paddingRight: "50px" }}
+                      >
+                        Watch Now
+                      </button>
+                    </a>
+                    {/* <button class="raise">Play Now Now Now Now</button> */}
+                  </div>
+                </figcaption>
+              </figure>
+            </div>
         </div>
+      </div>
       </div>
     </>
   );
