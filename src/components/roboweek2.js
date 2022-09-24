@@ -1,7 +1,7 @@
 import React from "react"
-import Topsection from "./topsection"
+import Topsection2 from "./topsection2"
 import Aboutsection from "./aboutsection";
-import Timeline from "./Timeline";
+import Timeline3 from "./Timeline";
 import {navItems,socialMedia,} from '../js/navFootData';
 import Sponsors from "./sponsors";
 import Aos from 'aos';
@@ -18,25 +18,19 @@ import '../css/outline.scss'
 import Prizes from "./prizes";
 
 
-class Outline extends React.Component { 
+class Roboweek2 extends React.Component { 
     
     constructor(props) {
         super(props);
         this.state = {
             width: window.innerWidth,
             height: window.innerHeight,
-            currentEvent: 3
         };
     }
 
     handleResize = (e) => {
         this.setState({ width: window.innerWidth, height: window.innerHeight });
     };
-
-    changeevent = () => {
-        this.state.currentEvent === 3 ? this.setState({currentEvent : 2}) : this.setState({currentEvent : 3});
-        console.log(this.state.currentEvent);
-    }
 
     componentDidMount() {
         window.addEventListener("resize", this.handleResize);
@@ -52,6 +46,7 @@ class Outline extends React.Component {
     }
 
     render(){
+       
         return(<> 
                   
                    
@@ -109,15 +104,15 @@ class Outline extends React.Component {
                      
                       }
                     
-                    <Topsection  changeevent={this.changeevent} changeEvent={this.state.changeEvent}/>
+                    <Topsection2 />
                     <Aboutsection />
-                    {/* <Hackathon /> */}
-                    {/* <Competitions /> */}
-                    {/* <Techtalks />  */}
-                    {/* <Funevents /> */}
-                    <Timeline />
-                    {/* <Prizes /> */}
-                    {/* <Sponsors /> */}
+                    <Hackathon />
+                    <Competitions />
+                    <Techtalks />
+                    <Funevents />
+                    <Timeline3 />
+                    <Prizes />
+                    <Sponsors />
                     <Blog />  
                     <Contact />
                     <Faq />
@@ -152,7 +147,7 @@ class Outline extends React.Component {
                                         </div>
                                         <div className="footer-copyright-info">
                                             <div className="footer-copyright-right">
-                                            Copyright © 2023 Robotics Society, NIT Hamirpur.
+                                            Copyright © 2022 Robotics Society, NIT Hamirpur.
                                             </div>
                                         </div>
                                     </div>
@@ -205,4 +200,4 @@ class Outline extends React.Component {
     }
 }
  
-export default Outline;
+export default Roboweek2;

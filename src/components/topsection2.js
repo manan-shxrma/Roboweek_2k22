@@ -10,7 +10,7 @@ import { Link } from "react-router-dom";
 
 
 AOS.init();
-function Topsection(props) {
+function Topsection2(props) {
   function activateLasers() {
     window.location.href = "https://www.youtube.com/watch?v=xNgQ6MJkbcc";
   }
@@ -22,13 +22,10 @@ function Topsection(props) {
       <section id="home" class="background">
         <div class="hover">
           <div data-aos="fade-right" className="headingdiv">
-            <h1 class="hero-title">RoboWeek 3.0</h1>
+            <h1 class="hero-title">RoboWeek 2.0</h1>
             <h5 className="underhero">Let's build the future</h5>
-            <Link to={'/first'} id="bottone15">
-              <b>Roboweek 2.0</b>&nbsp;<i class='fas fa-angle-right'></i>
-            </Link>
             <Link to={'/'} id="bottone15">
-              <b>Registration will open soon !</b>&nbsp;
+                    Roboweek 3.0&nbsp;<i class='fas fa-angle-right'></i>
             </Link>
             {/* <button onClick={props.changeevent} id="bottone15">
               <i
@@ -50,8 +47,8 @@ function Topsection(props) {
             </button> */}
             <div id="timer">
               <a href="#services">
-                <span className="event-start">Launching soon !</span>
-                {/* <h5 className="underhero">See &nbsp; You &nbsp; Next &nbsp; Year &nbsp; <i class="fa fa-hand-peace fa-2" aria-hidden="true"></i></h5> */}
+                <span className="event-start">Event Ended !</span>
+                <h5 className="underhero">See &nbsp; You &nbsp; Next &nbsp; Year &nbsp; <i class="fa fa-hand-peace fa-2" aria-hidden="true"></i></h5>
                 
               </a>
               {/* <span id="days"></span>days
@@ -67,4 +64,4 @@ function Topsection(props) {
   );
 }
 
-export default Topsection;
+export default Topsection2;

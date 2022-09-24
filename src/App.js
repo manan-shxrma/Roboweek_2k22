@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Outline from "./components/outline";
+import Roboweek2 from "./components/roboweek2";
 import "./App.css";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Compdetail from "./components/compdetail"
@@ -40,10 +41,10 @@ function App() {
 
 
 
-      `https://roboweek-robosocnith.com/`  
+      //`https://roboweek-robosocnith.com/`  
 
 
-      //'http://localhost:3000/'
+      'http://localhost:3000/'
 
 
 
@@ -53,7 +54,6 @@ function App() {
         )
        
         
-      console.log(result.data)
 
       setItems(result.data)
       setLoading(false) 
@@ -61,6 +61,9 @@ function App() {
     getItems()
 
   }, [])
+
+
+  
  
   return (<>
      
@@ -72,6 +75,7 @@ function App() {
         <ScrollToTop/>
         <Routes>
         <Route  exact path="/" element={<Outline />} />
+        <Route  exact path="/first" element={<Roboweek2 />} />
         <Route path="/post/:id" element={<Compdetail />} />
         
         </Routes>

@@ -1,6 +1,6 @@
 import $ from "jquery"
 
-var countDownDate = new Date("Mar 21, 2022 00:00:00").getTime();
+var countDownDate = new Date("Mar 21, 2023 00:00:00").getTime();
 
 var myfunc = setInterval(function() {
   // code goes here 
@@ -12,10 +12,10 @@ var hours = Math.floor((timeleft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
 var minutes = Math.floor((timeleft % (1000 * 60 * 60)) / (1000 * 60));
 var seconds = Math.floor((timeleft % (1000 * 60)) / 1000);
 
-document.getElementById("days").innerHTML = days 
-document.getElementById("hours").innerHTML = hours 
-document.getElementById("minutes").innerHTML = minutes 
-document.getElementById("seconds").innerHTML = seconds 
+// document.getElementById("days").innerHTML = ''
+// document.getElementById("hours").innerHTML = ''
+// document.getElementById("minutes").innerHTML =''
+// document.getElementById("seconds").innerHTML =''
 
 
 if (timeleft < 0) {
