@@ -117,7 +117,7 @@ class Outline extends React.Component {
                     {/* <Funevents /> */}
                     <Timeline />
                     {/* <Prizes /> */}
-                    {/* <Sponsors /> */}
+                    <Sponsors />
                     <Blog />  
                     <Contact />
                     <Faq />
