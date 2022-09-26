@@ -75,7 +75,7 @@ function App() {
         <ScrollToTop/>
         <Routes>
         <Route  exact path="/" element={<Outline />} />
-        <Route  exact path="/first" element={<Roboweek2 />} />
+        <Route  exact path="/roboweek-2022" element={<Roboweek2 />} />
         <Route path="/post/:id" element={<Compdetail />} />
         
         </Routes>

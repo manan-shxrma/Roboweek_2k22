@@ -24,7 +24,7 @@ function Topsection(props) {
           <div data-aos="fade-right" className="headingdiv">
             <h1 class="hero-title">RoboWeek 3.0</h1>
             <h5 className="underhero">Let's build the future</h5>
-            <Link to={'/first'} id="bottone15">
+            <Link to={'/roboweek-2022'} id="bottone15">
               <b>Roboweek 2.0</b>&nbsp;<i class='fas fa-angle-right'></i>
             </Link>
             <Link to={'/'} id="bottone15">

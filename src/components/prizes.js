@@ -33,8 +33,8 @@ function prizes(){
          <h3 style={{color:"#fff",paddingTop:"2%",paddingBottom:"0.5%", textAlign:"center",fontSize:"4rem"}}>Hunt Nova</h3>
    <div style={{paddingTop:"3%"}} class='pricing pricing-palden'>
     <div  class='pricing-item price'>
-      <div style={{background:"rgb(121 85 72)", paddingBottom:"200px"}} class='pricing-deco'>
-      <img className="medalImg" alt="medal1"  src="assets/images/3rd.svg"/>
+      <div style={{background:"rgb(148 39 147)", paddingBottom:"200px"}} class='pricing-deco'>
+      <img className="medalImg" alt="medal1"  src="assets/images/diversity.svg"/>
         <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='100px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xmlSpace='preserve' xmlnsXlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
           <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
           <path class='deco-layer deco-layer--2' d='M-35.667,44.628c0,0,42.91-34.463,87.51-14.191c77.31,35.141,113.304-1.952,146.639-4.729&#x000A;	c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z' fill='#FFFFFF' opacity='0.6'></path>
@@ -43,7 +43,7 @@ function prizes(){
         </svg>
       </div>
       <div class="third-prize">
-      <h2>2nd Runners Up</h2>
+      <h2>Diversity</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px"}}>
         <li class='pricing-feature'>Gift vouchers from HoverRobotix Hoverboards India worth Rs 10000/- each</li>
         <li class='pricing-feature'>3 months free hosting.</li>
@@ -64,7 +64,7 @@ function prizes(){
       </div>
       <div>
       <div class="first-prize">
-      <h2>Winners</h2>
+      <h2>Winner</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px", paddingBottom:"80px"}}>
         <li class='pricing-feature'>A cash prize of Rs. 2,000 /- </li>
         <li class='pricing-feature'>12 months free hosting</li>
@@ -85,7 +85,7 @@ function prizes(){
         </svg>
       </div>
       <div class="second-prize">
-      <h2>Runners Up</h2>
+      <h2>Runner Up</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px"}}>
         <li class='pricing-feature'>A cash prize of Rs. 1,500 /- </li>
         <li class='pricing-feature'>6 months free hosting</li>
@@ -102,8 +102,8 @@ function prizes(){
          <h3 style={{color:"#fff",paddingTop:"2%",paddingBottom:"0.5%", textAlign:"center",fontSize:"4rem"}}>Regatta 2.0</h3>
    <div style={{paddingTop:"3%"}} class='pricing pricing-palden'>
     <div  class='pricing-item price'>
-      <div style={{background:"rgb(121 85 72)", paddingBottom:"200px"}} class='pricing-deco'>
-      <img className="medalImg" alt="medal1"  src="assets/images/3rd.svg"/>
+      <div style={{background:"rgb(148 39 147)", paddingBottom:"200px"}} class='pricing-deco'>
+      <img className="medalImg" alt="medal1"  src="assets/images/diversity.svg"/>
         <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='100px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xmlSpace='preserve' xmlnsXlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
           <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
           <path class='deco-layer deco-layer--2' d='M-35.667,44.628c0,0,42.91-34.463,87.51-14.191c77.31,35.141,113.304-1.952,146.639-4.729&#x000A;	c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z' fill='#FFFFFF' opacity='0.6'></path>
@@ -112,7 +112,7 @@ function prizes(){
         </svg>
       </div>
       <div class="third-prize">
-      <h2>2nd Runners Up</h2>
+      <h2>Diversity</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px"}}>
         <li class='pricing-feature'>Gift vouchers from HoverRobotix Hoverboards India worth Rs 10000/- each</li>
         <li class='pricing-feature'>3 months free hosting.</li>
@@ -132,7 +132,7 @@ function prizes(){
       </div>
       <div>
         <div class="first-prize">
-      <h2>Winners</h2>
+      <h2>Winner</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px", paddingBottom:"80px"}}>
         <li class='pricing-feature'>A cash prize of Rs. 1,500 /-</li>
         <li class='pricing-feature'>12 months free hosting</li>
@@ -152,7 +152,7 @@ function prizes(){
         </svg>
       </div>
       <div class="second-prize">
-      <h2>Runners Up</h2>
+      <h2>Runner Up</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px"}}>
         <li class='pricing-feature'>A cash prize of Rs. 1,000 /- </li>
         <li class='pricing-feature'>6 months free hosting</li>
@@ -169,8 +169,8 @@ function prizes(){
          <h3 style={{color:"#fff",paddingTop:"2%",paddingBottom:"0.5%", textAlign:"center",fontSize:"4rem"}}>Callisto</h3>
    <div style={{paddingTop:"3%"}} class='pricing pricing-palden'>
     <div  class='pricing-item price'>
-      <div style={{background:"rgb(121 85 72)", paddingBottom:"200px"}} class='pricing-deco'>
-      <img className="medalImg" alt="medal1"  src="assets/images/3rd.svg"/>
+      <div style={{background:"rgb(148 39 147)", paddingBottom:"200px"}} class='pricing-deco'>
+      <img className="medalImg" alt="medal1"  src="assets/images/diversity.svg"/>
         <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='100px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xmlSpace='preserve' xmlnsXlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
           <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
           <path class='deco-layer deco-layer--2' d='M-35.667,44.628c0,0,42.91-34.463,87.51-14.191c77.31,35.141,113.304-1.952,146.639-4.729&#x000A;	c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z' fill='#FFFFFF' opacity='0.6'></path>
@@ -179,7 +179,7 @@ function prizes(){
         </svg>
       </div>
       <div class="third-prize">
-      <h2>2nd Runners Up</h2>
+      <h2>Diversity</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px"}}>
         <li class='pricing-feature'>Gift vouchers from HoverRobotix Hoverboards India worth Rs 10000/- each</li>
         <li class='pricing-feature'>3 months free hosting.</li>
@@ -199,7 +199,7 @@ function prizes(){
       </div>
       <div>
         <div class="first-prize">
-      <h2>Winners</h2>
+      <h2>Winner</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px", paddingBottom:"80px"}}>
         <li class='pricing-feature'>A cash prize of Rs. 1,000 /-</li>
         <li class='pricing-feature'>12 months free hosting</li>
@@ -219,7 +219,7 @@ function prizes(){
         </svg>
       </div>
       <div class="second-prize">
-      <h2>Runners Up</h2>
+      <h2>Runner Up</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px"}}>
         <li class='pricing-feature'>A cash prize of Rs. 750 /-</li>
         <li class='pricing-feature'>6 months free hosting</li>
@@ -236,8 +236,8 @@ function prizes(){
          <h3 style={{color:"#fff",paddingTop:"2%",paddingBottom:"0.5%", textAlign:"center",fontSize:"4rem"}}>Trash Bot</h3>
    <div style={{paddingTop:"3%"}} class='pricing pricing-palden'>
     <div  class='pricing-item price'>
-      <div style={{background:"rgb(121 85 72)", paddingBottom:"200px"}} class='pricing-deco'>
-      <img className="medalImg" alt="medal1"  src="assets/images/3rd.svg"/>
+      <div style={{background:"rgb(148 39 147)", paddingBottom:"200px"}} class='pricing-deco'>
+      <img className="medalImg" alt="medal1"  src="assets/images/diversity.svg"/>
         <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='100px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xmlSpace='preserve' xmlnsXlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
           <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
           <path class='deco-layer deco-layer--2' d='M-35.667,44.628c0,0,42.91-34.463,87.51-14.191c77.31,35.141,113.304-1.952,146.639-4.729&#x000A;	c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z' fill='#FFFFFF' opacity='0.6'></path>
@@ -246,7 +246,7 @@ function prizes(){
         </svg>
       </div>
       <div class="third-prize">
-      <h2>2nd Runners Up</h2>
+      <h2>Diversity</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px"}}>
         <li class='pricing-feature'>Gift vouchers from HoverRobotix Hoverboards India worth Rs 10000/- each</li>
         <li class='pricing-feature'>3 months free hosting.</li>
@@ -267,7 +267,7 @@ function prizes(){
       </div>
       <div>
         <div class="first-prize">
-      <h2>Winners</h2>
+      <h2>Winner</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px", paddingBottom:"80px"}}>
         <li class='pricing-feature'>A cash prize of Rs. 1,500 /- </li>
         <li class='pricing-feature'>12 months free hosting</li>
@@ -287,7 +287,7 @@ function prizes(){
         </svg>
       </div>
       <div class="second-prize">
-      <h2>Runners Up</h2>
+      <h2>Runner Up</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px"}}>
         <li class='pricing-feature'>A cash prize of Rs. 1,000 /-</li>
         <li class='pricing-feature'>6 months free hosting</li>
@@ -304,8 +304,8 @@ function prizes(){
          <h3 style={{color:"#fff",paddingTop:"2%",paddingBottom:"0.5%", textAlign:"center",fontSize:"4rem"}}>Tinker It</h3>
    <div style={{paddingTop:"3%"}} class='pricing pricing-palden'>
     <div  class='pricing-item price'>
-      <div style={{background:"rgb(121 85 72)", paddingBottom:"200px"}} class='pricing-deco'>
-      <img className="medalImg" alt="medal1"  src="assets/images/3rd.svg"/>
+      <div style={{background:"rgb(148 39 147)", paddingBottom:"200px"}} class='pricing-deco'>
+      <img className="medalImg" alt="medal1"  src="assets/images/diversity.svg"/>
         <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='100px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xmlSpace='preserve' xmlnsXlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
           <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
           <path class='deco-layer deco-layer--2' d='M-35.667,44.628c0,0,42.91-34.463,87.51-14.191c77.31,35.141,113.304-1.952,146.639-4.729&#x000A;	c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z' fill='#FFFFFF' opacity='0.6'></path>
@@ -314,7 +314,7 @@ function prizes(){
         </svg>
       </div>
       <div class="third-prize">
-      <h2>2nd Runners Up</h2>
+      <h2>Diversity</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px"}}>
         <li class='pricing-feature'>Gift vouchers from HoverRobotix Hoverboards India worth Rs 10000/- each</li>
         <li class='pricing-feature'>3 months free hosting.</li>
@@ -335,7 +335,7 @@ function prizes(){
       </div>
       <div>
         <div class="first-prize">
-      <h2>Winners</h2>
+      <h2>Winner</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px", paddingBottom:"80px"}}>
         <li class='pricing-feature'>A cash prize of Rs. 2,000 /-</li>
         <li class='pricing-feature'>12 months free hosting</li>
@@ -355,7 +355,7 @@ function prizes(){
         </svg>
       </div>
       <div class="second-prize">
-      <h2>Runners Up</h2>
+      <h2>Runner Up</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px"}}>
         <li class='pricing-feature'>A cash prize of Rs. 1,500 /-</li>
         <li class='pricing-feature'>6 months free hosting</li>
@@ -372,8 +372,8 @@ function prizes(){
          <h3 style={{color:"#fff",paddingTop:"2%",paddingBottom:"0.5%", textAlign:"center",fontSize:"4rem"}}>Design Wars 2.0</h3>
    <div style={{paddingTop:"3%"}} class='pricing pricing-palden'>
     <div  class='pricing-item price'>
-      <div style={{background:"rgb(121 85 72)", paddingBottom:"200px"}} class='pricing-deco'>
-      <img className="medalImg" alt="medal1"  src="assets/images/3rd.svg"/>
+      <div style={{background:"rgb(148 39 147)", paddingBottom:"200px"}} class='pricing-deco'>
+      <img className="medalImg" alt="medal1"  src="assets/images/diversity.svg"/>
         <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='100px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xmlSpace='preserve' xmlnsXlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
           <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
           <path class='deco-layer deco-layer--2' d='M-35.667,44.628c0,0,42.91-34.463,87.51-14.191c77.31,35.141,113.304-1.952,146.639-4.729&#x000A;	c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z' fill='#FFFFFF' opacity='0.6'></path>
@@ -382,7 +382,7 @@ function prizes(){
         </svg>
       </div>
       <div class="third-prize">
-      <h2>2nd Runners Up</h2>
+      <h2>Diversity</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px"}}>
         <li class='pricing-feature'>Gift vouchers from HoverRobotix Hoverboards India worth Rs 10000/- each</li>
         <li class='pricing-feature'>3 months free hosting.</li>
@@ -403,7 +403,7 @@ function prizes(){
       </div>
       <div>
         <div class="first-prize">
-      <h2>Winners</h2>
+      <h2>Winner</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px", paddingBottom:"80px"}}>
         <li class='pricing-feature'>A cash prize of Rs. 2,000 /-</li>
         <li class='pricing-feature'>12 months free hosting</li>
@@ -423,7 +423,7 @@ function prizes(){
         </svg>
       </div>
       <div class="second-prize">
-      <h2>Runners Up</h2>
+      <h2>Runner Up</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px"}}>
         <li class='pricing-feature'>A cash prize of Rs. 1,500 /-</li>
         <li class='pricing-feature'>6 months free hosting</li>
@@ -440,8 +440,8 @@ function prizes(){
          <h3 style={{color:"#fff",paddingTop:"2%",paddingBottom:"0.5%", textAlign:"center",fontSize:"4rem"}}>Code Naari</h3>
    <div style={{paddingTop:"3%"}} class='pricing pricing-palden'>
     <div  class='pricing-item price'>
-      <div style={{background:"rgb(121 85 72)", paddingBottom:"200px"}} class='pricing-deco'>
-      <img className="medalImg" alt="medal1"  src="assets/images/3rd.svg"/>
+      <div style={{background:"rgb(148 39 147)", paddingBottom:"200px"}} class='pricing-deco'>
+      <img className="medalImg" alt="medal1"  src="assets/images/diversity.svg"/>
         <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='100px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xmlSpace='preserve' xmlnsXlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
           <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
           <path class='deco-layer deco-layer--2' d='M-35.667,44.628c0,0,42.91-34.463,87.51-14.191c77.31,35.141,113.304-1.952,146.639-4.729&#x000A;	c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z' fill='#FFFFFF' opacity='0.6'></path>
@@ -450,7 +450,7 @@ function prizes(){
         </svg>
       </div>
       <div class="third-prize">
-      <h2>2nd Runners Up</h2>
+      <h2>Diversity</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px"}}>
         <li class='pricing-feature'>A cash prize of Rs. 750 /- </li>
         <li class='pricing-feature'>3 months free hosting.</li>
@@ -471,7 +471,7 @@ function prizes(){
       </div>
       <div>
         <div class="first-prize">
-      <h2>Winners</h2>
+      <h2>Winner</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px", paddingBottom:"80px"}}>
         <li class='pricing-feature'>A cash prize of Rs. 2,000 /- </li>
         <li class='pricing-feature'>12 months free hosting</li>
@@ -491,7 +491,7 @@ function prizes(){
         </svg>
       </div>
       <div class="second-prize">
-      <h2>Runners Up</h2>
+      <h2>Runner Up</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px"}}>
         <li class='pricing-feature'>A cash prize of Rs. 1,500 /- </li>
         <li class='pricing-feature'>6 months free hosting</li>
@@ -509,8 +509,8 @@ function prizes(){
          <h3 style={{color:"#fff",paddingTop:"2%",paddingBottom:"0.5%", textAlign:"center",fontSize:"4rem"}}>Code Play</h3>
    <div style={{paddingTop:"3%"}} class='pricing pricing-palden'>
     <div  class='pricing-item price'>
-      <div style={{background:"rgb(121 85 72)", paddingBottom:"200px"}} class='pricing-deco'>
-      <img className="medalImg" alt="medal1"  src="assets/images/3rd.svg"/>
+      <div style={{background:"rgb(148 39 147)", paddingBottom:"200px"}} class='pricing-deco'>
+      <img className="medalImg" alt="medal1"  src="assets/images/diversity.svg"/>
         <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='100px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xmlSpace='preserve' xmlnsXlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
           <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
           <path class='deco-layer deco-layer--2' d='M-35.667,44.628c0,0,42.91-34.463,87.51-14.191c77.31,35.141,113.304-1.952,146.639-4.729&#x000A;	c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z' fill='#FFFFFF' opacity='0.6'></path>
@@ -519,7 +519,7 @@ function prizes(){
         </svg>
       </div>
       <div class="third-prize">
-      <h2>2nd Runners Up</h2>
+      <h2>Diversity</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px"}}>
         <li class='pricing-feature'>A cash prize of Rs. 500 /-</li>
         <li class='pricing-feature'>3 months free hosting.</li>
@@ -540,7 +540,7 @@ function prizes(){
       </div>
       <div>
         <div class="first-prize">
-      <h2>Winners</h2>
+      <h2>Winner</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px", paddingBottom:"80px"}}>
         <li class='pricing-feature'>A cash prize of Rs. 1,500 /-</li>
         <li class='pricing-feature'>12 months free hosting</li>
@@ -560,7 +560,7 @@ function prizes(){
         </svg>
       </div>
       <div class="second-prize">
-      <h2>Runners Up</h2>
+      <h2>Runner Up</h2>
       <ul class='pricing-feature-list' style={{paddingLeft:"20px", paddingRight:"20px"}}>
         <li class='pricing-feature'>A cash prize of Rs. 1,000 /-</li>
         <li class='pricing-feature'>6 months free hosting</li>
@@ -578,8 +578,8 @@ function prizes(){
   <h3 style={{color:"#fff", textAlign:"center"}}>Code Naari</h3>
   <div style={{paddingTop:"3%"}} class='pricing pricing-palden'>
     <div  class='pricing-item'>
-      <div style={{background:"rgb(121 85 72)"}} class='pricing-deco'>
-      <img className="medalImg" alt="medal1"  src="assets/images/3rd.svg"/>
+      <div style={{background:"rgb(148 39 147)"}} class='pricing-deco'>
+      <img className="medalImg" alt="medal1"  src="assets/images/diversity.svg"/>
         <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='100px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xmlSpace='preserve' xmlnsXlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
           <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
           <path class='deco-layer deco-layer--2' d='M-35.667,44.628c0,0,42.91-34.463,87.51-14.191c77.31,35.141,113.304-1.952,146.639-4.729&#x000A;	c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z' fill='#FFFFFF' opacity='0.6'></path>
@@ -587,7 +587,7 @@ function prizes(){
           <path class='deco-layer deco-layer--4' d='M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428&#x000A;	c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z' fill='#FFFFFF'></path>
         </svg>
       </div>
-      <h2>second-prize Runners Up</h2>
+      <h2>second-prize Runner Up</h2>
       <ul class='pricing-feature-list'>
         <li class='pricing-feature'>1 GB of space</li>
         <li class='pricing-feature'>Support at $25/hour</li>
@@ -606,7 +606,7 @@ function prizes(){
         </svg>
       </div>
       <div>
-      <h2>Winners</h2>
+      <h2>Winner</h2>
       <ul class='pricing-feature-list'>
         <li class='pricing-feature'>5 GB of space</li>
         <li class='pricing-feature'>Support at $5/hour</li>
@@ -624,7 +624,7 @@ function prizes(){
           <path class='deco-layer deco-layer--4' d='M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428&#x000A;	c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z' fill='#FFFFFF'></path>
         </svg>
       </div>
-      <h2>Runners Up</h2>
+      <h2>Runner Up</h2>
       <ul class='pricing-feature-list'>
         <li class='pricing-feature'>10 GB of space</li>
         <li class='pricing-feature'>Support at $5/hour</li>

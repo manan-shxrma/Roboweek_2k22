@@ -14,6 +14,8 @@ function portfolio(){
                         <div data-aos="fade-right" className="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
                           <h6>Past Sponsors</h6>
                           <h4>Past Sponsors for <em>Roboweek</em></h4>  
+                          <div className="line-dec"></div>
+
                         </div>
                       </div>
                     </div>

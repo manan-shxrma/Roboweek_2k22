@@ -1,8 +1,8 @@
 import React from "react"
 import Topsection2 from "./topsection2"
-import Aboutsection from "./aboutsection";
+import Aboutsection1 from "./aboutsection1";
 import Timeline3 from "./Timeline3";
-import {navItems,socialMedia,} from '../js/navFootData';
+import {navItems1,socialMedia,} from '../js/navFootData';
 import Sponsors from "./sponsors";
 import Aos from 'aos';
 import 'aos/dist/aos.css'
@@ -92,7 +92,7 @@ class Roboweek2 extends React.Component {
                         <div id="addNavLogo"></div>
                         <div className="nav-comps">
                             <ul>
-                                {navItems.map((item, index) => {
+                                {navItems1.map((item, index) => {
                                     return (<>
                                         <li key={index} className={ item.title.toLowerCase() === this.state.page && "nav-active" }><a href={item.url}>{item.title}</a></li>
                                </> )
@@ -105,7 +105,7 @@ class Roboweek2 extends React.Component {
                       }
                     
                     <Topsection2 />
-                    <Aboutsection />
+                    <Aboutsection1 />
                     <Hackathon />
                     <Competitions />
                     <Techtalks />
@@ -115,7 +115,7 @@ class Roboweek2 extends React.Component {
                     <Sponsors />
                     <Blog />  
                     <Contact />
-                    <Faq />
+                    {/* <Faq /> */}
                     
                                
 

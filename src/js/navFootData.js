@@ -25,6 +25,33 @@ export const navItems = [
     },
     
 ]
+export const navItems1 = [
+    {
+        title: "Home",
+        url: "/roboweek-2022",
+    },
+    {
+        title: "Highlights",
+        url: "/roboweek-2022",
+    },
+    {
+        title: "Events",
+        url: "/roboweek-2022",
+    },
+    {
+        title: "Timeline",
+        url: "/roboweek-2022",
+    },
+    {
+        title: "Prizes",
+        url: "/roboweek-2022"
+    },
+    {
+        title: "Contact Us",
+        url: "/roboweek-2022",
+    },
+    
+]
 
 export const socialMedia = [
     {

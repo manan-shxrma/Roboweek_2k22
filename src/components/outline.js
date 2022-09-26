@@ -10,7 +10,7 @@ import Blog from "./blog"
 import Contact from "./contactus"
 import Hackathon from "./hackathon"
 import Competitions from "./competitions"
-import Funevents from "./funevents"
+import Funevents1 from "./funevents1"
 import Techtalks from "./techtalks"
 import Faq from "./Faq";
 import '../../src/App.css'
@@ -114,8 +114,8 @@ class Outline extends React.Component {
                     {/* <Hackathon /> */}
                     {/* <Competitions /> */}
                     {/* <Techtalks />  */}
-                    {/* <Funevents /> */}
                     <Timeline />
+                    <Funevents1 />
                     {/* <Prizes /> */}
                     <Sponsors />
                     <Blog />  
