@@ -23,7 +23,6 @@ export const navItems = [
         title: "Contact Us",
         url: "/#contact",
     },
-    
 ]
 export const navItems1 = [
     {
@@ -74,5 +73,27 @@ export const socialMedia = [
         socialLink: "https://www.facebook.com/robo.soc.nith/",
         socialIcon: "fa fa-facebook",
     },
+]
 
+export const navItems2 = [
+    {
+        title: "Home",
+        url: "/#home",
+    },
+    {
+        title: "About us",
+        url: "/#about",
+    },
+    {
+        title: "Events",
+        url: "/#services",
+    },
+    {
+        title: "Timeline",
+        url: "/#timeline",
+    },
+    {
+        title: "Contact Us",
+        url: "/#contact",
+    },
 ]
